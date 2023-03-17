@@ -1,0 +1,537 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "font/cs.png"
+          ],
+          "srcs": [
+            "font/cs.png"
+          ]
+        },
+        {
+          "name": [
+            "font/cs.xml"
+          ],
+          "srcs": [
+            "font/cs.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/en.png"
+          ],
+          "srcs": [
+            "font/en.png"
+          ]
+        },
+        {
+          "name": [
+            "font/en.xml"
+          ],
+          "srcs": [
+            "font/en.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/id.xml"
+          ],
+          "srcs": [
+            "font/id.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/jp.png"
+          ],
+          "srcs": [
+            "font/jp.png"
+          ]
+        },
+        {
+          "name": [
+            "font/jp.xml"
+          ],
+          "srcs": [
+            "font/jp.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/kh.png"
+          ],
+          "srcs": [
+            "font/kh.png"
+          ]
+        },
+        {
+          "name": [
+            "font/kh.xml"
+          ],
+          "srcs": [
+            "font/kh.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/kr.png"
+          ],
+          "srcs": [
+            "font/kr.png"
+          ]
+        },
+        {
+          "name": [
+            "font/kr.xml"
+          ],
+          "srcs": [
+            "font/kr.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/th.png"
+          ],
+          "srcs": [
+            "font/th.png"
+          ]
+        },
+        {
+          "name": [
+            "font/th.xml"
+          ],
+          "srcs": [
+            "font/th.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/vn.png"
+          ],
+          "srcs": [
+            "font/vn.png"
+          ]
+        },
+        {
+          "name": [
+            "font/vn.xml"
+          ],
+          "srcs": [
+            "font/vn.xml"
+          ]
+        },
+        {
+          "name": [
+            "src/betPanel/type_1.json"
+          ],
+          "srcs": [
+            "src/betPanel/type_1.json"
+          ]
+        },
+        {
+          "name": [
+            "src/betPanel/type_1.png"
+          ],
+          "srcs": [
+            "src/betPanel/type_1.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-balance.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-balance.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-info.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-info.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-lobby.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-lobby.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-sound-off.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-sound-off.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-sound-on.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-sound-on.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-time.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-time.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-total-bet.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-total-bet.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-username.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-username.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/item/icon-win.png"
+          ],
+          "srcs": [
+            "src/icons/item/icon-win.png"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/type_1.json"
+          ],
+          "srcs": [
+            "src/icons/type_1.json"
+          ]
+        },
+        {
+          "name": [
+            "src/icons/type_1.png"
+          ],
+          "srcs": [
+            "src/icons/type_1.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/_.tps"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/_.tps"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/betpanel-bg.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/betpanel-bg.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/btneffect.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/btneffect.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/icon-autospin.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/icon-autospin.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/icon-bet.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/icon-bet.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/play.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/play.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/skip.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/skip.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/spin.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/spin.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/spinhint.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/spinhint.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/stop.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/stop.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/win-bg.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/win-bg.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/_.tps"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/_.tps"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/icon-info.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/icon-info.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/icon-lobby.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/icon-lobby.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/icon-sound-off.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/icon-sound-off.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/icon-sound-on.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/icon-sound-on.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/menu-fundtransfer-off.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/menu-fundtransfer-off.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/menu-fundtransfer-on.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/menu-fundtransfer-on.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/menu-off.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/menu-off.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/menu-on.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/menu-on.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/menu-playforreal-off.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/menu-playforreal-off.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/icons/type_1/menu-playforreal-on.png"
+          ],
+          "srcs": [
+            "src/resource/icons/type_1/menu-playforreal-on.png"
+          ]
+        },
+        {
+          "name": [
+            "text/default/cs.json"
+          ],
+          "srcs": [
+            "text/default/cs.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/en.json"
+          ],
+          "srcs": [
+            "text/default/en.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/id.json"
+          ],
+          "srcs": [
+            "text/default/id.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/jp.json"
+          ],
+          "srcs": [
+            "text/default/jp.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/kh.json"
+          ],
+          "srcs": [
+            "text/default/kh.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/kr.json"
+          ],
+          "srcs": [
+            "text/default/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/th.json"
+          ],
+          "srcs": [
+            "text/default/th.json"
+          ]
+        },
+        {
+          "name": [
+            "text/default/vn.json"
+          ],
+          "srcs": [
+            "text/default/vn.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/cs.json"
+          ],
+          "srcs": [
+            "text/fr/cs.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/en.json"
+          ],
+          "srcs": [
+            "text/fr/en.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/id.json"
+          ],
+          "srcs": [
+            "text/fr/id.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/jp.json"
+          ],
+          "srcs": [
+            "text/fr/jp.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/kh.json"
+          ],
+          "srcs": [
+            "text/fr/kh.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/kr.json"
+          ],
+          "srcs": [
+            "text/fr/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/th.json"
+          ],
+          "srcs": [
+            "text/fr/th.json"
+          ]
+        },
+        {
+          "name": [
+            "text/fr/vn.json"
+          ],
+          "srcs": [
+            "text/fr/vn.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
