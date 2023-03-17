@@ -1,0 +1,44 @@
+.menu-mod {
+    position: absolute;
+    background-color: #30303C;
+    width: 80%;
+    padding: 0 10%;
+    bottom: 2.8rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    &.open {
+        transition-duration: 300ms;
+        transform: translateY(0);
+    }
+    &.close {
+        transition-duration: 300ms;
+        transform: translateY(11.575rem);
+    }
+    .list {
+        padding: 2.5rem 0;
+        .item {
+            display: inline-block;
+            text-align: center;
+            .icon {
+                width: 1.5rem;
+                height: 1.5rem;
+                &.paytable {
+                    width: 0.75rem;
+                    background-image: url('../../assets/src/icons/item/icon-info.png');
+                }
+                &.sound-on {
+                    background-image: url('../../assets/src/icons/item/icon-sound-on.png');
+                }
+                &.sound-off {
+                    background-image: url('../../assets/src/icons/item/icon-sound-off.png');
+                }
+                &.lobby {
+                    background-image: url('../../assets/src/icons/item/icon-lobby.png');
+                }
+            }
+            .title {
+                margin-top: 0.75rem;    
+                color: aliceblue;
+            }
+        }
+    }
+}

@@ -1,0 +1,399 @@
+{"frames": {
+
+"QueenBee_Symbol5_HoneyPot_00.png":
+{
+	"frame": {"x":155,"y":434,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_01.png":
+{
+	"frame": {"x":310,"y":290,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_02.png":
+{
+	"frame": {"x":464,"y":146,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_03.png":
+{
+	"frame": {"x":619,"y":2,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_04.png":
+{
+	"frame": {"x":2,"y":722,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_05.png":
+{
+	"frame": {"x":155,"y":578,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_06.png":
+{
+	"frame": {"x":307,"y":434,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_07.png":
+{
+	"frame": {"x":462,"y":290,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_08.png":
+{
+	"frame": {"x":616,"y":146,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_09.png":
+{
+	"frame": {"x":771,"y":2,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_10.png":
+{
+	"frame": {"x":2,"y":866,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_11.png":
+{
+	"frame": {"x":2,"y":1010,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_12.png":
+{
+	"frame": {"x":154,"y":722,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_13.png":
+{
+	"frame": {"x":307,"y":578,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_14.png":
+{
+	"frame": {"x":459,"y":434,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_15.png":
+{
+	"frame": {"x":614,"y":290,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_16.png":
+{
+	"frame": {"x":768,"y":146,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_17.png":
+{
+	"frame": {"x":154,"y":866,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_18.png":
+{
+	"frame": {"x":154,"y":1010,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_19.png":
+{
+	"frame": {"x":306,"y":722,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_20.png":
+{
+	"frame": {"x":459,"y":578,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_21.png":
+{
+	"frame": {"x":611,"y":434,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_22.png":
+{
+	"frame": {"x":766,"y":290,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_23.png":
+{
+	"frame": {"x":306,"y":866,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_24.png":
+{
+	"frame": {"x":306,"y":1010,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_25.png":
+{
+	"frame": {"x":458,"y":722,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_26.png":
+{
+	"frame": {"x":611,"y":578,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_27.png":
+{
+	"frame": {"x":763,"y":434,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_28.png":
+{
+	"frame": {"x":458,"y":866,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_29.png":
+{
+	"frame": {"x":458,"y":1010,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_30.png":
+{
+	"frame": {"x":610,"y":722,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_31.png":
+{
+	"frame": {"x":763,"y":578,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_32.png":
+{
+	"frame": {"x":610,"y":866,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_33.png":
+{
+	"frame": {"x":610,"y":1010,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_34.png":
+{
+	"frame": {"x":762,"y":722,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_35.png":
+{
+	"frame": {"x":762,"y":866,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_36.png":
+{
+	"frame": {"x":762,"y":1010,"w":149,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":149,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_37.png":
+{
+	"frame": {"x":2,"y":434,"w":150,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":24,"w":150,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_38.png":
+{
+	"frame": {"x":157,"y":290,"w":150,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":24,"w":150,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_39.png":
+{
+	"frame": {"x":311,"y":146,"w":150,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":24,"w":150,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_40.png":
+{
+	"frame": {"x":466,"y":2,"w":150,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":24,"w":150,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_41.png":
+{
+	"frame": {"x":2,"y":578,"w":150,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":24,"w":150,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_42.png":
+{
+	"frame": {"x":157,"y":146,"w":151,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":151,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_43.png":
+{
+	"frame": {"x":312,"y":2,"w":151,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":151,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_44.png":
+{
+	"frame": {"x":2,"y":2,"w":152,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":152,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_45.png":
+{
+	"frame": {"x":2,"y":146,"w":152,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":152,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_46.png":
+{
+	"frame": {"x":157,"y":2,"w":152,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":152,"h":141},
+	"sourceSize": {"w":197,"h":189}
+},
+"QueenBee_Symbol5_HoneyPot_47.png":
+{
+	"frame": {"x":2,"y":290,"w":152,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":24,"w":152,"h":141},
+	"sourceSize": {"w":197,"h":189}
+}},
+"animations": {
+	"QueenBee_Symbol5_HoneyPot": ["QueenBee_Symbol5_HoneyPot_00.png","QueenBee_Symbol5_HoneyPot_01.png","QueenBee_Symbol5_HoneyPot_02.png","QueenBee_Symbol5_HoneyPot_03.png","QueenBee_Symbol5_HoneyPot_04.png","QueenBee_Symbol5_HoneyPot_05.png","QueenBee_Symbol5_HoneyPot_06.png","QueenBee_Symbol5_HoneyPot_07.png","QueenBee_Symbol5_HoneyPot_08.png","QueenBee_Symbol5_HoneyPot_09.png","QueenBee_Symbol5_HoneyPot_10.png","QueenBee_Symbol5_HoneyPot_11.png","QueenBee_Symbol5_HoneyPot_12.png","QueenBee_Symbol5_HoneyPot_13.png","QueenBee_Symbol5_HoneyPot_14.png","QueenBee_Symbol5_HoneyPot_15.png","QueenBee_Symbol5_HoneyPot_16.png","QueenBee_Symbol5_HoneyPot_17.png","QueenBee_Symbol5_HoneyPot_18.png","QueenBee_Symbol5_HoneyPot_19.png","QueenBee_Symbol5_HoneyPot_20.png","QueenBee_Symbol5_HoneyPot_21.png","QueenBee_Symbol5_HoneyPot_22.png","QueenBee_Symbol5_HoneyPot_23.png","QueenBee_Symbol5_HoneyPot_24.png","QueenBee_Symbol5_HoneyPot_25.png","QueenBee_Symbol5_HoneyPot_26.png","QueenBee_Symbol5_HoneyPot_27.png","QueenBee_Symbol5_HoneyPot_28.png","QueenBee_Symbol5_HoneyPot_29.png","QueenBee_Symbol5_HoneyPot_30.png","QueenBee_Symbol5_HoneyPot_31.png","QueenBee_Symbol5_HoneyPot_32.png","QueenBee_Symbol5_HoneyPot_33.png","QueenBee_Symbol5_HoneyPot_34.png","QueenBee_Symbol5_HoneyPot_35.png","QueenBee_Symbol5_HoneyPot_36.png","QueenBee_Symbol5_HoneyPot_37.png","QueenBee_Symbol5_HoneyPot_38.png","QueenBee_Symbol5_HoneyPot_39.png","QueenBee_Symbol5_HoneyPot_40.png","QueenBee_Symbol5_HoneyPot_41.png","QueenBee_Symbol5_HoneyPot_42.png","QueenBee_Symbol5_HoneyPot_43.png","QueenBee_Symbol5_HoneyPot_44.png","QueenBee_Symbol5_HoneyPot_45.png","QueenBee_Symbol5_HoneyPot_46.png","QueenBee_Symbol5_HoneyPot_47.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "10.png",
+	"format": "RGBA8888",
+	"size": {"w":922,"h":1153},
+	"scale": "0.35",
+	"smartupdate": "$TexturePacker:SmartUpdate:e11686348dbce33f3d57df66038a2c54:f6a8023a44877e0be33e77d90fc75ab6:e2c9be1b49d03cc38aafeff96da146a7$"
+}
+}

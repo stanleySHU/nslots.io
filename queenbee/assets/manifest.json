@@ -1,0 +1,1009 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "mini/bg-game.jpg"
+          ],
+          "srcs": [
+            "mini/bg-game.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mini/en.json"
+          ],
+          "srcs": [
+            "mini/en.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/en.png"
+          ],
+          "srcs": [
+            "mini/en.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/cs.json"
+          ],
+          "srcs": [
+            "mini/lang/cs.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/cs.png"
+          ],
+          "srcs": [
+            "mini/lang/cs.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/en.json"
+          ],
+          "srcs": [
+            "mini/lang/en.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/en.png"
+          ],
+          "srcs": [
+            "mini/lang/en.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/id.json"
+          ],
+          "srcs": [
+            "mini/lang/id.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/id.png"
+          ],
+          "srcs": [
+            "mini/lang/id.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/jp.json"
+          ],
+          "srcs": [
+            "mini/lang/jp.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/jp.png"
+          ],
+          "srcs": [
+            "mini/lang/jp.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/kh.json"
+          ],
+          "srcs": [
+            "mini/lang/kh.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/kh.png"
+          ],
+          "srcs": [
+            "mini/lang/kh.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/kr.json"
+          ],
+          "srcs": [
+            "mini/lang/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/kr.png"
+          ],
+          "srcs": [
+            "mini/lang/kr.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/th.json"
+          ],
+          "srcs": [
+            "mini/lang/th.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/th.png"
+          ],
+          "srcs": [
+            "mini/lang/th.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/vn.json"
+          ],
+          "srcs": [
+            "mini/lang/vn.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/lang/vn.png"
+          ],
+          "srcs": [
+            "mini/lang/vn.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/loading.jpg"
+          ],
+          "srcs": [
+            "mini/loading.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/0.json"
+          ],
+          "srcs": [
+            "mini/symbols/0.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/0.png"
+          ],
+          "srcs": [
+            "mini/symbols/0.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/1.json"
+          ],
+          "srcs": [
+            "mini/symbols/1.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/1.png"
+          ],
+          "srcs": [
+            "mini/symbols/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/10.json"
+          ],
+          "srcs": [
+            "mini/symbols/10.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/10.png"
+          ],
+          "srcs": [
+            "mini/symbols/10.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/11.json"
+          ],
+          "srcs": [
+            "mini/symbols/11.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/11.png"
+          ],
+          "srcs": [
+            "mini/symbols/11.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/2.json"
+          ],
+          "srcs": [
+            "mini/symbols/2.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/2.png"
+          ],
+          "srcs": [
+            "mini/symbols/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/3.json"
+          ],
+          "srcs": [
+            "mini/symbols/3.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/3.png"
+          ],
+          "srcs": [
+            "mini/symbols/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/4.json"
+          ],
+          "srcs": [
+            "mini/symbols/4.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/4.png"
+          ],
+          "srcs": [
+            "mini/symbols/4.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/5.json"
+          ],
+          "srcs": [
+            "mini/symbols/5.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/5.png"
+          ],
+          "srcs": [
+            "mini/symbols/5.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/6.json"
+          ],
+          "srcs": [
+            "mini/symbols/6.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/6.png"
+          ],
+          "srcs": [
+            "mini/symbols/6.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/7.json"
+          ],
+          "srcs": [
+            "mini/symbols/7.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/7.png"
+          ],
+          "srcs": [
+            "mini/symbols/7.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/8.json"
+          ],
+          "srcs": [
+            "mini/symbols/8.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/8.png"
+          ],
+          "srcs": [
+            "mini/symbols/8.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/9.json"
+          ],
+          "srcs": [
+            "mini/symbols/9.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/9.png"
+          ],
+          "srcs": [
+            "mini/symbols/9.png"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/symbol.jpg"
+          ],
+          "srcs": [
+            "mini/symbols/symbol.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/symbol.json"
+          ],
+          "srcs": [
+            "mini/symbols/symbol.json"
+          ]
+        },
+        {
+          "name": [
+            "mini/symbols/symbol.png"
+          ],
+          "srcs": [
+            "mini/symbols/symbol.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/bg-game.jpg"
+          ],
+          "srcs": [
+            "mobile/bg-game.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/1.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/2.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/3.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/1.png"
+          ],
+          "srcs": [
+            "mobile/info/en/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/2.png"
+          ],
+          "srcs": [
+            "mobile/info/en/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/3.png"
+          ],
+          "srcs": [
+            "mobile/info/en/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/1.png"
+          ],
+          "srcs": [
+            "mobile/info/id/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/2.png"
+          ],
+          "srcs": [
+            "mobile/info/id/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/3.png"
+          ],
+          "srcs": [
+            "mobile/info/id/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/1.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/2.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/3.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/1.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/2.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/3.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/1.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/2.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/3.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/1.png"
+          ],
+          "srcs": [
+            "mobile/info/th/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/2.png"
+          ],
+          "srcs": [
+            "mobile/info/th/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/3.png"
+          ],
+          "srcs": [
+            "mobile/info/th/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/1.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/2.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/3.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/cs.json"
+          ],
+          "srcs": [
+            "mobile/lang/cs.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/cs.png"
+          ],
+          "srcs": [
+            "mobile/lang/cs.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/en.json"
+          ],
+          "srcs": [
+            "mobile/lang/en.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/en.png"
+          ],
+          "srcs": [
+            "mobile/lang/en.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/id.json"
+          ],
+          "srcs": [
+            "mobile/lang/id.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/jp.json"
+          ],
+          "srcs": [
+            "mobile/lang/jp.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/jp.png"
+          ],
+          "srcs": [
+            "mobile/lang/jp.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kh.json"
+          ],
+          "srcs": [
+            "mobile/lang/kh.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kr.json"
+          ],
+          "srcs": [
+            "mobile/lang/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/th.json"
+          ],
+          "srcs": [
+            "mobile/lang/th.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/vn.json"
+          ],
+          "srcs": [
+            "mobile/lang/vn.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/loadingcs.jpg"
+          ],
+          "srcs": [
+            "mobile/loadingcs.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/loadingen.jpg"
+          ],
+          "srcs": [
+            "mobile/loadingen.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/loadingjp.jpg"
+          ],
+          "srcs": [
+            "mobile/loadingjp.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/0.json"
+          ],
+          "srcs": [
+            "mobile/symbols/0.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/0.png"
+          ],
+          "srcs": [
+            "mobile/symbols/0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/1.json"
+          ],
+          "srcs": [
+            "mobile/symbols/1.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/1.png"
+          ],
+          "srcs": [
+            "mobile/symbols/1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/10.json"
+          ],
+          "srcs": [
+            "mobile/symbols/10.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/10.png"
+          ],
+          "srcs": [
+            "mobile/symbols/10.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/11.json"
+          ],
+          "srcs": [
+            "mobile/symbols/11.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/11.png"
+          ],
+          "srcs": [
+            "mobile/symbols/11.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/2.json"
+          ],
+          "srcs": [
+            "mobile/symbols/2.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/2.png"
+          ],
+          "srcs": [
+            "mobile/symbols/2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/3.json"
+          ],
+          "srcs": [
+            "mobile/symbols/3.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/3.png"
+          ],
+          "srcs": [
+            "mobile/symbols/3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/4.json"
+          ],
+          "srcs": [
+            "mobile/symbols/4.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/4.png"
+          ],
+          "srcs": [
+            "mobile/symbols/4.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/5.json"
+          ],
+          "srcs": [
+            "mobile/symbols/5.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/5.png"
+          ],
+          "srcs": [
+            "mobile/symbols/5.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/6.json"
+          ],
+          "srcs": [
+            "mobile/symbols/6.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/6.png"
+          ],
+          "srcs": [
+            "mobile/symbols/6.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/7.json"
+          ],
+          "srcs": [
+            "mobile/symbols/7.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/7.png"
+          ],
+          "srcs": [
+            "mobile/symbols/7.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/8.json"
+          ],
+          "srcs": [
+            "mobile/symbols/8.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/8.png"
+          ],
+          "srcs": [
+            "mobile/symbols/8.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/9.json"
+          ],
+          "srcs": [
+            "mobile/symbols/9.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/9.png"
+          ],
+          "srcs": [
+            "mobile/symbols/9.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/symbol.jpg"
+          ],
+          "srcs": [
+            "mobile/symbols/symbol.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/symbol.json"
+          ],
+          "srcs": [
+            "mobile/symbols/symbol.json"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.ac3"
+          ],
+          "srcs": [
+            "sound/sounds.ac3"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.json"
+          ],
+          "srcs": [
+            "sound/sounds.json"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.m4a"
+          ],
+          "srcs": [
+            "sound/sounds.m4a"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.mp3"
+          ],
+          "srcs": [
+            "sound/sounds.mp3"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.ogg"
+          ],
+          "srcs": [
+            "sound/sounds.ogg"
+          ]
+        },
+        {
+          "name": [
+            "text/cs.json"
+          ],
+          "srcs": [
+            "text/cs.json"
+          ]
+        },
+        {
+          "name": [
+            "text/en.json"
+          ],
+          "srcs": [
+            "text/en.json"
+          ]
+        },
+        {
+          "name": [
+            "text/id.json"
+          ],
+          "srcs": [
+            "text/id.json"
+          ]
+        },
+        {
+          "name": [
+            "text/jp.json"
+          ],
+          "srcs": [
+            "text/jp.json"
+          ]
+        },
+        {
+          "name": [
+            "text/kh.json"
+          ],
+          "srcs": [
+            "text/kh.json"
+          ]
+        },
+        {
+          "name": [
+            "text/kr.json"
+          ],
+          "srcs": [
+            "text/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "text/th.json"
+          ],
+          "srcs": [
+            "text/th.json"
+          ]
+        },
+        {
+          "name": [
+            "text/vn.json"
+          ],
+          "srcs": [
+            "text/vn.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
