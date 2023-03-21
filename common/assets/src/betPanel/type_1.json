@@ -1,5 +1,13 @@
 {"frames": {
 
+"autspincount.png":
+{
+	"frame": {"x":196,"y":2,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":25,"w":50,"h":50},
+	"sourceSize": {"w":100,"h":100}
+},
 "betpanel-bg.png":
 {
 	"frame": {"x":2,"y":2,"w":128,"h":374},
@@ -10,15 +18,15 @@
 },
 "btneffect.png":
 {
-	"frame": {"x":130,"y":694,"w":102,"h":104},
-	"rotated": false,
+	"frame": {"x":130,"y":589,"w":102,"h":104},
+	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":1,"w":102,"h":104},
 	"sourceSize": {"w":106,"h":106}
 },
 "icon-autospin.png":
 {
-	"frame": {"x":196,"y":107,"w":36,"h":36},
+	"frame": {"x":196,"y":55,"w":36,"h":36},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":36},
@@ -26,7 +34,7 @@
 },
 "icon-bet.png":
 {
-	"frame": {"x":196,"y":146,"w":36,"h":33},
+	"frame": {"x":196,"y":94,"w":36,"h":33},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":33},
@@ -58,8 +66,8 @@
 },
 "spinhint.png":
 {
-	"frame": {"x":133,"y":2,"w":102,"h":99},
-	"rotated": true,
+	"frame": {"x":130,"y":694,"w":102,"h":99},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":11,"y":13,"w":102,"h":99},
 	"sourceSize": {"w":125,"h":125}
@@ -72,9 +80,17 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":125},
 	"sourceSize": {"w":125,"h":125}
 },
+"stopautoeffect.png":
+{
+	"frame": {"x":130,"y":796,"w":77,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":12,"w":77,"h":77},
+	"sourceSize": {"w":100,"h":100}
+},
 "win-bg.png":
 {
-	"frame": {"x":133,"y":107,"w":584,"h":60},
+	"frame": {"x":133,"y":2,"w":584,"h":60},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":584,"h":60},
@@ -85,8 +101,8 @@
 	"version": "1.1",
 	"image": "type_1.png",
 	"format": "RGBA8888",
-	"size": {"w":234,"h":890},
+	"size": {"w":248,"h":890},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:d00c5f3ae92d0f41c7fdcd5189700736:dde616f3dbe11f26580e46ec2bbb7591:de1eb8e962f38de078462fd0847dbbcc$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2b18989775e448188fb270d35fac8b89:d733d226ebc4693732d295bd51a043ea:de1eb8e962f38de078462fd0847dbbcc$"
 }
 }

@@ -237,6 +237,14 @@
         },
         {
           "name": [
+            "src/resource/betpanel/type_1/autspincount.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/autspincount.png"
+          ]
+        },
+        {
+          "name": [
             "src/resource/betpanel/type_1/betpanel-bg.png"
           ],
           "srcs": [
@@ -305,6 +313,14 @@
           ],
           "srcs": [
             "src/resource/betpanel/type_1/stop.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/betpanel/type_1/stopautoeffect.png"
+          ],
+          "srcs": [
+            "src/resource/betpanel/type_1/stopautoeffect.png"
           ]
         },
         {
@@ -401,6 +417,198 @@
           ],
           "srcs": [
             "src/resource/icons/type_1/menu-playforreal-on.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/cs/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/cs/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/cs/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/cs/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/cs/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/cs/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/en/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/en/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/en/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/en/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/en/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/en/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/id/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/id/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/id/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/id/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/id/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/id/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/jp/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/jp/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/jp/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/jp/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/jp/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/jp/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/kh/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/kh/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/kh/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/kh/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/kh/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/kh/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/kr/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/kr/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/kr/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/kr/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/kr/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/kr/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/th/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/th/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/th/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/th/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/th/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/th/bettext.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/vn/autospintext-l.png"
+          ],
+          "srcs": [
+            "src/resource/lang/vn/autospintext-l.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/vn/autospintext-p.png"
+          ],
+          "srcs": [
+            "src/resource/lang/vn/autospintext-p.png"
+          ]
+        },
+        {
+          "name": [
+            "src/resource/lang/vn/bettext.png"
+          ],
+          "srcs": [
+            "src/resource/lang/vn/bettext.png"
           ]
         },
         {

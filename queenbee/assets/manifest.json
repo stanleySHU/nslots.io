@@ -389,6 +389,22 @@
         },
         {
           "name": [
+            "mobile/components.json"
+          ],
+          "srcs": [
+            "mobile/components.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components.png"
+          ],
+          "srcs": [
+            "mobile/components.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/info/cs/1.png"
           ],
           "srcs": [
@@ -621,6 +637,14 @@
         },
         {
           "name": [
+            "mobile/lang/id.png"
+          ],
+          "srcs": [
+            "mobile/lang/id.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/lang/jp.json"
           ],
           "srcs": [
@@ -645,10 +669,26 @@
         },
         {
           "name": [
+            "mobile/lang/kh.png"
+          ],
+          "srcs": [
+            "mobile/lang/kh.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/lang/kr.json"
           ],
           "srcs": [
             "mobile/lang/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kr.png"
+          ],
+          "srcs": [
+            "mobile/lang/kr.png"
           ]
         },
         {
@@ -661,10 +701,26 @@
         },
         {
           "name": [
+            "mobile/lang/th.png"
+          ],
+          "srcs": [
+            "mobile/lang/th.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/lang/vn.json"
           ],
           "srcs": [
             "mobile/lang/vn.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/vn.png"
+          ],
+          "srcs": [
+            "mobile/lang/vn.png"
           ]
         },
         {
