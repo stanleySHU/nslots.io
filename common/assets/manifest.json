@@ -125,6 +125,22 @@
         },
         {
           "name": [
+            "font/winnumber.png"
+          ],
+          "srcs": [
+            "font/winnumber.png"
+          ]
+        },
+        {
+          "name": [
+            "font/winnumber.xml"
+          ],
+          "srcs": [
+            "font/winnumber.xml"
+          ]
+        },
+        {
+          "name": [
             "src/betPanel/type_1.json"
           ],
           "srcs": [
