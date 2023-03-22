@@ -405,6 +405,14 @@
         },
         {
           "name": [
+            "mobile/info/cs/0.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/0.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/info/cs/1.png"
           ],
           "srcs": [
@@ -421,10 +429,10 @@
         },
         {
           "name": [
-            "mobile/info/cs/3.png"
+            "mobile/info/en/0.png"
           ],
           "srcs": [
-            "mobile/info/cs/3.png"
+            "mobile/info/en/0.png"
           ]
         },
         {
@@ -445,10 +453,10 @@
         },
         {
           "name": [
-            "mobile/info/en/3.png"
+            "mobile/info/id/0.png"
           ],
           "srcs": [
-            "mobile/info/en/3.png"
+            "mobile/info/id/0.png"
           ]
         },
         {
@@ -469,10 +477,10 @@
         },
         {
           "name": [
-            "mobile/info/id/3.png"
+            "mobile/info/jp/0.png"
           ],
           "srcs": [
-            "mobile/info/id/3.png"
+            "mobile/info/jp/0.png"
           ]
         },
         {
@@ -493,10 +501,10 @@
         },
         {
           "name": [
-            "mobile/info/jp/3.png"
+            "mobile/info/kh/0.png"
           ],
           "srcs": [
-            "mobile/info/jp/3.png"
+            "mobile/info/kh/0.png"
           ]
         },
         {
@@ -517,10 +525,10 @@
         },
         {
           "name": [
-            "mobile/info/kh/3.png"
+            "mobile/info/kr/0.png"
           ],
           "srcs": [
-            "mobile/info/kh/3.png"
+            "mobile/info/kr/0.png"
           ]
         },
         {
@@ -541,10 +549,10 @@
         },
         {
           "name": [
-            "mobile/info/kr/3.png"
+            "mobile/info/th/0.png"
           ],
           "srcs": [
-            "mobile/info/kr/3.png"
+            "mobile/info/th/0.png"
           ]
         },
         {
@@ -565,10 +573,10 @@
         },
         {
           "name": [
-            "mobile/info/th/3.png"
+            "mobile/info/vn/0.png"
           ],
           "srcs": [
-            "mobile/info/th/3.png"
+            "mobile/info/vn/0.png"
           ]
         },
         {
@@ -585,14 +593,6 @@
           ],
           "srcs": [
             "mobile/info/vn/2.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/3.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/3.png"
           ]
         },
         {
@@ -693,6 +693,70 @@
         },
         {
           "name": [
+            "mobile/lang/loadingcs.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingcs.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingen.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingen.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingid.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingid.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingjp.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingjp.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingkh.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingkh.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingkr.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingkr.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingth.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingth.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/loadingvn.jpg"
+          ],
+          "srcs": [
+            "mobile/lang/loadingvn.jpg"
+          ]
+        },
+        {
+          "name": [
             "mobile/lang/th.json"
           ],
           "srcs": [
@@ -721,30 +785,6 @@
           ],
           "srcs": [
             "mobile/lang/vn.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/loadingcs.jpg"
-          ],
-          "srcs": [
-            "mobile/loadingcs.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/loadingen.jpg"
-          ],
-          "srcs": [
-            "mobile/loadingen.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/loadingjp.jpg"
-          ],
-          "srcs": [
-            "mobile/loadingjp.jpg"
           ]
         },
         {

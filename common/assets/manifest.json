@@ -141,6 +141,14 @@
         },
         {
           "name": [
+            "sound/click.mp3"
+          ],
+          "srcs": [
+            "sound/click.mp3"
+          ]
+        },
+        {
+          "name": [
             "src/betPanel/type_1.json"
           ],
           "srcs": [
