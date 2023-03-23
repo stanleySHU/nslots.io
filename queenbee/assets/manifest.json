@@ -5,6 +5,142 @@
       "assets": [
         {
           "name": [
+            "font/cs.png"
+          ],
+          "srcs": [
+            "font/cs.png"
+          ]
+        },
+        {
+          "name": [
+            "font/cs.xml"
+          ],
+          "srcs": [
+            "font/cs.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/en.png"
+          ],
+          "srcs": [
+            "font/en.png"
+          ]
+        },
+        {
+          "name": [
+            "font/en.xml"
+          ],
+          "srcs": [
+            "font/en.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/id.xml"
+          ],
+          "srcs": [
+            "font/id.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/jp.png"
+          ],
+          "srcs": [
+            "font/jp.png"
+          ]
+        },
+        {
+          "name": [
+            "font/jp.xml"
+          ],
+          "srcs": [
+            "font/jp.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/kh.png"
+          ],
+          "srcs": [
+            "font/kh.png"
+          ]
+        },
+        {
+          "name": [
+            "font/kh.xml"
+          ],
+          "srcs": [
+            "font/kh.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/kr.png"
+          ],
+          "srcs": [
+            "font/kr.png"
+          ]
+        },
+        {
+          "name": [
+            "font/kr.xml"
+          ],
+          "srcs": [
+            "font/kr.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/th.png"
+          ],
+          "srcs": [
+            "font/th.png"
+          ]
+        },
+        {
+          "name": [
+            "font/th.xml"
+          ],
+          "srcs": [
+            "font/th.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/vn.png"
+          ],
+          "srcs": [
+            "font/vn.png"
+          ]
+        },
+        {
+          "name": [
+            "font/vn.xml"
+          ],
+          "srcs": [
+            "font/vn.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/winnumber.png"
+          ],
+          "srcs": [
+            "font/winnumber.png"
+          ]
+        },
+        {
+          "name": [
+            "font/winnumber.xml"
+          ],
+          "srcs": [
+            "font/winnumber.xml"
+          ]
+        },
+        {
+          "name": [
             "mini/bg-game.jpg"
           ],
           "srcs": [
