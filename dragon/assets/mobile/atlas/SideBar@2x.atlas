@@ -1,0 +1,313 @@
+
+SideBar_1@2x.png
+size: 492,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmsL
+  rotate: false
+  xy: 422, 165
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+ArmsR
+  rotate: false
+  xy: 219, 14
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+Blink
+  rotate: true
+  xy: 2, 8
+  size: 150, 110
+  orig: 150, 110
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 422, 124
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+Eyeballs
+  rotate: false
+  xy: 302, 153
+  size: 118, 70
+  orig: 118, 70
+  offset: 0, 0
+  index: -1
+Eyeballs_2
+  rotate: false
+  xy: 302, 88
+  size: 113, 63
+  orig: 113, 63
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 295, 225
+  size: 162, 172
+  orig: 162, 172
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 134, 45
+  size: 166, 161
+  orig: 166, 161
+  offset: 0, 0
+  index: -1
+Head_4
+  rotate: false
+  xy: 134, 208
+  size: 159, 189
+  orig: 159, 189
+  offset: 0, 0
+  index: -1
+SideBarHorizontal
+  rotate: false
+  xy: 2, 399
+  size: 475, 130
+  orig: 475, 130
+  offset: 0, 0
+  index: -1
+SideBarVertical
+  rotate: false
+  xy: 2, 160
+  size: 130, 237
+  orig: 130, 237
+  offset: 0, 0
+  index: -1
+WingsL
+  rotate: false
+  xy: 114, 2
+  size: 103, 41
+  orig: 103, 41
+  offset: 0, 0
+  index: -1
+WingsR
+  rotate: false
+  xy: 302, 23
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+
+SideBar_2@2x.png
+size: 1872,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0001
+  rotate: true
+  xy: 2, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0002
+  rotate: true
+  xy: 189, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0003
+  rotate: true
+  xy: 376, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0004
+  rotate: true
+  xy: 563, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0005
+  rotate: true
+  xy: 750, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0006
+  rotate: true
+  xy: 937, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0007
+  rotate: true
+  xy: 1124, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0008
+  rotate: true
+  xy: 1311, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0009
+  rotate: true
+  xy: 1498, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0010
+  rotate: true
+  xy: 1685, 364
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0011
+  rotate: true
+  xy: 2, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0012
+  rotate: true
+  xy: 189, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0013
+  rotate: true
+  xy: 376, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0014
+  rotate: true
+  xy: 563, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0015
+  rotate: true
+  xy: 750, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0016
+  rotate: true
+  xy: 937, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0017
+  rotate: true
+  xy: 1124, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0018
+  rotate: true
+  xy: 1311, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0019
+  rotate: true
+  xy: 1498, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0020
+  rotate: true
+  xy: 1685, 183
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0021
+  rotate: true
+  xy: 2, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0022
+  rotate: true
+  xy: 189, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0023
+  rotate: true
+  xy: 376, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0024
+  rotate: true
+  xy: 563, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0025
+  rotate: true
+  xy: 750, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0026
+  rotate: true
+  xy: 937, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0027
+  rotate: true
+  xy: 1124, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0028
+  rotate: true
+  xy: 1311, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0029
+  rotate: true
+  xy: 1498, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+FireFX/ClusterDragon_winCluster_fx(screenBlend)_0030
+  rotate: true
+  xy: 1685, 2
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1

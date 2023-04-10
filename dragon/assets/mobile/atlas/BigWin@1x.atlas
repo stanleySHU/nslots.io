@@ -1,0 +1,174 @@
+
+BigWin@1x.png
+size: 809,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BW_14_coinPile2
+  rotate: false
+  xy: 0, 0
+  size: 413, 84
+  orig: 413, 84
+  offset: 0, 0
+  index: -1
+BW_16gemRed
+  rotate: true
+  xy: 565, 24
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+BW_17gemGreen
+  rotate: true
+  xy: 703, 11
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+BW_18gemBlue
+  rotate: false
+  xy: 771, 22
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+BW_19gemTeal
+  rotate: true
+  xy: 739, 18
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+BW_Darken
+  rotate: true
+  xy: 185, 89
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+BW_Txt_Amount
+  rotate: true
+  xy: 406, 181
+  size: 230, 55
+  orig: 230, 55
+  offset: 0, 0
+  index: -1
+BW_purpleGlare
+  rotate: true
+  xy: 0, 86
+  size: 325, 183
+  orig: 325, 183
+  offset: 0, 0
+  index: -1
+BW_yellowGlare
+  rotate: true
+  xy: 463, 187
+  size: 224, 112
+  orig: 224, 112
+  offset: 0, 0
+  index: -1
+CN/BW_Txt_BigWin
+  rotate: true
+  xy: 415, 0
+  size: 179, 101
+  orig: 179, 101
+  offset: 0, 0
+  index: -1
+EN/BW_Txt_BigWin
+  rotate: true
+  xy: 315, 113
+  size: 298, 89
+  orig: 298, 89
+  offset: 0, 0
+  index: -1
+FX_Sparkle
+  rotate: false
+  xy: 642, 126
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+YWDra_ArmLf
+  rotate: true
+  xy: 780, 217
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+YWDra_ArmRt
+  rotate: true
+  xy: 780, 253
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+YWDra_Blink
+  rotate: false
+  xy: 706, 56
+  size: 103, 81
+  orig: 103, 81
+  offset: 0, 0
+  index: -1
+YWDra_Body
+  rotate: false
+  xy: 710, 139
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+YWDra_Eyes
+  rotate: false
+  xy: 626, 190
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+YWDra_Head
+  rotate: true
+  xy: 518, 60
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+YWDra_Tail
+  rotate: false
+  xy: 642, 21
+  size: 59, 103
+  orig: 59, 103
+  offset: 0, 0
+  index: -1
+YWDra_WingL
+  rotate: true
+  xy: 577, 188
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+YWDra_WingR
+  rotate: false
+  xy: 518, 2
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+YW_03leavesL
+  rotate: false
+  xy: 577, 240
+  size: 201, 81
+  orig: 201, 81
+  offset: 0, 0
+  index: -1
+YW_04leavesR
+  rotate: false
+  xy: 577, 323
+  size: 215, 88
+  orig: 215, 88
+  offset: 0, 0
+  index: -1
+YW_Panel
+  rotate: true
+  xy: 185, 110
+  size: 301, 128
+  orig: 301, 128
+  offset: 0, 0
+  index: -1

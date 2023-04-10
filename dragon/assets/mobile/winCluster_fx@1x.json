@@ -1,0 +1,255 @@
+{"frames": {
+
+"ClusterDragon_winCluster_fx(screenBlend)_0001.png":
+{
+	"frame": {"x":378,"y":699,"w":176,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":176,"h":180},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0002.png":
+{
+	"frame": {"x":2,"y":873,"w":177,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":177,"h":181},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0003.png":
+{
+	"frame": {"x":186,"y":874,"w":177,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":177,"h":184},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0004.png":
+{
+	"frame": {"x":561,"y":700,"w":176,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":176,"h":184},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0005.png":
+{
+	"frame": {"x":748,"y":700,"w":176,"h":184},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":176,"h":184},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0006.png":
+{
+	"frame": {"x":551,"y":346,"w":172,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":172,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0007.png":
+{
+	"frame": {"x":546,"y":2,"w":167,"h":171},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":14,"w":167,"h":171},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0008.png":
+{
+	"frame": {"x":720,"y":2,"w":167,"h":174},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":11,"w":167,"h":174},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0009.png":
+{
+	"frame": {"x":2,"y":170,"w":168,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":18,"w":168,"h":167},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0010.png":
+{
+	"frame": {"x":2,"y":2,"w":170,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":20,"w":170,"h":165},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0011.png":
+{
+	"frame": {"x":729,"y":172,"w":171,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":14,"w":171,"h":171},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0012.png":
+{
+	"frame": {"x":2,"y":343,"w":171,"h":174},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":11,"w":171,"h":174},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0013.png":
+{
+	"frame": {"x":175,"y":2,"w":166,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":5,"w":166,"h":180},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0014.png":
+{
+	"frame": {"x":358,"y":2,"w":166,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":166,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0015.png":
+{
+	"frame": {"x":173,"y":171,"w":169,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":169,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0016.png":
+{
+	"frame": {"x":361,"y":171,"w":170,"h":182},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":3,"w":170,"h":182},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0017.png":
+{
+	"frame": {"x":378,"y":521,"w":175,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":175,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0018.png":
+{
+	"frame": {"x":373,"y":878,"w":177,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":177,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0019.png":
+{
+	"frame": {"x":561,"y":879,"w":177,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0020.png":
+{
+	"frame": {"x":2,"y":518,"w":174,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0021.png":
+{
+	"frame": {"x":566,"y":522,"w":175,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0022.png":
+{
+	"frame": {"x":754,"y":522,"w":175,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":175,"h":181},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0023.png":
+{
+	"frame": {"x":739,"y":346,"w":173,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":173,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0024.png":
+{
+	"frame": {"x":179,"y":344,"w":171,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":171,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0025.png":
+{
+	"frame": {"x":367,"y":345,"w":171,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":171,"h":181},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0026.png":
+{
+	"frame": {"x":546,"y":172,"w":170,"h":180},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":170,"h":180},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0027.png":
+{
+	"frame": {"x":2,"y":695,"w":175,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":175,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0028.png":
+{
+	"frame": {"x":190,"y":519,"w":174,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":174,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0029.png":
+{
+	"frame": {"x":190,"y":696,"w":175,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":175,"h":185},
+	"sourceSize": {"w":179,"h":185}
+},
+"ClusterDragon_winCluster_fx(screenBlend)_0030.png":
+{
+	"frame": {"x":749,"y":879,"w":177,"h":183},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":177,"h":183},
+	"sourceSize": {"w":179,"h":185}
+}},
+"animations": {
+	"ClusterDragon_winCluster_fx(screenBlend)": ["ClusterDragon_winCluster_fx(screenBlend)_0001.png","ClusterDragon_winCluster_fx(screenBlend)_0002.png","ClusterDragon_winCluster_fx(screenBlend)_0003.png","ClusterDragon_winCluster_fx(screenBlend)_0004.png","ClusterDragon_winCluster_fx(screenBlend)_0005.png","ClusterDragon_winCluster_fx(screenBlend)_0006.png","ClusterDragon_winCluster_fx(screenBlend)_0007.png","ClusterDragon_winCluster_fx(screenBlend)_0008.png","ClusterDragon_winCluster_fx(screenBlend)_0009.png","ClusterDragon_winCluster_fx(screenBlend)_0010.png","ClusterDragon_winCluster_fx(screenBlend)_0011.png","ClusterDragon_winCluster_fx(screenBlend)_0012.png","ClusterDragon_winCluster_fx(screenBlend)_0013.png","ClusterDragon_winCluster_fx(screenBlend)_0014.png","ClusterDragon_winCluster_fx(screenBlend)_0015.png","ClusterDragon_winCluster_fx(screenBlend)_0016.png","ClusterDragon_winCluster_fx(screenBlend)_0017.png","ClusterDragon_winCluster_fx(screenBlend)_0018.png","ClusterDragon_winCluster_fx(screenBlend)_0019.png","ClusterDragon_winCluster_fx(screenBlend)_0020.png","ClusterDragon_winCluster_fx(screenBlend)_0021.png","ClusterDragon_winCluster_fx(screenBlend)_0022.png","ClusterDragon_winCluster_fx(screenBlend)_0023.png","ClusterDragon_winCluster_fx(screenBlend)_0024.png","ClusterDragon_winCluster_fx(screenBlend)_0025.png","ClusterDragon_winCluster_fx(screenBlend)_0026.png","ClusterDragon_winCluster_fx(screenBlend)_0027.png","ClusterDragon_winCluster_fx(screenBlend)_0028.png","ClusterDragon_winCluster_fx(screenBlend)_0029.png","ClusterDragon_winCluster_fx(screenBlend)_0030.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "winCluster_fx@1x.png",
+	"format": "RGBA8888",
+	"size": {"w":937,"h":1058},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2fb6c4d52890ec017fd7be2da662e927:4bf7696c6a8031aa9f29ecef0eac4b30:d1c19b6e89cdc4d66a0136c0d54854e9$"
+}
+}

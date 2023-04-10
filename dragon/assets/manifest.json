@@ -1,0 +1,1409 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "font/cs.png"
+          ],
+          "srcs": [
+            "font/cs.png"
+          ]
+        },
+        {
+          "name": [
+            "font/cs.xml"
+          ],
+          "srcs": [
+            "font/cs.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/en.png"
+          ],
+          "srcs": [
+            "font/en.png"
+          ]
+        },
+        {
+          "name": [
+            "font/en.xml"
+          ],
+          "srcs": [
+            "font/en.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/id.xml"
+          ],
+          "srcs": [
+            "font/id.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/jp.png"
+          ],
+          "srcs": [
+            "font/jp.png"
+          ]
+        },
+        {
+          "name": [
+            "font/jp.xml"
+          ],
+          "srcs": [
+            "font/jp.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/kh.png"
+          ],
+          "srcs": [
+            "font/kh.png"
+          ]
+        },
+        {
+          "name": [
+            "font/kh.xml"
+          ],
+          "srcs": [
+            "font/kh.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/kr.png"
+          ],
+          "srcs": [
+            "font/kr.png"
+          ]
+        },
+        {
+          "name": [
+            "font/kr.xml"
+          ],
+          "srcs": [
+            "font/kr.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/th.png"
+          ],
+          "srcs": [
+            "font/th.png"
+          ]
+        },
+        {
+          "name": [
+            "font/th.xml"
+          ],
+          "srcs": [
+            "font/th.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/vn.png"
+          ],
+          "srcs": [
+            "font/vn.png"
+          ]
+        },
+        {
+          "name": [
+            "font/vn.xml"
+          ],
+          "srcs": [
+            "font/vn.xml"
+          ]
+        },
+        {
+          "name": [
+            "font/winnumber.png"
+          ],
+          "srcs": [
+            "font/winnumber.png"
+          ]
+        },
+        {
+          "name": [
+            "font/winnumber.xml"
+          ],
+          "srcs": [
+            "font/winnumber.xml"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/BigWin@1x.atlas"
+          ],
+          "srcs": [
+            "mobile/atlas/BigWin@1x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/BigWin@1x.json"
+          ],
+          "srcs": [
+            "mobile/atlas/BigWin@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/BigWin@1x.png"
+          ],
+          "srcs": [
+            "mobile/atlas/BigWin@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/BigWin@2x.atlas"
+          ],
+          "srcs": [
+            "mobile/atlas/BigWin@2x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/BigWin@2x.json"
+          ],
+          "srcs": [
+            "mobile/atlas/BigWin@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/BigWin@2x.png"
+          ],
+          "srcs": [
+            "mobile/atlas/BigWin@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar@1x.atlas"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar@1x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar@1x.json"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar@2x.atlas"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar@2x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar@2x.json"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar_1@1x.png"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar_1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar_1@2x.png"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar_1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar_2@1x.png"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar_2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/atlas/SideBar_2@2x.png"
+          ],
+          "srcs": [
+            "mobile/atlas/SideBar_2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/bg-game-l-respin@1x.jpg"
+          ],
+          "srcs": [
+            "mobile/bg-game-l-respin@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/bg-game-l@1x.jpg"
+          ],
+          "srcs": [
+            "mobile/bg-game-l@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/bg-game-p-respin@1x.jpg"
+          ],
+          "srcs": [
+            "mobile/bg-game-p-respin@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/bg-game-p@1x.jpg"
+          ],
+          "srcs": [
+            "mobile/bg-game-p@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components@1x.json"
+          ],
+          "srcs": [
+            "mobile/components@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components@1x.png"
+          ],
+          "srcs": [
+            "mobile/components@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components@2x.json"
+          ],
+          "srcs": [
+            "mobile/components@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components@2x.png"
+          ],
+          "srcs": [
+            "mobile/components@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/expandWild_fireIdle@1x.json"
+          ],
+          "srcs": [
+            "mobile/expandWild_fireIdle@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/expandWild_fireIdle@1x.png"
+          ],
+          "srcs": [
+            "mobile/expandWild_fireIdle@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/expandWild_fireIdle@2x.json"
+          ],
+          "srcs": [
+            "mobile/expandWild_fireIdle@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/expandWild_fireIdle@2x.png"
+          ],
+          "srcs": [
+            "mobile/expandWild_fireIdle@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/cs/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/cs/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/en/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/en/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/en/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/en/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/en/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/en/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/en/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/en/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/en/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/id/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/id/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/id/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/id/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/id/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/id/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/id/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/id/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/id/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/jp/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/jp/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-0.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-1.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-2.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-3.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-0.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-0.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-1.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-1.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-2.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-2.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-3.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-3.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/cs@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/cs@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/cs@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/cs@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/cs@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/cs@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/cs@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/cs@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/en@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/en@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/en@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/en@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/en@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/en@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/en@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/en@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/id@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/id@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/id@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/id@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/id@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/id@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/id@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/id@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/jp@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/jp@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/jp@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/jp@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/jp@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/jp@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/jp@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/jp@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kh@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/kh@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kh@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/kh@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kh@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/kh@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kh@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/kh@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kr@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/kr@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kr@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/kr@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kr@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/kr@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/kr@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/kr@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/th@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/th@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/th@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/th@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/th@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/th@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/th@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/th@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/vn@1x.json"
+          ],
+          "srcs": [
+            "mobile/lang/vn@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/vn@1x.png"
+          ],
+          "srcs": [
+            "mobile/lang/vn@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/vn@2x.json"
+          ],
+          "srcs": [
+            "mobile/lang/vn@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/lang/vn@2x.png"
+          ],
+          "srcs": [
+            "mobile/lang/vn@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/reel_divider_red@1x.json"
+          ],
+          "srcs": [
+            "mobile/reel_divider_red@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/reel_divider_red@1x.png"
+          ],
+          "srcs": [
+            "mobile/reel_divider_red@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/reel_divider_red@2x.json"
+          ],
+          "srcs": [
+            "mobile/reel_divider_red@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/reel_divider_red@2x.png"
+          ],
+          "srcs": [
+            "mobile/reel_divider_red@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/spin_mask@1x.jpg"
+          ],
+          "srcs": [
+            "mobile/spin_mask@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/cluster_allSym@1x.atlas"
+          ],
+          "srcs": [
+            "mobile/symbols/cluster_allSym@1x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/cluster_allSym@1x.json"
+          ],
+          "srcs": [
+            "mobile/symbols/cluster_allSym@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/cluster_allSym@1x.png"
+          ],
+          "srcs": [
+            "mobile/symbols/cluster_allSym@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/cluster_allSym@2x.atlas"
+          ],
+          "srcs": [
+            "mobile/symbols/cluster_allSym@2x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/cluster_allSym@2x.json"
+          ],
+          "srcs": [
+            "mobile/symbols/cluster_allSym@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/cluster_allSym@2x.png"
+          ],
+          "srcs": [
+            "mobile/symbols/cluster_allSym@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/symbol@1x.json"
+          ],
+          "srcs": [
+            "mobile/symbols/symbol@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/symbol@1x.png"
+          ],
+          "srcs": [
+            "mobile/symbols/symbol@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/symbol@2x.json"
+          ],
+          "srcs": [
+            "mobile/symbols/symbol@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/symbols/symbol@2x.png"
+          ],
+          "srcs": [
+            "mobile/symbols/symbol@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/wildDrop_fireBurn@1x.json"
+          ],
+          "srcs": [
+            "mobile/wildDrop_fireBurn@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/wildDrop_fireBurn@1x.png"
+          ],
+          "srcs": [
+            "mobile/wildDrop_fireBurn@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/wildDrop_fireBurn@2x.json"
+          ],
+          "srcs": [
+            "mobile/wildDrop_fireBurn@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/wildDrop_fireBurn@2x.png"
+          ],
+          "srcs": [
+            "mobile/wildDrop_fireBurn@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/winCluster_fx@1x.json"
+          ],
+          "srcs": [
+            "mobile/winCluster_fx@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/winCluster_fx@1x.png"
+          ],
+          "srcs": [
+            "mobile/winCluster_fx@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/winCluster_fx@2x.json"
+          ],
+          "srcs": [
+            "mobile/winCluster_fx@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/winCluster_fx@2x.png"
+          ],
+          "srcs": [
+            "mobile/winCluster_fx@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.ac3"
+          ],
+          "srcs": [
+            "sound/sounds.ac3"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.json"
+          ],
+          "srcs": [
+            "sound/sounds.json"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.m4a"
+          ],
+          "srcs": [
+            "sound/sounds.m4a"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.mp3"
+          ],
+          "srcs": [
+            "sound/sounds.mp3"
+          ]
+        },
+        {
+          "name": [
+            "sound/sounds.ogg"
+          ],
+          "srcs": [
+            "sound/sounds.ogg"
+          ]
+        },
+        {
+          "name": [
+            "text/cs.json"
+          ],
+          "srcs": [
+            "text/cs.json"
+          ]
+        },
+        {
+          "name": [
+            "text/en.json"
+          ],
+          "srcs": [
+            "text/en.json"
+          ]
+        },
+        {
+          "name": [
+            "text/id.json"
+          ],
+          "srcs": [
+            "text/id.json"
+          ]
+        },
+        {
+          "name": [
+            "text/jp.json"
+          ],
+          "srcs": [
+            "text/jp.json"
+          ]
+        },
+        {
+          "name": [
+            "text/kh.json"
+          ],
+          "srcs": [
+            "text/kh.json"
+          ]
+        },
+        {
+          "name": [
+            "text/kr.json"
+          ],
+          "srcs": [
+            "text/kr.json"
+          ]
+        },
+        {
+          "name": [
+            "text/th.json"
+          ],
+          "srcs": [
+            "text/th.json"
+          ]
+        },
+        {
+          "name": [
+            "text/vn.json"
+          ],
+          "srcs": [
+            "text/vn.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
