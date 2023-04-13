@@ -18,7 +18,7 @@
 },
 "callout-2.png":
 {
-	"frame": {"x":847,"y":86,"w":609,"h":82},
+	"frame": {"x":652,"y":312,"w":609,"h":82},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":2,"w":609,"h":82},
@@ -26,7 +26,7 @@
 },
 "callout-3.png":
 {
-	"frame": {"x":932,"y":86,"w":542,"h":88},
+	"frame": {"x":737,"y":548,"w":542,"h":88},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":1,"w":542,"h":88},
@@ -34,8 +34,8 @@
 },
 "continue.png":
 {
-	"frame": {"x":2,"y":892,"w":223,"h":67},
-	"rotated": false,
+	"frame": {"x":828,"y":715,"w":223,"h":67},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":67},
 	"sourceSize": {"w":223,"h":67}
@@ -50,7 +50,7 @@
 },
 "loading-2.png":
 {
-	"frame": {"x":627,"y":312,"w":459,"h":217},
+	"frame": {"x":790,"y":86,"w":459,"h":217},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":2,"w":459,"h":217},
@@ -58,15 +58,23 @@
 },
 "loading-3.png":
 {
-	"frame": {"x":2,"y":636,"w":567,"h":253},
+	"frame": {"x":2,"y":889,"w":567,"h":253},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":1,"w":567,"h":253},
 	"sourceSize": {"w":570,"h":256}
 },
+"logo.png":
+{
+	"frame": {"x":2,"y":636,"w":647,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":250},
+	"sourceSize": {"w":647,"h":250}
+},
 "wild-0.png":
 {
-	"frame": {"x":742,"y":774,"w":162,"h":164},
+	"frame": {"x":572,"y":924,"w":162,"h":164},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":164},
@@ -74,7 +82,7 @@
 },
 "wild-1.png":
 {
-	"frame": {"x":572,"y":774,"w":167,"h":164},
+	"frame": {"x":828,"y":548,"w":167,"h":164},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":164},
@@ -85,8 +93,8 @@
 	"version": "1.1",
 	"image": "cs@2x.png",
 	"format": "RGBA8888",
-	"size": {"w":1022,"h":961},
+	"size": {"w":1009,"h":1144},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:a8f69077c28e9e02313a0bad55d5ff60:d364f8bfad096ba9ed961ff0b5196353:fd58e0003cc2093257a309da7a85954f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:3b294247590ee8637319a1ab59f28149:8170ce914cd3531c7b676650cb6ff260:fd58e0003cc2093257a309da7a85954f$"
 }
 }
