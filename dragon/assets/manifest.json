@@ -285,66 +285,50 @@
         },
         {
           "name": [
-            "mobile/components@1x.json"
+            "mobile/components-_default@1x.json"
           ],
           "srcs": [
-            "mobile/components@1x.json"
+            "mobile/components-_default@1x.json"
           ]
         },
         {
           "name": [
-            "mobile/components@1x.png"
+            "mobile/components-_default@1x.png"
           ],
           "srcs": [
-            "mobile/components@1x.png"
+            "mobile/components-_default@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/components@2x.json"
+            "mobile/components-animation1@1x.json"
           ],
           "srcs": [
-            "mobile/components@2x.json"
+            "mobile/components-animation1@1x.json"
           ]
         },
         {
           "name": [
-            "mobile/components@2x.png"
+            "mobile/components-animation1@1x.png"
           ],
           "srcs": [
-            "mobile/components@2x.png"
+            "mobile/components-animation1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/expandWild_fireIdle@1x.json"
+            "mobile/components-common-animation@1x.json"
           ],
           "srcs": [
-            "mobile/expandWild_fireIdle@1x.json"
+            "mobile/components-common-animation@1x.json"
           ]
         },
         {
           "name": [
-            "mobile/expandWild_fireIdle@1x.png"
+            "mobile/components-common-animation@1x.png"
           ],
           "srcs": [
-            "mobile/expandWild_fireIdle@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/expandWild_fireIdle@2x.json"
-          ],
-          "srcs": [
-            "mobile/expandWild_fireIdle@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/expandWild_fireIdle@2x.png"
-          ],
-          "srcs": [
-            "mobile/expandWild_fireIdle@2x.png"
+            "mobile/components-common-animation@1x.png"
           ]
         },
         {
@@ -1117,38 +1101,6 @@
         },
         {
           "name": [
-            "mobile/reel_divider_red@1x.json"
-          ],
-          "srcs": [
-            "mobile/reel_divider_red@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/reel_divider_red@1x.png"
-          ],
-          "srcs": [
-            "mobile/reel_divider_red@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/reel_divider_red@2x.json"
-          ],
-          "srcs": [
-            "mobile/reel_divider_red@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/reel_divider_red@2x.png"
-          ],
-          "srcs": [
-            "mobile/reel_divider_red@2x.png"
-          ]
-        },
-        {
-          "name": [
             "mobile/spin_mask@1x.jpg"
           ],
           "srcs": [
@@ -1233,70 +1185,6 @@
           ],
           "srcs": [
             "mobile/symbols/symbol@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/wildDrop_fireBurn@1x.json"
-          ],
-          "srcs": [
-            "mobile/wildDrop_fireBurn@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/wildDrop_fireBurn@1x.png"
-          ],
-          "srcs": [
-            "mobile/wildDrop_fireBurn@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/wildDrop_fireBurn@2x.json"
-          ],
-          "srcs": [
-            "mobile/wildDrop_fireBurn@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/wildDrop_fireBurn@2x.png"
-          ],
-          "srcs": [
-            "mobile/wildDrop_fireBurn@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/winCluster_fx@1x.json"
-          ],
-          "srcs": [
-            "mobile/winCluster_fx@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/winCluster_fx@1x.png"
-          ],
-          "srcs": [
-            "mobile/winCluster_fx@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/winCluster_fx@2x.json"
-          ],
-          "srcs": [
-            "mobile/winCluster_fx@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/winCluster_fx@2x.png"
-          ],
-          "srcs": [
-            "mobile/winCluster_fx@2x.png"
           ]
         },
         {
