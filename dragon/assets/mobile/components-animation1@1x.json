@@ -928,6 +928,6 @@
 	"size": {"w":2000,"h":1987},
 	"scale": "1",
 	"related_multi_packs": [ "components-_default@1x.json", "components-common-animation@1x.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:03cec04828487f2bf0c2556bf2e1b7e0:a1de921cf431587f928d713b8e6cbc25:f0fd916cfb3b11c958f10bcee8e3189f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:a71ab6e2888862eec36133b858600342:05e2c54fc7a0287f96429f6102fe0036:f0fd916cfb3b11c958f10bcee8e3189f$"
 }
 }
