@@ -5,6 +5,22 @@
       "assets": [
         {
           "name": [
+            "font/bigWinFont@1x.png"
+          ],
+          "srcs": [
+            "font/bigWinFont@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "font/bigWinFont@1x.xml"
+          ],
+          "srcs": [
+            "font/bigWinFont@1x.xml"
+          ]
+        },
+        {
+          "name": [
             "font/cs.png"
           ],
           "srcs": [
@@ -125,18 +141,18 @@
         },
         {
           "name": [
-            "font/winnumber.png"
+            "font/winFont@1x.png"
           ],
           "srcs": [
-            "font/winnumber.png"
+            "font/winFont@1x.png"
           ]
         },
         {
           "name": [
-            "font/winnumber.xml"
+            "font/winFont@1x.xml"
           ],
           "srcs": [
-            "font/winnumber.xml"
+            "font/winFont@1x.xml"
           ]
         },
         {
@@ -333,514 +349,1026 @@
         },
         {
           "name": [
-            "mobile/info/cs/l-0.png"
+            "mobile/info/cs/l-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/cs/l-0.png"
+            "mobile/info/cs/l-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/l-1.png"
+            "mobile/info/cs/l-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/cs/l-1.png"
+            "mobile/info/cs/l-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/l-2.png"
+            "mobile/info/cs/l-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/cs/l-2.png"
+            "mobile/info/cs/l-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/l-3.png"
+            "mobile/info/cs/l-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/cs/l-3.png"
+            "mobile/info/cs/l-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/p-0.png"
+            "mobile/info/cs/l-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/cs/p-0.png"
+            "mobile/info/cs/l-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/p-1.png"
+            "mobile/info/cs/l-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/cs/p-1.png"
+            "mobile/info/cs/l-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/p-2.png"
+            "mobile/info/cs/l-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/cs/p-2.png"
+            "mobile/info/cs/l-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/cs/p-3.png"
+            "mobile/info/cs/l-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/cs/p-3.png"
+            "mobile/info/cs/l-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/l-0.png"
+            "mobile/info/cs/p-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/en/l-0.png"
+            "mobile/info/cs/p-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/l-1.png"
+            "mobile/info/cs/p-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/en/l-1.png"
+            "mobile/info/cs/p-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/l-2.png"
+            "mobile/info/cs/p-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/en/l-2.png"
+            "mobile/info/cs/p-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/l-3.png"
+            "mobile/info/cs/p-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/en/l-3.png"
+            "mobile/info/cs/p-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/p-0.png"
+            "mobile/info/cs/p-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/en/p-0.png"
+            "mobile/info/cs/p-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/p-1.png"
+            "mobile/info/cs/p-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/en/p-1.png"
+            "mobile/info/cs/p-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/p-2.png"
+            "mobile/info/cs/p-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/en/p-2.png"
+            "mobile/info/cs/p-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/en/p-3.png"
+            "mobile/info/cs/p-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/en/p-3.png"
+            "mobile/info/cs/p-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/l-0.png"
+            "mobile/info/en/l-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/id/l-0.png"
+            "mobile/info/en/l-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/l-1.png"
+            "mobile/info/en/l-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/id/l-1.png"
+            "mobile/info/en/l-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/l-2.png"
+            "mobile/info/en/l-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/id/l-2.png"
+            "mobile/info/en/l-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/l-3.png"
+            "mobile/info/en/l-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/id/l-3.png"
+            "mobile/info/en/l-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/p-0.png"
+            "mobile/info/en/l-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/id/p-0.png"
+            "mobile/info/en/l-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/p-1.png"
+            "mobile/info/en/l-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/id/p-1.png"
+            "mobile/info/en/l-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/p-2.png"
+            "mobile/info/en/l-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/id/p-2.png"
+            "mobile/info/en/l-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/id/p-3.png"
+            "mobile/info/en/l-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/id/p-3.png"
+            "mobile/info/en/l-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/l-0.png"
+            "mobile/info/en/p-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/jp/l-0.png"
+            "mobile/info/en/p-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/l-1.png"
+            "mobile/info/en/p-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/jp/l-1.png"
+            "mobile/info/en/p-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/l-2.png"
+            "mobile/info/en/p-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/jp/l-2.png"
+            "mobile/info/en/p-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/l-3.png"
+            "mobile/info/en/p-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/jp/l-3.png"
+            "mobile/info/en/p-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/p-0.png"
+            "mobile/info/en/p-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/jp/p-0.png"
+            "mobile/info/en/p-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/p-1.png"
+            "mobile/info/en/p-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/jp/p-1.png"
+            "mobile/info/en/p-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/p-2.png"
+            "mobile/info/en/p-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/jp/p-2.png"
+            "mobile/info/en/p-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/jp/p-3.png"
+            "mobile/info/en/p-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/jp/p-3.png"
+            "mobile/info/en/p-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/l-0.png"
+            "mobile/info/id/l-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/kh/l-0.png"
+            "mobile/info/id/l-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/l-1.png"
+            "mobile/info/id/l-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/kh/l-1.png"
+            "mobile/info/id/l-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/l-2.png"
+            "mobile/info/id/l-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/kh/l-2.png"
+            "mobile/info/id/l-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/l-3.png"
+            "mobile/info/id/l-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/kh/l-3.png"
+            "mobile/info/id/l-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/p-0.png"
+            "mobile/info/id/l-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/kh/p-0.png"
+            "mobile/info/id/l-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/p-1.png"
+            "mobile/info/id/l-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/kh/p-1.png"
+            "mobile/info/id/l-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/p-2.png"
+            "mobile/info/id/l-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/kh/p-2.png"
+            "mobile/info/id/l-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kh/p-3.png"
+            "mobile/info/id/l-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/kh/p-3.png"
+            "mobile/info/id/l-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/l-0.png"
+            "mobile/info/id/p-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/kr/l-0.png"
+            "mobile/info/id/p-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/l-1.png"
+            "mobile/info/id/p-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/kr/l-1.png"
+            "mobile/info/id/p-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/l-2.png"
+            "mobile/info/id/p-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/kr/l-2.png"
+            "mobile/info/id/p-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/l-3.png"
+            "mobile/info/id/p-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/kr/l-3.png"
+            "mobile/info/id/p-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/p-0.png"
+            "mobile/info/id/p-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/kr/p-0.png"
+            "mobile/info/id/p-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/p-1.png"
+            "mobile/info/id/p-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/kr/p-1.png"
+            "mobile/info/id/p-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/p-2.png"
+            "mobile/info/id/p-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/kr/p-2.png"
+            "mobile/info/id/p-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/kr/p-3.png"
+            "mobile/info/id/p-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/kr/p-3.png"
+            "mobile/info/id/p-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/l-0.png"
+            "mobile/info/jp/l-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/th/l-0.png"
+            "mobile/info/jp/l-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/l-1.png"
+            "mobile/info/jp/l-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/th/l-1.png"
+            "mobile/info/jp/l-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/l-2.png"
+            "mobile/info/jp/l-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/th/l-2.png"
+            "mobile/info/jp/l-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/l-3.png"
+            "mobile/info/jp/l-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/th/l-3.png"
+            "mobile/info/jp/l-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/p-0.png"
+            "mobile/info/jp/l-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/th/p-0.png"
+            "mobile/info/jp/l-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/p-1.png"
+            "mobile/info/jp/l-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/th/p-1.png"
+            "mobile/info/jp/l-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/p-2.png"
+            "mobile/info/jp/l-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/th/p-2.png"
+            "mobile/info/jp/l-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/th/p-3.png"
+            "mobile/info/jp/l-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/th/p-3.png"
+            "mobile/info/jp/l-3@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/l-0.png"
+            "mobile/info/jp/p-0@1x.png"
           ],
           "srcs": [
-            "mobile/info/vn/l-0.png"
+            "mobile/info/jp/p-0@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/l-1.png"
+            "mobile/info/jp/p-0@2x.png"
           ],
           "srcs": [
-            "mobile/info/vn/l-1.png"
+            "mobile/info/jp/p-0@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/l-2.png"
+            "mobile/info/jp/p-1@1x.png"
           ],
           "srcs": [
-            "mobile/info/vn/l-2.png"
+            "mobile/info/jp/p-1@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/l-3.png"
+            "mobile/info/jp/p-1@2x.png"
           ],
           "srcs": [
-            "mobile/info/vn/l-3.png"
+            "mobile/info/jp/p-1@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/p-0.png"
+            "mobile/info/jp/p-2@1x.png"
           ],
           "srcs": [
-            "mobile/info/vn/p-0.png"
+            "mobile/info/jp/p-2@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/p-1.png"
+            "mobile/info/jp/p-2@2x.png"
           ],
           "srcs": [
-            "mobile/info/vn/p-1.png"
+            "mobile/info/jp/p-2@2x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/p-2.png"
+            "mobile/info/jp/p-3@1x.png"
           ],
           "srcs": [
-            "mobile/info/vn/p-2.png"
+            "mobile/info/jp/p-3@1x.png"
           ]
         },
         {
           "name": [
-            "mobile/info/vn/p-3.png"
+            "mobile/info/jp/p-3@2x.png"
           ],
           "srcs": [
-            "mobile/info/vn/p-3.png"
+            "mobile/info/jp/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/l-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kh/p-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kh/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/l-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/kr/p-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/kr/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/l-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/th/p-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/th/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/l-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-0@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-0@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-1@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-1@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-2@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-2@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-3@1x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/info/vn/p-3@2x.png"
+          ],
+          "srcs": [
+            "mobile/info/vn/p-3@2x.png"
           ]
         },
         {
