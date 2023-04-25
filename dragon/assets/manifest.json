@@ -333,6 +333,22 @@
         },
         {
           "name": [
+            "mobile/components-animation2@1x.json"
+          ],
+          "srcs": [
+            "mobile/components-animation2@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-animation2@1x.png"
+          ],
+          "srcs": [
+            "mobile/components-animation2@1x.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/components-common-animation@1x.json"
           ],
           "srcs": [

@@ -287,7 +287,7 @@
 	"format": "RGBA8888",
 	"size": {"w":782,"h":512},
 	"scale": "1",
-	"related_multi_packs": [ "components-_default@1x.json", "components-animation1@1x.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:a71ab6e2888862eec36133b858600342:05e2c54fc7a0287f96429f6102fe0036:f0fd916cfb3b11c958f10bcee8e3189f$"
+	"related_multi_packs": [ "components-_default@1x.json", "components-animation1@1x.json", "components-animation2@1x.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:18b27c857bfeb0d669c37ccd7e024a22:5ae13d880daea662d57229fff526d203:965e3c6dbbc660296afeb23b15475320$"
 }
 }

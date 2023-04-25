@@ -313,7 +313,8 @@
 	"egg_green": ["egg_green_10.png","egg_green_15.png","egg_green_20.png"],
 	"egg_yellow": ["egg_yellow_10.png","egg_yellow_15.png","egg_yellow_20.png"],
 	"ember": ["ember1.png","ember2.png"],
-	"sb_white": ["sb_white_01.png","sb_white_02.png","sb_white_03.png","sb_white_04.png","sb_white_05.png","sb_white_06.png","sb_white_07.png","sb_white_08.png","sb_white_09.png","sb_white_10.png","sb_white_11.png","sb_white_12.png","sb_white_13.png","sb_white_14.png","sb_white_15.png"]
+	"sb_white": ["sb_white_01.png","sb_white_02.png","sb_white_03.png","sb_white_04.png","sb_white_05.png","sb_white_06.png","sb_white_07.png","sb_white_08.png","sb_white_09.png","sb_white_10.png","sb_white_11.png","sb_white_12.png","sb_white_13.png","sb_white_14.png","sb_white_15.png"],
+	"spitFire_fx": ["spitFire_fx_0001.png","spitFire_fx_0002.png","spitFire_fx_0003.png","spitFire_fx_0004.png","spitFire_fx_0005.png","spitFire_fx_0006.png","spitFire_fx_0007.png","spitFire_fx_0008.png","spitFire_fx_0009.png","spitFire_fx_0010.png","spitFire_fx_0011.png","spitFire_fx_0012.png","spitFire_fx_0013.png","spitFire_fx_0014.png","spitFire_fx_0015.png","spitFire_fx_0016.png","spitFire_fx_0017.png","spitFire_fx_0018.png","spitFire_fx_0019.png","spitFire_fx_0020.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -322,7 +323,7 @@
 	"format": "RGBA8888",
 	"size": {"w":1857,"h":966},
 	"scale": "1",
-	"related_multi_packs": [ "components-animation1@1x.json", "components-common-animation@1x.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:a71ab6e2888862eec36133b858600342:05e2c54fc7a0287f96429f6102fe0036:f0fd916cfb3b11c958f10bcee8e3189f$"
+	"related_multi_packs": [ "components-animation1@1x.json", "components-animation2@1x.json", "components-common-animation@1x.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:18b27c857bfeb0d669c37ccd7e024a22:5ae13d880daea662d57229fff526d203:965e3c6dbbc660296afeb23b15475320$"
 }
 }
