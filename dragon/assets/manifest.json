@@ -317,6 +317,22 @@
         },
         {
           "name": [
+            "mobile/components-_default@2x.json"
+          ],
+          "srcs": [
+            "mobile/components-_default@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-_default@2x.png"
+          ],
+          "srcs": [
+            "mobile/components-_default@2x.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/components-animation1@1x.json"
           ],
           "srcs": [
@@ -329,6 +345,22 @@
           ],
           "srcs": [
             "mobile/components-animation1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-animation1@2x.json"
+          ],
+          "srcs": [
+            "mobile/components-animation1@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-animation1@2x.png"
+          ],
+          "srcs": [
+            "mobile/components-animation1@2x.png"
           ]
         },
         {
@@ -349,6 +381,22 @@
         },
         {
           "name": [
+            "mobile/components-animation2@2x.json"
+          ],
+          "srcs": [
+            "mobile/components-animation2@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-animation2@2x.png"
+          ],
+          "srcs": [
+            "mobile/components-animation2@2x.png"
+          ]
+        },
+        {
+          "name": [
             "mobile/components-common-animation@1x.json"
           ],
           "srcs": [
@@ -361,6 +409,22 @@
           ],
           "srcs": [
             "mobile/components-common-animation@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-common-animation@2x.json"
+          ],
+          "srcs": [
+            "mobile/components-common-animation@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "mobile/components-common-animation@2x.png"
+          ],
+          "srcs": [
+            "mobile/components-common-animation@2x.png"
           ]
         },
         {

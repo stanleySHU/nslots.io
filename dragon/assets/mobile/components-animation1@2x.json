@@ -923,11 +923,11 @@
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.1",
-	"image": "components-animation1@1x.png",
+	"image": "components-animation1@2x.png",
 	"format": "RGBA8888",
 	"size": {"w":2000,"h":1987},
 	"scale": "1",
-	"related_multi_packs": [ "components-_default@1x.json", "components-animation2@1x.json", "components-common-animation@1x.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:8e5567541cd8a026c12b3926d6246514:5ae13d880daea662d57229fff526d203:965e3c6dbbc660296afeb23b15475320$"
+	"related_multi_packs": [ "components-_default@2x.json", "components-animation2@2x.json", "components-common-animation@2x.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8da5362121273381acc6533031aa3b55:5ae13d880daea662d57229fff526d203:0a7ad11ee67bbb0cde90c7d3b5ec291a$"
 }
 }
