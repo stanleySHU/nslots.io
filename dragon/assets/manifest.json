@@ -5,6 +5,1598 @@
       "assets": [
         {
           "name": [
+            "compress/atlas/BigWin@1x.atlas"
+          ],
+          "srcs": [
+            "compress/atlas/BigWin@1x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/BigWin@1x.json"
+          ],
+          "srcs": [
+            "compress/atlas/BigWin@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/BigWin@1x.png"
+          ],
+          "srcs": [
+            "compress/atlas/BigWin@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/BigWin@2x.atlas"
+          ],
+          "srcs": [
+            "compress/atlas/BigWin@2x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/BigWin@2x.json"
+          ],
+          "srcs": [
+            "compress/atlas/BigWin@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/BigWin@2x.png"
+          ],
+          "srcs": [
+            "compress/atlas/BigWin@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar@1x.atlas"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar@1x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar@1x.json"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar@2x.atlas"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar@2x.atlas"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar@2x.json"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar_1@1x.png"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar_1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar_1@2x.png"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar_1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar_2@1x.png"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar_2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/atlas/SideBar_2@2x.png"
+          ],
+          "srcs": [
+            "compress/atlas/SideBar_2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/bg-game-l-respin@1x.jpg"
+          ],
+          "srcs": [
+            "compress/bg-game-l-respin@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "compress/bg-game-l@1x.jpg"
+          ],
+          "srcs": [
+            "compress/bg-game-l@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "compress/bg-game-p-respin@1x.jpg"
+          ],
+          "srcs": [
+            "compress/bg-game-p-respin@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "compress/bg-game-p@1x.jpg"
+          ],
+          "srcs": [
+            "compress/bg-game-p@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-_default@1x.json"
+          ],
+          "srcs": [
+            "compress/components-_default@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-_default@1x.png"
+          ],
+          "srcs": [
+            "compress/components-_default@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-_default@2x.json"
+          ],
+          "srcs": [
+            "compress/components-_default@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-_default@2x.png"
+          ],
+          "srcs": [
+            "compress/components-_default@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation1@1x.json"
+          ],
+          "srcs": [
+            "compress/components-animation1@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation1@1x.png"
+          ],
+          "srcs": [
+            "compress/components-animation1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation1@2x.json"
+          ],
+          "srcs": [
+            "compress/components-animation1@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation1@2x.png"
+          ],
+          "srcs": [
+            "compress/components-animation1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation2@1x.json"
+          ],
+          "srcs": [
+            "compress/components-animation2@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation2@1x.png"
+          ],
+          "srcs": [
+            "compress/components-animation2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation2@2x.json"
+          ],
+          "srcs": [
+            "compress/components-animation2@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-animation2@2x.png"
+          ],
+          "srcs": [
+            "compress/components-animation2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-common-animation@1x.json"
+          ],
+          "srcs": [
+            "compress/components-common-animation@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-common-animation@1x.png"
+          ],
+          "srcs": [
+            "compress/components-common-animation@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-common-animation@2x.json"
+          ],
+          "srcs": [
+            "compress/components-common-animation@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/components-common-animation@2x.png"
+          ],
+          "srcs": [
+            "compress/components-common-animation@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/cs/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/cs/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/en/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/en/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/id/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/id/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/jp/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/jp/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kh/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kh/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/kr/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/kr/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/th/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/th/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/l-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/l-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-0@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-0@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-0@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-0@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-1@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-1@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-1@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-1@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-2@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-2@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-2@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-2@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-3@1x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-3@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/info/vn/p-3@2x.png"
+          ],
+          "srcs": [
+            "compress/info/vn/p-3@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/cs@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/cs@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/cs@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/cs@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/cs@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/cs@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/cs@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/cs@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/en@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/en@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/en@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/en@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/en@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/en@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/en@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/en@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/id@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/id@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/id@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/id@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/id@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/id@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/id@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/id@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/jp@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/jp@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/jp@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/jp@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/jp@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/jp@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/jp@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/jp@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kh@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/kh@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kh@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/kh@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kh@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/kh@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kh@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/kh@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kr@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/kr@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kr@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/kr@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kr@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/kr@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/kr@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/kr@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/th@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/th@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/th@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/th@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/th@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/th@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/th@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/th@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/vn@1x.json"
+          ],
+          "srcs": [
+            "compress/lang/vn@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/vn@1x.png"
+          ],
+          "srcs": [
+            "compress/lang/vn@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/vn@2x.json"
+          ],
+          "srcs": [
+            "compress/lang/vn@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/lang/vn@2x.png"
+          ],
+          "srcs": [
+            "compress/lang/vn@2x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/spin_mask@1x.jpg"
+          ],
+          "srcs": [
+            "compress/spin_mask@1x.jpg"
+          ]
+        },
+        {
+          "name": [
+            "compress/symbols/symbol@1x.json"
+          ],
+          "srcs": [
+            "compress/symbols/symbol@1x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/symbols/symbol@1x.png"
+          ],
+          "srcs": [
+            "compress/symbols/symbol@1x.png"
+          ]
+        },
+        {
+          "name": [
+            "compress/symbols/symbol@2x.json"
+          ],
+          "srcs": [
+            "compress/symbols/symbol@2x.json"
+          ]
+        },
+        {
+          "name": [
+            "compress/symbols/symbol@2x.png"
+          ],
+          "srcs": [
+            "compress/symbols/symbol@2x.png"
+          ]
+        },
+        {
+          "name": [
             "font/bigWinFont@1x.png"
           ],
           "srcs": [
@@ -153,1646 +1745,6 @@
           ],
           "srcs": [
             "font/winFont@1x.xml"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/BigWin@1x.atlas"
-          ],
-          "srcs": [
-            "mobile/atlas/BigWin@1x.atlas"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/BigWin@1x.json"
-          ],
-          "srcs": [
-            "mobile/atlas/BigWin@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/BigWin@1x.png"
-          ],
-          "srcs": [
-            "mobile/atlas/BigWin@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/BigWin@2x.atlas"
-          ],
-          "srcs": [
-            "mobile/atlas/BigWin@2x.atlas"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/BigWin@2x.json"
-          ],
-          "srcs": [
-            "mobile/atlas/BigWin@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/BigWin@2x.png"
-          ],
-          "srcs": [
-            "mobile/atlas/BigWin@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar@1x.atlas"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar@1x.atlas"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar@1x.json"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar@2x.atlas"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar@2x.atlas"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar@2x.json"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar_1@1x.png"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar_1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar_1@2x.png"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar_1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar_2@1x.png"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar_2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/atlas/SideBar_2@2x.png"
-          ],
-          "srcs": [
-            "mobile/atlas/SideBar_2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/bg-game-l-respin@1x.jpg"
-          ],
-          "srcs": [
-            "mobile/bg-game-l-respin@1x.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/bg-game-l@1x.jpg"
-          ],
-          "srcs": [
-            "mobile/bg-game-l@1x.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/bg-game-p-respin@1x.jpg"
-          ],
-          "srcs": [
-            "mobile/bg-game-p-respin@1x.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/bg-game-p@1x.jpg"
-          ],
-          "srcs": [
-            "mobile/bg-game-p@1x.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-_default@1x.json"
-          ],
-          "srcs": [
-            "mobile/components-_default@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-_default@1x.png"
-          ],
-          "srcs": [
-            "mobile/components-_default@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-_default@2x.json"
-          ],
-          "srcs": [
-            "mobile/components-_default@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-_default@2x.png"
-          ],
-          "srcs": [
-            "mobile/components-_default@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation1@1x.json"
-          ],
-          "srcs": [
-            "mobile/components-animation1@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation1@1x.png"
-          ],
-          "srcs": [
-            "mobile/components-animation1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation1@2x.json"
-          ],
-          "srcs": [
-            "mobile/components-animation1@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation1@2x.png"
-          ],
-          "srcs": [
-            "mobile/components-animation1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation2@1x.json"
-          ],
-          "srcs": [
-            "mobile/components-animation2@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation2@1x.png"
-          ],
-          "srcs": [
-            "mobile/components-animation2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation2@2x.json"
-          ],
-          "srcs": [
-            "mobile/components-animation2@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-animation2@2x.png"
-          ],
-          "srcs": [
-            "mobile/components-animation2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-common-animation@1x.json"
-          ],
-          "srcs": [
-            "mobile/components-common-animation@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-common-animation@1x.png"
-          ],
-          "srcs": [
-            "mobile/components-common-animation@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-common-animation@2x.json"
-          ],
-          "srcs": [
-            "mobile/components-common-animation@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/components-common-animation@2x.png"
-          ],
-          "srcs": [
-            "mobile/components-common-animation@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/cs/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/cs/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/en/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/en/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/id/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/id/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/jp/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/jp/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kh/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kh/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/kr/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/kr/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/th/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/th/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/l-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/l-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-0@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-0@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-0@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-0@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-1@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-1@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-1@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-1@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-2@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-2@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-2@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-2@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-3@1x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-3@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/info/vn/p-3@2x.png"
-          ],
-          "srcs": [
-            "mobile/info/vn/p-3@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/cs@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/cs@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/cs@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/cs@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/cs@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/cs@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/cs@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/cs@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/en@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/en@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/en@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/en@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/en@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/en@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/en@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/en@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/id@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/id@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/id@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/id@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/id@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/id@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/id@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/id@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/jp@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/jp@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/jp@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/jp@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/jp@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/jp@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/jp@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/jp@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kh@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/kh@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kh@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/kh@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kh@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/kh@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kh@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/kh@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kr@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/kr@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kr@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/kr@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kr@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/kr@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/kr@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/kr@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/th@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/th@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/th@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/th@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/th@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/th@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/th@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/th@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/vn@1x.json"
-          ],
-          "srcs": [
-            "mobile/lang/vn@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/vn@1x.png"
-          ],
-          "srcs": [
-            "mobile/lang/vn@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/vn@2x.json"
-          ],
-          "srcs": [
-            "mobile/lang/vn@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/lang/vn@2x.png"
-          ],
-          "srcs": [
-            "mobile/lang/vn@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/spin_mask@1x.jpg"
-          ],
-          "srcs": [
-            "mobile/spin_mask@1x.jpg"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/cluster_allSym@1x.atlas"
-          ],
-          "srcs": [
-            "mobile/symbols/cluster_allSym@1x.atlas"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/cluster_allSym@1x.json"
-          ],
-          "srcs": [
-            "mobile/symbols/cluster_allSym@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/cluster_allSym@1x.png"
-          ],
-          "srcs": [
-            "mobile/symbols/cluster_allSym@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/cluster_allSym@2x.atlas"
-          ],
-          "srcs": [
-            "mobile/symbols/cluster_allSym@2x.atlas"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/cluster_allSym@2x.json"
-          ],
-          "srcs": [
-            "mobile/symbols/cluster_allSym@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/cluster_allSym@2x.png"
-          ],
-          "srcs": [
-            "mobile/symbols/cluster_allSym@2x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/symbol@1x.json"
-          ],
-          "srcs": [
-            "mobile/symbols/symbol@1x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/symbol@1x.png"
-          ],
-          "srcs": [
-            "mobile/symbols/symbol@1x.png"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/symbol@2x.json"
-          ],
-          "srcs": [
-            "mobile/symbols/symbol@2x.json"
-          ]
-        },
-        {
-          "name": [
-            "mobile/symbols/symbol@2x.png"
-          ],
-          "srcs": [
-            "mobile/symbols/symbol@2x.png"
           ]
         },
         {
