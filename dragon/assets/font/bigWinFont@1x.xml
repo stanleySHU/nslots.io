@@ -7,7 +7,7 @@
   </pages>
   <chars count="12">
   	
-  		<char id="44" x="698" y="1" width="36" height="44" xoffset="0" yoffset="0" xadvance="36" page="0" chnl="15" letter=","/>
+  		<char id="44" x="698" y="1" width="36" height="44" xoffset="0" yoffset="55" xadvance="36" page="0" chnl="15" letter=","/>
   	
   		<char id="48" x="144" y="1" width="83" height="89" xoffset="0" yoffset="0" xadvance="83" page="0" chnl="15" letter="0"/>
   	
@@ -29,7 +29,7 @@
   	
   		<char id="57" x="1" y="1" width="69" height="92" xoffset="0" yoffset="0" xadvance="69" page="0" chnl="15" letter="9"/>
   	
-  		<char id="46" x="698" y="47" width="33" height="31" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15" letter="dot"/>
+  		<char id="46" x="698" y="47" width="33" height="31" xoffset="0" yoffset="50" xadvance="33" page="0" chnl="15" letter="dot"/>
   	
   </chars>
 </font>
