@@ -1,0 +1,55 @@
+
+pt_BG_UIanime.png
+size: 515,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+portraiUI_Lcam03
+  rotate: false
+  xy: 182, 18
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+portraiUI_LcamUp
+  rotate: false
+  xy: 97, 17
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+portraiUI_Lcam_light
+  rotate: true
+  xy: 1, 7
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+portraiUI_Lcam_lightClose
+  rotate: false
+  xy: 262, 23
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+portraiUI_Lcam_sensorClose
+  rotate: false
+  xy: 182, 1
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+portraiUI_Lcam_stand
+  rotate: false
+  xy: 262, 41
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+portraiUI_Rcam_sensor
+  rotate: true
+  xy: 1, 94
+  size: 15, 513
+  orig: 15, 513
+  offset: 0, 0
+  index: -1
