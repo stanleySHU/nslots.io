@@ -1,0 +1,107 @@
+Gear 1.png
+size:2316,2316
+filter:Linear,Linear
+pma:true
+scale:0.5
+Gold Gear/Base Gear/Gold_Gear_01
+bounds:2,2058,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_02
+bounds:2,1800,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_03
+bounds:516,2058,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_04
+bounds:2,1542,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_05
+bounds:516,1800,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_06
+bounds:1030,2058,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_07
+bounds:2,1284,512,256
+offsets:0,0,512,512
+Gold Gear/Base Gear/Gold_Gear_08
+bounds:516,1542,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_01
+bounds:1030,1800,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_02
+bounds:1544,2058,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_03
+bounds:2,1026,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_04
+bounds:516,1284,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_05
+bounds:1030,1542,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_06
+bounds:1544,1800,512,256
+offsets:0,0,512,512
+Gold Gear/Normal Arrows/Gold_Arrows_07
+bounds:2058,1802,512,256
+offsets:0,0,512,512
+rotate:90
+Gold Gear/Normal Arrows/Gold_Arrows_08
+bounds:2,768,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_01
+bounds:516,1026,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_02
+bounds:1030,1284,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_03
+bounds:1544,1542,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_04
+bounds:2,510,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_05
+bounds:516,768,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_06
+bounds:1030,1026,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_07
+bounds:1544,1284,512,256
+offsets:0,0,512,512
+Normal Gear/Base Gear/Nrml_Gear_08
+bounds:2058,1288,512,256
+offsets:0,0,512,512
+rotate:90
+Normal Gear/Glow Arrows/Nrml_GlowArrows_01
+bounds:2,252,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_01
+bounds:516,510,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_02
+bounds:1030,768,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_03
+bounds:1544,1026,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_04
+bounds:516,252,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_05
+bounds:1030,510,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_06
+bounds:1544,768,512,256
+offsets:0,0,512,512
+Normal Gear/Normal Arrows/Nrml_Arrows_07
+bounds:2058,774,512,256
+offsets:0,0,512,512
+rotate:90
+Normal Gear/Normal Arrows/Nrml_Arrows_08
+bounds:1030,252,512,256
+offsets:0,0,512,512

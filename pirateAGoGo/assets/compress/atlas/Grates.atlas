@@ -1,0 +1,12 @@
+Grates.png
+size:1086,400
+filter:Linear,Linear
+pma:true
+scale:0.5
+Gold/Grate Left
+bounds:2,2,430,396
+offsets:7,0,438,396
+Plain/Grate Left
+bounds:434,2,422,396
+Plain/glow2
+bounds:858,111,226,287

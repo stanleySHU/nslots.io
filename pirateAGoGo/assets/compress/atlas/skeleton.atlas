@@ -1,0 +1,115 @@
+skeleton.png
+size:2723,2057
+filter:Linear,Linear
+pma:true
+scale:0.5
+Cannon_01
+bounds:715,722,500,500
+Cannon_05
+bounds:1147,1555,500,500
+Cannon_06
+bounds:1217,771,500,500
+Cannon_07
+bounds:1295,269,500,500
+Cannon_08
+bounds:1649,1555,500,500
+Cannon_09
+bounds:1719,809,500,500
+Cannon_10
+bounds:2151,1555,500,500
+Cannon_11
+bounds:2221,809,500,500
+Cannon_12
+bounds:1797,307,500,500
+Flash_undlerlay_Glow
+bounds:2299,456,401,351
+offsets:82,58,597,409
+boat
+bounds:147,1178,877,423
+rotate:90
+cannoflsh_particle1
+bounds:242,1137,39,39
+offsets:398,149,597,409
+cannoflsh_particle2
+bounds:147,1133,41,43
+offsets:171,123,597,409
+cannoflsh_particle3
+bounds:283,1138,38,37
+offsets:366,334,597,409
+rotate:90
+cannoflsh_particle4
+bounds:190,1135,50,41
+offsets:146,322,597,409
+mast-left
+bounds:428,247,207,445
+rotate:90
+mast-mid
+bounds:2,1127,143,928
+offsets:0,0,178,928
+mast-right
+bounds:282,380,144,755
+offsets:33,0,177,755
+platform
+bounds:1147,1273,389,280
+offsets:55,51,500,500
+rile-left
+bounds:572,1368,282,687
+rope-mid
+bounds:715,460,260,337
+rotate:90
+rope-right
+bounds:428,456,285,720
+sails-left
+bounds:875,265,193,372
+rotate:90
+sails-mid
+bounds:2,246,278,879
+sails-right
+bounds:856,1379,289,676
+shields
+bounds:572,1224,325,142
+smoke@3x (1)
+bounds:2,2,242,239
+rotate:90
+smoke@3x (10)
+bounds:243,2,242,239
+rotate:90
+smoke@3x (11)
+bounds:484,3,242,239
+rotate:90
+smoke@3x (12)
+bounds:725,3,242,239
+rotate:90
+smoke@3x (13)
+bounds:1054,478,242,239
+rotate:90
+smoke@3x (14)
+bounds:966,21,242,239
+rotate:90
+smoke@3x (15)
+bounds:1207,21,242,239
+rotate:90
+smoke@3x (2)
+bounds:1448,25,242,239
+rotate:90
+smoke@3x (3)
+bounds:1689,25,242,239
+rotate:90
+smoke@3x (4)
+bounds:1538,1311,242,239
+rotate:90
+smoke@3x (5)
+bounds:1779,1311,242,239
+rotate:90
+smoke@3x (6)
+bounds:2020,1311,242,239
+rotate:90
+smoke@3x (7)
+bounds:2261,1311,242,239
+rotate:90
+smoke@3x (8)
+bounds:1930,63,242,239
+rotate:90
+smoke@3x (9)
+bounds:2171,63,242,239
+rotate:90
