@@ -1,111 +1,110 @@
 Boss Ship@1x.png
-size:1198,2024
+size:1592,1592
 filter:Linear,Linear
 scale:0.33
 Cannon_01
-bounds:552,1220,330,330
+bounds:2,646,330,330
 Cannon_05
-bounds:2,933,330,330
+bounds:99,1260,330,330
 Cannon_06
-bounds:521,888,330,330
+bounds:431,1260,330,330
 Cannon_07
-bounds:853,837,330,330
+bounds:679,928,330,330
 Cannon_08
-bounds:2,601,330,330
+bounds:763,1260,330,330
 Cannon_09
-bounds:496,556,330,330
+bounds:334,647,330,330
 Cannon_10
-bounds:2,269,330,330
+bounds:1095,1260,330,330
 Cannon_11
-bounds:828,505,330,330
+bounds:666,596,330,330
 Cannon_12
-bounds:496,224,330,330
+bounds:334,315,330,330
 Flash_undlerlay_Glow
-bounds:2,2,265,232
+bounds:2,379,265,232
 offsets:54,38,394,270
 rotate:90
 boat
-bounds:2,1646,578,279
+bounds:99,979,578,279
 cannoflsh_particle1
-bounds:582,1835,27,26
+bounds:189,284,27,26
 offsets:262,98,394,270
-cannoflsh_particle2
-bounds:582,1898,27,29
-offsets:113,81,394,270
 rotate:90
+cannoflsh_particle2
+bounds:189,313,27,29
+offsets:113,81,394,270
 cannoflsh_particle3
-bounds:582,1809,25,24
+bounds:189,257,25,24
 offsets:241,221,394,270
+rotate:90
 cannoflsh_particle4
-bounds:582,1863,33,28
+bounds:189,344,33,28
 offsets:96,212,394,270
 rotate:90
 mast-left
-bounds:1059,1446,137,294
+bounds:333,176,137,294
+rotate:90
 mast-mid
-bounds:2,1927,95,612
+bounds:2,978,95,612
 offsets:0,0,117,612
-rotate:90
 mast-right
-bounds:611,1742,95,498
+bounds:236,146,95,498
 offsets:22,0,117,498
-rotate:90
 platform
-bounds:334,1006,257,185
+bounds:2,120,257,185
 offsets:36,33,330,330
 rotate:90
 rile-left
-bounds:2,1458,186,453
-rotate:90
+bounds:1188,223,186,453
 rope-mid
-bounds:884,1328,172,222
+bounds:333,2,172,222
+rotate:90
 rope-right
-bounds:582,1552,188,475
-rotate:90
+bounds:998,201,188,475
 sails-left
-bounds:1058,1198,127,246
+bounds:859,348,127,246
 sails-mid
-bounds:616,1839,183,580
-rotate:90
+bounds:1011,678,183,580
 sails-right
-bounds:2,1265,191,446
-rotate:90
+bounds:666,148,191,446
 shields
-bounds:457,1429,215,93
-rotate:90
+bounds:2,25,215,93
 smoke@3x (1)
-bounds:884,1169,160,157
+bounds:1188,64,160,157
 smoke@3x (10)
-bounds:334,847,160,157
+bounds:1350,64,160,157
 smoke@3x (11)
-bounds:334,688,160,157
+bounds:859,42,160,157
 smoke@3x (12)
-bounds:334,529,160,157
-smoke@3x (13)
-bounds:334,370,160,157
-smoke@3x (14)
-bounds:334,211,160,157
-smoke@3x (15)
-bounds:236,49,160,157
+bounds:1021,39,160,157
 rotate:90
+smoke@3x (13)
+bounds:1196,1098,160,157
+rotate:90
+smoke@3x (14)
+bounds:1196,936,160,157
+rotate:90
+smoke@3x (15)
+bounds:1196,777,160,157
 smoke@3x (2)
-bounds:395,49,160,157
+bounds:1355,1098,160,157
 rotate:90
 smoke@3x (3)
-bounds:554,62,160,157
-rotate:90
+bounds:1355,939,160,157
 smoke@3x (4)
-bounds:713,62,160,157
+bounds:1358,777,160,157
 rotate:90
 smoke@3x (5)
-bounds:828,343,160,157
+bounds:1427,1430,160,157
 rotate:90
 smoke@3x (6)
-bounds:987,346,160,157
+bounds:1427,1271,160,157
 smoke@3x (7)
-bounds:987,187,160,157
+bounds:1376,615,160,157
+rotate:90
 smoke@3x (8)
-bounds:872,25,160,157
+bounds:1376,453,160,157
 rotate:90
 smoke@3x (9)
-bounds:1031,28,160,157
+bounds:1376,291,160,157
+rotate:90
