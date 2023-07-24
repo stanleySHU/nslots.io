@@ -1,110 +1,35 @@
 Boss Ship@1x.png
-size:1592,1592
+size:1682,756
 filter:Linear,Linear
-scale:0.33
-Cannon_01
-bounds:2,646,330,330
-Cannon_05
-bounds:99,1260,330,330
-Cannon_06
-bounds:431,1260,330,330
-Cannon_07
-bounds:679,928,330,330
-Cannon_08
-bounds:763,1260,330,330
-Cannon_09
-bounds:334,647,330,330
-Cannon_10
-bounds:1095,1260,330,330
-Cannon_11
-bounds:666,596,330,330
-Cannon_12
-bounds:334,315,330,330
-Flash_undlerlay_Glow
-bounds:2,379,265,232
-offsets:54,38,394,270
-rotate:90
+scale:0.4
 boat
-bounds:99,979,578,279
-cannoflsh_particle1
-bounds:189,284,27,26
-offsets:262,98,394,270
-rotate:90
-cannoflsh_particle2
-bounds:189,313,27,29
-offsets:113,81,394,270
-cannoflsh_particle3
-bounds:189,257,25,24
-offsets:241,221,394,270
-rotate:90
-cannoflsh_particle4
-bounds:189,344,33,28
-offsets:96,212,394,270
-rotate:90
+bounds:2,416,701,338
 mast-left
-bounds:333,176,137,294
-rotate:90
+bounds:1186,30,166,356
 mast-mid
-bounds:2,978,95,612
-offsets:0,0,117,612
-mast-right
-bounds:236,146,95,498
-offsets:22,0,117,498
-platform
-bounds:2,120,257,185
-offsets:36,33,330,330
+bounds:705,612,142,742
 rotate:90
+mast-right
+bounds:2,272,142,604
+rotate:90
+null
+bounds:1410,602,8,8
 rile-left
-bounds:1188,223,186,453
+bounds:2,44,226,550
+rotate:90
 rope-mid
-bounds:333,2,172,222
+bounds:1354,4,208,270
 rotate:90
 rope-right
-bounds:998,201,188,475
+bounds:608,158,228,576
+rotate:90
 sails-left
-bounds:859,348,127,246
+bounds:554,2,154,298
+rotate:90
 sails-mid
-bounds:1011,678,183,580
+bounds:705,388,222,703
+rotate:90
 sails-right
-bounds:666,148,191,446
+bounds:1449,214,231,540
 shields
-bounds:2,25,215,93
-smoke@3x (1)
-bounds:1188,64,160,157
-smoke@3x (10)
-bounds:1350,64,160,157
-smoke@3x (11)
-bounds:859,42,160,157
-smoke@3x (12)
-bounds:1021,39,160,157
-rotate:90
-smoke@3x (13)
-bounds:1196,1098,160,157
-rotate:90
-smoke@3x (14)
-bounds:1196,936,160,157
-rotate:90
-smoke@3x (15)
-bounds:1196,777,160,157
-smoke@3x (2)
-bounds:1355,1098,160,157
-rotate:90
-smoke@3x (3)
-bounds:1355,939,160,157
-smoke@3x (4)
-bounds:1358,777,160,157
-rotate:90
-smoke@3x (5)
-bounds:1427,1430,160,157
-rotate:90
-smoke@3x (6)
-bounds:1427,1271,160,157
-smoke@3x (7)
-bounds:1376,615,160,157
-rotate:90
-smoke@3x (8)
-bounds:1376,453,160,157
-rotate:90
-smoke@3x (9)
-bounds:1376,291,160,157
-rotate:90
+bounds:854,43,260,113

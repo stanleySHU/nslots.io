@@ -1,0 +1,10 @@
+Victory Screen_Map and Knife.png
+size:1116,631
+filter:Linear,Linear
+pma:true
+scale:0.5
+congratulations_banner@3x
+bounds:2,2,627,820
+rotate:90
+congratulations_knife@3x
+bounds:824,288,290,341

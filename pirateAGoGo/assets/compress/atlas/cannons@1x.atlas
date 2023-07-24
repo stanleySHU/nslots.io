@@ -1,7 +1,6 @@
 cannons@1x.png
 size:384,384
 filter:Linear,Linear
-pma:true
 scale:0.33
 Base_1
 bounds:275,9,63,83
