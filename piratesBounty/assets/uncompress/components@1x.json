@@ -1,0 +1,52 @@
+{"frames": {
+
+"bosshp.png":
+{
+	"frame": {"x":667,"y":2,"w":214,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":42},
+	"sourceSize": {"w":214,"h":42}
+},
+"header_expbar.png":
+{
+	"frame": {"x":2,"y":26,"w":218,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":21},
+	"sourceSize": {"w":218,"h":21}
+},
+"jackpot_bosshp.png":
+{
+	"frame": {"x":223,"y":26,"w":110,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":13},
+	"sourceSize": {"w":110,"h":13}
+},
+"milestonemeter_gauge.png":
+{
+	"frame": {"x":2,"y":2,"w":21,"h":662},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":662},
+	"sourceSize": {"w":21,"h":662}
+},
+"playerhp.png":
+{
+	"frame": {"x":884,"y":2,"w":214,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":42},
+	"sourceSize": {"w":214,"h":42}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "components@1x.png",
+	"format": "RGBA8888",
+	"size": {"w":1100,"h":49},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:85b8729d1733544362904e57614c6d95:8be10938d4480c6a1225568ca6ad38be:75c4161980fdd548418175a5dbe90f28$"
+}
+}

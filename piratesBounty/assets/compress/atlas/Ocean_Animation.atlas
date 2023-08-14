@@ -1,0 +1,342 @@
+
+Ocean_Animation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GHOSTislands bg
+  rotate: false
+  xy: 818, 263
+  size: 406, 122
+  orig: 406, 122
+  offset: 0, 0
+  index: -1
+GHOSTislands2
+  rotate: true
+  xy: 1572, 662
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+GHOSTislands3
+  rotate: true
+  xy: 1346, 400
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+GHOSTmist
+  rotate: false
+  xy: 2, 7
+  size: 406, 38
+  orig: 406, 38
+  offset: 0, 0
+  index: -1
+GHOSTocean1
+  rotate: false
+  xy: 2, 47
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+GHOSTsky
+  rotate: false
+  xy: 2, 1323
+  size: 406, 721
+  orig: 406, 721
+  offset: 0, 0
+  index: -1
+GHOSTwaves1
+  rotate: false
+  xy: 818, 1493
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+MORNINGfishies
+  rotate: false
+  xy: 1226, 280
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+MORNINGislands1
+  rotate: true
+  xy: 1994, 1270
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+MORNINGislands2
+  rotate: false
+  xy: 1874, 934
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+MORNINGislands3
+  rotate: false
+  xy: 1754, 868
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+MORNINGislands4
+  rotate: false
+  xy: 1226, 641
+  size: 224, 133
+  orig: 224, 133
+  offset: 0, 0
+  index: -1
+MORNINGmist
+  rotate: false
+  xy: 1226, 776
+  size: 406, 38
+  orig: 406, 38
+  offset: 0, 0
+  index: -1
+MORNINGmountains
+  rotate: false
+  xy: 1226, 816
+  size: 406, 122
+  orig: 406, 122
+  offset: 0, 0
+  index: -1
+MORNINGocean
+  rotate: false
+  xy: 410, 47
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+MORNINGorca
+  rotate: true
+  xy: 1346, 486
+  size: 153, 78
+  orig: 153, 78
+  offset: 0, 0
+  index: -1
+MORNINGsky
+  rotate: false
+  xy: 2, 600
+  size: 406, 721
+  orig: 406, 721
+  offset: 0, 0
+  index: -1
+MORNINGwaves
+  rotate: false
+  xy: 818, 940
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+NIGHTislands1
+  rotate: true
+  xy: 1426, 555
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+NIGHTislands3
+  rotate: false
+  xy: 1874, 1002
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+NIGHTislandsBG
+  rotate: false
+  xy: 818, 139
+  size: 405, 122
+  orig: 405, 122
+  offset: 0, 0
+  index: -1
+NIGHTmist
+  rotate: false
+  xy: 1634, 1329
+  size: 406, 38
+  orig: 406, 38
+  offset: 0, 0
+  index: -1
+NIGHTocean
+  rotate: false
+  xy: 1226, 1493
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+NIGHTsky
+  rotate: false
+  xy: 410, 1323
+  size: 406, 721
+  orig: 406, 721
+  offset: 0, 0
+  index: -1
+NIGHTwaves1
+  rotate: false
+  xy: 818, 387
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+SUNSETislands bg
+  rotate: false
+  xy: 1634, 1369
+  size: 406, 122
+  orig: 406, 122
+  offset: 0, 0
+  index: -1
+SUNSETislands2
+  rotate: true
+  xy: 1494, 556
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+SUNSETislands3
+  rotate: false
+  xy: 1754, 809
+  size: 112, 57
+  orig: 112, 57
+  offset: 0, 0
+  index: -1
+SUNSETmist
+  rotate: false
+  xy: 410, 7
+  size: 406, 38
+  orig: 406, 38
+  offset: 0, 0
+  index: -1
+SUNSETocean
+  rotate: false
+  xy: 1226, 940
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+SUNSETsky
+  rotate: false
+  xy: 410, 600
+  size: 406, 721
+  orig: 406, 721
+  offset: 0, 0
+  index: -1
+SUNSETwaves
+  rotate: false
+  xy: 1634, 1493
+  size: 406, 551
+  orig: 406, 551
+  offset: 0, 0
+  index: -1
+fish1
+  rotate: true
+  xy: 818, 19
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish16
+  rotate: true
+  xy: 818, 19
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish10
+  rotate: false
+  xy: 1634, 927
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish11
+  rotate: false
+  xy: 1754, 1061
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish12
+  rotate: false
+  xy: 1874, 1195
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish13
+  rotate: false
+  xy: 1634, 793
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish14
+  rotate: false
+  xy: 1754, 927
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish15
+  rotate: false
+  xy: 1874, 1061
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 1634, 1195
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish3
+  rotate: false
+  xy: 1226, 507
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish4
+  rotate: false
+  xy: 1452, 642
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish5
+  rotate: true
+  xy: 952, 19
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish6
+  rotate: false
+  xy: 1634, 1061
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish7
+  rotate: false
+  xy: 1754, 1195
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish8
+  rotate: false
+  xy: 1226, 373
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
+fish9
+  rotate: true
+  xy: 1086, 19
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1
