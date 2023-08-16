@@ -1,341 +1,348 @@
 
 Ocean_Animation.png
-size: 2048,2048
+size: 2033,1856
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 GHOSTislands bg
   rotate: false
-  xy: 818, 263
+  xy: 410, 456
   size: 406, 122
   orig: 406, 122
   offset: 0, 0
   index: -1
 GHOSTislands2
-  rotate: true
-  xy: 1572, 662
+  rotate: false
+  xy: 1226, 428
   size: 112, 57
   orig: 112, 57
   offset: 0, 0
   index: -1
 GHOSTislands3
   rotate: true
-  xy: 1346, 400
+  xy: 1831, 819
   size: 84, 66
   orig: 84, 66
   offset: 0, 0
   index: -1
 GHOSTmist
   rotate: false
-  xy: 2, 7
+  xy: 410, 416
   size: 406, 38
   orig: 406, 38
   offset: 0, 0
   index: -1
 GHOSTocean1
   rotate: false
-  xy: 2, 47
+  xy: 410, 580
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 GHOSTsky
   rotate: false
-  xy: 2, 1323
+  xy: 2, 1133
   size: 406, 721
   orig: 406, 721
   offset: 0, 0
   index: -1
 GHOSTwaves1
-  rotate: false
-  xy: 818, 1493
+  rotate: true
+  xy: 725, 8
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 MORNINGfishies
   rotate: false
-  xy: 1226, 280
+  xy: 1913, 1221
   size: 113, 91
   orig: 113, 91
   offset: 0, 0
   index: -1
 MORNINGislands1
-  rotate: true
-  xy: 1994, 1270
+  rotate: false
+  xy: 1634, 491
   size: 57, 52
   orig: 57, 52
   offset: 0, 0
   index: -1
 MORNINGislands2
-  rotate: false
-  xy: 1874, 934
+  rotate: true
+  xy: 1693, 459
   size: 84, 66
   orig: 84, 66
   offset: 0, 0
   index: -1
 MORNINGislands3
   rotate: false
-  xy: 1754, 868
+  xy: 1340, 428
   size: 112, 57
   orig: 112, 57
   offset: 0, 0
   index: -1
 MORNINGislands4
   rotate: false
-  xy: 1226, 641
+  xy: 1682, 905
   size: 224, 133
   orig: 224, 133
   offset: 0, 0
   index: -1
 MORNINGmist
-  rotate: false
-  xy: 1226, 776
+  rotate: true
+  xy: 1955, 1448
   size: 406, 38
   orig: 406, 38
   offset: 0, 0
   index: -1
 MORNINGmountains
-  rotate: false
-  xy: 1226, 816
+  rotate: true
+  xy: 1831, 1448
   size: 406, 122
   orig: 406, 122
   offset: 0, 0
   index: -1
 MORNINGocean
-  rotate: false
-  xy: 410, 47
+  rotate: true
+  xy: 1278, 1448
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 MORNINGorca
   rotate: true
-  xy: 1346, 486
+  xy: 1936, 424
   size: 153, 78
   orig: 153, 78
   offset: 0, 0
   index: -1
 MORNINGsky
   rotate: false
-  xy: 2, 600
+  xy: 2, 410
   size: 406, 721
   orig: 406, 721
   offset: 0, 0
   index: -1
 MORNINGwaves
   rotate: false
-  xy: 818, 940
+  xy: 818, 1303
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
+Mist
+  rotate: false
+  xy: 1634, 986
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
 NIGHTislands1
   rotate: true
-  xy: 1426, 555
+  xy: 1950, 734
   size: 84, 66
   orig: 84, 66
   offset: 0, 0
   index: -1
 NIGHTislands3
   rotate: false
-  xy: 1874, 1002
+  xy: 1454, 428
   size: 112, 57
   orig: 112, 57
   offset: 0, 0
   index: -1
 NIGHTislandsBG
   rotate: false
-  xy: 818, 139
+  xy: 818, 502
   size: 405, 122
   orig: 405, 122
   offset: 0, 0
   index: -1
 NIGHTmist
-  rotate: false
-  xy: 1634, 1329
+  rotate: true
+  xy: 1226, 1448
   size: 406, 38
   orig: 406, 38
   offset: 0, 0
   index: -1
 NIGHTocean
-  rotate: false
-  xy: 1226, 1493
+  rotate: true
+  xy: 1226, 1040
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 NIGHTsky
-  rotate: false
-  xy: 410, 1323
+  rotate: true
+  xy: 2, 2
   size: 406, 721
   orig: 406, 721
   offset: 0, 0
   index: -1
 NIGHTwaves1
   rotate: false
-  xy: 818, 387
+  xy: 818, 750
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 SUNSETislands bg
   rotate: false
-  xy: 1634, 1369
+  xy: 818, 626
   size: 406, 122
   orig: 406, 122
   offset: 0, 0
   index: -1
 SUNSETislands2
   rotate: true
-  xy: 1494, 556
+  xy: 1950, 648
   size: 84, 66
   orig: 84, 66
   offset: 0, 0
   index: -1
 SUNSETislands3
   rotate: false
-  xy: 1754, 809
+  xy: 1568, 428
   size: 112, 57
   orig: 112, 57
   offset: 0, 0
   index: -1
 SUNSETmist
   rotate: false
-  xy: 410, 7
+  xy: 818, 447
   size: 406, 38
   orig: 406, 38
   offset: 0, 0
   index: -1
 SUNSETocean
   rotate: false
-  xy: 1226, 940
+  xy: 1226, 487
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 SUNSETsky
   rotate: false
-  xy: 410, 600
+  xy: 410, 1133
   size: 406, 721
   orig: 406, 721
   offset: 0, 0
   index: -1
 SUNSETwaves
-  rotate: false
-  xy: 1634, 1493
+  rotate: true
+  xy: 1278, 20
   size: 406, 551
   orig: 406, 551
   offset: 0, 0
   index: -1
 fish1
   rotate: true
-  xy: 818, 19
+  xy: 1779, 1328
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish16
   rotate: true
-  xy: 818, 19
+  xy: 1779, 1328
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish10
-  rotate: false
-  xy: 1634, 927
+  rotate: true
+  xy: 1682, 665
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish11
-  rotate: false
-  xy: 1754, 1061
+  rotate: true
+  xy: 1816, 579
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish12
-  rotate: false
-  xy: 1874, 1195
+  rotate: true
+  xy: 1682, 545
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish13
   rotate: false
-  xy: 1634, 793
+  xy: 1816, 445
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish14
-  rotate: false
-  xy: 1754, 927
+  rotate: true
+  xy: 1831, 304
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish15
-  rotate: false
-  xy: 1874, 1061
+  rotate: true
+  xy: 1831, 184
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish2
-  rotate: false
-  xy: 1634, 1195
+  rotate: true
+  xy: 1779, 1208
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish3
   rotate: false
-  xy: 1226, 507
+  xy: 1779, 1074
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish4
-  rotate: false
-  xy: 1452, 642
+  rotate: true
+  xy: 1899, 1088
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish5
-  rotate: true
-  xy: 952, 19
+  rotate: false
+  xy: 1913, 1314
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish6
   rotate: false
-  xy: 1634, 1061
+  xy: 1908, 954
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish7
   rotate: false
-  xy: 1754, 1195
+  xy: 1908, 820
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish8
-  rotate: false
-  xy: 1226, 373
+  rotate: true
+  xy: 1682, 785
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
   index: -1
 fish9
   rotate: true
-  xy: 1086, 19
+  xy: 1816, 699
   size: 118, 132
   orig: 118, 132
   offset: 0, 0
