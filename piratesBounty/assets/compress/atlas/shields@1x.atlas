@@ -1,146 +1,170 @@
 shields@1x.png
-size:692,1518
+size:360,2732
 filter:Linear,Linear
 scale:0.2
 Deck Curtain
-bounds:2,5,223,95
-Front_deck
-bounds:357,1172,344,228
+bounds:258,644,223,95
 rotate:90
+Front_deck
+bounds:2,437,333,205
+offsets:5,11,344,228
 Level 5/1
-bounds:347,390,125,108
+bounds:306,53,35,43
+offsets:44,20,125,108
 Level 5/2
-bounds:474,384,125,108
+bounds:313,90,34,75
+offsets:38,9,125,108
 Level 5/3
-bounds:258,87,125,108
+bounds:263,61,51,53
+offsets:30,16,125,108
 Level 5/4
-bounds:424,274,125,108
+bounds:318,165,35,70
+offsets:50,8,125,108
 Level 5/5
-bounds:424,164,125,108
+bounds:326,189,32,41
+offsets:48,23,125,108
+rotate:180
 Level 5/Glow
-bounds:2,1258,353,258
+bounds:2,2212,353,258
 Level 5/Shield 1
-bounds:258,197,81,150
+bounds:154,115,81,150
+rotate:90
 Level 5/Shield 2
-bounds:514,494,84,146
+bounds:150,281,84,146
+rotate:90
 Level 5/Shield 3
-bounds:601,648,84,146
+bounds:2,287,84,146
+rotate:90
 Level 5/Shield 4
-bounds:227,4,81,150
+bounds:2,115,81,150
 rotate:90
 Level 5/Under_Glow
-bounds:2,998,353,258
+bounds:2,2472,353,258
 Level 5/shield_1
-bounds:341,197,81,150
+bounds:154,198,81,150
+rotate:90
 Level 5/shield_2
-bounds:551,236,84,146
+bounds:181,367,84,146
+rotate:90
 Level 5/shield_3
-bounds:385,78,84,146
+bounds:2,373,84,146
 rotate:90
 Level 5/shield_4
-bounds:551,88,84,146
+bounds:258,1951,84,146
 Plain/Shield 1
-bounds:514,795,85,151
+bounds:258,1502,85,151
 Plain/Shield 2
-bounds:258,349,87,149
+bounds:258,1198,87,149
 Plain/Shield 3
-bounds:587,1189,87,149
+bounds:258,1047,87,149
 Plain/Shield 4
-bounds:514,642,85,151
+bounds:258,1349,85,151
 Plain/shield_1
-bounds:601,796,81,150
-Plain/shield_2
-bounds:533,2,84,146
+bounds:2,198,81,150
 rotate:90
+Plain/shield_2
+bounds:258,1803,84,146
 Plain/shield_3
-bounds:600,494,84,146
+bounds:258,1655,84,146
 Plain/shield_4
-bounds:587,1340,100,176
+bounds:258,869,100,176
 Sparkle Effects0001
-bounds:385,175,20,37
+bounds:2,2,20,37
 rotate:90
 Sparkle Effects0002
-bounds:258,959,20,37
+bounds:314,10,20,37
+rotate:90
 Sparkle Effects0003
-bounds:347,351,20,37
+bounds:275,10,20,37
+rotate:90
 Sparkle Effects0004
-bounds:601,385,20,37
+bounds:236,19,20,37
 rotate:90
 Sparkle Effects0005
-bounds:466,39,20,37
+bounds:197,24,20,37
+rotate:90
 Sparkle Effects0006
-bounds:613,976,20,37
+bounds:158,24,20,37
+rotate:90
 Sparkle Effects0007
-bounds:280,959,20,37
+bounds:119,24,20,37
+rotate:90
 Sparkle Effects0008
-bounds:369,351,20,37
+bounds:80,24,20,37
+rotate:90
 Sparkle Effects0009
-bounds:488,39,20,37
+bounds:41,24,20,37
+rotate:90
 Sparkle Effects0010
-bounds:466,17,20,37
+bounds:2,24,20,37
 rotate:90
 Sparkle Effects0011
-bounds:635,976,20,37
+bounds:302,32,20,37
+rotate:90
 Sparkle Effects0012
-bounds:613,954,20,37
+bounds:263,41,20,37
 rotate:90
 Sparkle Effects0013
-bounds:302,959,20,37
-Sparkle Effects0014
-bounds:391,351,20,37
-Sparkle Effects0015
-bounds:510,39,20,37
-Sparkle Effects0016
-bounds:657,976,20,37
-Sparkle Effects0017
-bounds:324,959,20,37
-Sparkle Effects0018
-bounds:670,455,20,37
-Sparkle Effects0019
-bounds:670,416,20,37
-Sparkle Effects0020
-bounds:640,385,20,37
+bounds:297,2186,20,37
 rotate:90
+Sparkle Effects0014
+bounds:258,2186,20,37
+rotate:90
+Sparkle Effects0015
+bounds:302,622,20,37
+rotate:90
+Sparkle Effects0016
+bounds:327,2138,20,37
+Sparkle Effects0017
+bounds:327,2099,20,37
+Sparkle Effects0018
+bounds:325,583,20,37
+Sparkle Effects0019
+bounds:333,544,20,37
+Sparkle Effects0020
+bounds:335,505,20,37
 Sparkle Effects0021
-bounds:637,346,20,37
+bounds:329,466,20,37
 Sparkle Effects0022
-bounds:637,307,20,37
+bounds:307,466,20,37
 Sparkle Effects0023
-bounds:637,268,20,37
+bounds:329,427,20,37
 Sparkle Effects0024
-bounds:637,229,20,37
+bounds:329,388,20,37
 Sparkle Effects0025
-bounds:637,190,20,37
+bounds:329,349,20,37
 Sparkle Effects0026
-bounds:637,151,20,37
+bounds:320,310,20,37
 Sparkle Effects0027
-bounds:637,112,20,37
+bounds:298,310,20,37
 Sparkle Effects0028
-bounds:659,346,20,37
+bounds:328,271,20,37
 Sparkle Effects0029
-bounds:659,307,20,37
+bounds:306,271,20,37
 Sparkle Effects0030
-bounds:659,268,20,37
+bounds:320,232,20,37
 splsh01
-bounds:2,774,254,222
+bounds:2,644,254,222
 splsh02
-bounds:2,550,254,222
+bounds:2,868,254,222
 splsh03
-bounds:2,326,254,222
+bounds:2,1092,254,222
 splsh04
-bounds:2,102,254,222
+bounds:2,1316,254,222
 splsh05
-bounds:357,948,254,222
+bounds:2,1540,254,222
 splsh06
-bounds:258,724,254,222
+bounds:2,1764,254,222
 splsh07
-bounds:258,500,254,222
+bounds:2,1988,254,222
 torch_1
-bounds:601,407,67,85
+bounds:176,46,67,85
+rotate:90
 torch_2
-bounds:379,9,67,85
+bounds:89,46,67,85
 rotate:90
 torch_3
-bounds:613,1102,67,85
+bounds:2,46,67,85
+rotate:90
 torch_4
-bounds:613,1015,67,85
+bounds:258,2099,67,85
