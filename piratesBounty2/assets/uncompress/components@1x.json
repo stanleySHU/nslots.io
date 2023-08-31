@@ -2,7 +2,7 @@
 
 "bosshp.png":
 {
-	"frame": {"x":146,"y":186,"w":214,"h":42},
+	"frame": {"x":26,"y":370,"w":214,"h":42},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":42},
@@ -10,7 +10,7 @@
 },
 "header_expbar.png":
 {
-	"frame": {"x":26,"y":403,"w":218,"h":21},
+	"frame": {"x":210,"y":2,"w":218,"h":21},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":21},
@@ -18,7 +18,7 @@
 },
 "jackpot_bosshp.png":
 {
-	"frame": {"x":191,"y":186,"w":110,"h":13},
+	"frame": {"x":210,"y":223,"w":110,"h":13},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":13},
@@ -34,7 +34,7 @@
 },
 "playerhp.png":
 {
-	"frame": {"x":50,"y":403,"w":214,"h":42},
+	"frame": {"x":71,"y":370,"w":214,"h":42},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":42},
@@ -48,9 +48,25 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":181},
 	"sourceSize": {"w":181,"h":181}
 },
+"spin_auto.png":
+{
+	"frame": {"x":26,"y":186,"w":181,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":181},
+	"sourceSize": {"w":181,"h":181}
+},
 "spin_press.png":
 {
-	"frame": {"x":26,"y":186,"w":117,"h":117},
+	"frame": {"x":116,"y":370,"w":117,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":117},
+	"sourceSize": {"w":117,"h":117}
+},
+"spin_press_auto.png":
+{
+	"frame": {"x":116,"y":490,"w":117,"h":117},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":117},
@@ -61,8 +77,8 @@
 	"version": "1.1",
 	"image": "components@1x.png",
 	"format": "RGBA8888",
-	"size": {"w":209,"h":666},
+	"size": {"w":235,"h":666},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:83a4a98db49532ba0a0170108d3c1dec:dac3e34dade488d030308e307f12d594:75c4161980fdd548418175a5dbe90f28$"
+	"smartupdate": "$TexturePacker:SmartUpdate:a179209286f69633c0a1aac1a1b0ade6:3b28e0a13c457253c96c990f81d35d88:75c4161980fdd548418175a5dbe90f28$"
 }
 }
