@@ -2,6 +2,8 @@ Victory Screen_Map and Knife@1x.png
 size:610,610
 filter:Linear,Linear
 scale:0.33
+0
+bounds:2,58,7,7
 congratulations_banner@3x
 bounds:2,67,413,541
 congratulations_knife@3x
