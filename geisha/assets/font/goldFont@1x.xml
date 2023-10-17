@@ -1,0 +1,37 @@
+<font>
+  <info face="goldFont@1x" size="70" bold="0" italic="0" charset="" unicode="" stretchH="100" smooth="1" aa="1" padding="2,2,2,2" spacing="0,0" outline="0"/>
+  <common lineHeight="88" base="65" scaleW="1045" scaleH="110" pages="1" packed="0"/> 
+  
+  <pages>
+    <page id="0" file="goldFont@1x.png"/>
+  </pages>
+  <chars count="13">
+  	
+  		<char id="48" x="564" y="1" width="102" height="105" xoffset="20" yoffset="23" xadvance="128" page="0" chnl="15" letter="0"/>
+  	
+  		<char id="49" x="752" y="1" width="81" height="104" xoffset="26" yoffset="24" xadvance="128" page="0" chnl="15" letter="1"/>
+  	
+  		<char id="50" x="668" y="1" width="82" height="105" xoffset="22" yoffset="23" xadvance="128" page="0" chnl="15" letter="2"/>
+  	
+  		<char id="51" x="107" y="1" width="101" height="107" xoffset="12" yoffset="21" xadvance="128" page="0" chnl="15" letter="3"/>
+  	
+  		<char id="52" x="1" y="1" width="104" height="108" xoffset="12" yoffset="20" xadvance="128" page="0" chnl="15" letter="4"/>
+  	
+  		<char id="53" x="396" y="1" width="85" height="106" xoffset="23" yoffset="22" xadvance="128" page="0" chnl="15" letter="5"/>
+  	
+  		<char id="54" x="304" y="1" width="90" height="106" xoffset="19" yoffset="22" xadvance="128" page="0" chnl="15" letter="6"/>
+  	
+  		<char id="55" x="835" y="1" width="86" height="103" xoffset="20" yoffset="25" xadvance="128" page="0" chnl="15" letter="7"/>
+  	
+  		<char id="56" x="923" y="1" width="79" height="99" xoffset="24" yoffset="22" xadvance="128" page="0" chnl="15" letter="8"/>
+  	
+  		<char id="57" x="483" y="1" width="79" height="106" xoffset="22" yoffset="22" xadvance="128" page="0" chnl="15" letter="9"/>
+  	
+  		<char id="99" x="1004" y="1" width="40" height="57" xoffset="39" yoffset="71" xadvance="128" page="0" chnl="15" letter="comma"/>
+  	
+  		<char id="46" x="1004" y="60" width="40" height="48" xoffset="40" yoffset="79" xadvance="128" page="0" chnl="15" letter="dot"/>
+  	
+  		<char id="120" x="210" y="1" width="92" height="107" xoffset="15" yoffset="21" xadvance="128" page="0" chnl="15" letter="x"/>
+  	
+  </chars>
+</font>
