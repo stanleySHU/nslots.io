@@ -7,6 +7,8 @@
   </pages>
   <chars count="13">
   	
+  		<char id="44" x="1004" y="1" width="40" height="57" xoffset="39" yoffset="71" xadvance="128" page="0" chnl="15" letter=","/>
+  	
   		<char id="48" x="564" y="1" width="102" height="105" xoffset="20" yoffset="23" xadvance="128" page="0" chnl="15" letter="0"/>
   	
   		<char id="49" x="752" y="1" width="81" height="104" xoffset="26" yoffset="24" xadvance="128" page="0" chnl="15" letter="1"/>
@@ -26,8 +28,6 @@
   		<char id="56" x="923" y="1" width="79" height="99" xoffset="24" yoffset="22" xadvance="128" page="0" chnl="15" letter="8"/>
   	
   		<char id="57" x="483" y="1" width="79" height="106" xoffset="22" yoffset="22" xadvance="128" page="0" chnl="15" letter="9"/>
-  	
-  		<char id="99" x="1004" y="1" width="40" height="57" xoffset="39" yoffset="71" xadvance="128" page="0" chnl="15" letter="comma"/>
   	
   		<char id="46" x="1004" y="60" width="40" height="48" xoffset="40" yoffset="79" xadvance="128" page="0" chnl="15" letter="dot"/>
   	
