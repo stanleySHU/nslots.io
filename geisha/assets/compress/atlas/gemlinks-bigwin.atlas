@@ -1,0 +1,209 @@
+
+gemlinks-bigwin.png
+size: 952,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgwin-elec1
+  rotate: false
+  xy: 864, 79
+  size: 27, 48
+  orig: 29, 48
+  offset: 1, 0
+  index: -1
+bgwin-elec2
+  rotate: false
+  xy: 820, 20
+  size: 43, 91
+  orig: 43, 93
+  offset: 0, 1
+  index: -1
+bgwin-elec3
+  rotate: false
+  xy: 1, 22
+  size: 78, 246
+  orig: 78, 247
+  offset: 0, 1
+  index: -1
+bgwin-elec4
+  rotate: false
+  xy: 80, 74
+  size: 62, 194
+  orig: 63, 194
+  offset: 1, 0
+  index: -1
+bgwin-elec5
+  rotate: false
+  xy: 367, 2
+  size: 53, 128
+  orig: 54, 128
+  offset: 0, 0
+  index: -1
+bgwin-elec6
+  rotate: false
+  xy: 918, 112
+  size: 33, 78
+  orig: 34, 78
+  offset: 1, 0
+  index: -1
+bigwin-coin-left
+  rotate: false
+  xy: 218, 77
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+bigwin-coin-right
+  rotate: false
+  xy: 143, 74
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+bigwin-coinfront1
+  rotate: false
+  xy: 690, 140
+  size: 103, 50
+  orig: 103, 50
+  offset: 0, 0
+  index: -1
+bigwin-coinfront2
+  rotate: false
+  xy: 514, 1
+  size: 29, 26
+  orig: 30, 26
+  offset: 1, 0
+  index: -1
+bigwin-gem-big
+  rotate: false
+  xy: 143, 119
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+bigwin-gem-big_shine1
+  rotate: false
+  xy: 632, 42
+  size: 94, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+bigwin-gem-big_shine2
+  rotate: false
+  xy: 514, 28
+  size: 117, 103
+  orig: 118, 104
+  offset: 0, 0
+  index: -1
+bigwin-gem-big_shine3
+  rotate: false
+  xy: 408, 132
+  size: 141, 136
+  orig: 142, 136
+  offset: 1, 0
+  index: -1
+bigwin-gem-big_shine4
+  rotate: false
+  xy: 550, 137
+  size: 139, 131
+  orig: 139, 132
+  offset: 0, 1
+  index: -1
+bigwin-gem-big_shine5
+  rotate: false
+  xy: 288, 131
+  size: 119, 137
+  orig: 120, 138
+  offset: 1, 1
+  index: -1
+bigwin-gem-big_shine6
+  rotate: false
+  xy: 421, 20
+  size: 92, 111
+  orig: 93, 112
+  offset: 1, 1
+  index: -1
+bigwin-gem1
+  rotate: false
+  xy: 272, 82
+  size: 19, 36
+  orig: 20, 36
+  offset: 1, 0
+  index: -1
+bigwin-gem2
+  rotate: false
+  xy: 563, 4
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+bigwin-gem3
+  rotate: false
+  xy: 544, 4
+  size: 18, 23
+  orig: 19, 23
+  offset: 1, 0
+  index: -1
+bigwin-gem4
+  rotate: false
+  xy: 672, 13
+  size: 24, 28
+  orig: 24, 29
+  offset: 0, 1
+  index: -1
+bigwin-gem5
+  rotate: false
+  xy: 1, 3
+  size: 24, 18
+  orig: 24, 20
+  offset: 0, 1
+  index: -1
+bigwin-gem6
+  rotate: false
+  xy: 632, 10
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+bigwin-gem7
+  rotate: false
+  xy: 26, 7
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+bigwin-glitter
+  rotate: false
+  xy: 292, 75
+  size: 62, 55
+  orig: 62, 59
+  offset: 0, 2
+  index: -1
+bigwin-text-cn
+  rotate: false
+  xy: 794, 128
+  size: 123, 62
+  orig: 123, 62
+  offset: 0, 0
+  index: -1
+bigwin-text-en
+  rotate: false
+  xy: 690, 191
+  size: 255, 77
+  orig: 255, 77
+  offset: 0, 0
+  index: -1
+bigwin-text-jp
+  rotate: false
+  xy: 80, 9
+  size: 286, 64
+  orig: 294, 72
+  offset: 4, 4
+  index: -1
+bigwin-thunder-circle
+  rotate: false
+  xy: 727, 19
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
