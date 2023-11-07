@@ -45,7 +45,7 @@
   	
   		<char id="71" x="84" y="33" width="22" height="16" xoffset="0" yoffset="0" xadvance="22" page="0" chnl="15" letter="G"/>
   	
-  		<char id="72" x="58" y="71" width="22" height="16" xoffset="0" yoffset="0" xadvance="22" page="0" chnl="15" letter="H"/>
+  		<char id="72" x="58" y="71" width="22" height="16" xoffset="0" yoffset="13" xadvance="22" page="0" chnl="15" letter="H"/>
   	
   		<char id="73" x="138" y="110" width="14" height="16" xoffset="0" yoffset="0" xadvance="14" page="0" chnl="15" letter="I"/>
   	
