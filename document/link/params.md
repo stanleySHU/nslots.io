@@ -1,6 +1,6 @@
-# Link
+# [Link](../index.md) 
 
-#### params
+the params description for game link. [games](./games.md)
 
 - op
 
@@ -9,7 +9,7 @@ description: operator, no default value.
 eg: ?op=1, ?op=w88 ....
 ```
 
-- fun: 1 | 0
+- fun:  [1 | 0]
 
 ```
 description: it is control that login by funplay, default value 0, false
@@ -56,7 +56,7 @@ description: live chat page link
 case1: player click chat button in menu
 ```
 
-- lang en | us, en | cn, zh, zn, cs | th | vi, vn | ko, kr | km, kh | id | jp, ja
+- lang  [en | us, en | cn, zh, zn, cs | th | vi, vn | ko, kr | km, kh | id | jp, ja]
 
 ```
 description: game language  

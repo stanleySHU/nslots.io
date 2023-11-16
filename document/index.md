@@ -1,5 +1,11 @@
 # Document
 
+### link
+
+* [params](./link/params.md)
+* [games](./link/games.md)
+
 ### games
 
-* [queenbee](./games/queenbee.md)
+* [geisha](./games/geisha.md)
+* [piratesBounty](./games/piratesBounty.md)
