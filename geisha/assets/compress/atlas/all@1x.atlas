@@ -1,4 +1,4 @@
-all@1x.png
+all@1x.webp
 size:2047,2045
 filter:Linear,Linear
 scale:0.6
@@ -615,7 +615,7 @@ special/wild(ADD)/wild_en_00038
 bounds:375,2,129,56
 offsets:86,134,307,307
 
-all@1x_2.png
+all@1x_2.webp
 size:2048,2018
 filter:Linear,Linear
 scale:0.6
@@ -2202,7 +2202,7 @@ wild red stroke
 bounds:1880,1699,111,53
 offsets:3,2,116,58
 
-all@1x_3.png
+all@1x_3.webp
 size:2009,2032
 filter:Linear,Linear
 scale:0.6
@@ -2262,7 +2262,7 @@ background pannel
 bounds:579,535,901,360
 rotate:90
 
-all@1x_4.png
+all@1x_4.webp
 size:2014,2029
 filter:Linear,Linear
 scale:0.6
@@ -2723,7 +2723,7 @@ vfx frame glow/lz_bKSG_00035
 bounds:2,1196,155,165
 offsets:78,75,307,307
 
-all@1x_5.png
+all@1x_5.webp
 size:2031,2022
 filter:Linear,Linear
 scale:0.6
@@ -2805,7 +2805,7 @@ VFX/end/nor/all-CH-BIGWIN_ENTER_yanhua03_26
 bounds:1618,2,290,286
 offsets:14,10,312,312
 
-all@1x_6.png
+all@1x_6.webp
 size:2042,1818
 filter:Linear,Linear
 scale:0.6
