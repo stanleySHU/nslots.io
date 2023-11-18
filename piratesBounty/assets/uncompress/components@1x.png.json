@@ -72,17 +72,9 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
 	"sourceSize": {"w":86,"h":86}
 },
-"header_expbar.png":
-{
-	"frame": {"x":2,"y":94,"w":218,"h":21},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":21},
-	"sourceSize": {"w":218,"h":21}
-},
 "jackpot_bosshp.png":
 {
-	"frame": {"x":440,"y":94,"w":110,"h":13},
+	"frame": {"x":219,"y":94,"w":110,"h":13},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":13},
@@ -98,7 +90,7 @@
 },
 "playerhp.png":
 {
-	"frame": {"x":223,"y":94,"w":214,"h":21},
+	"frame": {"x":2,"y":94,"w":214,"h":21},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":21},
@@ -135,6 +127,6 @@
 	"format": "RGBA8888",
 	"size": {"w":1585,"h":124},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:ea2e29fd14ad1ff5a57312e903ffb46c:73194d363b8a2e42f1c4d4ddebe30f22:b693208642a537b711a211baf65376a8$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f4079010707630b1b65f21d88de8781d:cc249e95bc53ee7525863bae8e8e7e56:b693208642a537b711a211baf65376a8$"
 }
 }
