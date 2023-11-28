@@ -49,6 +49,11 @@ description:transfer page link
 case1: player click transfer button in menu
 ```
 
+- debug [1 | 0]
+```
+description: debug
+```
+
 - livechatUrl
 
 ```
