@@ -27,7 +27,7 @@ the game link description.  [params](./params.md)
   fun: 0
   ```
 
-  [https://stanleyshu.github.io/nslots.io/geisha?token=&amp;fun=0&amp;op=w88&amp;loginUrl=http://www.w88uatv2.com%2FLogin%2Fv3.aspx](https://stanleyshu.github.io/nslots.io/geisha?token=&fun=0&op=w88&loginUrl=http://www.w88uatv2.com%2FLogin%2Fv3.aspx)
+  [https://stanleyshu.github.io/nslots.io/geisha?token=&amp;fun=0&amp;op=W88&amp;loginUrl=http%3A%2F%2Fwww.w88uatv2.com%2FLogin%2Fv3.aspx](https://stanleyshu.github.io/nslots.io/geisha?token=&fun=0&op=W88&loginUrl=http%3A%2F%2Fwww.w88uatv2.com%2FLogin%2Fv3.aspx)
 
 #### Game Links:
 
