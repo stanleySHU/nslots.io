@@ -23,7 +23,7 @@ the game link description.  [params](./params.md)
   descriptopm: exist op and loginUrl, not exist token, and fun = 0, will go to login page
 
   *op: W88
-  *loginUrl: http://www.w88uatv2.com%2FLogin%2Fv3.aspx%3Furl%3D%5B%25%25REDIRECT%25%25%5D
+  *loginUrl: http%3A%2F%2Fwww.w88uatv2.com%2FLogin%2Fv3.aspx
   fun: 0
   ```
 
