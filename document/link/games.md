@@ -45,3 +45,10 @@ the game link description.  [params](./params.md)
     - [fake](https://stanleyshu.github.io/nslots.io/piratesBountyFake/?op=1)
   - uat
   - prd
+
+- [cyberpunkLora](../games/cyberpunkLora.md)
+  - github
+    - [default](https://stanleyshu.github.io/nslots.io/cyberpunkLora/?op=1)
+    - [fake](https://stanleyshu.github.io/nslots.io/cyberpunkLoraFake/?op=1)
+  - uat
+  - prd
