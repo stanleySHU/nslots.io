@@ -1,0 +1,146 @@
+
+pt_sym_bonusVault.png
+size: 260,260
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pt_sym_innerBox
+  rotate: false
+  xy: 1, 129
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel01
+  rotate: false
+  xy: 1, 69
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel01_knob
+  rotate: false
+  xy: 75, 27
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel01_knob02
+  rotate: false
+  xy: 117, 30
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel01_knobShadow
+  rotate: false
+  xy: 159, 30
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel02_L
+  rotate: true
+  xy: 75, 1
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel02_R
+  rotate: true
+  xy: 97, 1
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel03Low_L
+  rotate: false
+  xy: 87, 72
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel03Low_R
+  rotate: false
+  xy: 123, 72
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel03_L
+  rotate: false
+  xy: 227, 92
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel03_R
+  rotate: false
+  xy: 201, 35
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel04
+  rotate: false
+  xy: 1, 19
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+pt_sym_innerPanel04_knob
+  rotate: true
+  xy: 228, 64
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+pt_sym_vaultFrame01
+  rotate: false
+  xy: 125, 129
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+pt_sym_vaultPanelLow01
+  rotate: false
+  xy: 159, 72
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+pt_sym_vaultPanelLow02
+  rotate: false
+  xy: 193, 72
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+pt_sym_vaultPanelMid01
+  rotate: true
+  xy: 119, 6
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+pt_sym_vaultPanelMid02
+  rotate: true
+  xy: 156, 6
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+pt_sym_vaultPanelTop01
+  rotate: false
+  xy: 228, 42
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+pt_sym_vaultPanelTop02
+  rotate: true
+  xy: 193, 7
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

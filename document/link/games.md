@@ -52,3 +52,9 @@ the game link description.  [params](./params.md)
     - [fake](https://stanleyshu.github.io/nslots.io/cyberpunkLoraFake/?op=1)
   - uat
   - prd
+- [carnivalShooter](../games/carnivalShooter.md)
+  - github
+    - [default](https://stanleyshu.github.io/nslots.io/carnivalShooter/?op=1)
+    - [fake](https://stanleyshu.github.io/nslots.io/carnivalShooterFake/?op=1)
+  - uat
+  - prd
