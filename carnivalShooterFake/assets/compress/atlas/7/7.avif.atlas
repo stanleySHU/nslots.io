@@ -1,0 +1,76 @@
+
+pt_sym_thief.avif
+size: 343,343
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Thief_01
+  rotate: false
+  xy: 1, 84
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+Thief_05
+  rotate: true
+  xy: 124, 1
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+Thief_06
+  rotate: false
+  xy: 232, 90
+  size: 95, 125
+  orig: 95, 125
+  offset: 0, 0
+  index: -1
+Thief_07
+  rotate: false
+  xy: 237, 217
+  size: 95, 125
+  orig: 95, 125
+  offset: 0, 0
+  index: -1
+Thief_08
+  rotate: false
+  xy: 133, 217
+  size: 102, 125
+  orig: 102, 125
+  offset: 0, 0
+  index: -1
+Thief_09
+  rotate: false
+  xy: 124, 86
+  size: 106, 124
+  orig: 106, 124
+  offset: 0, 0
+  index: -1
+Thief_eyes
+  rotate: false
+  xy: 1, 1
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+Thief_hands
+  rotate: false
+  xy: 67, 40
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+pt_sym_normalframe
+  rotate: false
+  xy: 1, 212
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+thief_bag
+  rotate: true
+  xy: 1, 15
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1

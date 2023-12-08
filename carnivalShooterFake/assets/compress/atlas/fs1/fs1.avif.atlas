@@ -1,0 +1,48 @@
+
+pt_sym_fist.avif
+size: 362,362
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FS color
+  rotate: false
+  xy: 1, 231
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lightShine01
+  rotate: true
+  xy: 258, 240
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+lightShine03
+  rotate: true
+  xy: 253, 108
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+pt_sym_fist01
+  rotate: false
+  xy: 133, 231
+  size: 123, 130
+  orig: 123, 130
+  offset: 0, 0
+  index: -1
+pt_sym_fist02
+  rotate: false
+  xy: 133, 99
+  size: 118, 130
+  orig: 118, 130
+  offset: 0, 0
+  index: -1
+pt_sym_fist04
+  rotate: false
+  xy: 1, 99
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+pt_sym_orangeNecklace.webp
+size: 639,639
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FS color
+  rotate: false
+  xy: 1, 508
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain01
+  rotate: false
+  xy: 510, 534
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain02
+  rotate: false
+  xy: 1, 6
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain03
+  rotate: false
+  xy: 131, 6
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain04
+  rotate: false
+  xy: 262, 6
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain05
+  rotate: true
+  xy: 510, 403
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain06
+  rotate: false
+  xy: 318, 322
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain07
+  rotate: true
+  xy: 319, 191
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain08
+  rotate: true
+  xy: 425, 191
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain09
+  rotate: false
+  xy: 393, 86
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain10
+  rotate: true
+  xy: 530, 272
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain11
+  rotate: true
+  xy: 107, 244
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain12
+  rotate: true
+  xy: 1, 244
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain13
+  rotate: false
+  xy: 246, 534
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain14
+  rotate: true
+  xy: 1, 112
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain15
+  rotate: false
+  xy: 378, 534
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain16
+  rotate: true
+  xy: 107, 112
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain17
+  rotate: true
+  xy: 132, 376
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain18
+  rotate: true
+  xy: 212, 244
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain19
+  rotate: true
+  xy: 213, 112
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain20
+  rotate: false
+  xy: 246, 428
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeChain21
+  rotate: false
+  xy: 378, 428
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+pt_sym_orangeGem
+  rotate: false
+  xy: 133, 511
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+pt_sym_orangeNecklace01
+  rotate: false
+  xy: 1, 376
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
