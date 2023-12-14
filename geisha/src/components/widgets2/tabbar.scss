@@ -1,0 +1,130 @@
+.tab-bar-mod {
+    position: absolute;
+    bottom: -0.5rem;
+    width: 100%;
+    
+    .container-bg {
+        background-image: url('../assets/compress/UI_Container.png');
+        position: absolute;
+        width: 100%;
+        height: 5rem;
+        bottom: 0;
+    }
+
+    .menu-btn {
+        position: absolute;
+        background-image: url('../assets/compress/menu-on.png');   
+        bottom: 1.15rem;
+        left: 0.7rem;
+        width: 3rem;
+        height: 3rem;
+        &.p {
+            bottom: 5.10rem!important;
+        }
+    }
+
+    &.p {
+        .list {
+            padding: 0 1% 0.5rem 1% !important;
+        }
+    }
+
+    .context {
+        position: relative;
+        max-width: 48rem;
+        margin: auto;
+        .list {
+            padding: 0 10% 0.5rem 10%;
+            .item {
+                position: relative;
+                width: 33.333%;
+                height: 4rem;
+                display: inline-block;
+                text-align: center;
+                &.item-bg {
+                    background-image: url('../assets/compress/information_box.png');
+                    background-size: 90% 90%;
+                    background-position-x: 50%;
+                }
+                .box {
+                    display: inline-block;
+                    color: white;
+                    width: 90%;
+                    max-width: 9.25rem;
+                    padding: 0.5rem 0;
+                    text-align: center;
+                    .detail {
+                        font-size: 0.8rem;
+                    }
+
+                    .value {
+                        font-size: 1.05rem;
+                    }
+                }
+                .bg {
+                    background-image: url('../assets/compress/information_box.png');
+                    background-size: 90% 90%;
+                    background-position-x: 50%;
+                    position: absolute;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                }
+                &:last-child {
+                    .box {
+                        position: relative;
+                    }
+                }
+            }
+        }
+    }
+
+    .tip-line {
+        position: absolute;
+        width: 40%;
+        height: 2px;
+        top: 0;
+        left: 30%;
+    }
+}
+
+.select-amount-box-mod {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    max-width:9.25rem;
+    overflow: hidden;
+    color: white;
+    border-radius: 0.4rem;
+    background-color: rgba(0, 0, 0, 0.72);
+    transition: height 0.3s;
+    .amount-bg {
+        position: absolute;
+        height: 2rem;
+        width: 100%;
+        bottom: 6rem;
+        background-color: rgba(0, 0, 0, 0.72);
+    }
+    &.open {
+        display: inline-block;
+        height: 14rem;
+        border: 1px solid white;
+    }
+    &.close {
+        height: 0;
+        display: none;
+    }
+    .slide {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        .slide-loop-mod {
+            height: 2rem;
+            line-height: 2rem;
+            top: 6rem;
+            .selected {
+                color: #ffaa17;
+            }
+        }
+    }
+}
