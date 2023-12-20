@@ -39,7 +39,7 @@
   	
   		<char id="87" x="215" y="1" width="32" height="26" xoffset="0" yoffset="0" xadvance="32" page="0" chnl="15" letter="W"/>
   	
-  		<char id="120" x="258" y="1" width="20" height="23" xoffset="0" yoffset="0" xadvance="20" page="0" chnl="15" letter="x"/>
+  		<char id="120" x="258" y="1" width="20" height="23" xoffset="0" yoffset="3" xadvance="20" page="0" chnl="15" letter="x"/>
   	
   </chars>
 </font>
