@@ -1,0 +1,51 @@
+
+.select-amount-box-mod {
+    position: absolute;
+    width: 100%;
+    color: white;
+    border-radius: 0.4rem;
+    background-color: rgba(0, 0, 0, 0.72);
+    bottom: 0;
+    &.visible {
+        transition-duration: 300ms;
+        transform: translateY(0);
+    }
+    &.hidden {
+        transition-duration: 300ms;
+        transform: translateY(14rem);
+    }
+    .amount-bg {
+        position: absolute;
+        height: 2rem;
+        width: 100%;
+        bottom: 6rem;
+        background-color: rgba(0, 0, 0, 0.72);
+    }
+    &.open {
+        display: inline-block;
+        height: 14rem;
+        border-top: 1px solid white;
+    }
+    .selecter {
+        overflow: hidden;
+        .slide {
+            position: relative;
+            height: 100%;
+            width: 100%;
+            .slide-loop-mod {
+                height: 2rem;
+                line-height: 2rem;
+                top: 6rem;
+                text-align: center;
+                .selected {
+                    color: #ffaa17;
+                }
+            }
+        }
+    }
+    .title {
+        height: 2rem;
+        text-align: center;
+        line-height: 2rem;
+    }
+}
