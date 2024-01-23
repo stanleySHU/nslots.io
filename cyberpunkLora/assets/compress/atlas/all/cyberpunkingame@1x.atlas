@@ -1,1004 +1,733 @@
 @1x.png
-size:2045,2043
+size:2048,2048
 filter:Linear,Linear
 scale:0.5
 88800
-bounds:2039,2040,1,1
+bounds:1438,1339,1,1
 wild_add/chuxian_16
-bounds:2039,2040,1,1
+bounds:1438,1339,1,1
 BIG WIN FONT
-bounds:816,617,583,204
-offsets:13,8,617,228
+bounds:1528,18,402,142
+offsets:9,5,425,157
 BIG WIN hair infront
-bounds:2006,1086,32,67
+bounds:923,349,32,67
 offsets:13,0,45,80
 HP  laser gun2
-bounds:2017,1998,23,8
+bounds:1342,10,23,8
 HP  laser gun4
-bounds:2017,1986,18,10
+bounds:1528,167,18,10
 offsets:0,0,19,10
+HP boot_r
+bounds:114,2,54,61
+rotate:90
+arm right
+bounds:664,346,93,70
+belt
+bounds:2,2,110,54
+big win_suoxiao75_add/baofa_08
+bounds:957,179,602,435
+offsets:72,120,750,725
+big win_suoxiao75_add/baofa_09
+bounds:1520,675,665,489
+offsets:44,92,750,725
+rotate:90
+big win_suoxiao75_add/baofa_22
+bounds:1561,162,511,453
+offsets:106,104,750,725
+rotate:90
+big win_suoxiao75_add/baofa_25
+bounds:923,10,417,167
+offsets:109,98,750,725
 big win_suoxiao75_add/baofa_xiaceng_15
-bounds:2,39,586,704
+bounds:1438,1342,586,704
 offsets:72,36,700,775
-rotate:90
 big win_suoxiao75_add/baofa_xiaceng_16
-bounds:2,627,588,711
+bounds:848,1335,588,711
 offsets:72,32,700,775
-rotate:90
 big win_suoxiao75_add/baofa_xiaceng_17
-bounds:708,13,561,717
+bounds:957,616,561,717
 offsets:101,29,700,775
-rotate:90
-big win_suoxiao75_add/xunhuan_16
-bounds:1719,474,763,285
-offsets:47,88,850,450
-rotate:90
 big win_suoxiao75_add/xunhuan_17
-bounds:1427,61,760,286
+bounds:2,58,760,286
 offsets:48,87,850,450
-rotate:90
-button back1
-bounds:715,576,99,317
-button back2
-bounds:715,895,106,320
-offsets:1,0,125,320
 colour
-bounds:2,1217,844,824
+bounds:2,1222,844,824
 hair infront
-bounds:2006,1018,30,33
+bounds:1520,640,30,33
 offsets:7,0,37,48
-rotate:90
 hair left
-bounds:2006,1155,37,82
+bounds:254,19,37,82
+rotate:90
+hair right
+bounds:1932,51,114,109
+offsets:0,0,115,115
 hand left
-bounds:2017,2008,20,33
+bounds:2026,2013,20,33
 hand right
-bounds:2006,1050,34,35
+bounds:2011,1306,34,35
 rotate:90
-leg left
-bounds:1427,2,57,239
+i english font
+bounds:177,10,46,75
+offsets:2,1,49,80
 rotate:90
-light
-bounds:848,823,869,556
-offsets:61,17,937,587
 panel
-bounds:1724,1239,802,291
+bounds:664,418,802,291
 rotate:90
 spark
-bounds:848,1381,874,660
-ui panel_add/xiaceng_03
-bounds:1715,2,320,470
-offsets:27,40,375,548
+bounds:2,346,874,660
+rotate:90
+symbol_out/xiaoshan_10
+bounds:848,1223,107,110
+offsets:22,19,150,150
+wild_add/chuxian_17
+bounds:1342,20,157,184
+offsets:36,120,225,425
+rotate:90
+wild_add/chuxian_20
+bounds:764,51,157,365
+offsets:36,31,225,425
 
 @1x_2.png
-size:2047,2037
+size:2048,2048
 filter:Linear,Linear
 scale:0.5
 BIG WIN arm right
-bounds:786,1866,97,200
-rotate:90
-BIG WIN face
-bounds:588,1760,111,122
-offsets:0,0,113,122
+bounds:1056,800,97,200
 rotate:90
 BIG WIN hair left
-bounds:1300,1858,100,161
+bounds:1440,14,100,161
 offsets:2,0,102,165
 rotate:90
 HP  laser gun
-bounds:466,1973,90,62
+bounds:1982,390,90,62
+rotate:90
 HP  laser gun3
-bounds:382,1975,82,60
+bounds:1056,716,82,60
+rotate:90
 HP boot_l
-bounds:635,1971,64,75
-rotate:90
-HP boot_r
-bounds:79,1981,54,61
-rotate:90
-HP gloves
-bounds:866,1965,70,74
-rotate:90
-HP helmet
-bounds:2,1899,80,85
-rotate:90
-LP circle
-bounds:942,1965,71,70
-LP square
-bounds:1336,1961,76,74
-offsets:0,0,76,75
-LP triangle
-bounds:1182,1964,71,78
-rotate:90
-arm right
-bounds:1015,1965,93,70
+bounds:1982,482,64,75
 arm right up
-bounds:1835,1956,79,90
+bounds:1603,24,79,90
 offsets:0,0,91,90
-rotate:90
 background
-bounds:988,1866,97,103
+bounds:1258,800,97,103
 rotate:90
-belt
-bounds:142,1981,110,54
-big win_suoxiao75_add/baofa_25
-bounds:1524,184,417,167
-offsets:109,98,750,725
-button back
-bounds:1300,1717,135,317
-offsets:16,0,199,317
+big win_suoxiao75_add/baofa_10
+bounds:581,2,668,535
+offsets:44,68,750,725
 rotate:90
-button back3
-bounds:111,1787,136,107
-offsets:16,3,199,158
-d english font
-bounds:1752,1957,78,81
-offsets:1,3,81,85
-rotate:90
-face
-bounds:313,1977,58,67
-offsets:0,0,70,67
-rotate:90
-frame
-bounds:1093,1864,98,103
-rotate:90
-gun
-bounds:712,1751,113,207
-offsets:1,0,114,207
-rotate:90
-hair right
-bounds:472,1779,114,109
-offsets:0,0,115,115
-i english font
-bounds:2,1989,46,75
-offsets:2,1,49,80
-rotate:90
-l english font
-bounds:558,1973,62,75
-offsets:1,0,65,76
-rotate:90
-leg left up
-bounds:1492,1958,77,178
-offsets:0,0,81,178
-rotate:90
-leg right
-bounds:1463,1854,102,254
-rotate:90
-leg right up
-bounds:921,1749,113,209
-rotate:90
-neck
-bounds:712,1967,68,71
-rotate:90
-symbol_add/symbol_00
-bounds:1855,1353,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_01
-bounds:1845,1171,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_02
-bounds:2,1124,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_03
-bounds:1709,989,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_04
-bounds:389,292,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_05
-bounds:576,292,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_06
-bounds:1150,240,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_07
-bounds:1337,240,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_08
-bounds:2,142,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_09
-bounds:189,142,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_10
-bounds:376,110,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_11
-bounds:563,110,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_12
-bounds:750,104,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_13
-bounds:937,104,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_14
-bounds:1124,58,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_15
-bounds:1311,58,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_16
-bounds:1498,2,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_add/symbol_17
-bounds:1685,2,180,185
-offsets:24,17,225,225
-rotate:90
-symbol_out/xiaoshan_01
-bounds:173,1896,81,82
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_02
-bounds:257,1894,81,82
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_03
-bounds:341,1892,81,82
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_04
-bounds:425,1890,81,82
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_05
-bounds:509,1890,81,83
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_06
-bounds:1719,1851,104,107
-offsets:24,21,150,150
-rotate:90
-symbol_out/xiaoshan_07
-bounds:1828,1849,105,107
-offsets:23,21,150,150
-rotate:90
-symbol_out/xiaoshan_08
-bounds:1937,1849,105,108
-offsets:23,20,150,150
-rotate:90
-symbol_out/xiaoshan_09
-bounds:249,1783,107,109
-offsets:22,20,150,150
-rotate:90
-symbol_out/xiaoshan_10
-bounds:360,1781,107,110
-offsets:22,19,150,150
-rotate:90
-symbol_out/xiaoshan_11
-bounds:2,1792,105,107
-offsets:23,21,150,150
-rotate:90
-symbol_out/xiaoshan_12
-bounds:594,1888,81,82
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_13
-bounds:89,1899,80,82
-offsets:35,33,150,150
-rotate:90
-symbol_out/xiaoshan_14
-bounds:1927,1956,79,80
-offsets:36,34,150,150
-rotate:90
-symbol_out/xiaoshan_15
-bounds:1672,1958,77,78
-offsets:37,35,150,150
-rotate:90
-symbol_out/xiaoshan_16
-bounds:1414,1960,75,76
-offsets:38,36,150,150
-rotate:90
-symbol_out/xiaoshan_17
-bounds:1262,1964,71,72
-offsets:40,38,150,150
-rotate:90
-symbol_out/xiaoshan_18
-bounds:254,1979,56,57
-offsets:47,46,150,150
-rotate:90
-upper body
-bounds:1132,1724,138,166
-rotate:90
-w chinese font
-bounds:678,1873,92,106
-offsets:3,4,99,114
-rotate:90
-w english font
-bounds:785,1967,79,68
-offsets:2,2,81,70
-wild chinese font
-bounds:1198,1864,100,98
-offsets:2,2,105,102
-wild_add/chuxian_00
-bounds:1771,1694,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_08
-bounds:1771,1694,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_01
-bounds:2,1632,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_09
-bounds:2,1632,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_02
-bounds:164,1628,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_10
-bounds:164,1628,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_03
-bounds:326,1624,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_11
-bounds:326,1624,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_04
-bounds:488,1605,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_12
-bounds:488,1605,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_05
-bounds:650,1596,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_13
-bounds:650,1596,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_06
-bounds:812,1594,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_14
-bounds:812,1594,153,160
-offsets:37,131,225,425
-rotate:90
-wild_add/chuxian_07
-bounds:974,1587,153,160
-offsets:37,131,225,425
-wild_add/chuxian_15
-bounds:974,1587,153,160
-offsets:37,131,225,425
-wild_add/chuxian_17
-bounds:1129,1558,157,184
-offsets:36,120,225,425
-rotate:90
-wild_add/chuxian_18
-bounds:1315,1558,157,264
-offsets:36,80,225,425
-rotate:90
-wild_add/chuxian_19
-bounds:1581,1535,157,340
-offsets:36,43,225,425
-rotate:90
-wild_add/chuxian_20
-bounds:2,1465,157,365
-offsets:36,31,225,425
-rotate:90
-wild_add/chuxian_21
-bounds:369,1437,157,373
-offsets:36,27,225,425
-rotate:90
-wild_add/chuxian_22
-bounds:744,1428,157,371
-offsets:36,28,225,425
-rotate:90
-wild_add/chuxian_23
-bounds:1117,1399,157,369
-offsets:36,29,225,425
-rotate:90
-wild_add/chuxian_24
-bounds:1488,1376,157,365
-offsets:36,31,225,425
-rotate:90
-wild_add/chuxian_25
-bounds:2,1306,157,363
-offsets:36,32,225,425
-rotate:90
-wild_add/chuxian_26
-bounds:367,1278,157,365
-offsets:36,31,225,425
-rotate:90
-wild_add/chuxian_27
-bounds:734,1269,157,367
-offsets:36,30,225,425
-rotate:90
-wild_add/chuxian_28
-bounds:1103,1240,157,369
-offsets:36,29,225,425
-rotate:90
-wild_add/chuxian_29
-bounds:1474,1217,157,369
-offsets:36,29,225,425
-rotate:90
-wild_add/chuxian_30
-bounds:189,1119,157,371
-offsets:36,28,225,425
-rotate:90
-wild_add/chuxian_31
-bounds:562,1110,157,371
-offsets:36,28,225,425
-rotate:90
-wild_add/glow_12
-bounds:1110,1965,70,70
-offsets:153,154,375,375
-wild_add/glow_13
-bounds:1619,1699,150,150
-offsets:113,115,375,375
-wild_add/hold__32
-bounds:935,1081,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__33
-bounds:1322,1058,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__34
-bounds:2,960,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__35
-bounds:389,951,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__36
-bounds:776,922,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__37
-bounds:1163,899,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__38
-bounds:1550,830,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__39
-bounds:2,801,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__40
-bounds:389,792,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__41
-bounds:776,763,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__42
-bounds:1163,740,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__43
-bounds:1550,671,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__44
-bounds:2,642,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__45
-bounds:389,633,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__46
-bounds:776,604,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__47
-bounds:1163,581,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__48
-bounds:1550,512,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__49
-bounds:2,483,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__50
-bounds:389,474,157,384
-offsets:36,22,225,425
-rotate:90
-wild_add/hold__51
-bounds:775,445,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__52
-bounds:1162,422,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__53
-bounds:1549,353,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__54
-bounds:2,324,157,385
-offsets:36,21,225,425
-rotate:90
-wild_add/hold__55
-bounds:763,286,157,385
-offsets:36,21,225,425
-rotate:90
-
-@1x_3.png
-size:2010,2001
-filter:Linear,Linear
-scale:0.5
 big win_suoxiao75_add/baofa_11
-bounds:1148,26,670,572
+bounds:1373,800,670,572
 offsets:43,50,750,725
-rotate:90
 big win_suoxiao75_add/baofa_12
-bounds:1376,1327,672,598
+bounds:1395,1374,672,598
 offsets:42,42,750,725
 rotate:90
 big win_suoxiao75_add/baofa_13
-bounds:2,1390,673,609
+bounds:2,1437,673,609
 offsets:42,45,750,725
-big win_suoxiao75_add/baofa_14
-bounds:1236,762,674,563
-offsets:42,104,750,725
-big win_suoxiao75_add/baofa_xiaceng_11
-bounds:578,21,568,675
-offsets:77,50,700,775
+big win_suoxiao75_add/baofa_xiaceng_09
+bounds:874,899,497,588
+offsets:111,92,700,775
 big win_suoxiao75_add/baofa_xiaceng_12
-bounds:2,15,574,682
+bounds:1118,116,574,682
 offsets:75,47,700,775
 big win_suoxiao75_add/baofa_xiaceng_13
-bounds:2,699,577,689
+bounds:2,47,577,689
 offsets:75,43,700,775
 big win_suoxiao75_add/baofa_xiaceng_14
-bounds:677,1416,583,697
+bounds:2,738,583,697
 offsets:72,39,700,775
-rotate:90
 big win_suoxiao75_add/baofa_xiaceng_18
-bounds:677,698,557,716
+bounds:677,1489,557,716
 offsets:107,34,700,775
+rotate:90
+big win_suoxiao75_add/xunhuan_16
+bounds:587,672,763,285
+offsets:47,88,850,450
+rotate:90
 big win_suoxiao75_add/xunhuan_18
-bounds:1722,2,758,286
+bounds:1694,40,758,286
 offsets:48,86,850,450
 rotate:90
+button back2
+bounds:1118,8,106,320
+offsets:1,0,125,320
+rotate:90
+face
+bounds:1982,244,58,67
+offsets:0,0,70,67
+l english font
+bounds:1982,313,62,75
+offsets:1,0,65,76
+leg left
+bounds:1982,559,57,239
+symbol_add/symbol_00
+bounds:874,712,180,185
+offsets:24,17,225,225
+symbol_out/xiaoshan_18
+bounds:1982,185,56,57
+offsets:47,46,150,150
 
-@1x_4.png
-size:1988,2016
+@1x_3.png
+size:2048,2048
 filter:Linear,Linear
 scale:0.5
+BIG WIN face
+bounds:1896,686,111,122
+offsets:0,0,113,122
+HP gloves
+bounds:1972,1386,70,74
+rotate:90
+LP circle
+bounds:1972,1152,71,70
+rotate:90
+LP square
+bounds:1972,1458,76,74
+offsets:0,0,76,75
+rotate:90
+LP triangle
+bounds:1972,1306,71,78
+Reflection
+bounds:1721,395,197,270
 big win_suoxiao75_add/baofa_07
-bounds:1611,123,518,375
+bounds:963,2,518,375
 offsets:112,151,750,725
+big win_suoxiao75_add/baofa_14
+bounds:2,695,674,563
+offsets:42,104,750,725
 rotate:90
-big win_suoxiao75_add/baofa_08
-bounds:1326,1042,602,435
-offsets:72,120,750,725
-big win_suoxiao75_add/baofa_09
-bounds:564,684,665,489
-offsets:44,92,750,725
-big win_suoxiao75_add/baofa_10
-bounds:1240,1479,668,535
-offsets:44,68,750,725
 big win_suoxiao75_add/baofa_15
-bounds:2,2,674,538
+bounds:1137,954,674,538
 offsets:42,138,750,725
-rotate:90
 big win_suoxiao75_add/baofa_16
-bounds:567,1462,671,552
+bounds:1137,1494,671,552
 offsets:44,131,750,725
 big win_suoxiao75_add/baofa_17
-bounds:2,678,667,560
+bounds:2,26,667,560
 offsets:46,125,750,725
 rotate:90
 big win_suoxiao75_add/baofa_18
-bounds:1041,77,568,564
+bounds:567,805,568,564
 offsets:122,120,750,725
-big win_suoxiao75_add/baofa_xiaceng_09
-bounds:542,88,497,588
-offsets:111,92,700,775
-big win_suoxiao75_add/baofa_xiaceng_10
-bounds:2,1347,563,667
-offsets:79,54,700,775
-big win_suoxiao75_add/xunhuan_19
-bounds:567,1175,757,285
-offsets:49,86,850,450
-yellow light
-bounds:1231,643,677,397
-offsets:14,6,700,419
-
-@1x_5.png
-size:1993,2037
-filter:Linear,Linear
-scale:0.5
-Reflection
-bounds:1267,9,197,270
-rotate:90
-big win_suoxiao75_add/baofa_19
-bounds:2,1518,510,517
-offsets:116,115,750,725
-big win_suoxiao75_add/baofa_20
-bounds:2,503,503,501
-offsets:112,111,750,725
-rotate:90
-big win_suoxiao75_add/baofa_21
-bounds:2,1008,508,501
-offsets:109,107,750,725
-rotate:90
-big win_suoxiao75_add/baofa_22
-bounds:2,48,511,453
-offsets:106,104,750,725
-big win_suoxiao75_add/baofa_23
-bounds:1014,680,512,320
-offsets:104,101,750,725
 big win_suoxiao75_add/baofa_24
-bounds:514,1562,510,185
+bounds:1810,1536,510,185
 offsets:106,99,750,725
+rotate:90
 big win_suoxiao75_add/baofa_xiaceng_07
-bounds:1272,1670,365,426
+bounds:1483,12,365,426
 offsets:173,170,700,775
 rotate:90
-big win_suoxiao75_add/baofa_xiaceng_08
-bounds:505,569,431,507
-offsets:142,131,700,775
-rotate:90
+big win_suoxiao75_add/baofa_xiaceng_10
+bounds:572,1379,563,667
+offsets:79,54,700,775
+big win_suoxiao75_add/baofa_xiaceng_11
+bounds:2,1371,568,675
+offsets:77,50,700,775
+big win_suoxiao75_add/xunhuan_19
+bounds:1137,667,757,285
+offsets:49,86,850,450
 big win_suoxiao75_add/xunhuan_20
-bounds:514,1749,756,286
+bounds:963,379,756,286
 offsets:50,86,850,450
-big win_suoxiao75_add/xunhuan_21
-bounds:950,1274,752,286
-offsets:54,87,850,450
-big win_suoxiao75_add/xunhuan_22
-bounds:1704,1286,749,284
-offsets:57,89,850,450
+button back
+bounds:1911,76,135,317
+offsets:16,0,199,317
+button back1
+bounds:567,704,99,317
 rotate:90
-big win_suoxiao75_add/xunhuan_24
-bounds:1708,534,750,283
-offsets:56,88,850,450
+button back3
+bounds:993,667,136,107
+offsets:16,3,199,158
 rotate:90
-big win_suoxiao75_add/xunhuan_25
-bounds:515,2,750,282
-offsets:54,88,850,450
-big win_suoxiao75_add/xunhuan_26
-bounds:515,286,754,281
-offsets:51,88,850,450
-big win_suoxiao75_add/xunhuan_37
-bounds:950,1002,756,270
-offsets:50,94,850,450
-light2
-bounds:505,1002,514,443
-offsets:0,28,514,471
-rotate:90
-symbol_add/symbol_18
-bounds:1026,1562,180,185
+leg right
+bounds:1920,430,102,254
+symbol_add/symbol_01
+bounds:1813,962,180,185
 offsets:24,17,225,225
-ui panel_add/xiaceng_04
-bounds:1271,208,320,470
-offsets:27,40,375,548
-ui panel_add/xiaceng_05
-bounds:1593,62,320,470
-offsets:27,40,375,548
+symbol_out/xiaoshan_08
+bounds:886,695,105,108
+offsets:23,20,150,150
+symbol_out/xiaoshan_17
+bounds:1911,2,71,72
+offsets:40,38,150,150
+w english font
+bounds:1972,1225,79,68
+offsets:2,2,81,70
+rotate:90
+wild_add/glow_13
+bounds:1896,810,150,150
+offsets:113,115,375,375
+wild_add/hold__32
+bounds:1813,1149,157,385
+offsets:36,21,225,425
+yellow light
+bounds:564,16,677,397
+offsets:14,6,700,419
+rotate:90
 
-@1x_6.png
-size:2015,2048
+@1x_4.png
+size:2048,2048
 filter:Linear,Linear
 scale:0.5
 BIG WIN cloth
-bounds:937,1834,212,333
+bounds:1674,1082,212,333
 offsets:16,0,228,333
 rotate:90
 BIG WIN hair right
-bounds:2,1620,245,244
+bounds:1418,8,245,244
 offsets:0,0,247,258
-bing win chinese font
-bounds:1506,1812,417,234
-offsets:4,3,427,240
-symbol_add/symbol_19
-bounds:2,1866,180,185
-offsets:24,17,225,225
+HP helmet
+bounds:1665,12,80,85
 rotate:90
-symbol_add/symbol_20
-bounds:189,1866,180,185
-offsets:24,17,225,225
+big win_suoxiao75_add/xunhuan_21
+bounds:2,1760,752,286
+offsets:54,87,850,450
+big win_suoxiao75_add/xunhuan_22
+bounds:553,247,749,284
+offsets:57,89,850,450
 rotate:90
-symbol_add/symbol_21
-bounds:376,1866,180,185
-offsets:24,17,225,225
+big win_suoxiao75_add/xunhuan_24
+bounds:1674,1296,750,283
+offsets:56,88,850,450
 rotate:90
-symbol_add/symbol_22
-bounds:563,1866,180,185
-offsets:24,17,225,225
+big win_suoxiao75_add/xunhuan_25
+bounds:839,246,750,282
+offsets:54,88,850,450
 rotate:90
-symbol_add/symbol_23
-bounds:750,1866,180,185
-offsets:24,17,225,225
-rotate:90
-ui panel_add/shangceng_00
-bounds:2,1097,256,484
-offsets:66,29,375,548
-rotate:90
-ui panel_add/shangceng_01
-bounds:488,1064,256,484
-offsets:66,29,375,548
-rotate:90
-ui panel_add/shangceng_02
-bounds:979,1299,255,483
-offsets:67,29,375,548
-rotate:90
-ui panel_add/shangceng_03
-bounds:1464,1255,255,486
-offsets:66,29,375,548
-rotate:90
-ui panel_add/shangceng_04
-bounds:737,1578,254,486
-offsets:67,29,375,548
-rotate:90
-ui panel_add/shangceng_05
-bounds:1225,1556,254,486
-offsets:67,29,375,548
-rotate:90
-ui panel_add/shangceng_06
-bounds:2,1355,254,486
-offsets:67,29,375,548
-rotate:90
-ui panel_add/shangceng_07
-bounds:249,1611,253,486
-offsets:67,29,375,548
-rotate:90
-ui panel_add/shangceng_08
-bounds:490,1322,254,487
-offsets:65,29,375,548
-rotate:90
-ui panel_add/shangceng_09
-bounds:1458,996,257,490
-offsets:61,29,375,548
-rotate:90
-ui panel_add/shangceng_10
-bounds:1458,734,260,491
-offsets:58,29,375,548
-rotate:90
-ui panel_add/shangceng_11
-bounds:2,536,261,491
-offsets:57,29,375,548
-rotate:90
-ui panel_add/shangceng_12
-bounds:495,511,261,490
-offsets:57,30,375,548
-rotate:90
-ui panel_add/shangceng_13
-bounds:987,471,261,488
-offsets:58,31,375,548
-rotate:90
-ui panel_add/shangceng_14
-bounds:1477,470,262,489
-offsets:57,29,375,548
-rotate:90
-ui panel_add/shangceng_15
-bounds:2,270,264,489
-offsets:56,29,375,548
-rotate:90
-ui panel_add/shangceng_16
-bounds:969,774,265,487
-offsets:56,29,375,548
-rotate:90
-ui panel_add/shangceng_17
-bounds:493,244,265,485
-offsets:56,29,375,548
-rotate:90
-ui panel_add/shangceng_18
-bounds:980,204,265,487
-offsets:56,28,375,548
-rotate:90
-ui panel_add/shangceng_19
-bounds:1469,202,266,486
-offsets:55,29,375,548
-rotate:90
-ui panel_add/shangceng_20
-bounds:2,2,266,485
-offsets:55,29,375,548
-rotate:90
-ui panel_add/shangceng_21
-bounds:485,799,263,482
-offsets:59,29,375,548
-rotate:90
-ui panel_add/shangceng_22
-bounds:2,838,257,481
-offsets:65,29,375,548
-rotate:90
-ui panel_add/shangceng_23
-bounds:974,1041,256,482
-offsets:66,29,375,548
-rotate:90
-wild_add/glow_14
-bounds:1272,1814,232,232
-offsets:72,74,375,375
-wild_add/glow_15
-bounds:1713,1512,300,298
-offsets:38,40,375,375
-
-@1x_7.png
-size:1961,1986
-filter:Linear,Linear
-scale:0.5
-big win_suoxiao75_add/baofa_06
-bounds:1655,805,436,304
-offsets:151,187,750,725
-rotate:90
-big win_suoxiao75_add/xunhuan_23
-bounds:1655,1243,741,283
-offsets:65,89,850,450
+big win_suoxiao75_add/xunhuan_26
+bounds:283,1004,754,281
+offsets:51,88,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_27
-bounds:2,1705,758,279
+bounds:2,1000,758,279
 offsets:48,90,850,450
+rotate:90
 big win_suoxiao75_add/xunhuan_28
-bounds:762,1707,759,277
+bounds:2,239,759,277
 offsets:47,90,850,450
+rotate:90
 big win_suoxiao75_add/xunhuan_29
-bounds:2,180,760,276
+bounds:566,998,760,276
 offsets:47,91,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_30
-bounds:2,942,761,276
+bounds:756,1770,761,276
 offsets:47,91,850,450
-rotate:90
 big win_suoxiao75_add/xunhuan_31
-bounds:280,943,760,275
+bounds:844,1008,760,275
 offsets:48,90,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_32
-bounds:280,181,760,275
+bounds:1121,1008,760,275
 offsets:48,90,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_33
-bounds:557,945,758,274
+bounds:1398,1010,758,274
 offsets:49,91,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_34
-bounds:557,188,755,273
+bounds:1123,251,755,273
 offsets:51,91,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_35
-bounds:833,951,754,273
+bounds:1398,254,754,273
 offsets:52,91,850,450
 rotate:90
 big win_suoxiao75_add/xunhuan_36
-bounds:1382,950,755,271
+bounds:1673,253,755,271
 offsets:51,92,850,450
 rotate:90
-big win_suoxiao75_add/xunhuan_38
-bounds:1108,950,755,272
-offsets:51,95,850,450
+big win_suoxiao75_add/xunhuan_37
+bounds:281,242,756,270
+offsets:50,94,850,450
 rotate:90
-ui panel_add/xiaceng_00
-bounds:832,2,320,469
-offsets:27,40,375,548
-ui panel_add/xiaceng_06
-bounds:832,473,320,470
-offsets:27,40,375,548
-ui panel_add/xiaceng_07
-bounds:1154,478,320,470
-offsets:27,40,375,548
-ui panel_add/xiaceng_08
-bounds:1476,483,320,470
-offsets:27,40,375,548
+bing win chinese font
+bounds:1123,85,293,164
+offsets:3,2,300,168
+d english font
+bounds:1043,163,78,81
+offsets:1,3,81,85
+frame
+bounds:1946,877,98,103
+leg left up
+bounds:1959,1868,77,178
+offsets:0,0,81,178
+neck
+bounds:1746,1012,68,71
 rotate:90
-ui panel_add/xiaceng_09
-bounds:1154,6,320,470
-offsets:27,40,375,548
-ui panel_add/xiaceng_10
-bounds:1476,11,320,470
-offsets:27,40,375,548
+symbol_out/xiaoshan_01
+bounds:1208,2,81,82
+offsets:35,33,150,150
+rotate:90
+symbol_out/xiaoshan_02
+bounds:1292,2,81,82
+offsets:35,33,150,150
+rotate:90
+symbol_out/xiaoshan_03
+bounds:1946,685,81,82
+offsets:35,33,150,150
+symbol_out/xiaoshan_04
+bounds:1946,601,81,82
+offsets:35,33,150,150
+symbol_out/xiaoshan_05
+bounds:1123,2,81,83
+offsets:35,33,150,150
+rotate:90
+symbol_out/xiaoshan_09
+bounds:1519,1775,107,109
+offsets:22,20,150,150
+symbol_out/xiaoshan_12
+bounds:1946,517,81,82
+offsets:35,33,150,150
+symbol_out/xiaoshan_13
+bounds:1752,12,80,82
+offsets:35,33,150,150
+rotate:90
+symbol_out/xiaoshan_14
+bounds:236,2,79,80
+offsets:36,34,150,150
+rotate:90
+symbol_out/xiaoshan_15
+bounds:1043,84,77,78
+offsets:37,35,150,150
+rotate:90
+symbol_out/xiaoshan_16
+bounds:1959,1790,75,76
+offsets:38,36,150,150
+w chinese font
+bounds:1946,769,92,106
+offsets:3,4,99,114
+wild chinese font
+bounds:1946,982,100,98
+offsets:2,2,105,102
+wild_add/chuxian_00
+bounds:1519,1886,153,160
+offsets:37,131,225,425
+wild_add/chuxian_08
+bounds:1519,1886,153,160
+offsets:37,131,225,425
+wild_add/chuxian_19
+bounds:1665,94,157,340
+offsets:36,43,225,425
+rotate:90
+wild_add/chuxian_21
+bounds:281,83,157,373
+offsets:36,27,225,425
+rotate:90
+wild_add/glow_12
+bounds:1674,1010,70,70
+offsets:153,154,375,375
+wild_add/glow_14
+bounds:2,5,232,232
+offsets:72,74,375,375
+wild_add/hold__33
+bounds:656,87,157,385
+offsets:36,21,225,425
+rotate:90
 
-@1x_8.png
-size:1889,1615
+@1x_5.png
+size:2047,2047
 filter:Linear,Linear
 scale:0.5
-ui panel_add/xiaceng_01
-bounds:1262,1293,320,469
-offsets:27,40,375,548
+big win_suoxiao75_add/baofa_06
+bounds:779,1165,436,304
+offsets:151,187,750,725
 rotate:90
-ui panel_add/xiaceng_02
-bounds:2,979,320,469
-offsets:27,40,375,548
+big win_suoxiao75_add/baofa_19
+bounds:2,1528,510,517
+offsets:116,115,750,725
+big win_suoxiao75_add/baofa_20
+bounds:324,513,503,501
+offsets:112,111,750,725
 rotate:90
-ui panel_add/xiaceng_11
-bounds:473,974,320,470
-offsets:27,40,375,548
+big win_suoxiao75_add/baofa_21
+bounds:276,1018,508,501
+offsets:109,107,750,725
 rotate:90
-ui panel_add/xiaceng_12
-bounds:945,971,320,470
-offsets:27,40,375,548
+big win_suoxiao75_add/baofa_23
+bounds:2,257,512,320
+offsets:104,101,750,725
 rotate:90
-ui panel_add/xiaceng_13
-bounds:1417,971,320,470
-offsets:27,40,375,548
+big win_suoxiao75_add/baofa_xiaceng_08
+bounds:324,80,431,507
+offsets:142,131,700,775
 rotate:90
-ui panel_add/xiaceng_14
-bounds:473,652,320,470
-offsets:27,40,375,548
+big win_suoxiao75_add/xunhuan_23
+bounds:514,1762,741,283
+offsets:65,89,850,450
+big win_suoxiao75_add/xunhuan_38
+bounds:2,771,755,272
+offsets:51,95,850,450
 rotate:90
-ui panel_add/xiaceng_15
-bounds:945,649,320,470
-offsets:27,40,375,548
+gun
+bounds:827,569,113,207
+offsets:1,0,114,207
+leg right up
+bounds:1932,1836,113,209
+light
+bounds:184,37,218,138
+offsets:15,5,235,147
 rotate:90
-ui panel_add/xiaceng_16
-bounds:1417,649,320,470
-offsets:27,40,375,548
+light2
+bounds:1257,1602,514,443
+offsets:0,28,514,471
+symbol_add/symbol_02
+bounds:2,70,180,185
+offsets:24,17,225,225
+symbol_add/symbol_03
+bounds:992,146,180,185
+offsets:24,17,225,225
+symbol_add/symbol_04
+bounds:1561,135,180,185
+offsets:24,17,225,225
+symbol_add/symbol_05
+bounds:1684,322,180,185
+offsets:24,17,225,225
 rotate:90
-ui panel_add/xiaceng_17
-bounds:2,657,320,469
-offsets:27,40,375,548
+symbol_add/symbol_06
+bounds:1735,1415,180,185
+offsets:24,17,225,225
+symbol_add/symbol_07
+bounds:1845,1228,180,185
+offsets:24,17,225,225
+symbol_out/xiaoshan_06
+bounds:1743,213,104,107
+offsets:24,21,150,150
+symbol_out/xiaoshan_07
+bounds:1932,1727,105,107
+offsets:23,21,150,150
+symbol_out/xiaoshan_11
+bounds:1561,26,105,107
+offsets:23,21,150,150
+upper body
+bounds:992,6,138,166
 rotate:90
-ui panel_add/xiaceng_18
-bounds:2,335,320,469
-offsets:27,40,375,548
+wild_add/chuxian_18
+bounds:901,1603,157,264
+offsets:36,80,225,425
 rotate:90
-ui panel_add/xiaceng_19
-bounds:473,330,320,469
-offsets:27,40,375,548
+wild_add/chuxian_22
+bounds:1472,1118,157,371
+offsets:36,28,225,425
 rotate:90
-ui panel_add/xiaceng_20
-bounds:944,327,320,470
-offsets:27,40,375,548
+wild_add/chuxian_23
+bounds:1373,640,157,369
+offsets:36,29,225,425
 rotate:90
-ui panel_add/xiaceng_21
-bounds:1416,327,320,470
-offsets:27,40,375,548
-rotate:90
-ui panel_add/xiaceng_22
-bounds:2,13,320,469
-offsets:27,40,375,548
-rotate:90
-ui panel_add/xiaceng_23
-bounds:473,8,320,469
-offsets:27,40,375,548
-rotate:90
+wild_add/chuxian_24
+bounds:1871,137,157,365
+offsets:36,31,225,425
+wild_add/glow_15
+bounds:1744,504,300,298
+offsets:38,40,375,375
 wild_add/glow_16
-bounds:942,1296,318,317
+bounds:986,799,318,317
 offsets:28,31,375,375
 wild_add/glow_17
-bounds:1269,2,324,323
+bounds:1085,1277,324,323
 offsets:24,29,375,375
 wild_add/glow_18
-bounds:944,3,322,323
+bounds:1411,1277,322,323
 offsets:25,29,375,375
-rotate:90
 wild_add/glow_19
-bounds:623,1297,316,317
+bounds:1306,799,316,317
 offsets:28,32,375,375
-rotate:90
 wild_add/glow_20
-bounds:309,1301,312,312
+bounds:1624,804,312,312
 offsets:31,35,375,375
 wild_add/glow_21
-bounds:2,1310,303,305
+bounds:992,333,303,305
 offsets:37,39,375,375
+wild_add/hold__34
+bounds:1773,1660,157,385
+offsets:36,21,225,425
+wild_add/hold__35
+bounds:514,1603,157,385
+offsets:36,21,225,425
+rotate:90
+wild_add/hold__36
+bounds:1085,1118,157,385
+offsets:36,21,225,425
+rotate:90
+wild_add/hold__37
+bounds:827,778,157,385
+offsets:36,21,225,425
+wild_add/hold__38
+bounds:986,640,157,385
+offsets:36,21,225,425
+rotate:90
+wild_add/hold__39
+bounds:833,117,157,385
+offsets:36,21,225,425
+wild_add/hold__40
+bounds:1297,481,157,385
+offsets:36,21,225,425
+rotate:90
+wild_add/hold__41
+bounds:1297,322,157,385
+offsets:36,21,225,425
+rotate:90
+wild_add/hold__42
+bounds:1174,163,157,385
+offsets:36,21,225,425
+rotate:90
+wild_add/hold__43
+bounds:1174,4,157,385
+offsets:36,21,225,425
+rotate:90
+
+@1x_6.png
+size:1471,1471
+filter:Linear,Linear
+scale:0.5
+symbol_add/symbol_08
+bounds:1115,1284,180,185
+offsets:24,17,225,225
+symbol_add/symbol_09
+bounds:1115,1097,180,185
+offsets:24,17,225,225
+symbol_add/symbol_10
+bounds:797,546,180,185
+offsets:24,17,225,225
+symbol_add/symbol_11
+bounds:797,359,180,185
+offsets:24,17,225,225
+symbol_add/symbol_12
+bounds:956,757,180,185
+offsets:24,17,225,225
+symbol_add/symbol_13
+bounds:979,570,180,185
+offsets:24,17,225,225
+symbol_add/symbol_14
+bounds:979,383,180,185
+offsets:24,17,225,225
+symbol_add/symbol_15
+bounds:389,123,180,185
+offsets:24,17,225,225
+symbol_add/symbol_16
+bounds:571,138,180,185
+offsets:24,17,225,225
+symbol_add/symbol_17
+bounds:979,196,180,185
+offsets:24,17,225,225
+symbol_add/symbol_18
+bounds:797,172,180,185
+offsets:24,17,225,225
+symbol_add/symbol_19
+bounds:979,9,180,185
+offsets:24,17,225,225
+symbol_add/symbol_20
+bounds:1138,798,180,185
+offsets:24,17,225,225
+symbol_add/symbol_21
+bounds:1161,611,180,185
+offsets:24,17,225,225
+symbol_add/symbol_22
+bounds:1161,424,180,185
+offsets:24,17,225,225
+symbol_add/symbol_23
+bounds:1161,237,180,185
+offsets:24,17,225,225
+wild_add/chuxian_01
+bounds:1297,1309,153,160
+offsets:37,131,225,425
+wild_add/chuxian_09
+bounds:1297,1309,153,160
+offsets:37,131,225,425
+wild_add/chuxian_02
+bounds:956,944,153,160
+offsets:37,131,225,425
+wild_add/chuxian_10
+bounds:956,944,153,160
+offsets:37,131,225,425
+wild_add/chuxian_03
+bounds:1297,1147,153,160
+offsets:37,131,225,425
+wild_add/chuxian_11
+bounds:1297,1147,153,160
+offsets:37,131,225,425
+wild_add/chuxian_04
+bounds:1297,985,153,160
+offsets:37,131,225,425
+wild_add/chuxian_12
+bounds:1297,985,153,160
+offsets:37,131,225,425
+wild_add/chuxian_05
+bounds:1161,75,153,160
+offsets:37,131,225,425
+wild_add/chuxian_13
+bounds:1161,75,153,160
+offsets:37,131,225,425
+wild_add/chuxian_06
+bounds:1316,75,153,160
+offsets:37,131,225,425
+wild_add/chuxian_14
+bounds:1316,75,153,160
+offsets:37,131,225,425
+wild_add/chuxian_07
+bounds:753,17,153,160
+offsets:37,131,225,425
+rotate:90
+wild_add/chuxian_15
+bounds:753,17,153,160
+offsets:37,131,225,425
+rotate:90
+wild_add/chuxian_25
+bounds:956,1106,157,363
+offsets:36,32,225,425
+wild_add/chuxian_26
+bounds:797,733,157,365
+offsets:36,31,225,425
+wild_add/chuxian_27
+bounds:638,358,157,367
+offsets:36,30,225,425
+wild_add/chuxian_28
+bounds:638,727,157,369
+offsets:36,29,225,425
+wild_add/chuxian_29
+bounds:797,1100,157,369
+offsets:36,29,225,425
+wild_add/chuxian_30
+bounds:638,1098,157,371
+offsets:36,28,225,425
+wild_add/chuxian_31
+bounds:479,325,157,371
+offsets:36,28,225,425
+wild_add/hold__44
+bounds:2,1084,157,385
+offsets:36,21,225,425
+wild_add/hold__45
+bounds:2,697,157,385
+offsets:36,21,225,425
+wild_add/hold__46
+bounds:161,1084,157,385
+offsets:36,21,225,425
+wild_add/hold__47
+bounds:2,310,157,385
+offsets:36,21,225,425
+wild_add/hold__48
+bounds:161,697,157,385
+offsets:36,21,225,425
+wild_add/hold__49
+bounds:320,1084,157,385
+offsets:36,21,225,425
+wild_add/hold__50
+bounds:479,698,157,384
+offsets:36,22,225,425
+wild_add/hold__51
+bounds:161,310,157,385
+offsets:36,21,225,425
+wild_add/hold__52
+bounds:320,697,157,385
+offsets:36,21,225,425
+wild_add/hold__53
+bounds:479,1084,157,385
+offsets:36,21,225,425
+wild_add/hold__54
+bounds:320,310,157,385
+offsets:36,21,225,425
+wild_add/hold__55
+bounds:2,151,157,385
+offsets:36,21,225,425
 rotate:90
