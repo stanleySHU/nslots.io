@@ -1,737 +1,649 @@
 @1x.webp
-size:2048,1983
+size:2046,1937
 filter:Linear,Linear
 scale:0.5
 88800
-bounds:2,1980,1,1
+bounds:2,1934,1,1
 xx
-bounds:2,1980,1,1
+bounds:2,1934,1,1
 BIG WIN
-bounds:794,963,626,152
+bounds:1064,1198,626,152
 offsets:2,2,630,155
 HP belt
-bounds:1016,1928,111,53
+bounds:1157,1882,111,53
 offsets:2,2,117,55
 HP belt_back
-bounds:739,1931,109,50
+bounds:880,1885,109,50
 offsets:4,0,115,52
 HP boot_l
-bounds:850,1930,51,81
+bounds:991,1884,51,81
 rotate:90
 HP boot_r
-bounds:663,1936,45,74
+bounds:804,1890,45,74
 rotate:90
 HP cape
-bounds:607,1947,54,34
+bounds:607,1901,54,34
 offsets:1,0,57,35
 HP cape_back
-bounds:1094,1764,117,90
+bounds:1363,1719,117,90
 offsets:10,2,129,92
-HP male body2
-bounds:870,233,286,361
-offsets:0,0,295,380
-rotate:90
 HP male cape back
-bounds:479,293,389,258
+bounds:2,106,389,258
 offsets:0,0,390,259
-HP male frame
-bounds:1038,1117,138,495
-rotate:90
 HP male hair
-bounds:1824,1611,111,165
+bounds:1583,1586,111,165
 offsets:0,0,113,165
 rotate:90
 HP male left feet
-bounds:1213,1755,99,151
+bounds:2,1669,99,151
 offsets:0,4,99,155
 rotate:90
 HP male left leg
-bounds:630,1665,107,209
+bounds:1214,1610,107,209
 offsets:0,107,154,316
 rotate:90
 HP male right feet
-bounds:2,1885,67,126
+bounds:1746,1868,67,126
 rotate:90
 HP male right leg
-bounds:2,1598,111,204
-rotate:90
-HP symbles female
-bounds:202,992,139,590
-rotate:90
-Item Box_add/ItemBox_00
-bounds:1530,1392,133,136
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_01
-bounds:1664,1211,134,136
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_02
-bounds:1802,1211,134,136
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_03
-bounds:2,1192,134,136
-offsets:24,15,175,175
-Item Box_add/ItemBox_04
-bounds:138,1179,134,136
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_05
-bounds:276,1168,134,136
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_06
-bounds:276,1304,133,137
-offsets:25,15,175,175
-rotate:90
-Item Box_add/ItemBox_07
-bounds:415,1304,133,137
-offsets:25,15,175,175
-rotate:90
-Item Box_add/ItemBox_08
-bounds:554,1292,133,137
-offsets:25,15,175,175
-rotate:90
-Item Box_add/ItemBox_09
-bounds:693,1272,133,137
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_10
-bounds:832,1266,133,137
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_11
-bounds:971,1266,133,137
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_12
-bounds:1110,1266,133,137
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_13
-bounds:1249,1262,133,137
-offsets:24,15,175,175
-rotate:90
-Item Box_add/ItemBox_14
-bounds:1388,1262,133,136
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_15
-bounds:636,1427,132,136
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_16
-bounds:774,1407,132,136
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_17
-bounds:1256,1397,132,135
-offsets:24,17,175,175
-rotate:90
-Item Box_add/ItemBox_18
-bounds:2,1465,131,135
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_19
-bounds:139,1450,131,135
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_20
-bounds:1393,1397,132,135
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_21
-bounds:2,1330,133,135
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_22
-bounds:139,1315,133,135
-offsets:24,16,175,175
-rotate:90
-Item Box_add/ItemBox_23
-bounds:1526,1257,133,136
-offsets:24,15,175,175
+bounds:1750,1586,111,204
 rotate:90
 LP_10
-bounds:343,1808,85,73
+bounds:1574,1802,85,73
 LP_10_back
-bounds:510,1794,91,80
+bounds:779,1736,91,80
 LP_a
-bounds:430,1803,78,78
+bounds:699,1744,78,78
 LP_a_back
-bounds:901,1770,90,89
+bounds:1170,1720,90,89
 LP_j
-bounds:933,1930,51,81
+bounds:1074,1884,51,81
 offsets:13,0,64,82
 rotate:90
 LP_j_back
-bounds:1955,1914,67,85
+bounds:1874,1868,67,85
 rotate:90
 LP_k
-bounds:659,1863,71,78
+bounds:576,1828,71,78
 rotate:90
 LP_k_back
-bounds:603,1778,83,85
+bounds:872,1733,83,85
 rotate:90
 LP_q
-bounds:1910,1840,72,80
+bounds:1492,1804,72,80
 rotate:90
 LP_q_back
-bounds:807,1774,85,92
+bounds:1076,1724,85,92
 rotate:90
 YOU WIN
-bounds:414,1133,622,131
+bounds:995,1353,622,131
 offsets:3,2,628,133
+YOUWIN shadow
+bounds:1528,2,422,266
+offsets:6,4,433,276
 YOUWIN spark1
-bounds:1535,1049,222,160
+bounds:2,1260,222,160
 offsets:12,0,237,169
 YOUWIN spark2
-bounds:690,1775,84,115
+bounds:959,1732,84,115
 offsets:4,10,96,133
 rotate:90
 YOUWIN spark3
-bounds:208,1583,114,152
+bounds:154,1552,114,152
 offsets:34,7,159,159
 rotate:90
 YOUWIN spark4
-bounds:1800,1481,160,128
+bounds:129,1422,160,128
 offsets:28,7,189,135
 big win chinese font
-bounds:2,372,475,223
+bounds:1396,753,475,223
 offsets:5,5,486,234
 big win_add2/glow_01
-bounds:1366,1753,95,244
+bounds:1482,1702,95,244
 offsets:300,24,700,300
 rotate:90
 big win_add2/glow_02
-bounds:1507,333,306,246
+bounds:816,295,306,246
 offsets:195,23,700,300
-rotate:90
+big win_add2/glow_03
+bounds:393,47,516,246
+offsets:91,23,700,300
+big win_add2/glow_04
+bounds:911,26,615,247
+offsets:42,22,700,300
+big win_add2/glow_06
+bounds:1124,275,522,245
+offsets:88,23,700,300
 big win_add2/glow_07
-bounds:1786,26,457,242
+bounds:2,366,457,242
 offsets:120,25,700,300
-rotate:90
 big win_add2/glow_08
-bounds:2,134,417,236
+bounds:555,567,417,236
 offsets:140,28,700,300
 big win_add2/glow_09
-bounds:1542,641,258,197
+bounds:256,838,258,197
 offsets:219,58,700,300
 big win_add2/glow_10
-bounds:2,618,258,197
+bounds:516,838,258,197
 offsets:219,58,700,300
 big win_add2/glow_11
-bounds:262,597,256,197
+bounds:776,805,256,197
 offsets:220,58,700,300
 big win_add2/glow_12
-bounds:1032,766,254,195
+bounds:1684,978,254,195
 offsets:221,59,700,300
 big win_add2/glow_13
-bounds:1288,672,252,195
+bounds:2,872,252,195
 offsets:222,59,700,300
 big win_add2/glow_14
-bounds:1622,840,250,192
+bounds:910,1004,250,192
 offsets:223,61,700,300
 female face
-bounds:1759,1034,263,175
+bounds:1692,1175,263,175
 offsets:4,0,267,175
 female left feet
-bounds:1425,1852,69,127
+bounds:447,1832,69,127
 rotate:90
 female left hand
-bounds:1668,1347,132,330
+bounds:1619,1352,132,330
 rotate:90
 female left leg up
-bounds:2,1711,100,174
+bounds:155,1668,100,174
 rotate:90
 female right hand
-bounds:1612,1750,98,292
+bounds:1728,1699,98,292
 offsets:0,0,117,292
 rotate:90
 female right leg up
-bounds:362,1561,102,429
+bounds:632,1628,102,429
 rotate:90
 female skirt under
-bounds:1472,1923,131,58
+bounds:1613,1877,131,58
 female upper body2
-bounds:520,553,212,360
+bounds:1034,788,212,360
 offsets:0,0,231,375
 rotate:90
 frame
-bounds:479,1670,149,106
+bounds:1063,1612,149,106
 offsets:1,1,151,108
 free spin chinese font
-bounds:946,1534,437,114
+bounds:596,1512,437,114
 offsets:2,2,441,118
 free spines
-bounds:1151,1650,671,98
+bounds:1323,1486,671,98
 offsets:4,2,677,102
 left hand
-bounds:912,1401,131,342
+bounds:651,1379,131,342
 offsets:49,0,180,342
 rotate:90
 lightning
-bounds:993,1765,89,99
+bounds:1262,1720,89,99
 offsets:0,1,89,100
 rotate:90
 man_cape2
-bounds:1237,420,250,268
+bounds:1648,270,250,268
 offsets:3,0,253,268
 rotate:90
 ribon
-bounds:474,1949,131,32
+bounds:474,1903,131,32
 offsets:2,1,135,34
 right hand
-bounds:276,1439,120,358
+bounds:291,1390,120,358
 offsets:0,2,120,362
 rotate:90
 scatter chinese font
-bounds:269,1953,59,28
+bounds:269,1907,59,28
 offsets:0,1,59,29
 scatter english font
-bounds:62,1954,127,27
+bounds:62,1908,127,27
 offsets:2,1,131,30
 scatter frame
-bounds:328,1699,149,102
+bounds:481,1651,149,102
 offsets:1,0,151,103
 scatter ribon
-bounds:330,1950,142,31
+bounds:330,1904,142,31
 offsets:2,2,146,34
 shandiankuang_add/lightning_00
-bounds:2,1813,68,339
+bounds:2,1770,68,339
 offsets:22,15,100,375
 rotate:90
 shandiankuang_add/lightning_01
-bounds:1085,1856,66,338
+bounds:1661,1799,66,338
 offsets:21,16,100,375
 rotate:90
 shandiankuang_add/lightning_02
-bounds:215,1883,64,347
+bounds:797,1818,64,347
 offsets:21,2,100,375
 rotate:90
 shandiankuang_add/lightning_03
-bounds:215,1883,64,347
+bounds:797,1818,64,347
 offsets:21,2,100,375
 rotate:90
 shandiankuang_add/lightning_04
-bounds:1129,1924,57,341
+bounds:1270,1878,57,341
 offsets:25,9,100,375
 rotate:90
 shandiankuang_add/lightning_05
-bounds:1129,1924,57,341
+bounds:1270,1878,57,341
 offsets:25,9,100,375
 rotate:90
 shandiankuang_add/lightning_06
-bounds:739,1861,65,344
+bounds:1146,1811,65,344
 offsets:20,9,100,375
 rotate:90
 shandiankuang_add/lightning_07
-bounds:739,1861,65,344
+bounds:1146,1811,65,344
 offsets:20,9,100,375
 rotate:90
 shandiankuang_add/lightning_08
-bounds:1554,1850,67,354
+bounds:343,1755,67,354
 offsets:19,9,100,375
 rotate:90
 shandiankuang_add/lightning_09
-bounds:1554,1850,67,354
+bounds:343,1755,67,354
 offsets:19,9,100,375
 rotate:90
 shandiankuang_add/lightning_10
-bounds:1605,1919,62,348
+bounds:2,1840,62,348
 offsets:23,7,100,375
 rotate:90
 shandiankuang_add/lightning_11
-bounds:1605,1919,62,348
+bounds:2,1840,62,348
 offsets:23,7,100,375
 rotate:90
+symbolBG/Female 1x6
+bounds:562,1212,139,500
+rotate:90
+symbolBG/Male 1x4
+bounds:226,1249,139,334
+rotate:90
+symbolBG/frameBot
+bounds:663,1897,139,38
+symbolBG/frameMid
+bounds:656,1824,139,71
 v logo
-bounds:564,1876,93,69
+bounds:352,1833,93,69
 wild chinese font
-bounds:5,1956,55,25
+bounds:5,1910,55,25
 offsets:0,1,56,26
 wild english font
-bounds:191,1954,76,27
+bounds:191,1908,76,27
 offsets:1,1,78,29
 wild spark
-bounds:130,1884,83,68
+bounds:1961,1867,83,68
 wind win_add/windwin_14
-bounds:1542,1527,121,129
+bounds:1192,1487,121,129
 offsets:20,29,175,175
 rotate:90
 wind win_add/windwin_15
-bounds:1542,1527,121,129
+bounds:1192,1487,121,129
 offsets:20,29,175,175
 rotate:90
 wind win_add/windwin_16
-bounds:1673,1524,125,124
+bounds:2,1430,125,124
 offsets:12,29,175,175
 wind win_add/windwin_17
-bounds:1385,1531,155,117
+bounds:1035,1493,155,117
 offsets:8,33,175,175
 wind win_add/windwin_18
-bounds:1385,1531,155,117
+bounds:1035,1493,155,117
 offsets:8,33,175,175
 wind win_add/windwin_19
-bounds:993,1652,156,110
+bounds:1425,1590,156,110
 offsets:9,35,175,175
 wind win_add/windwin_20
-bounds:178,1711,148,100
+bounds:331,1653,148,100
 offsets:17,37,175,175
 wind win_add/windwin_21
-bounds:178,1711,148,100
+bounds:331,1653,148,100
 offsets:17,37,175,175
 wind win_add/windwin_22
-bounds:841,1657,150,111
+bounds:2,1556,150,111
 offsets:17,42,175,175
 wind win_add/windwin_23
-bounds:793,1541,151,114
+bounds:308,1537,151,114
 offsets:11,37,175,175
 wind win_add/windwin_24
-bounds:793,1541,151,114
+bounds:308,1537,151,114
 offsets:11,37,175,175
 wind win_add/windwin_25
-bounds:1906,1724,133,114
+bounds:461,1535,133,114
 offsets:17,36,175,175
 you won chinese
-bounds:2,817,506,173
+bounds:402,1037,506,173
 offsets:3,3,512,176
 you won_add/youwon_06
-bounds:2,999,198,178
+bounds:2,1080,198,178
 offsets:185,201,595,511
 you won_add/youwon_07
-bounds:1233,105,551,226
+bounds:2,610,551,226
 offsets:21,179,595,511
 you won_add/youwon_24
-bounds:1802,485,244,353
+bounds:461,321,244,353
 offsets:203,73,595,511
+rotate:90
 you won_add/youwon_25
-bounds:510,796,194,259
+bounds:1162,1002,194,259
 offsets:205,164,595,511
 rotate:90
 you won_add/youwon_c_01
-bounds:1422,869,198,178
+bounds:202,1069,198,178
 offsets:182,191,595,511
 you won_add/youwon_c_02
-bounds:421,2,524,229
+bounds:1329,522,524,229
 offsets:38,168,595,511
 you won_add/youwon_c_19
-bounds:882,521,243,353
+bounds:974,543,243,353
 offsets:201,64,595,511
 rotate:90
 you won_add/youwon_c_20
-bounds:771,767,194,259
+bounds:1423,1002,194,259
 offsets:202,155,595,511
 rotate:90
 
 @1x_2.webp
-size:2048,1936
+size:2040,1919
 filter:Linear,Linear
 scale:0.5
-BIGWIN panel
-bounds:2,392,829,404
-HP male body
-bounds:833,371,722,361
-offsets:23,0,745,361
-YOUWIN frame
-bounds:2,19,794,371
-YOUWIN lighting
-bounds:863,1413,840,521
-offsets:12,11,863,599
-YOUWIN shadow
-bounds:2,798,857,537
-offsets:8,6,865,551
-big win_add2/glow_04
-bounds:1351,53,615,247
-offsets:42,22,700,300
-big win_add2/shine_07
-bounds:1705,1388,546,341
-offsets:24,143,595,511
+HP male body2
+bounds:1677,1631,286,361
+offsets:0,0,295,380
 rotate:90
-big win_add2/shine_08
-bounds:798,2,551,367
-offsets:21,117,595,511
-big win_add2/shine_11
-bounds:1615,302,541,431
-offsets:27,53,595,511
-rotate:90
-big win_add2/shine_21
-bounds:1630,845,541,416
-offsets:27,72,595,511
-rotate:90
-bigwin lighting
-bounds:2,1337,859,597
-offsets:6,6,865,650
-bigwinoutline
-bounds:861,734,752,315
-offsets:0,0,756,320
-female upper body
-bounds:863,1051,765,360
-
-@1x_3.webp
-size:2012,1957
-filter:Linear,Linear
-scale:0.5
-big win_add2/glow_03
-bounds:526,1709,516,246
-offsets:91,23,700,300
 big win_add2/glow_05
-bounds:1044,1708,587,247
+bounds:2,1670,587,247
 offsets:56,22,700,300
-big win_add2/glow_06
-bounds:2,1710,522,245
-offsets:88,23,700,300
 big win_add2/shin2_06
-bounds:1633,1646,375,309
+bounds:1085,1337,375,309
 offsets:82,181,595,511
 big win_add2/shine_06
-bounds:1616,1334,375,310
+bounds:1462,1319,375,310
 offsets:86,174,595,511
+bigwinoutline
+bounds:1201,681,752,315
+offsets:0,0,756,320
 you won_add/youwon_08
-bounds:2,1441,555,266
+bounds:591,1651,555,266
 offsets:19,160,595,511
 you won_add/youwon_09
-bounds:2,1138,553,301
+bounds:2,1367,553,301
 offsets:20,144,595,511
 you won_add/youwon_10
-bounds:1165,2,551,332
+bounds:725,18,551,332
 offsets:21,129,595,511
 you won_add/youwon_14
-bounds:2,818,539,318
+bounds:2,1047,539,318
 offsets:28,111,595,511
 you won_add/youwon_15
-bounds:557,1116,523,319
+bounds:543,1025,523,319
 offsets:40,99,595,511
 you won_add/youwon_16
-bounds:1565,1007,365,325
+bounds:1068,1010,365,325
 offsets:123,94,595,511
 you won_add/youwon_17
-bounds:1203,349,367,328
+bounds:785,352,367,328
 offsets:122,90,595,511
 you won_add/youwon_18
-bounds:543,788,412,326
+bounds:2,719,412,326
 offsets:118,90,595,511
 you won_add/youwon_19
-bounds:957,754,416,326
+bounds:416,697,416,326
 offsets:112,93,595,511
 you won_add/youwon_20
-bounds:1572,336,438,341
+bounds:1572,338,438,341
 offsets:83,76,595,511
 you won_add/youwon_23
-bounds:2,147,341,359
+bounds:2,48,341,359
 offsets:106,68,595,511
 rotate:90
 you won_add/youwon_c_03
-bounds:559,1437,527,269
+bounds:1148,1648,527,269
 offsets:36,149,595,511
 you won_add/youwon_c_04
-bounds:1088,1403,526,303
+bounds:557,1346,526,303
 offsets:37,133,595,511
+you won_add/youwon_c_05
+bounds:1278,2,524,334
+offsets:38,118,595,511
 you won_add/youwon_c_10
-bounds:1082,1082,481,319
+bounds:1435,998,481,319
 offsets:43,90,595,511
 you won_add/youwon_c_11
-bounds:1375,679,365,326
+bounds:834,682,365,326
 offsets:120,84,595,511
 you won_add/youwon_c_12
-bounds:416,459,367,327
+bounds:416,368,367,327
 offsets:120,81,595,511
 you won_add/youwon_c_13
-bounds:2,490,412,326
+bounds:2,391,412,326
 offsets:116,81,595,511
 you won_add/youwon_c_14
-bounds:785,425,416,327
+bounds:1154,352,416,327
 offsets:110,83,595,511
-you won_add/youwon_c_15
-bounds:725,82,438,341
-offsets:81,67,595,511
 you won_add/youwon_c_18
-bounds:363,116,341,360
+bounds:363,25,341,360
 offsets:103,58,595,511
 rotate:90
 
-@1x_4.webp
-size:1977,1859
+@1x_3.webp
+size:2042,1866
 filter:Linear,Linear
 scale:0.5
+HP male body
+bounds:2,436,722,361
+offsets:23,0,745,361
+YOUWIN frame
+bounds:427,57,794,371
 big win_add2/shin2_07
-bounds:528,1517,522,340
+bounds:2,1524,522,340
 offsets:36,150,595,511
 big win_add2/shin2_08
-bounds:2,793,528,366
+bounds:524,799,528,366
 offsets:32,124,595,511
-big win_add2/shin2_09
-bounds:1450,2,525,390
-offsets:34,100,595,511
 big win_add2/shin2_26
-bounds:2,22,393,421
+bounds:1647,2,393,421
 offsets:80,68,595,511
-rotate:90
 big win_add2/shin2_27
-bounds:1080,776,374,423
+bounds:2,60,374,423
 offsets:81,67,595,511
 rotate:90
 big win_add2/shin2_28
-bounds:1505,776,374,422
+bounds:1223,49,374,422
 offsets:81,68,595,511
 rotate:90
-big win_add2/shine_27
-bounds:2,417,374,423
-offsets:84,60,595,511
-rotate:90
-big win_add2/shine_28
-bounds:427,404,374,422
-offsets:85,61,595,511
-rotate:90
+big win_add2/shine_07
+bounds:526,1523,546,341
+offsets:24,143,595,511
+big win_add2/shine_08
+bounds:726,430,551,367
+offsets:21,117,595,511
+female upper body
+bounds:1054,799,765,360
 you won_add/youwon_11
-bounds:735,1154,547,357
+bounds:1168,1161,547,357
 offsets:23,116,595,511
 you won_add/youwon_12
-bounds:532,780,546,372
+bounds:1279,425,546,372
 offsets:24,107,595,511
-you won_add/youwon_13
-bounds:851,397,543,377
-offsets:26,106,595,511
 you won_add/youwon_21
-bounds:1052,1513,432,344
+bounds:1514,1520,432,344
 offsets:81,67,595,511
 you won_add/youwon_22
-bounds:2,1167,364,354
+bounds:435,1167,364,354
 offsets:89,66,595,511
-you won_add/youwon_c_05
-bounds:2,1523,524,334
-offsets:38,118,595,511
 you won_add/youwon_c_06
-bounds:1284,1152,520,359
+bounds:2,806,520,359
 offsets:40,107,595,511
-you won_add/youwon_c_07
-bounds:1396,394,519,380
-offsets:40,98,595,511
-you won_add/youwon_c_08
-bounds:933,6,515,386
-offsets:43,97,595,511
-you won_add/youwon_c_09
-bounds:425,12,506,383
-offsets:47,102,595,511
+you won_add/youwon_c_15
+bounds:1074,1523,438,341
+offsets:81,67,595,511
 you won_add/youwon_c_16
-bounds:1486,1513,431,344
+bounds:2,1178,431,344
 offsets:79,58,595,511
 you won_add/youwon_c_17
-bounds:368,1161,365,354
+bounds:801,1167,365,354
 offsets:86,57,595,511
 
+@1x_4.webp
+size:1732,2048
+filter:Linear,Linear
+scale:0.5
+BIGWIN panel
+bounds:853,1119,829,404
+YOUWIN lighting
+bounds:853,1525,840,521
+offsets:12,11,863,599
+big win_add2/shin2_12
+bounds:2,6,499,447
+offsets:56,43,595,511
+rotate:90
+big win_add2/shine_09
+bounds:2,1055,550,391
+offsets:22,93,595,511
+big win_add2/shine_10
+bounds:2,507,546,412
+offsets:24,72,595,511
+rotate:90
+big win_add2/shine_11
+bounds:1299,33,541,431
+offsets:27,53,595,511
+rotate:90
+big win_add2/shine_12
+bounds:1265,576,541,448
+offsets:27,36,595,511
+rotate:90
+big win_add2/shine_13
+bounds:836,33,541,461
+offsets:27,23,595,511
+rotate:90
+big win_add2/shine_14
+bounds:795,576,541,468
+offsets:27,17,595,511
+rotate:90
+bigwin lighting
+bounds:2,1448,849,598
+offsets:6,7,865,650
+you won_add/youwon_13
+bounds:416,510,543,377
+offsets:26,106,595,511
+rotate:90
+you won_add/youwon_c_09
+bounds:451,2,506,383
+offsets:47,102,595,511
+rotate:90
+
 @1x_5.webp
-size:2048,1708
+size:1996,2035
 filter:Linear,Linear
 scale:0.5
 big win_add2/shin2_10
-bounds:1631,150,522,411
+bounds:1371,131,522,411
 offsets:36,79,595,511
 rotate:90
-big win_add2/shin2_21
-bounds:1631,674,489,413
-offsets:66,79,595,511
+big win_add2/shin2_13
+bounds:522,1579,511,454
+offsets:44,37,595,511
+big win_add2/shin2_14
+bounds:2,1581,518,452
+offsets:37,39,595,511
+big win_add2/shin2_15
+bounds:952,2,521,401
+offsets:34,90,595,511
 rotate:90
-big win_add2/shine_09
-bounds:2,1315,550,391
-offsets:22,93,595,511
-big win_add2/shine_10
-bounds:554,1294,546,412
-offsets:24,72,595,511
-big win_add2/shine_12
-bounds:545,844,541,448
-offsets:27,36,595,511
-big win_add2/shine_13
-bounds:1102,1245,541,461
-offsets:27,23,595,511
-big win_add2/shine_14
-bounds:2,845,541,468
-offsets:27,17,595,511
+big win_add2/shin2_17
+bounds:2,5,489,405
+offsets:66,85,595,511
+rotate:90
 big win_add2/shine_15
-bounds:1645,1165,541,401
+bounds:968,525,541,401
 offsets:27,83,595,511
 rotate:90
 big win_add2/shine_16
-bounds:1088,425,541,405
+bounds:425,764,541,405
 offsets:27,79,595,511
 big win_add2/shine_17
-bounds:545,29,541,405
+bounds:2,496,541,405
 offsets:27,79,595,511
+rotate:90
 big win_add2/shine_18
-bounds:2,22,541,401
+bounds:409,361,541,401
 offsets:27,84,595,511
 big win_add2/shine_19
-bounds:545,436,541,406
+bounds:425,1171,541,406
 offsets:27,80,595,511
 big win_add2/shine_20
-bounds:1088,832,541,411
+bounds:1453,1079,541,411
 offsets:27,76,595,511
+big win_add2/shine_21
+bounds:1035,1068,541,416
+offsets:27,72,595,511
+rotate:90
 big win_add2/shine_22
-bounds:2,425,541,418
+bounds:1573,1492,541,418
 offsets:27,69,595,511
+rotate:90
 big win_add2/shine_23
-bounds:1088,2,540,421
+bounds:2,1039,540,421
 offsets:27,66,595,511
-
-@1x_6.webp
-size:1998,1708
-filter:Linear,Linear
-scale:0.5
-big win_add2/shin2_11
-bounds:477,28,489,430
-offsets:66,60,595,511
-big win_add2/shin2_12
-bounds:968,7,499,447
-offsets:56,43,595,511
-big win_add2/shin2_14
-bounds:1469,2,518,452
-offsets:37,39,595,511
-big win_add2/shin2_15
-bounds:493,1305,521,401
-offsets:34,90,595,511
-big win_add2/shin2_16
-bounds:1016,1302,489,404
-offsets:66,86,595,511
-big win_add2/shin2_17
-bounds:1507,1301,489,405
-offsets:66,85,595,511
-big win_add2/shin2_18
-bounds:2,1306,489,400
-offsets:66,91,595,511
-big win_add2/shin2_19
-bounds:2,899,489,405
-offsets:66,87,595,511
-big win_add2/shin2_20
-bounds:493,894,489,409
-offsets:66,83,595,511
-big win_add2/shin2_22
-bounds:984,884,489,416
-offsets:66,76,595,511
-big win_add2/shin2_23
-bounds:1475,880,472,419
-offsets:69,73,595,511
-big win_add2/shin2_24
-bounds:2,476,450,421
-offsets:77,71,595,511
-big win_add2/shin2_25
-bounds:454,471,421,422
-offsets:80,69,595,511
 rotate:90
 big win_add2/shine_24
-bounds:878,460,536,422
+bounds:1035,1611,536,422
 offsets:29,64,595,511
 big win_add2/shine_25
-bounds:1416,456,525,422
+bounds:1453,655,525,422
 offsets:35,62,595,511
-big win_add2/shine_26
-bounds:2,47,473,422
-offsets:64,61,595,511
 
-@1x_7.webp
-size:515,458
+@1x_6.webp
+size:1935,1668
 filter:Linear,Linear
 scale:0.5
-big win_add2/shin2_13
-bounds:2,2,511,454
-offsets:44,37,595,511
+big win_add2/shin2_09
+bounds:2,900,525,390
+offsets:34,100,595,511
+big win_add2/shin2_11
+bounds:1442,2,489,430
+offsets:66,60,595,511
+big win_add2/shin2_16
+bounds:1020,874,489,404
+offsets:66,86,595,511
+big win_add2/shin2_18
+bounds:529,884,489,400
+offsets:66,91,595,511
+big win_add2/shin2_19
+bounds:2,493,489,405
+offsets:66,87,595,511
+big win_add2/shin2_20
+bounds:493,473,489,409
+offsets:66,83,595,511
+big win_add2/shin2_21
+bounds:984,459,489,413
+offsets:66,79,595,511
+big win_add2/shin2_22
+bounds:2,75,489,416
+offsets:66,76,595,511
+big win_add2/shin2_23
+bounds:493,52,472,419
+offsets:69,73,595,511
+big win_add2/shin2_24
+bounds:1475,434,450,421
+offsets:77,71,595,511
+big win_add2/shin2_25
+bounds:1511,857,421,422
+offsets:80,69,595,511
+rotate:90
+big win_add2/shine_26
+bounds:967,35,473,422
+offsets:64,61,595,511
+big win_add2/shine_27
+bounds:2,1292,374,423
+offsets:84,60,595,511
+rotate:90
+big win_add2/shine_28
+bounds:427,1292,374,422
+offsets:85,61,595,511
+rotate:90
+you won_add/youwon_c_07
+bounds:851,1286,519,380
+offsets:40,98,595,511
+you won_add/youwon_c_08
+bounds:1372,1280,515,386
+offsets:43,97,595,511
