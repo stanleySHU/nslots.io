@@ -1,0 +1,25 @@
+$langs: cs en id kr kh th vn jp;
+$infoPage: 0 1 2;
+@each $i in $infoPage {
+    @each $j in $langs {
+        .info-#{$i}-#{$j}-l {
+            background-image: url('../assets/compress/info/#{$j}/l-#{$i}@1x.png');
+        }
+
+        .info-#{$i}-#{$j}-p {
+            background-image: url('../assets/compress/info/#{$j}/l-#{$i}@1x.png');
+        }
+    }
+}
+
+.blur-bg  {
+    filter: blur(10px);
+}
+
+.tab-bar-mod {
+    background-color: transparent;
+}
+
+.menu-mod {
+    bottom: 0rem!important;
+}

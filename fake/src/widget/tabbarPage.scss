@@ -1,0 +1,30 @@
+.tabbar-mod {
+    .tabbar-head-mod {
+        position: absolute;
+        height: 4rem;
+        width: 100%;
+        background-color: antiquewhite;
+        text-align: center;
+        font-size: 2rem;
+        line-height: 4rem;
+        .text {
+            margin-left: 2rem;
+            text-decoration: underline;
+            &:first-child {
+                margin-left: 0;
+            }
+        }
+    }
+    .tabbar-context-mod {
+        position: absolute;
+        top: 4rem;
+        bottom: 0;
+        width: 100%;
+        iframe: {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            bottom: 0;
+        }
+    }
+}
