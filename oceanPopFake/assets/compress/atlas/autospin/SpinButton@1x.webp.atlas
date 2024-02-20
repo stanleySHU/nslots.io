@@ -1,0 +1,97 @@
+
+SpinButton@1x.webp
+size: 730, 368
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Button
+  rotate: false
+  xy: 2, 138
+  size: 275, 228
+  orig: 275, 228
+  offset: 0, 0
+  index: -1
+fx2/Button00
+  rotate: false
+  xy: 2, 16
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button01
+  rotate: false
+  xy: 149, 16
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button02
+  rotate: false
+  xy: 279, 246
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button03
+  rotate: false
+  xy: 296, 124
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button04
+  rotate: false
+  xy: 426, 246
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button05
+  rotate: false
+  xy: 296, 2
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button06
+  rotate: false
+  xy: 573, 246
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button07
+  rotate: false
+  xy: 443, 124
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/Button08
+  rotate: false
+  xy: 443, 2
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+fx2/bubble
+  rotate: false
+  xy: 693, 90
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 590, 127
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+proxy_counter
+  rotate: false
+  xy: 590, 54
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
