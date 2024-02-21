@@ -1,11 +1,11 @@
 <font>
   <info face="goldFont@1x" size="70" bold="0" italic="0" charset="" unicode="" stretchH="100" smooth="1" aa="1" padding="2,2,2,2" spacing="0,0" outline="0"/>
-  <common lineHeight="88" base="65" scaleW="821" scaleH="107" pages="1" packed="0"/> 
+  <common lineHeight="88" base="65" scaleW="826" scaleH="107" pages="1" packed="0"/> 
   
   <pages>
     <page id="0" file="goldFont@1x.png"/>
   </pages>
-  <chars count="12">
+  <chars count="13">
   	
   		<char id="44" x="786" y="1" width="34" height="49" xoffset="0" yoffset="0" xadvance="34" page="0" chnl="15" letter=","/>
   	
@@ -28,6 +28,8 @@
   		<char id="56" x="430" y="1" width="64" height="105" xoffset="0" yoffset="0" xadvance="64" page="0" chnl="15" letter="8"/>
   	
   		<char id="57" x="150" y="1" width="72" height="105" xoffset="0" yoffset="0" xadvance="72" page="0" chnl="15" letter="9"/>
+  	
+  		<char id="46" x="786" y="52" width="39" height="39" xoffset="0" yoffset="60" xadvance="39" page="0" chnl="15" letter="dot"/>
   	
   		<char id="120" x="1" y="1" width="73" height="105" xoffset="22" yoffset="12" xadvance="128" page="0" chnl="15" letter="x"/>
   	
