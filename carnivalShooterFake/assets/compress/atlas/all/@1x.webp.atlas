@@ -1,958 +1,772 @@
 @1x.webp
-size:2047,1980
+size:2047,2015
 filter:Linear,Linear
 scale:0.5
 88800
-bounds:1128,1232,354,122
-offsets:3,2,360,126
+bounds:74,1988,25,25
+freespin xx
+bounds:74,1988,25,25
 Char A blue light
-bounds:1851,1069,162,134
-offsets:3,1,170,138
+bounds:1872,1602,170,138
 LP frame
-bounds:996,960,143,147
+bounds:2,1579,143,147
 rotate:90
 baida_add/baida_14
-bounds:1210,1773,132,86
-offsets:21,10,165,180
+bounds:1546,1471,165,180
 baida_add/baida_15
-bounds:423,1805,127,82
-offsets:21,25,165,180
-baida_add/baida_16
-bounds:191,1728,124,88
-offsets:22,38,165,180
-baida_add/baida_17
-bounds:2,1977,1,1
-baida_add/baida_18
-bounds:2,1977,1,1
-baida_add/baida_22
-bounds:2,1977,1,1
-baida_add/baida_23
-bounds:2,1977,1,1
-baida_add/baida_27
-bounds:2,1977,1,1
-baida_add/baida_28
-bounds:2,1977,1,1
-baida_add/baida_32
-bounds:2,1977,1,1
-baida_add/baida_33
-bounds:2,1977,1,1
-freespin xx
-bounds:2,1977,1,1
-baida_add/baida_19
-bounds:1725,1766,133,86
-offsets:27,53,165,180
-baida_add/baida_20
-bounds:997,1787,127,82
-offsets:27,56,165,180
-baida_add/baida_21
-bounds:409,1714,124,89
-offsets:22,54,165,180
-baida_add/baida_24
-bounds:159,1530,125,100
-offsets:19,47,165,180
-baida_add/baida_25
-bounds:768,1605,120,95
-offsets:16,40,165,180
-baida_add/baida_26
-bounds:1546,1674,117,94
-offsets:14,37,165,180
-baida_add/baida_29
-bounds:286,1516,125,100
-offsets:15,36,165,180
-baida_add/baida_30
-bounds:890,1596,120,95
-offsets:18,42,165,180
-baida_add/baida_31
-bounds:189,1632,117,94
-offsets:15,42,165,180
-baida_add/baida_34
-bounds:523,1506,125,100
-offsets:15,44,165,180
-baida_add/baida_35
-bounds:1012,1589,120,95
-offsets:14,46,165,180
-baida_add/baida_36
-bounds:308,1618,117,94
-offsets:16,46,165,180
-baida_add/jiangjin_01
-bounds:638,1796,167,81
-offsets:68,29,300,180
-baida_add/jiangjin_02
-bounds:1860,1762,175,86
-offsets:64,27,300,180
-baida_add/jiangjin_03
-bounds:786,1702,179,89
-offsets:62,25,300,180
-baida_add/jiangjin_04
-bounds:1665,1673,181,91
-offsets:61,24,300,180
-baida_add/jiangjin_05
-bounds:1848,1667,183,93
-offsets:60,23,300,180
-baida_add/jiangjin_06
-bounds:2,1641,185,93
-offsets:59,23,300,180
-baida_add/jiangjin_07
-bounds:1167,1680,185,90
-offsets:59,24,300,180
-baida_add/jiangjin_08
-bounds:2,1736,187,87
-offsets:58,25,300,180
-baida_add/jiangjin_09
-bounds:1344,1772,187,84
-offsets:58,26,300,180
-baida_add/jiangjin_10
-bounds:807,1793,188,81
-offsets:58,27,300,180
-baida_add/jiangjin_11
-bounds:2,1825,189,78
-offsets:57,28,300,180
-baida_add/jiangjin_12
-bounds:1548,1857,190,75
-offsets:57,29,300,180
-baida_add/jiangjin_13
-bounds:1548,1857,190,75
-offsets:57,29,300,180
-baida_add/jiangjin_14
-bounds:1548,1857,190,75
-offsets:57,29,300,180
-baida_add/jiangjin_15
-bounds:1533,1770,190,85
-offsets:57,29,300,180
-baida_add/jiangjin_16
-bounds:1539,1575,189,96
-offsets:57,28,300,180
-baida_add/jiangjin_17
-bounds:1525,1468,189,105
-offsets:57,27,300,180
-baida_add/jiangjin_18
-bounds:410,1392,190,112
-offsets:56,26,300,180
-baida_add/jiangjin_19
-bounds:1083,1358,194,116
-offsets:52,26,300,180
-baida_add/jiangjin_20
-bounds:378,1270,198,120
-offsets:48,25,300,180
-baida_add/jiangjin_21
-bounds:240,1144,204,124
-offsets:45,24,300,180
-baida_add/jiangjin_22
-bounds:1123,1105,211,125
-offsets:42,24,300,180
-baida_add/jiangjin_23
-bounds:1481,1089,217,125
-offsets:39,24,300,180
-baida_add/jiangjin_24
-bounds:234,1008,222,126
-offsets:37,24,300,180
-baida_add/jiangjin_25
-bounds:613,984,226,126
-offsets:35,24,300,180
-baida_add/jiangjin_26
-bounds:2,1033,230,125
-offsets:33,24,300,180
-baida_add/jiangjin_27
-bounds:446,1136,233,124
-offsets:32,24,300,180
-baida_add/jiangjin_28
-bounds:2,1160,236,122
-offsets:31,24,300,180
-baida_add/jiangjin_29
-bounds:888,1236,238,120
-offsets:30,25,300,180
-baida_add/jiangjin_30
-bounds:1802,1338,239,117
-offsets:30,25,300,180
-baida_add/jiangjin_31
-bounds:137,1284,239,117
-offsets:31,23,300,180
-baida_add/jiangjin_32
-bounds:1279,1356,237,116
-offsets:34,21,300,180
-baida_add/jiangjin_33
-bounds:602,1386,201,114
-offsets:70,19,300,180
-baida_add/jiangjin_34
-bounds:1844,1457,201,108
-offsets:70,19,300,180
-baida_add/jiangjin_35
-bounds:809,1491,200,103
-offsets:70,20,300,180
-baida_add/jiangjin_36
-bounds:1128,1476,198,103
-offsets:71,20,300,180
-baida_add/jiangjin_37
-bounds:1328,1474,195,103
-offsets:72,20,300,180
-baida_add/jiangjin_38
-bounds:650,1502,157,101
-offsets:73,21,300,180
-baida_add/jiangjin_39
-bounds:2,1540,155,99
-offsets:74,22,300,180
-baida_add/jiangjin_40
-bounds:1839,1567,153,98
-offsets:75,22,300,180
-baida_add/jiangjin_41
-bounds:1134,1583,151,95
-offsets:76,24,300,180
-baida_add/jiangjin_42
-bounds:637,1704,147,90
-offsets:78,26,300,180
-baida_add/jiangjin_43
-bounds:193,1818,137,81
-offsets:83,31,300,180
-bear
-bounds:950,1360,118,131
+bounds:1713,1435,165,180
 rotate:90
-big win chinese font
-bounds:515,250,424,202
-offsets:3,3,430,205
-big win/bigwin_06
-bounds:160,835,216,171
-offsets:199,175,650,550
-big win/bigwin_07
-bounds:941,186,520,224
-offsets:71,150,650,550
-big win/bigwin_32
-bounds:458,997,153,137
-offsets:326,285,650,550
-big win/bigwin_33
-bounds:2,1427,142,111
-offsets:336,288,650,550
-big win/bigwin_ch_06
-bounds:378,824,216,171
-offsets:183,214,600,600
-big win/bigwin_ch_07
-bounds:2,54,401,234
-offsets:129,189,600,600
-big win/bigwin_ch_32
-bounds:841,973,153,137
-offsets:310,324,600,600
-big win/bigwin_ch_33
-bounds:266,1403,142,111
-offsets:320,327,600,600
+baida_add/baida_16
+bounds:2,1398,165,180
+rotate:90
+baida_add/baida_17
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_18
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_22
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_23
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_27
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_28
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_32
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_33
+bounds:700,1360,165,180
+rotate:90
+baida_add/baida_19
+bounds:882,1345,165,180
+rotate:90
+baida_add/baida_20
+bounds:1064,1345,165,180
+rotate:90
+baida_add/baida_21
+bounds:1246,1326,165,180
+rotate:90
+baida_add/baida_24
+bounds:1428,1304,165,180
+rotate:90
+baida_add/baida_25
+bounds:1610,1268,165,180
+rotate:90
+baida_add/baida_26
+bounds:1792,1268,165,180
+rotate:90
+baida_add/baida_29
+bounds:2,1231,165,180
+rotate:90
+baida_add/baida_30
+bounds:184,1231,165,180
+rotate:90
+baida_add/baida_31
+bounds:366,1231,165,180
+rotate:90
+baida_add/baida_34
+bounds:548,1193,165,180
+rotate:90
+baida_add/baida_35
+bounds:730,1178,165,180
+rotate:90
+baida_add/baida_36
+bounds:912,1178,165,180
+rotate:90
+baida_add/jiangjin_01
+bounds:1094,1144,300,180
+baida_add/jiangjin_02
+bounds:501,996,300,180
+baida_add/jiangjin_03
+bounds:1029,962,300,180
+baida_add/jiangjin_04
+bounds:1331,912,300,180
+baida_add/jiangjin_05
+bounds:1633,912,300,180
+baida_add/jiangjin_06
+bounds:2,874,300,180
+baida_add/jiangjin_07
+bounds:304,814,300,180
+baida_add/jiangjin_08
+bounds:606,783,300,180
+baida_add/jiangjin_09
+bounds:908,780,300,180
+baida_add/jiangjin_10
+bounds:1210,730,300,180
+baida_add/jiangjin_11
+bounds:1512,730,300,180
+baida_add/jiangjin_12
+bounds:2,692,300,180
+baida_add/jiangjin_13
+bounds:2,692,300,180
+baida_add/jiangjin_14
+bounds:2,692,300,180
+baida_add/jiangjin_15
+bounds:304,632,300,180
+baida_add/jiangjin_16
+bounds:1814,610,300,180
+rotate:90
+baida_add/jiangjin_17
+bounds:606,601,300,180
+baida_add/jiangjin_18
+bounds:908,598,300,180
+baida_add/jiangjin_19
+bounds:1210,548,300,180
+baida_add/jiangjin_20
+bounds:1512,548,300,180
+baida_add/jiangjin_21
+bounds:2,510,300,180
+baida_add/jiangjin_22
+bounds:304,450,300,180
+baida_add/jiangjin_23
+bounds:606,419,300,180
+baida_add/jiangjin_24
+bounds:908,416,300,180
+baida_add/jiangjin_25
+bounds:1210,366,300,180
+baida_add/jiangjin_26
+bounds:1512,366,300,180
+baida_add/jiangjin_27
+bounds:2,328,300,180
+baida_add/jiangjin_28
+bounds:1814,308,300,180
+rotate:90
+baida_add/jiangjin_29
+bounds:304,268,300,180
+baida_add/jiangjin_30
+bounds:606,237,300,180
+baida_add/jiangjin_31
+bounds:908,234,300,180
+baida_add/jiangjin_32
+bounds:1210,184,300,180
+baida_add/jiangjin_33
+bounds:1512,184,300,180
+baida_add/jiangjin_34
+bounds:2,146,300,180
+baida_add/jiangjin_35
+bounds:304,86,300,180
+baida_add/jiangjin_36
+bounds:606,55,300,180
+baida_add/jiangjin_37
+bounds:908,52,300,180
+baida_add/jiangjin_38
+bounds:1814,6,300,180
+rotate:90
+baida_add/jiangjin_39
+bounds:1210,2,300,180
+baida_add/jiangjin_40
+bounds:1512,2,300,180
+bear
+bounds:2,1727,118,131
+rotate:90
 bigwin
-bounds:596,801,510,157
-offsets:2,2,514,161
+bounds:184,1398,514,161
 bonus
-bounds:1573,1934,128,44
+bounds:1721,1969,128,44
 bonus chinese font
-bounds:1801,1933,89,45
+bounds:1949,1968,89,45
 bonus light
-bounds:1255,1861,131,75
-offsets:2,0,135,75
+bounds:1524,1893,135,75
 bonus light top
-bounds:752,1946,116,32
-offsets:1,1,117,33
+bounds:227,1980,117,33
 carousel
-bounds:755,1243,130,131
+bounds:855,1679,130,131
 rotate:90
 carousel_left
-bounds:1158,1944,34,39
+bounds:478,1979,34,39
 rotate:90
 carousel_middle
-bounds:1199,1944,34,37
-offsets:0,0,35,37
+bounds:519,1978,35,37
 rotate:90
 carousel_right
-bounds:870,1946,32,40
+bounds:185,1981,32,40
 rotate:90
 center
-bounds:54,1905,60,49
+bounds:209,1929,60,49
 char A beard left
-bounds:449,1949,39,29
+bounds:101,1984,39,29
 char A beard right
-bounds:37,1957,38,21
+bounds:2,1992,38,21
 char A face
-bounds:2,1304,121,133
+bounds:543,1694,121,133
 rotate:90
 char A hat
-bounds:1393,1579,144,97
-offsets:0,11,144,108
+bounds:1531,1782,144,108
 char A left arm up
-bounds:1354,1678,90,190
+bounds:357,1830,90,190
 rotate:90
 char A left hand
-bounds:578,1262,175,122
+bounds:678,1691,175,122
 char A right hand
-bounds:1690,704,211,224
+bounds:803,965,211,224
 rotate:90
 char B body
-bounds:817,1876,68,102
-offsets:1,13,69,115
+bounds:1078,1907,69,115
 rotate:90
 char B face
-bounds:393,1893,54,60
+bounds:393,1924,54,60
 rotate:90
 char B frame
-bounds:1766,917,158,150
-offsets:0,16,158,166
+bounds:1378,1493,158,166
+rotate:90
 char B gun
-bounds:921,1876,82,68
-offsets:15,0,97,68
+bounds:979,1908,97,68
 char B left arm
-bounds:1238,1941,37,54
+bounds:1384,1976,37,54
 rotate:90
 char B left hand
-bounds:1984,1931,61,47
+bounds:2,1941,61,47
 char B light
-bounds:1884,1205,152,131
-offsets:14,3,180,137
+bounds:988,1668,180,137
 char B right arm
-bounds:709,1947,31,41
+bounds:142,1982,31,41
 rotate:90
 char B shadow
-bounds:1700,1083,131,149
-offsets:4,4,137,155
+bounds:1715,1635,137,155
 rotate:90
 club
-bounds:1469,1858,75,77
-rotate:90
+bounds:1363,1897,75,77
 club back
-bounds:1388,1858,75,79
+bounds:1661,1892,75,79
 rotate:90
 club down
-bounds:77,1956,89,22
-offsets:13,2,116,35
+bounds:558,1978,116,35
 club shadow
-bounds:1070,1686,93,95
-offsets:2,2,97,99
+bounds:1211,1804,97,99
 rotate:90
 diamond
-bounds:1923,1850,79,87
+bounds:1827,1888,79,87
 rotate:90
 diamond back
-bounds:332,1809,82,89
+bounds:2,1851,82,89
 rotate:90
 diamond shadow
-bounds:967,1693,92,101
-offsets:2,3,96,106
+bounds:1103,1807,96,106
 rotate:90
 diomond down
-bounds:362,1954,85,24
-offsets:15,1,116,35
+bounds:676,1978,116,35
 dog
-bounds:1336,1091,143,139
+bounds:1170,1659,143,139
+rotate:90
 duck a
-bounds:455,1889,62,57
+bounds:617,1919,62,57
 duck a2
-bounds:519,1889,62,57
+bounds:681,1919,62,57
 duck a3
-bounds:583,1883,66,63
+bounds:745,1913,66,63
 duck a4
-bounds:1005,1872,73,71
-offsets:1,1,75,73
+bounds:1286,1903,75,73
 duck b
-bounds:651,1880,65,81
+bounds:813,1911,65,81
 rotate:90
 duck b2
-bounds:734,1879,65,81
+bounds:896,1911,65,81
 rotate:90
 duck b3
-bounds:1080,1871,71,89
+bounds:1195,1905,71,89
 rotate:90
 duck b4
-bounds:1825,1854,77,96
-offsets:1,1,79,97
+bounds:1916,1887,79,97
 rotate:90
 duck c
-bounds:1703,1934,47,44
+bounds:1851,1969,47,44
 duck c2
-bounds:1752,1934,47,44
+bounds:1900,1969,47,44
 duck c3
-bounds:2,1907,50,48
+bounds:157,1931,50,48
 duck c4
-bounds:336,1899,55,53
-offsets:1,1,59,55
+bounds:455,1922,59,55
 flag
-bounds:5,1965,30,13
-offsets:0,0,30,23
+bounds:42,1990,30,23
 frame
-bounds:2,881,156,150
+bounds:748,1527,156,150
 free spin
-bounds:681,1112,440,122
-offsets:3,3,446,128
+bounds:300,1561,446,128
 free spin ch
-bounds:1484,1216,398,120
-offsets:2,2,402,125
+bounds:1311,1653,402,125
 freespin ribon
-bounds:1294,942,470,139
+bounds:906,1512,470,139
 gun
-bounds:1518,1348,151,118
+bounds:259,1710,151,118
 heart
-bounds:1171,1865,82,74
+bounds:1440,1895,82,74
 heart back
-bounds:1740,1855,83,76
+bounds:1742,1891,83,76
 heart down
-bounds:266,1955,94,23
-offsets:12,0,116,35
+bounds:794,1978,116,35
 heart shadow
-bounds:535,1707,100,90
-offsets:2,3,105,95
+bounds:890,1811,105,95
 hp soft toy frame
-bounds:1145,960,143,147
+bounds:151,1565,143,147
 rotate:90
 kangaroo
-bounds:1730,1570,101,107
+bounds:1312,1794,101,107
 rotate:90
 kangaroo back
-bounds:413,1512,104,108
+bounds:1421,1787,104,108
 rotate:90
 kangaroo down
-bounds:912,1946,112,32
-offsets:4,0,116,35
+bounds:912,1978,116,35
 kangaroo shadow
-bounds:146,1414,114,118
-offsets:3,2,119,122
+bounds:135,1724,119,122
 rotate:90
 lion
-bounds:805,1375,143,114
+bounds:1931,1742,143,114
+rotate:90
 monkey
-bounds:650,1608,94,116
+bounds:667,1817,94,116
 rotate:90
 monkey back
-bounds:532,1608,94,116
+bounds:549,1823,94,116
 rotate:90
 monkey down
-bounds:490,1948,101,30
-offsets:8,0,116,35
+bounds:1030,1978,116,35
 monkey shadow
-bounds:1716,1460,105,126
-offsets:2,2,109,130
+bounds:1677,1780,109,130
 rotate:90
 penguin
-bounds:1671,1339,119,129
+bounds:412,1709,119,129
 rotate:90
 rabbit
-bounds:427,1618,103,94
+bounds:785,1815,103,94
 rabbit back
-bounds:1287,1581,104,95
+bounds:997,1810,104,95
 rabbit down
-bounds:593,1948,114,30
-offsets:2,0,116,35
+bounds:1148,1978,116,35
 rabbit shadow
-bounds:1011,1480,115,107
-offsets:3,2,120,111
+bounds:1809,1774,120,111
 ribon
-bounds:1431,1935,140,43
+bounds:1579,1970,140,43
 scatter
-bounds:1294,1938,135,40
-offsets:1,1,137,42
+bounds:1440,1971,137,42
 scatter chinese font
-bounds:1892,1933,90,45
+bounds:65,1935,90,45
 sign
-bounds:1026,1945,130,33
+bounds:346,1980,130,33
 spade
-bounds:1126,1781,82,82
+bounds:179,1845,82,82
 spade back
-bounds:552,1799,82,84
+bounds:93,1847,82,84
 rotate:90
 spade down
-bounds:168,1956,96,22
-offsets:10,1,116,35
+bounds:1266,1978,116,35
 spade shadow
-bounds:317,1718,90,89
-offsets:1,1,92,91
+bounds:263,1835,92,91
 wild
-bounds:116,1905,119,49
-offsets:1,0,120,50
+bounds:271,1928,120,50
 wild chinese font
-bounds:237,1901,97,52
-offsets:1,1,99,54
+bounds:516,1922,99,54
 you win
-bounds:1108,775,580,165
-offsets:4,4,588,172
+bounds:1396,1094,588,172
 you win ch
-bounds:557,628,493,171
-offsets:2,2,497,173
-you won/yonwon_06
-bounds:557,454,460,172
-offsets:89,178,650,500
-you won/yonwon_07
-bounds:1463,99,557,225
-offsets:47,153,650,500
-you won/yonwon_31
-bounds:2,487,553,168
-offsets:49,152,650,500
-you won/yonwon_32
-bounds:1052,607,553,166
-offsets:49,154,650,500
-you won/yonwon_33
-bounds:2,657,553,165
-offsets:49,154,650,500
-you won/yonwon_ch_06
-bounds:1607,523,412,179
-offsets:101,212,600,600
-you won/yonwon_ch_07
-bounds:405,2,513,246
-offsets:44,187,600,600
-you won/yonwon_ch_31
-bounds:1532,326,511,195
-offsets:45,179,600,600
-you won/yonwon_ch_32
-bounds:2,290,511,195
-offsets:45,179,600,600
-you won/yonwon_ch_33
-bounds:1019,412,511,193
-offsets:45,180,600,600
+bounds:2,1056,497,173
 
 @1x_2.webp
-size:1969,1845
+size:1835,1728
 filter:Linear,Linear
 scale:0.5
-big win/bigwin_08
-bounds:2,1332,545,264
-offsets:54,131,650,550
-big win/bigwin_09
-bounds:1389,984,538,297
-offsets:58,115,650,550
-big win/bigwin_10
-bounds:2,421,517,326
-offsets:73,101,650,550
-big win/bigwin_11
-bounds:896,2,448,353
-offsets:106,88,650,550
-big win/bigwin_31
-bounds:1625,1564,310,279
-offsets:169,149,650,550
-big win/bigwin_ch_08
-bounds:2,1062,453,268
-offsets:96,170,600,600
-big win/bigwin_ch_09
-bounds:2,763,440,297
-offsets:106,154,600,600
-big win/bigwin_ch_10
-bounds:963,699,407,326
-offsets:123,140,600,600
-big win/bigwin_ch_11
-bounds:1346,2,390,353
-offsets:110,127,600,600
-big win/bigwin_ch_30
-bounds:507,35,387,359
-offsets:153,111,600,600
-big win/bigwin_ch_31
-bounds:1625,1283,310,279
-offsets:153,188,600,600
+baida_add/jiangjin_41
+bounds:2,1546,300,180
+baida_add/jiangjin_42
+bounds:304,1546,300,180
+baida_add/jiangjin_43
+bounds:606,1546,300,180
+big win back
+bounds:2,669,566,482
+big win chinese font
+bounds:908,1521,430,205
 char A body
-bounds:521,396,351,373
+bounds:2,1193,351,373
 rotate:90
 freespin frame
-bounds:977,1027,410,286
+bounds:1340,1382,493,344
 freespin light
-bounds:2,79,503,340
-offsets:30,12,558,374
-you won/yonwon_08
-bounds:1062,1315,561,265
-offsets:45,134,650,500
-you won/yonwon_09
-bounds:1372,685,559,297
-offsets:46,118,650,500
-you won/yonwon_10
-bounds:896,357,556,326
-offsets:47,104,650,500
-you won/yonwon_29
-bounds:557,1597,553,246
-offsets:49,78,650,500
-you won/yonwon_30
-bounds:2,1598,553,245
-offsets:49,75,650,500
-you won/yonwon_ch_08
-bounds:457,1049,518,280
-offsets:41,170,600,600
-you won/yonwon_ch_09
-bounds:444,749,517,298
-offsets:42,154,600,600
-you won/yonwon_ch_10
-bounds:1454,357,513,326
-offsets:44,140,600,600
-you won/yonwon_ch_29
-bounds:1112,1582,511,261
-offsets:45,114,600,600
-you won/yonwon_ch_30
-bounds:549,1331,511,264
-offsets:45,111,600,600
+bounds:1127,1006,558,374
+freespin stars
+bounds:377,1153,748,366
+you won/dibu_09
+bounds:570,601,550,550
+you won/dibu_10
+bounds:2,117,550,550
+you won/dibu_11
+bounds:554,49,550,550
+you won/yonwon_06
+bounds:1122,504,650,500
+you won/yonwon_07
+bounds:1106,2,650,500
 
 @1x_3.webp
-size:1845,2047
+size:2006,1722
 filter:Linear,Linear
 scale:0.5
 big win light
-bounds:2,2,801,543
-offsets:9,17,823,577
-confetti1
-bounds:900,4,803,637
+bounds:1427,193,823,577
+rotate:90
 confetti2
-bounds:2,1272,896,773
+bounds:2,947,896,773
 confetti3
-bounds:2,547,896,723
+bounds:702,49,896,723
+rotate:90
 confetti4
-bounds:900,643,934,702
+bounds:900,1018,934,702
 confetti5
-bounds:900,1347,943,698
+bounds:2,2,943,698
+rotate:90
 
 @1x_4.webp
-size:2042,1937
-filter:Linear,Linear
-scale:0.5
-big win/bigwin_12
-bounds:1168,1198,421,375
-offsets:114,77,650,550
-big win/bigwin_13
-bounds:557,433,446,396
-offsets:104,66,650,550
-big win/bigwin_29
-bounds:1468,1575,425,360
-offsets:137,75,650,550
-big win/bigwin_30
-bounds:1063,1576,403,359
-offsets:153,72,650,550
-big win/bigwin_ch_12
-bounds:1591,1198,404,375
-offsets:98,116,600,600
-big win/bigwin_ch_13
-bounds:1609,800,422,396
-offsets:88,105,600,600
-big win/bigwin_ch_28
-bounds:1620,2,420,413
-offsets:126,71,600,600
-big win/bigwin_ch_29
-bounds:2,1220,414,360
-offsets:126,114,600,600
-freespin stars
-bounds:418,1208,748,366
-you won/yonwon_11
-bounds:2,1582,550,353
-offsets:50,91,650,500
-you won/yonwon_12
-bounds:2,831,545,375
-offsets:53,80,650,500
-you won/yonwon_13
-bounds:1071,19,547,396
-offsets:52,69,650,500
-you won/yonwon_26
-bounds:515,43,554,387
-offsets:48,32,650,500
-you won/yonwon_27
-bounds:1054,815,553,381
-offsets:49,37,650,500
-you won/yonwon_28
-bounds:2,448,553,381
-offsets:49,35,650,500
-you won/yonwon_ch_11
-bounds:554,1582,507,353
-offsets:48,127,600,600
-you won/yonwon_ch_12
-bounds:549,831,503,375
-offsets:49,116,600,600
-you won/yonwon_ch_26
-bounds:2,59,511,387
-offsets:45,68,600,600
-you won/yonwon_ch_27
-bounds:1005,432,511,381
-offsets:45,73,600,600
-you won/yonwon_ch_28
-bounds:1518,417,511,381
-offsets:45,71,600,600
-
-@1x_5.webp
-size:2028,1681
-filter:Linear,Linear
-scale:0.5
-big win/bigwin_14
-bounds:2,868,472,413
-offsets:94,57,650,550
-big win/bigwin_25
-bounds:437,18,476,425
-offsets:95,24,650,550
-big win/bigwin_26
-bounds:884,445,468,418
-offsets:104,31,650,550
-big win/bigwin_27
-bounds:2,452,453,414
-offsets:116,34,650,550
-big win/bigwin_28
-bounds:1579,1266,447,413
-offsets:121,32,650,550
-big win/bigwin_ch_14
-bounds:1031,865,438,413
-offsets:79,96,600,600
-big win/bigwin_ch_24
-bounds:915,8,435,436
-offsets:114,67,600,600
-rotate:90
-big win/bigwin_ch_25
-bounds:2,25,433,425
-offsets:116,63,600,600
-big win/bigwin_ch_26
-bounds:1354,429,431,420
-offsets:118,68,600,600
-big win/bigwin_ch_27
-bounds:457,450,425,414
-offsets:124,73,600,600
-you won/yonwon_14
-bounds:476,866,553,412
-offsets:49,60,650,500
-you won/yonwon_15
-bounds:1353,2,555,425
-offsets:48,52,650,500
-you won/yonwon_25
-bounds:510,1280,554,399
-offsets:48,27,650,500
-you won/yonwon_ch_13
-bounds:2,1283,506,396
-offsets:48,105,600,600
-you won/yonwon_ch_14
-bounds:1471,851,510,413
-offsets:45,96,600,600
-you won/yonwon_ch_25
-bounds:1066,1280,511,399
-offsets:45,63,600,600
-
-@1x_6.webp
-size:2044,1740
-filter:Linear,Linear
-scale:0.5
-big win/bigwin_15
-bounds:2,1311,511,427
-offsets:76,49,650,550
-big win/bigwin_19
-bounds:559,876,500,433
-offsets:80,40,650,550
-big win/bigwin_20
-bounds:1061,872,502,433
-offsets:77,42,650,550
-big win/bigwin_23
-bounds:2,442,511,433
-offsets:67,31,650,550
-big win/bigwin_ch_15
-bounds:515,1311,456,427
-offsets:73,88,600,600
-big win/bigwin_ch_19
-bounds:1565,872,476,433
-offsets:64,79,600,600
-big win/bigwin_ch_20
-bounds:515,441,482,433
-offsets:61,81,600,600
-big win/bigwin_ch_23
-bounds:999,437,497,433
-offsets:51,70,600,600
-you won/yonwon_16
-bounds:515,2,557,433
-offsets:47,45,650,500
-you won/yonwon_19
-bounds:2,877,555,432
-offsets:48,43,650,500
-you won/yonwon_20
-bounds:1488,1307,554,431
-offsets:48,45,650,500
-you won/yonwon_21
-bounds:1074,2,554,433
-offsets:48,42,650,500
-you won/yonwon_ch_15
-bounds:973,1311,513,427
-offsets:44,88,600,600
-you won/yonwon_ch_19
-bounds:1498,437,513,433
-offsets:44,79,600,600
-you won/yonwon_ch_20
-bounds:2,7,511,433
-offsets:45,81,600,600
-
-@1x_7.webp
-size:2046,1760
-filter:Linear,Linear
-scale:0.5
-big win/bigwin_16
-bounds:515,6,522,438
-offsets:71,42,650,550
-big win/bigwin_21
-bounds:1071,1322,504,436
-offsets:74,39,650,550
-big win/bigwin_22
-bounds:1039,2,507,438
-offsets:70,35,650,550
-big win/bigwin_24
-bounds:2,887,492,436
-offsets:86,28,650,550
-big win/bigwin_ch_16
-bounds:1577,1320,467,438
-offsets:71,81,600,600
-big win/bigwin_ch_21
-bounds:496,887,487,436
-offsets:58,78,600,600
-big win/bigwin_ch_22
-bounds:1543,880,492,438
-offsets:54,74,600,600
-you won/dibu_14
-bounds:1548,2,438,452
-offsets:39,41,550,550
-rotate:90
-you won/yonwon_17
-bounds:985,884,556,436
-offsets:47,41,650,500
-you won/yonwon_22
-bounds:2,449,554,436
-offsets:48,38,650,500
-you won/yonwon_23
-bounds:2,1325,554,433
-offsets:48,34,650,500
-you won/yonwon_24
-bounds:558,446,555,436
-offsets:48,31,650,500
-you won/yonwon_ch_21
-bounds:1115,442,511,436
-offsets:45,78,600,600
-you won/yonwon_ch_23
-bounds:558,1325,511,433
-offsets:45,70,600,600
-you won/yonwon_ch_24
-bounds:2,11,511,436
-offsets:45,67,600,600
-
-@1x_8.webp
-size:2006,1759
+size:1845,2031
 filter:Linear,Linear
 scale:0.5
 Char A light
-bounds:863,1054,801,703
-offsets:9,23,823,743
-big win back
-bounds:1438,584,566,468
-offsets:0,0,566,482
-big win/bigwin_17
-bounds:2,580,522,439
-offsets:71,38,650,550
+bounds:863,1206,823,743
+rotate:90
+big win/bigwin_ch_06
+bounds:641,604,600,600
+big win/bigwin_ch_07
+bounds:1243,604,600,600
+big win/bigwin_ch_08
+bounds:641,2,600,600
+big win/bigwin_ch_09
+bounds:1243,2,600,600
+confetti1
+bounds:2,488,803,637
+rotate:90
 confetti6
-bounds:2,1021,859,736
-confetti7
-bounds:863,518,573,534
-you won/yonwon_18
-bounds:1438,141,555,441
-offsets:48,40,650,500
-you won/yonwon_ch_16
-bounds:958,2,514,438
-offsets:43,81,600,600
-rotate:90
-you won/yonwon_ch_17
-bounds:517,3,513,439
-offsets:44,77,600,600
-rotate:90
-you won/yonwon_ch_18
-bounds:2,137,513,441
-offsets:44,76,600,600
+bounds:2,1293,859,736
+
+@1x_5.webp
+size:1958,1658
+filter:Linear,Linear
+scale:0.5
+big win/bigwin_06
+bounds:2,1106,650,550
+big win/bigwin_07
+bounds:2,554,650,550
+big win/bigwin_08
+bounds:654,1106,650,550
+big win/bigwin_09
+bounds:2,2,650,550
+big win/bigwin_10
+bounds:654,554,650,550
+big win/bigwin_11
+bounds:1306,1106,650,550
+big win/bigwin_12
+bounds:654,2,650,550
+big win/bigwin_13
+bounds:1306,554,650,550
+big win/bigwin_14
+bounds:1306,2,650,550
+
+@1x_6.webp
+size:1958,1658
+filter:Linear,Linear
+scale:0.5
+big win/bigwin_15
+bounds:2,1106,650,550
+big win/bigwin_16
+bounds:2,554,650,550
+big win/bigwin_17
+bounds:654,1106,650,550
+big win/bigwin_18
+bounds:2,2,650,550
+big win/bigwin_19
+bounds:654,554,650,550
+big win/bigwin_20
+bounds:1306,1106,650,550
+big win/bigwin_21
+bounds:654,2,650,550
+big win/bigwin_22
+bounds:1306,554,650,550
+big win/bigwin_23
+bounds:1306,2,650,550
+
+@1x_7.webp
+size:1958,1658
+filter:Linear,Linear
+scale:0.5
+big win/bigwin_24
+bounds:2,1106,650,550
+big win/bigwin_25
+bounds:2,554,650,550
+big win/bigwin_26
+bounds:654,1106,650,550
+big win/bigwin_27
+bounds:2,2,650,550
+big win/bigwin_28
+bounds:654,554,650,550
+big win/bigwin_29
+bounds:1306,1106,650,550
+big win/bigwin_30
+bounds:654,2,650,550
+big win/bigwin_31
+bounds:1306,554,650,550
+big win/bigwin_32
+bounds:1306,2,650,550
+
+@1x_8.webp
+size:1808,1808
+filter:Linear,Linear
+scale:0.5
+big win/bigwin_ch_10
+bounds:2,1206,600,600
+big win/bigwin_ch_11
+bounds:2,604,600,600
+big win/bigwin_ch_12
+bounds:2,2,600,600
+big win/bigwin_ch_13
+bounds:604,1206,600,600
+big win/bigwin_ch_14
+bounds:1206,1206,600,600
+big win/bigwin_ch_15
+bounds:604,604,600,600
+big win/bigwin_ch_16
+bounds:604,2,600,600
+big win/bigwin_ch_17
+bounds:1206,604,600,600
+big win/bigwin_ch_18
+bounds:1206,2,600,600
 
 @1x_9.webp
-size:1894,1774
+size:1808,1808
 filter:Linear,Linear
 scale:0.5
-big win/bigwin_18
-bounds:1366,890,509,441
-offsets:77,37,650,550
-big win/bigwin_ch_17
-bounds:968,1333,470,439
-offsets:66,77,600,600
-big win/bigwin_ch_18
-bounds:2,449,473,441
-offsets:64,76,600,600
-you won/dibu_09
-bounds:456,892,440,454
-offsets:40,42,550,550
-rotate:90
-you won/dibu_10
-bounds:477,448,441,453
-offsets:39,42,550,550
-rotate:90
-you won/dibu_11
-bounds:912,891,440,452
-offsets:39,42,550,550
-rotate:90
-you won/dibu_12
-bounds:1440,1333,439,452
-offsets:39,42,550,550
-rotate:90
-you won/dibu_13
-bounds:2,893,439,452
-offsets:39,41,550,550
-rotate:90
-you won/dibu_15
-bounds:2,1334,438,451
-offsets:39,41,550,550
-rotate:90
-you won/dibu_16
-bounds:912,2,443,453
-offsets:38,41,550,550
-rotate:90
-you won/dibu_28
-bounds:1367,2,443,455
-offsets:40,42,550,550
-rotate:90
-you won/dibu_29
-bounds:2,5,442,453
-offsets:40,44,550,550
-rotate:90
-you won/dibu_30
-bounds:457,4,442,453
-offsets:40,44,550,550
-rotate:90
-you won/dibu_31
-bounds:932,447,441,453
-offsets:40,43,550,550
-rotate:90
-you won/dibu_32
-bounds:1387,447,441,453
-offsets:40,43,550,550
-rotate:90
-you won/yonwon_ch_22
-bounds:455,1334,511,438
-offsets:45,74,600,600
+big win/bigwin_ch_19
+bounds:2,1206,600,600
+big win/bigwin_ch_20
+bounds:2,604,600,600
+big win/bigwin_ch_21
+bounds:2,2,600,600
+big win/bigwin_ch_22
+bounds:604,1206,600,600
+big win/bigwin_ch_23
+bounds:1206,1206,600,600
+big win/bigwin_ch_24
+bounds:604,604,600,600
+big win/bigwin_ch_25
+bounds:604,2,600,600
+big win/bigwin_ch_26
+bounds:1206,604,600,600
+big win/bigwin_ch_27
+bounds:1206,2,600,600
 
 @1x_10.webp
-size:1837,1345
+size:1858,1758
 filter:Linear,Linear
 scale:0.5
+big win/bigwin_33
+bounds:2,1206,650,550
+big win/bigwin_ch_28
+bounds:2,604,600,600
+big win/bigwin_ch_29
+bounds:2,2,600,600
+big win/bigwin_ch_30
+bounds:654,1156,600,600
+big win/bigwin_ch_31
+bounds:1256,1156,600,600
+big win/bigwin_ch_32
+bounds:604,554,600,600
+big win/bigwin_ch_33
+bounds:1206,554,600,600
+confetti7
+bounds:1256,18,573,534
+you won/yonwon_08
+bounds:604,52,650,500
+
+@1x_11.webp
+size:1858,1708
+filter:Linear,Linear
+scale:0.5
+you won/yonwon_09
+bounds:2,1206,650,500
+you won/yonwon_10
+bounds:604,604,650,500
+you won/yonwon_11
+bounds:1206,2,650,500
+you won/yonwon_ch_06
+bounds:654,1106,600,600
+you won/yonwon_ch_07
+bounds:2,604,600,600
+you won/yonwon_ch_08
+bounds:1256,1106,600,600
+you won/yonwon_ch_09
+bounds:1256,504,600,600
+you won/yonwon_ch_10
+bounds:2,2,600,600
+you won/yonwon_ch_11
+bounds:604,2,600,600
+
+@1x_12.webp
+size:1858,1708
+filter:Linear,Linear
+scale:0.5
+you won/yonwon_12
+bounds:2,1206,650,500
+you won/yonwon_13
+bounds:604,604,650,500
+you won/yonwon_14
+bounds:1206,2,650,500
+you won/yonwon_ch_12
+bounds:654,1106,600,600
+you won/yonwon_ch_13
+bounds:2,604,600,600
+you won/yonwon_ch_14
+bounds:1256,1106,600,600
+you won/yonwon_ch_15
+bounds:1256,504,600,600
+you won/yonwon_ch_16
+bounds:2,2,600,600
+you won/yonwon_ch_17
+bounds:604,2,600,600
+
+@1x_13.webp
+size:1858,1708
+filter:Linear,Linear
+scale:0.5
+you won/yonwon_15
+bounds:2,1206,650,500
+you won/yonwon_16
+bounds:604,604,650,500
+you won/yonwon_17
+bounds:1206,2,650,500
+you won/yonwon_ch_18
+bounds:654,1106,600,600
+you won/yonwon_ch_19
+bounds:2,604,600,600
+you won/yonwon_ch_20
+bounds:1256,1106,600,600
+you won/yonwon_ch_21
+bounds:1256,504,600,600
+you won/yonwon_ch_22
+bounds:2,2,600,600
+you won/yonwon_ch_23
+bounds:604,2,600,600
+
+@1x_14.webp
+size:1858,1708
+filter:Linear,Linear
+scale:0.5
+you won/yonwon_18
+bounds:2,1206,650,500
+you won/yonwon_19
+bounds:604,604,650,500
+you won/yonwon_20
+bounds:1206,2,650,500
+you won/yonwon_ch_24
+bounds:654,1106,600,600
+you won/yonwon_ch_25
+bounds:2,604,600,600
+you won/yonwon_ch_26
+bounds:1256,1106,600,600
+you won/yonwon_ch_27
+bounds:1256,504,600,600
+you won/yonwon_ch_28
+bounds:2,2,600,600
+you won/yonwon_ch_29
+bounds:604,2,600,600
+
+@1x_15.webp
+size:1858,1708
+filter:Linear,Linear
+scale:0.5
+you won/dibu_12
+bounds:2,52,550,550
+you won/dibu_13
+bounds:554,52,550,550
+you won/yonwon_21
+bounds:2,1206,650,500
+you won/yonwon_22
+bounds:604,604,650,500
+you won/yonwon_23
+bounds:1106,2,650,500
+you won/yonwon_ch_30
+bounds:654,1106,600,600
+you won/yonwon_ch_31
+bounds:2,604,600,600
+you won/yonwon_ch_32
+bounds:1256,1106,600,600
+you won/yonwon_ch_33
+bounds:1256,504,600,600
+
+@1x_16.webp
+size:1758,1608
+filter:Linear,Linear
+scale:0.5
+you won/dibu_14
+bounds:654,1056,550,550
+you won/dibu_15
+bounds:2,554,550,550
+you won/dibu_16
+bounds:1206,1056,550,550
 you won/dibu_17
-bounds:2,451,446,455
-offsets:38,41,550,550
-rotate:90
+bounds:1206,504,550,550
 you won/dibu_18
-bounds:459,450,446,456
-offsets:38,41,550,550
-rotate:90
+bounds:2,2,550,550
 you won/dibu_19
-bounds:917,450,446,457
-offsets:38,40,550,550
-rotate:90
+bounds:554,2,550,550
+you won/yonwon_24
+bounds:2,1106,650,500
+you won/yonwon_25
+bounds:554,554,650,500
+you won/yonwon_26
+bounds:1106,2,650,500
+
+@1x_17.webp
+size:1758,1608
+filter:Linear,Linear
+scale:0.5
 you won/dibu_20
-bounds:1376,450,446,457
-offsets:38,40,550,550
-rotate:90
+bounds:654,1056,550,550
 you won/dibu_21
-bounds:2,2,446,457
-offsets:38,40,550,550
-rotate:90
+bounds:2,554,550,550
 you won/dibu_22
-bounds:461,2,446,458
-offsets:38,40,550,550
-rotate:90
+bounds:1206,1056,550,550
 you won/dibu_23
-bounds:921,2,446,457
-offsets:38,40,550,550
-rotate:90
+bounds:1206,504,550,550
 you won/dibu_24
-bounds:460,898,445,457
-offsets:38,40,550,550
-rotate:90
+bounds:2,2,550,550
 you won/dibu_25
-bounds:919,898,445,457
-offsets:38,40,550,550
-rotate:90
+bounds:554,2,550,550
+you won/yonwon_27
+bounds:2,1106,650,500
+you won/yonwon_28
+bounds:554,554,650,500
+you won/yonwon_29
+bounds:1106,2,650,500
+
+@1x_18.webp
+size:1758,1608
+filter:Linear,Linear
+scale:0.5
 you won/dibu_26
-bounds:1378,898,445,457
-offsets:38,40,550,550
-rotate:90
+bounds:654,1056,550,550
 you won/dibu_27
-bounds:2,899,444,456
-offsets:39,41,550,550
-rotate:90
+bounds:2,554,550,550
+you won/dibu_28
+bounds:1206,1056,550,550
+you won/dibu_29
+bounds:1206,504,550,550
+you won/dibu_30
+bounds:2,2,550,550
+you won/dibu_31
+bounds:554,2,550,550
+you won/yonwon_30
+bounds:2,1106,650,500
+you won/yonwon_31
+bounds:554,554,650,500
+you won/yonwon_32
+bounds:1106,2,650,500
+
+@1x_19.webp
+size:1206,554
+filter:Linear,Linear
+scale:0.5
+you won/dibu_32
+bounds:654,2,550,550
+you won/yonwon_33
+bounds:2,52,650,500
