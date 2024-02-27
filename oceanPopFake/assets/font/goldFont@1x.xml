@@ -7,7 +7,7 @@
   </pages>
   <chars count="14">
   	
-  		<char id="44" x="923" y="1" width="33" height="51" xoffset="0" yoffset="0" xadvance="33" page="0" chnl="15" letter=","/>
+  		<char id="44" x="923" y="1" width="33" height="51" xoffset="0" yoffset="60" xadvance="33" page="0" chnl="15" letter=","/>
   	
   		<char id="48" x="851" y="1" width="70" height="110" xoffset="0" yoffset="0" xadvance="70" page="0" chnl="15" letter="0"/>
   	
