@@ -31,7 +31,7 @@
   	
   		<char id="57" x="399" y="1" width="62" height="101" xoffset="0" yoffset="0" xadvance="62" page="0" chnl="15" letter="9"/>
   	
-  		<char id="46" x="690" y="47" width="31" height="34" xoffset="0" yoffset="0" xadvance="31" page="0" chnl="15" letter="dot"/>
+  		<char id="46" x="690" y="47" width="31" height="34" xoffset="0" yoffset="66" xadvance="31" page="0" chnl="15" letter="dot"/>
   	
   		<char id="120" x="70" y="1" width="67" height="100" xoffset="0" yoffset="0" xadvance="67" page="0" chnl="15" letter="x"/>
   	
