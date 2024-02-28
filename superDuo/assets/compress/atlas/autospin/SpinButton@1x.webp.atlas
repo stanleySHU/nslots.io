@@ -1,103 +1,96 @@
 
 SpinButton@1x.webp
-size: 941, 216
+size: 730, 368
 format: RGBA8888
 filter: Linear, Linear
 repeat: none
 Button
   rotate: false
-  xy: 2, 21
-  size: 192, 193
-  orig: 192, 193
+  xy: 2, 138
+  size: 275, 228
+  orig: 275, 228
   offset: 0, 0
   index: -1
-fx/fx01
+fx2/Button00
   rotate: false
-  xy: 196, 109
-  size: 105, 105
-  orig: 105, 105
+  xy: 2, 16
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx02
+fx2/Button01
   rotate: false
-  xy: 196, 2
-  size: 105, 105
-  orig: 105, 105
+  xy: 149, 16
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx03
+fx2/Button02
   rotate: false
-  xy: 303, 109
-  size: 105, 105
-  orig: 105, 105
+  xy: 279, 246
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx04
+fx2/Button03
   rotate: false
-  xy: 303, 2
-  size: 105, 105
-  orig: 105, 105
+  xy: 296, 124
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx05
+fx2/Button04
   rotate: false
-  xy: 410, 109
-  size: 105, 105
-  orig: 105, 105
+  xy: 426, 246
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx06
+fx2/Button05
   rotate: false
-  xy: 410, 2
-  size: 105, 105
-  orig: 105, 105
+  xy: 296, 2
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx07
+fx2/Button06
   rotate: false
-  xy: 517, 109
-  size: 105, 105
-  orig: 105, 105
+  xy: 573, 246
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx08
+fx2/Button07
   rotate: false
-  xy: 517, 2
-  size: 105, 105
-  orig: 105, 105
+  xy: 443, 124
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx09
+fx2/Button08
   rotate: false
-  xy: 624, 109
-  size: 105, 105
-  orig: 105, 105
+  xy: 443, 2
+  size: 145, 120
+  orig: 145, 120
   offset: 0, 0
   index: -1
-fx/fx10
+fx2/bubble
   rotate: false
-  xy: 624, 2
-  size: 105, 105
-  orig: 105, 105
+  xy: 693, 90
+  size: 35, 35
+  orig: 35, 35
   offset: 0, 0
   index: -1
-fx/fx11
+glow
   rotate: false
-  xy: 731, 109
-  size: 105, 105
-  orig: 105, 105
-  offset: 0, 0
-  index: -1
-fx/fx12
-  rotate: false
-  xy: 731, 2
-  size: 105, 105
-  orig: 105, 105
+  xy: 590, 127
+  size: 117, 117
+  orig: 117, 117
   offset: 0, 0
   index: -1
 proxy_counter
   rotate: false
-  xy: 838, 143
+  xy: 590, 54
   size: 101, 71
   orig: 101, 71
   offset: 0, 0
