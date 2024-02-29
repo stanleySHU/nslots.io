@@ -1,1 +1,103 @@
-{"frames":{"Auto.png":{"frame":{"x":212,"y":173,"w":75,"h":31},"rotated":true,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":75,"h":31},"sourceSize":{"w":75,"h":31}},"continue.png":{"frame":{"x":1,"y":207,"w":89,"h":23},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":89,"h":23},"sourceSize":{"w":89,"h":23}},"Good luck.png":{"frame":{"x":253,"y":105,"w":127,"h":32},"rotated":true,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":127,"h":32},"sourceSize":{"w":127,"h":32}},"Hold for autospin.png":{"frame":{"x":1,"y":139,"w":238,"h":32},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":238,"h":32},"sourceSize":{"w":238,"h":32}},"logo.png":{"frame":{"x":312,"y":1,"w":251,"h":137},"rotated":true,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":251,"h":137},"sourceSize":{"w":251,"h":137}},"Place your bets.png":{"frame":{"x":1,"y":173,"w":209,"h":32},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":209,"h":32},"sourceSize":{"w":209,"h":32}},"text1.png":{"frame":{"x":1,"y":35,"w":280,"h":68},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":280,"h":68},"sourceSize":{"w":280,"h":68}},"text2.png":{"frame":{"x":1,"y":1,"w":309,"h":32},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":309,"h":32},"sourceSize":{"w":309,"h":32}},"text3.png":{"frame":{"x":451,"y":1,"w":250,"h":32},"rotated":true,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":250,"h":32},"sourceSize":{"w":250,"h":32}},"text4.png":{"frame":{"x":1,"y":105,"w":250,"h":32},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":250,"h":32},"sourceSize":{"w":250,"h":32}},"Win.png":{"frame":{"x":92,"y":207,"w":32,"h":32},"rotated":false,"trimmed":false,"spriteSourceSize":{"x":0,"y":0,"w":32,"h":32},"sourceSize":{"w":32,"h":32}}},"animations":{"text":["text1.png","text2.png","text3.png","text4.png"]},"meta":{"app":"https://www.codeandweb.com/texturepacker","version":"1.1","image":"cs@1x.png","format":"RGBA8888","size":{"w":484,"h":253},"scale":"0.5","smartupdate":"$TexturePacker:SmartUpdate:c798c383671f001eab806116e0861e8c:3db0a176947e354cf2c86c39537bc354:f4fc41e1d0c960758d0d04eedaf3287f$"}}
+{"frames": {
+
+"Auto.png":
+{
+	"frame": {"x":212,"y":173,"w":75,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":31},
+	"sourceSize": {"w":75,"h":31}
+},
+"continue.png":
+{
+	"frame": {"x":1,"y":207,"w":89,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":23},
+	"sourceSize": {"w":89,"h":23}
+},
+"Good luck.png":
+{
+	"frame": {"x":253,"y":105,"w":127,"h":32},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":32},
+	"sourceSize": {"w":127,"h":32}
+},
+"Hold for autospin.png":
+{
+	"frame": {"x":1,"y":139,"w":238,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":32},
+	"sourceSize": {"w":238,"h":32}
+},
+"logo.png":
+{
+	"frame": {"x":312,"y":1,"w":251,"h":137},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":137},
+	"sourceSize": {"w":251,"h":137}
+},
+"Place your bets.png":
+{
+	"frame": {"x":1,"y":173,"w":209,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":32},
+	"sourceSize": {"w":209,"h":32}
+},
+"text1.png":
+{
+	"frame": {"x":1,"y":35,"w":280,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":68},
+	"sourceSize": {"w":280,"h":68}
+},
+"text2.png":
+{
+	"frame": {"x":1,"y":1,"w":309,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":309,"h":32},
+	"sourceSize": {"w":309,"h":32}
+},
+"text3.png":
+{
+	"frame": {"x":451,"y":1,"w":250,"h":32},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":32},
+	"sourceSize": {"w":250,"h":32}
+},
+"text4.png":
+{
+	"frame": {"x":1,"y":105,"w":250,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":32},
+	"sourceSize": {"w":250,"h":32}
+},
+"Win.png":
+{
+	"frame": {"x":92,"y":207,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+}},
+"animations": {
+	"text": ["text1.png","text2.png","text3.png","text4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "cs@1x.png",
+	"format": "RGBA8888",
+	"size": {"w":484,"h":253},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:c798c383671f001eab806116e0861e8c:3db0a176947e354cf2c86c39537bc354:f4fc41e1d0c960758d0d04eedaf3287f$"
+}
+}

@@ -1,0 +1,41 @@
+$symbols: 0 1 2 3 4 5 6 7 8 9 10 11 10-cn 11-cn;
+@each $symbol in $symbols {
+    .symbol-#{$symbol} {
+        &.png {
+            background-image: url('../assets/resource/compress/symbol/#{$symbol}.png');
+        }
+        &.avif {
+            background-image: url('../assets/resource/compress/symbol/#{$symbol}.avif');
+        }
+        &.webp {
+            background-image: url('../assets/resource/compress/symbol/#{$symbol}.webp');
+        }
+    }
+}
+
+.tab-bar-mod {
+    background-color: transparent;
+}
+
+.menu-mod {
+    bottom: 0rem!important;
+}
+
+.blur-bg {
+    &.jpg {
+        background-image: url('../assets/compress/bg-preview-l@2x.jpg')!important;
+    }
+    &.webp {
+        background-image: url('../assets/compress/bg-preview-l@2x.webp')!important;
+    }
+    &.avif {
+        background-image: url('../assets/compress/bg-preview-l@2x.avif')!important;
+    }
+}
+
+@font-face {
+    font-family: "Figtree";
+    src: url("../assets/font/FiraSans-SemiBold.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
