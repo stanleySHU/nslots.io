@@ -1,0 +1,41 @@
+Speechbubbles@1x.avif
+size:443,388
+filter:Linear,Linear
+scale:0.33
+!
+bounds:400,123,28,45
+! bubble
+bounds:346,170,79,79
+! shadow
+bounds:316,27,90,88
+rotate:90
+!! bubble
+bounds:2,7,133,127
+!! one
+bounds:346,142,26,52
+rotate:90
+!! shadow
+bounds:211,251,141,135
+!! two
+bounds:406,69,25,52
+Cloud 1 (554)
+bounds:176,138,109,73
+rotate:90
+Cloud 2 (554)
+bounds:232,2,115,82
+rotate:90
+Cloud 3 (550)
+bounds:2,249,207,137
+Cloud 4 (3326)
+bounds:354,252,134,87
+rotate:90
+Cloud 5 (3326)
+bounds:2,136,172,111
+Polygonal 1 (833)
+bounds:137,4,130,93
+rotate:90
+Polygonal 2 (353)
+bounds:251,119,130,93
+rotate:90
+null
+bounds:316,18,7,7

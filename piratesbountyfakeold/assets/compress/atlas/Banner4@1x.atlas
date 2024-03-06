@@ -1,0 +1,28 @@
+Banner4@1x.png
+size:1092,1092
+filter:Linear,Linear
+pma:true
+scale:0.33
+banner4 croco
+bounds:857,266,232,246
+banner4 ship
+bounds:2,2,284,311
+rotate:90
+banner4_bg
+bounds:539,514,339,308
+banner4_bg 2
+bounds:539,204,316,308
+banner4_divider
+bounds:880,554,111,268
+banner4_woodframe
+bounds:315,158,535,44
+banner4_woodframe 2
+bounds:315,113,535,43
+banner5_actionline 3
+bounds:2,824,535,266
+banner5_actionlines 2
+bounds:2,556,535,266
+banner5_actionlines 4
+bounds:539,824,535,266
+banner5_actionlines 5
+bounds:2,288,535,266
