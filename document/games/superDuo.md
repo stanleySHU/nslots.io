@@ -1,1 +1,0 @@
-# [superDuo](../index.md)

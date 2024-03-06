@@ -1,1 +1,0 @@
-# [piratesBounty](../index.md)
