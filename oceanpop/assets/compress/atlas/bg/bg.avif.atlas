@@ -1,78 +1,77 @@
-@1x.avif
-size:2046,1314
+oceanpopingamesmall@1x.avif
+size:2046,1127
 filter:Linear,Linear
-scale:0.7
+scale:0.6
 corals
-bounds:1639,576,411,245
+bounds:1626,497,352,210
 rotate:90
 corals1
-bounds:1711,343,231,127
+bounds:1206,397,198,109
 rotate:90
 corals2
-bounds:1316,373,302,292
+bounds:1128,597,259,250
 corals3
-bounds:1316,59,266,312
+bounds:1389,580,228,267
 corals_r
-bounds:1885,161,159,133
+bounds:1385,464,136,114
 fish back1
-bounds:1826,209,97,57
+bounds:1838,766,83,49
 rotate:90
 fish back10
-bounds:2020,610,36,16
+bounds:2030,1021,31,14
 rotate:90
 fish back11
-bounds:2020,575,33,15
+bounds:2030,991,28,13
 rotate:90
 fish back2
-bounds:1840,414,80,35
+bounds:1838,627,68,30
 rotate:90
 fish back3
-bounds:1840,496,78,40
-offsets:0,0,79,41
+bounds:1838,697,67,35
+offsets:0,0,68,35
 rotate:90
 fish back4
-bounds:1826,162,54,45
-offsets:0,0,55,45
+bounds:1985,588,47,38
 fish back5
-bounds:1820,131,48,29
-fish back6
-bounds:1840,357,55,39
+bounds:1875,723,41,25
 rotate:90
+fish back6
+bounds:1985,552,47,34
 fish back7
-bounds:1840,308,47,34
+bounds:1870,655,40,29
 rotate:90
 fish back8
-bounds:2020,648,37,16
+bounds:2030,1054,32,14
 rotate:90
 fish back9
-bounds:2020,687,43,15
+bounds:2030,1088,37,13
 rotate:90
 fish green
-bounds:1711,104,107,77
+bounds:1317,503,92,66
+rotate:90
 fish orange
-bounds:1711,183,158,113
+bounds:1523,443,135,97
 rotate:90
 seaweed1
-bounds:1620,157,89,417
+bounds:1128,237,76,358
 seaweed3
-bounds:1897,732,146,580
+bounds:1903,628,125,497
 seaweek2
-bounds:1316,989,323,579
-offsets:0,1,327,580
+bounds:1128,849,276,496
+offsets:0,1,280,497
 rotate:90
 seaweek3
-bounds:1886,296,132,434
-offsets:0,1,132,435
+bounds:1870,253,113,373
 shadow
-bounds:2,2,1312,1310
+bounds:2,2,1124,1123
 shellball
-bounds:1316,667,320,321
+bounds:1626,851,274,275
 rotate:90
 
-@1x_2.avif
-size:1213,1087
+oceanpopingamesmall@1x_2.avif
+size:1040,932
 filter:Linear,Linear
-scale:0.7
+scale:0.6
 shell
-bounds:2,2,1209,1083
-offsets:0,0,1209,1119
+bounds:2,2,1036,928
+offsets:0,0,1036,959
