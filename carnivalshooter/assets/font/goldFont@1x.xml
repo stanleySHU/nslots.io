@@ -9,7 +9,7 @@
   	
   		<char id="32" x="1" y="103" width="3" height="3" xoffset="0" yoffset="0" xadvance="20" page="0" chnl="15" letter=" "/>
   	
-  		<char id="44" x="690" y="1" width="32" height="44" xoffset="0" yoffset="0" xadvance="32" page="0" chnl="15" letter=","/>
+  		<char id="44" x="690" y="1" width="32" height="44" xoffset="0" yoffset="60" xadvance="32" page="0" chnl="15" letter=","/>
   	
   		<char id="48" x="204" y="1" width="66" height="100" xoffset="0" yoffset="0" xadvance="66" page="0" chnl="15" letter="0"/>
   	
