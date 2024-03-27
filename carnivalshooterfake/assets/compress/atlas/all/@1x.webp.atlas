@@ -365,44 +365,46 @@ you win ch
 bounds:1210,919,497,173
 
 @1x_2.webp
-size:2000,1909
+size:1944,1935
 filter:Linear,Linear
 scale:0.5
+5OFAKIND_cn
+bounds:582,1558,680,193
+5OFAKIND_en
+bounds:2,1560,578,191
 baida_add/jiangjin_39
-bounds:2,1727,300,180
+bounds:2,1753,300,180
 baida_add/jiangjin_40
-bounds:304,1727,300,180
+bounds:304,1753,300,180
 baida_add/jiangjin_41
-bounds:606,1727,300,180
+bounds:606,1753,300,180
 baida_add/jiangjin_42
-bounds:908,1727,300,180
+bounds:908,1753,300,180
 baida_add/jiangjin_43
-bounds:1210,1727,300,180
+bounds:1210,1753,300,180
 big win back
-bounds:1432,1218,566,482
+bounds:2,706,566,482
 big win chinese font
-bounds:1512,1702,430,205
+bounds:1512,1728,430,205
 char A body
-bounds:497,1374,351,373
+bounds:2,1207,351,373
 rotate:90
-confetti7
-bounds:1404,682,573,534
 freespin frame
-bounds:2,1381,493,344
+bounds:1264,1382,493,344
 freespin light
-bounds:872,1351,558,374
+bounds:1127,1006,558,374
 freespin stars
-bounds:2,1006,748,366
+bounds:377,1190,748,366
+you won/dibu_09
+bounds:570,638,550,550
+you won/dibu_10
+bounds:2,154,550,550
+you won/dibu_11
+bounds:554,86,550,550
 you won/yonwon_06
-bounds:752,849,650,500
+bounds:1122,504,650,500
 you won/yonwon_07
-bounds:2,504,650,500
-you won/yonwon_08
-bounds:654,347,650,500
-you won/yonwon_09
-bounds:1306,180,650,500
-you won/yonwon_10
-bounds:2,2,650,500
+bounds:1106,2,650,500
 
 @1x_3.webp
 size:2006,1722
@@ -576,20 +578,20 @@ big win/bigwin_ch_32
 bounds:604,554,600,600
 big win/bigwin_ch_33
 bounds:1206,554,600,600
-you won/dibu_09
-bounds:1256,2,550,550
-you won/yonwon_11
+confetti7
+bounds:1256,18,573,534
+you won/yonwon_08
 bounds:604,52,650,500
 
 @1x_11.webp
 size:1858,1708
 filter:Linear,Linear
 scale:0.5
-you won/yonwon_12
+you won/yonwon_09
 bounds:2,1206,650,500
-you won/yonwon_13
+you won/yonwon_10
 bounds:604,604,650,500
-you won/yonwon_14
+you won/yonwon_11
 bounds:1206,2,650,500
 you won/yonwon_ch_06
 bounds:654,1106,600,600
@@ -608,11 +610,11 @@ bounds:604,2,600,600
 size:1858,1708
 filter:Linear,Linear
 scale:0.5
-you won/yonwon_15
+you won/yonwon_12
 bounds:2,1206,650,500
-you won/yonwon_16
+you won/yonwon_13
 bounds:604,604,650,500
-you won/yonwon_17
+you won/yonwon_14
 bounds:1206,2,650,500
 you won/yonwon_ch_12
 bounds:654,1106,600,600
@@ -631,11 +633,11 @@ bounds:604,2,600,600
 size:1858,1708
 filter:Linear,Linear
 scale:0.5
-you won/yonwon_18
+you won/yonwon_15
 bounds:2,1206,650,500
-you won/yonwon_19
+you won/yonwon_16
 bounds:604,604,650,500
-you won/yonwon_20
+you won/yonwon_17
 bounds:1206,2,650,500
 you won/yonwon_ch_18
 bounds:654,1106,600,600
@@ -654,11 +656,11 @@ bounds:604,2,600,600
 size:1858,1708
 filter:Linear,Linear
 scale:0.5
-you won/yonwon_21
+you won/yonwon_18
 bounds:2,1206,650,500
-you won/yonwon_22
+you won/yonwon_19
 bounds:604,604,650,500
-you won/yonwon_23
+you won/yonwon_20
 bounds:1206,2,650,500
 you won/yonwon_ch_24
 bounds:654,1106,600,600
@@ -677,15 +679,15 @@ bounds:604,2,600,600
 size:1858,1708
 filter:Linear,Linear
 scale:0.5
-you won/dibu_10
+you won/dibu_12
 bounds:2,52,550,550
-you won/dibu_11
+you won/dibu_13
 bounds:554,52,550,550
-you won/yonwon_24
+you won/yonwon_21
 bounds:2,1206,650,500
-you won/yonwon_25
+you won/yonwon_22
 bounds:604,604,650,500
-you won/yonwon_26
+you won/yonwon_23
 bounds:1106,2,650,500
 you won/yonwon_ch_30
 bounds:654,1106,600,600
@@ -700,17 +702,40 @@ bounds:1256,504,600,600
 size:1758,1608
 filter:Linear,Linear
 scale:0.5
-you won/dibu_12
-bounds:654,1056,550,550
-you won/dibu_13
-bounds:2,554,550,550
 you won/dibu_14
-bounds:1206,1056,550,550
+bounds:654,1056,550,550
 you won/dibu_15
-bounds:1206,504,550,550
+bounds:2,554,550,550
 you won/dibu_16
-bounds:2,2,550,550
+bounds:1206,1056,550,550
 you won/dibu_17
+bounds:1206,504,550,550
+you won/dibu_18
+bounds:2,2,550,550
+you won/dibu_19
+bounds:554,2,550,550
+you won/yonwon_24
+bounds:2,1106,650,500
+you won/yonwon_25
+bounds:554,554,650,500
+you won/yonwon_26
+bounds:1106,2,650,500
+
+@1x_17.webp
+size:1758,1608
+filter:Linear,Linear
+scale:0.5
+you won/dibu_20
+bounds:654,1056,550,550
+you won/dibu_21
+bounds:2,554,550,550
+you won/dibu_22
+bounds:1206,1056,550,550
+you won/dibu_23
+bounds:1206,504,550,550
+you won/dibu_24
+bounds:2,2,550,550
+you won/dibu_25
 bounds:554,2,550,550
 you won/yonwon_27
 bounds:2,1106,650,500
@@ -719,21 +744,21 @@ bounds:554,554,650,500
 you won/yonwon_29
 bounds:1106,2,650,500
 
-@1x_17.webp
+@1x_18.webp
 size:1758,1608
 filter:Linear,Linear
 scale:0.5
-you won/dibu_18
+you won/dibu_26
 bounds:654,1056,550,550
-you won/dibu_19
+you won/dibu_27
 bounds:2,554,550,550
-you won/dibu_20
+you won/dibu_28
 bounds:1206,1056,550,550
-you won/dibu_21
+you won/dibu_29
 bounds:1206,504,550,550
-you won/dibu_22
+you won/dibu_30
 bounds:2,2,550,550
-you won/dibu_23
+you won/dibu_31
 bounds:554,2,550,550
 you won/yonwon_30
 bounds:2,1106,650,500
@@ -742,32 +767,11 @@ bounds:554,554,650,500
 you won/yonwon_32
 bounds:1106,2,650,500
 
-@1x_18.webp
-size:1758,1658
-filter:Linear,Linear
-scale:0.5
-you won/dibu_24
-bounds:2,604,550,550
-you won/dibu_25
-bounds:2,52,550,550
-you won/dibu_26
-bounds:654,1106,550,550
-you won/dibu_27
-bounds:1206,1106,550,550
-you won/dibu_28
-bounds:554,554,550,550
-you won/dibu_29
-bounds:1106,554,550,550
-you won/dibu_30
-bounds:554,2,550,550
-you won/dibu_31
-bounds:1106,2,550,550
-you won/yonwon_33
-bounds:2,1156,650,500
-
 @1x_19.webp
-size:554,554
+size:1206,554
 filter:Linear,Linear
 scale:0.5
 you won/dibu_32
-bounds:2,2,550,550
+bounds:654,2,550,550
+you won/yonwon_33
+bounds:2,52,650,500
