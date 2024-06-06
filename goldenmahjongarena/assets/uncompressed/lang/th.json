@@ -1,0 +1,116 @@
+{"frames": {
+
+"bigwin.png":
+{
+	"frame": {"x":1,"y":1,"w":1501,"h":408},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1501,"h":408},
+	"sourceSize": {"w":1501,"h":408}
+},
+"buybonus.png":
+{
+	"frame": {"x":266,"y":1504,"w":142,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":72},
+	"sourceSize": {"w":142,"h":72}
+},
+"buyBonusBtn.png":
+{
+	"frame": {"x":640,"y":1023,"w":286,"h":285},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":286,"h":285},
+	"sourceSize": {"w":300,"h":300}
+},
+"buyBonusBtnDisable.png":
+{
+	"frame": {"x":640,"y":1310,"w":286,"h":285},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":286,"h":285},
+	"sourceSize": {"w":300,"h":300}
+},
+"buynow.png":
+{
+	"frame": {"x":266,"y":1578,"w":124,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":52},
+	"sourceSize": {"w":124,"h":52}
+},
+"click_to_play.png":
+{
+	"frame": {"x":786,"y":1,"w":1020,"h":144},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1020,"h":144},
+	"sourceSize": {"w":1020,"h":144}
+},
+"freespins.png":
+{
+	"frame": {"x":640,"y":1730,"w":223,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":55},
+	"sourceSize": {"w":223,"h":55}
+},
+"panel_freespins.png":
+{
+	"frame": {"x":411,"y":984,"w":804,"h":227},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":804,"h":227},
+	"sourceSize": {"w":804,"h":227}
+},
+"panel_youwon.png":
+{
+	"frame": {"x":411,"y":1,"w":981,"h":189},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":981,"h":189},
+	"sourceSize": {"w":981,"h":189}
+},
+"random-10.png":
+{
+	"frame": {"x":1,"y":1504,"w":263,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":154},
+	"sourceSize": {"w":263,"h":154}
+},
+"summary_youwon.png":
+{
+	"frame": {"x":602,"y":1,"w":977,"h":182},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":977,"h":182},
+	"sourceSize": {"w":977,"h":182}
+},
+"superfreespins.png":
+{
+	"frame": {"x":1,"y":1660,"w":182,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":113},
+	"sourceSize": {"w":182,"h":113}
+},
+"wild.png":
+{
+	"frame": {"x":640,"y":1597,"w":273,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":131},
+	"sourceSize": {"w":273,"h":131}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "th.png",
+	"format": "RGBA8888",
+	"size": {"w":931,"h":1789},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7b048996dacc1c6b3eb23cb2084ad331:89646a5f8bed1cdf9ec6bd069f2d433a:ed3968c5db639443e2a8e33663e13772$"
+}
+}

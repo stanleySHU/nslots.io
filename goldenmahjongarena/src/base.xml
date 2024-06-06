@@ -1,0 +1,41 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/app-portrait.xml" id="mahjongarena" gID="164" creditBet="true" numBetLines="20" numInfoPages="7" orientation="portrait-only" mainScene.hudPanelButton.tint="0xFFFFFF" colorTheme="0xCE4FD1" colorThemeHighlight="0xFA7FFF" btnSpinIconTint="0xE3DB00" resolution="1.5">
+	<placeholder id="scenes">
+		<include ref="../../_commons/src/layout/5.0/preload.xml">
+			<placeholder id="preload">
+				<json id="sounds" src="assets/sounds.json" />
+
+				<img id="bg-loading" src="assets/bg-loading.jpg" />
+				<!-- <img id="bg-loading-p" src="assets/bg-loading.jpg" /> -->
+				<img id="bg-main" src="assets/bg-main.jpg" />
+				<!-- <img id="bg-main-p" src="assets/bg-main.jpg" /> -->
+
+			</placeholder>
+		</include>
+		<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/login.portrait.xml" />
+		<include ref="./src/splash.xml" />
+		<include ref="./src/main.xml"/>
+		<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/infoPage.portrait.xml">
+			<placeholder id="infoPanel">
+				<include ref="./src/infoPanel.xml" />
+			</placeholder>
+		</include>
+	</placeholder>
+	<placeholder id="reelAnimatorService">
+		<reelAnimatorService type="inback" startSpeed="7" acceleration="1.5" deceleration="0.2" stopacceleration="6" min="5" max="40" stopSpeed="-12" />
+	</placeholder>
+	<placeholder id="keyboardService">
+		<include ref="./src/keyboardService.xml" />
+	</placeholder>
+	<placeholder id="multiplierService">
+		<multiplierService mode="middle" />
+	</placeholder>
+	<placeholder id="winLineService">
+		<!-- <winLineService emitOnTop="true" color="0xFFF551" width="4" border="3" borderBlur="4" borderColor="0xFFA800" /> -->
+	</placeholder>
+	<placeholder id="otherServices">
+		<include ref="./src/widgetService.xml" />
+	</placeholder>
+	<placeholder id="textService">
+		<textService resource="message,gamemessage,frmessage,gametitle" />
+	</placeholder>
+</include>
