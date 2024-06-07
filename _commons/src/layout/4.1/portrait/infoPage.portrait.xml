@@ -1,0 +1,11 @@
+<scene id="infoPage">    
+	<view>
+        <button id="btnBack" pivot="50%,50%" x="511" y="26" onClick="backClickHandler">
+            <img id="up" res="@atlas/ui/btn-close.png" tint="{{colorTheme}}" />
+        </button>
+        <placeholder id="infoPanel">
+            <infoPanel id="infoPanel" y="54" pages="{{numInfoPages}}" indicatorBase="@atlas/ui/info-indicator-base.png" indicatorOnTint="{{colorTheme}}" indicatorOffTint="0x56566E" indicatorOffsetYL="50" indicatorOffsetYP="50" indicatorY="15" indicatorGap="70" />
+        </placeholder>
+        <rectangle width="540" height="960" color="0x30303C" p-visible="true" />
+    </view>
+</scene>

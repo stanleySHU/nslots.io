@@ -1,0 +1,8 @@
+<scene id="login">
+	<view>
+		<img id="circle" res="@img/preloader_anim" x="480" y="480" p_x="270" p_y="860" pivot="50%,50%"/>
+    	<label x="920" y="510" p_x="500" p_y="930" id="version" fontFamily="Arial" fontSize="18" fill="0xdddddd" stroke="0x000000" strokeThickness="2" align="center"/>
+    	<img res="@img/bg-loading" p-visible="false" l-visible="true"/>
+		<img res="@img/bg-loading-p" l-visible="false" p-visible="true"/>
+	</view>
+</scene>

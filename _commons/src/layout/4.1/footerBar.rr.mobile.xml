@@ -1,0 +1,14 @@
+<footerBar id="footerBar">
+	<placeholder id="footerBarTexts">
+		<animatedLabel bitmap="true" fontFamily="lang" l-x="522" l-y="142" p-x="310" p-y="312" id="balance" align="center" value="0.00" fontSize="42" fill="0xffffff" />	
+	</placeholder>   
+	<placeholder id="footerBarLabels">
+		<label bitmap="true" fontFamily="lang" value="RACING" case="upper" l-x="264" l-y="140" p-x="52" p-y="310" fontSize="24" fill="0xF39520"/>   
+		<label bitmap="true" fontFamily="lang" value="POINTS" case="upper" l-x="264" l-y="160" p-x="52" p-y="330" fontSize="24" fill="0xF39520"/>	
+	</placeholder>   	
+	<placeholder id="winBox">
+		<layer id="winBox" l-x="480" l-y="540" p-x="270" p-y="682" visible="false">
+			<animatedLabel id="winBoxLabel" bitmap="true" duration="700" fontFamily="winnumber" fontSize="38" value="0.00" align="center" />
+		</layer>
+	</placeholder>
+</footerBar>

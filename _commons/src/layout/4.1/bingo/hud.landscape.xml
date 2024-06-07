@@ -1,0 +1,179 @@
+<layer id="hud">
+	<placeholder id="cheatBar">
+		<cheatBar id="cheatBar" keys="1:Small Win,2:Big Win,3:Feature" x="0" scale="1"/>
+	</placeholder>
+	<placeholder id="btnBonusEffect" />
+	<placeholder id="menu"> 
+		<include ref="../../_commons/src/layout/4.1/menu.mobile.landscape.xml"/>
+	</placeholder>
+	<placeholder id="autoSpin"> 
+		<include ref="../../_commons/src/layout/4.1/autospin.landscape.xml" fontSize="22"/>
+	</placeholder>
+	<placeholder id="betPanel"> 
+		<include ref="../../_commons/src/layout/4.1/betPanel.landscape.xml">
+			<placeholder id="additionalBetSettings">
+				<placeholder id="additionalBetSettings" />		
+				<placeholder id="cardsSettings">	
+					<layer id="cards" visible="false">
+						<langLabel x="50" y="247" value="{{cards}}" fontFamily="Din, Arial" fontSize="22" fill="0xBFBFBF" />
+						<label id="txt" x="220" y="242" value="" align="center" fontFamily="Din, Arial" fontSize="25" fill="{{colorTheme}}" />
+					</layer>
+				</placeholder>
+			</placeholder>
+		</include>
+	</placeholder>
+	<placeholder id="tournament"> 
+		<tournament id="tournament" x="52" y="344" visible="false">
+			<buttonSlide id="btTournament"   command="tournament"> 
+				<movieClip id="up" res="@sheet/tournamenticon" loop="-1" speed="0.1" pivot="50%,50%" />
+				<movieClip id="over" res="@sheet/tournamenticon" loop="-1" speed="0.1" pivot="50%,50%" />
+				<movieClip id="disable" res="@sheet/tournamenticon" loop="1" play="false" speed="0.1" tint="0x888888" pivot="50%,50%" />
+			</buttonSlide>
+		</tournament>
+	</placeholder>
+	<placeholder id="btnMenu">
+		<button id="btnMenu" x="12" y="445" up="@atlas/ui/menu-on.png" disabled="@atlas/ui/menu.png" onClick="clickMenuHandler" />
+	</placeholder>
+	<placeholder id="btnFundReal"> 
+		<button id="realPlay" up="@atlas/ui/menu-playforreal-on.png" disabled="@atlas/ui/menu-playforreal-off.png" onClick="clickRealPlayHandler" x="905" y="445" />
+		<button id="fund" up="@atlas/ui/menu-fundtransfer-on.png" disabled="@atlas/ui/menu-fundtransfer-off.png" onClick="clickFundHandler" x="905" y="445" />	
+	</placeholder>
+	<placeholder id="btnSpin">	
+		<spinButton id="btnSpin" x="900" y="290">
+			<buttonSlide id="spin" command="spin" sound=" ">
+				<circle id="hit" radius="40" pivot="50%,50%" />
+				<img id="up" res="@atlas/sprites/btn-spin.png" pivot="50%,50%" />
+				<img id="disable" res="@atlas/sprites/btn-spin.png" pivot="50%,50%" tint="0x888888" />
+			</buttonSlide>
+			<buttonSlide id="skip" command="spin">
+				<circle id="hit" radius="40" pivot="50%,50%" />
+				<layer id="up">
+					<img res="@atlas/ui/skip.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+					<img res="@atlas/sprites/btn-spin.png" pivot="50%,50%" />
+				</layer>
+				<layer id="disable">
+					<img res="@atlas/ui/skip.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+					<img res="@atlas/sprites/btn-spin.png" pivot="50%,50%" tint="0x888888" />
+				</layer>
+			</buttonSlide>
+			<buttonSlide id="stop" command="spin">
+				<circle id="hit" radius="40" pivot="50%,50%" />
+				<layer id="up">
+					<img res="@atlas/ui/stop.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+					<img res="@atlas/sprites/btn-spin.png" pivot="50%,50%" />
+				</layer>
+				<layer id="disable">
+					<img res="@atlas/ui/stop.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+					<img res="@atlas/sprites/btn-spin.png" pivot="50%,50%" tint="0x888888" />
+				</layer>
+			</buttonSlide>
+			<buttonSlide id="bonus" command="spin">
+				<circle id="hit" radius="40" pivot="50%,50%" />
+				<layer id="up">
+					<img res="@atlas/ui/play.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+					<img res="@atlas/sprites/btn-spin.png" pivot="50%,50%" />
+				</layer>
+				<layer id="disable">
+					<img res="@atlas/ui/play.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+					<img res="@atlas/sprites/btn-spin.png" pivot="50%,50%" tint="0x888888" />
+				</layer>
+			</buttonSlide>
+			<placeholder id="spinHint">
+				<img res="@atlas/ui/spin.png" id="spinHint" pivot="50%,50%" interative="false" spinningRotation="0.006" tint="{{mainScene.hudPanelButton.tint}}" spinHintDisabledTint="{{mainScene.hudPanelButton.disabled}}" />	
+			</placeholder>	
+		</spinButton>
+	</placeholder>
+	<placeholder id="autoSpinDisplay">
+		<layer id="autoSpinDisplay" x="900" y="192">
+			<img id="btnEffectStopAuto" res="@atlas/ui/stopautoeffect.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+			<label id="autoSpinCount" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="18" fill="0x333333" pivot="0,50%" />
+			<img id="autoSpinInfinity" visible="false" res="@atlas/ui/icon-infinity.png" scale="0.56,0.56" tint="0x333333" pivot="50%,50%" />
+			<buttonSlide id="btnStopAuto" command="stopauto" pivot="50%,50%">
+				<layer id="up">
+					<img res="@atlas/ui/autspincount.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+					<img res="@atlas/sprites/btn-bet.png" pivot="50%,50%"/>
+				</layer>
+				<layer id="disable">
+					<img res="@atlas/ui/autspincount.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+					<img res="@atlas/sprites/btn-bet.png" pivot="50%,50%" tint="0x888888"/>
+				</layer>
+			</buttonSlide>
+		</layer>
+	</placeholder>
+	<placeholder id="autospin">
+		<buttonSlide id="btnAutoSpin" command="autospin" x="900" y="192">
+			<layer id="up">
+				<img y="-18" res="@atlas/ui/icon-autospin.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img y="25" res="@atlas/ui/autospintext-l.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img res="@atlas/sprites/btn-bet.png" pivot="50%,50%" />
+			</layer>
+			<layer id="disable">
+				<img y="-18" res="@atlas/ui/icon-autospin.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img y="25" res="@atlas/ui/autospintext-l.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img res="@atlas/sprites/btn-bet.png" pivot="50%,50%" tint="0x888888" />
+			</layer>
+		</buttonSlide>
+	</placeholder>	
+	<placeholder id="betSettings">
+		<buttonSlide id="btnBetSettings" command="betsettings" x="900" y="388">
+			<layer id="up">
+				<img y="-22" res="@atlas/ui/bettext.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img y="16" res="@atlas/ui/icon-bet.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img res="@atlas/sprites/btn-bet.png" pivot="50%,50%" />
+			</layer>
+			<layer id="disable">
+				<img y="-22" res="@atlas/ui/bettext.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img y="16" res="@atlas/ui/icon-bet.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img res="@atlas/sprites/btn-bet.png" pivot="50%,50%" tint="0x888888" />
+			</layer>
+		</buttonSlide>
+	</placeholder>	
+	<placeholder id="refreshCards">
+		<buttonSlide id="btnRefreshCards" command="refreshCards" x="60" y="220">
+			<layer id="up">
+				<img res="@atlas/ui/refresh-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img  res="@atlas/sprites/btn-menu.png" pivot="50%,50%"/>
+			</layer>
+			<layer id="disable">
+				<img res="@atlas/ui/refresh-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img res="@atlas/sprites/btn-menu.png" pivot="50%,50%" tint="0x888888"/>
+			</layer>
+		</buttonSlide>
+	</placeholder>
+	<placeholder id="setCards">
+		<label id="cardsCount" x="60" y="293" value="4" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="18" pivot="0,50%" fill="{{mainScene.hudPanelButton.tint}}" />
+		<buttonSlide id="btnSetCards" command="setCards" x="60" y="290">
+			<layer id="up">
+				<img res="@atlas/ui/set-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img  res="@atlas/sprites/btn-menu.png" pivot="50%,50%"/>
+			</layer>
+			<layer id="disable">
+				<img res="@atlas/ui/set-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img res="@atlas/sprites/btn-menu.png" pivot="50%,50%" tint="0x888888"/>
+			</layer>
+		</buttonSlide>
+	</placeholder>
+	<placeholder id="randomCards">
+		<slide id="btnRandomCardsSelected" x="60" y="360" visible="false">	
+			<layer id="btntrue">
+				<img res="@atlas/ui/random-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img res="@atlas/sprites/btn-menu-selected.png" pivot="50%,50%"/>
+			</layer>	
+			<layer id="btnfalse">
+				<img res="@atlas/ui/random-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}"/>
+				<img res="@atlas/sprites/btn-menu-selected.png" pivot="50%,50%" tint="0x888888"/>
+			</layer>		
+		</slide>
+		<buttonSlide id="btnRandomCards" command="randomCards" x="60" y="360">
+			<layer id="up">
+				<img res="@atlas/ui/random-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.tint}}" />
+				<img res="@atlas/sprites/btn-menu.png" pivot="50%,50%"/>
+			</layer>
+			<layer id="disable">
+				<img res="@atlas/ui/random-cards.png" pivot="50%,50%" tint="{{mainScene.hudPanelButton.disabled}}" />
+				<img res="@atlas/sprites/btn-menu.png" pivot="50%,50%" tint="0x888888"/>
+			</layer>
+		</buttonSlide>
+	</placeholder>
+	<rectangle width="960" height="540" alpha="0" />
+</layer>

@@ -1,0 +1,12 @@
+<scene id="preload" next="login">
+	<resources>
+		<img id="preloader_anim" src="assets/preloader_anim.png" />
+		<text id="message" src="../_commons/text/{{LANGUAGE}}.json" />
+		<placeholder id="gamemessage">
+			<text id="gamemessage" src="assets/text/{{HUDLANG}}.json"/>
+		</placeholder>
+		<placeholder id="preload">
+			<img id="bg-loading" src="assets/mini/loading.jpg" />
+		</placeholder>
+	</resources>
+</scene>

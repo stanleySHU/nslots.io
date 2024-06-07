@@ -1,0 +1,8 @@
+http://kvazars.com/littera/
+
+size 36
+gradient white-white
+stroke enable = false
+pack method = 2
+
+en id - DIN

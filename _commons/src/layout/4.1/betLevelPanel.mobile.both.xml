@@ -1,0 +1,8 @@
+<include ref="../../_commons/src/layout/4.0/betLevelPanel.mobile.both.xml">
+	<placeholder id="border">
+        <placeholder id="border">
+            <rectangle x="0" l-y="488" p-y="908" width="960" height="1" color="0x3F444F" />
+            <rectangle l-x="0" l-y="489" p-x="-210" p-y="909" width="960" height="1" color="0x68687B" />
+        </placeholder>
+    </placeholder>
+</include>

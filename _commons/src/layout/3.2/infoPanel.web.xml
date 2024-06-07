@@ -1,0 +1,15 @@
+<infoPanel id="infoPanel" pages="{{numInfoPages}}" visible="false">
+    <button id="infoBack" x="534" y="660" command="infoBack">
+        <img id="up" res="@atlas/ui/button-back.png"/>
+        <img id="over" res="@atlas/ui/button-back-on.png" />
+    </button>
+    <button id="infoPrev" x="487" y="660" command="infoPrev">
+        <img id="up" res="@atlas/ui/info-arrow.png"/>
+        <img id="over" res="@atlas/ui/info-arrow-on.png" />
+    </button>
+    <button id="infoNext" x="795" y="700" command="infoNext">
+        <img id="up" res="@atlas/ui/info-arrow.png" rotation="180" />
+        <img id="over" res="@atlas/ui/info-arrow-on.png" rotation="180" />
+    </button>
+    <img res="@img/bg-info" y="-1" interactive="true"/>
+</infoPanel>	

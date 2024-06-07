@@ -1,0 +1,30 @@
+<footerBar id="footerBar">
+	<label id="username" fontFamily="Din, Arial" fontSize="16" fill="0Xffffff" x="164" y="732"/>
+	<langLabel bitmap="true" value="{{username}}" case="upper" align="left" fontFamily="lang" x="164" y="751" fontSize="15" fill="0xaaaaaa"/>
+	<!--<label id="currency1" fontFamily="Din, Arial" fontSize="16" fill="0Xffffff" value="RMB" x="354" y="732"/>
+	<animatedLabel fontFamily="Din, Arial" x="394" y="732" id="totalBet" align="left" value="0.00" fontSize="16"/>-->
+	<animatedLabel fontFamily="Din, Arial" x="354" y="732" id="totalBet" align="left" value="0.00" fontSize="16" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />
+	<langLabel bitmap="true" value="{{totalbet}}" case="upper" align="left" fontFamily="lang" x="354" y="751" fontSize="15" fill="0xaaaaaa"/>
+	<!--<label id="currency2" fontFamily="Din, Arial" fontSize="16" fill="0Xffffff" value="RMB" x="564" y="732"/>
+	<animatedLabel fontFamily="Din, Arial" x="604" y="732" id="win" align="left" value="0.00" fontSize="16"/>-->
+	<animatedLabel fontFamily="Din, Arial" x="564" y="732" id="win" align="left" value="0.00" fontSize="16" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />
+	<langLabel bitmap="true" value="{{win}}" case="upper" align="left" fontFamily="lang" x="564" y="751" fontSize="15" fill="0xaaaaaa"/>
+	<!--<label id="currency3" fontFamily="Din, Arial" fontSize="16" fill="0Xffffff" value="RMB" x="774" y="732"/>	
+	<animatedLabel fontFamily="Din, Arial" x="814" y="732" id="balance" value="0.00" fontSize="16" fill="0xffffff"/>-->	
+	<animatedLabel fontFamily="Din, Arial" x="774" y="732" id="balance" value="0.00" fontSize="16" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />	
+	<langLabel bitmap="true" value="{{balance}}" case="upper" align="left" fontFamily="lang" x="774" y="751" fontSize="15" fill="0xaaaaaa"/>
+	<label id="usertime" fontFamily="Din, Arial" fontSize="16" fill="0Xffffff" x="1018" y="732" />	
+	<langLabel bitmap="true" value="{{time}}" case="upper" align="left" fontFamily="lang" x="1018" y="751" fontSize="15" fill="0xaaaaaa"/>
+	<img id="iconuser" res="@atlas/ui/bar-icon-username.png" x="146" y="749" pivot="50%,50%"/>
+	<img id="icontotalbet" res="@atlas/ui/bar-icon-totalbet.png" x="336" y="749" pivot="50%,50%"/>
+	<img id="iconwin" res="@atlas/ui/bar-icon-win.png" x="546" y="749" pivot="50%,50%"/>
+	<img id="iconbalance" res="@atlas/ui/bar-icon-balance.png" x="756" y="749" pivot="50%,50%"/>
+	<img id="icontime" res="@atlas/ui/bar-icon-time.png" x="1000" y="749" pivot="50%,50%"/>
+	<placeholder id="winBox">
+		<layer id="winBox" x="348" y="508" visible="false">
+			<animatedLabel id="winBoxLabel" bitmap="true" duration="700" fontFamily="winnumber" fontSize="38" value="12345678.00" align="center" x="292" y="8"/>
+			<img res="@atlas/ui/win-bg.png"/>
+		</layer>
+	</placeholder>
+	<rectangle x="0" y="730" width="1280" height="40" color="0x0F0F0F" alpha="1"/>
+</footerBar>

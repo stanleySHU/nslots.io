@@ -1,0 +1,60 @@
+<footerBar id="footerBar">
+	<placeholder id="winBox">		
+		<layer id="winBox" l-x="585" l-y="535" p-x="370" p-y="828" visible="false">
+			<animatedLabel id="winBoxLabel" bitmap="true" duration="700" fontFamily="winnumber" fontSize="30" value="0.00" align="center" />
+		</layer>
+	</placeholder>
+	<layer id="timebox">
+		<placeholder id="time">
+			<label id="time" align="right" fontFamily="Din, Arial" fontSize="16" fill="0xCCCCCC" stroke="0x404040" strokeThickness="3" letterSpacing="1" lineJoin="round" l-x="1160" l-y="10" p-x="730" p-y="10" />
+		</placeholder>
+	</layer>
+	<layer id="panels" y="100">
+		<placeholder id="balance">
+			<animatedLabel l-x="310" l-y="600" p-x="193" p-y="1017" id="balance" value="0.00" fontFamily="Din, Arial" align="center" fontSize="21" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />
+			<if name="lang" in="kh"> 
+				<langLabel id="balanceTitle"  l-x="310" l-y="584" p-x="193" p-y="1004" value="{{balance}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<if name="lang" in="th"> 
+				<langLabel id="balanceTitle"  l-x="310" l-y="580" p-x="193" p-y="1000" value="{{balance}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="15" fill="0xffffff" />
+			</if>
+			<if name="lang" in="kh,th" not="true"> 
+				<langLabel id="balanceTitle"  l-x="310" l-y="580" p-x="193" p-y="1000" value="{{balance}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<rectangle l-x="310" l-y="604" l-scale="1" p-x="193" p-y="1022" p-scale="0.9" width="185" height="60" color="0x000000" border="3" bcolor="0xCCCCCC" pivot="50%,50%" alpha="0.85" radius="10" />
+		</placeholder>
+		<placeholder id="bet">
+			<animatedLabel l-x="585" l-y="600" p-x="370" p-y="1017" id="totalBet" value="0.00" fontFamily="Din, Arial" align="center" fontSize="21" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />
+			<if name="lang" in="id"> 
+				<langLabel id="totalTitle" l-x="585" l-y="580" p-x="370" p-y="1000" value="{{totalbet}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="14" fill="0xffffff" />
+			</if>
+			<if name="lang" in="th"> 
+				<langLabel id="totalTitle" l-x="585" l-y="580" p-x="370" p-y="1000" value="{{totalbet}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="15" fill="0xffffff" />
+			</if>
+			<if name="lang" in="kh"> 
+				<langLabel id="totalTitle" l-x="585" l-y="584" p-x="370" p-y="1004" value="{{totalbet}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<if name="lang" in="id,kh,th" not="true"> 
+				<langLabel id="totalTitle" l-x="585" l-y="580" p-x="370" p-y="1000" value="{{totalbet}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<rectangle l-x="585" l-y="604" l-scale="1" p-x="370" p-y="1022"  p-scale="0.9" width="185" height="60" color="0x000000" border="3" bcolor="0xCCCCCC" pivot="50%,50%" alpha="0.85" radius="10" />
+		</placeholder>	
+		<placeholder id="betamount">
+			<label l-x="860" l-y="605" l-scale="1" p-x="547" p-y="1023" p-scale="0.95" id="betAmount" value="0.00" fontFamily="Din, Arial" align="center" fontSize="21" fill="0xFFB800" stroke="0x4d3b28" strokeThickness="2" />
+			<if name="lang" in="en,id"> 
+				<langLabel id="betamountTitle" l-x="860" l-y="586" l-scale="1" p-x="547" p-y="1006" p-scale="0.95" value="{{betamount}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<if name="lang" in="kh"> 
+				<langLabel id="betamountTitle" l-x="860" l-y="590" l-scale="1" p-x="547" p-y="1010" p-scale="0.95" value="{{betamount}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<if name="lang" in="th"> 
+				<langLabel id="betamountTitle" l-x="860" l-y="586" l-scale="1" p-x="547" p-y="1006" p-scale="0.95" value="{{betamount}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="14.5" fill="0xffffff" />
+			</if>
+			<if name="lang" in="en,id,kh,th" not="true"> 
+				<langLabel id="betamountTitle" l-x="860" l-y="586" l-scale="1" p-x="547" p-y="1007" p-scale="0.95" value="{{betamount}} " case="upper" align="center" fontWeight="bold" fontFamily="Din, Arial" fontSize="16" fill="0xffffff" />
+			</if>
+			<rectangle l-x="860" l-y="604" l-scale="1" p-x="547" p-y="1022" p-scale="0.9" width="185" height="60" color="0x000000" border="3" bcolor="0xCCCCCC" pivot="50%,50%" alpha="0.85" radius="10" />
+		</placeholder>
+	</layer>
+	<animatedLabel visible="false" id="win" align="left" value="0.00" fontFamily="Din, Arial" fontSize="2" fill="0xffffff" stroke="0x000" strokeThickness="2" />
+</footerBar>

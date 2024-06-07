@@ -1,0 +1,45 @@
+<scene id="settings">
+	<view>
+		<toggleButton id="btnBet" x="385" y="44" selected="true" pivot="50%,50%" onClick="betClickHandler">
+			<langLabel bitmap="true" id="up" value="{{betsetting}}" case="upper" fontFamily="lang" fontSize="21" fill="0xffffff"/>
+			<langLabel bitmap="true" id="down" value="{{betsetting}}" case="upper" fontFamily="lang" fontSize="21" fill="0xF3DE3F"/>
+			<rectangle alpha="0" color="0xff0000" width="150" height="56" x="-10" y="-20"/>
+		</toggleButton>
+		<toggleButton id="btnInfo" x="592" y="44" pivot="50%,50%" onClick="infoClickHandler">
+			<langLabel bitmap="true" id="up" value="{{infopage}}" case="upper" fontFamily="lang" fontSize="21" fill="0xffffff"/>
+			<langLabel bitmap="true" id="down" value="{{infopage}}" case="upper" fontFamily="lang" fontSize="21" fill="0xF3DE3F"/>
+			<rectangle alpha="0" color="0xff0000" width="125" height="56" x="-10" y="-20"/>
+		</toggleButton>
+		<button id="btnBack" x="72" y="44" pivot="50%,50%" onClick="backClickHandler">
+			<langLabel bitmap="true" value="{{back}}" case="upper" fontFamily="lang" fontSize="21" fill="0xffffff"/>
+			<rectangle alpha="0" color="0xff0000" width="94" height="56" x="-20" y="-20"/>
+		</button>		
+		<layer id="betPanel">
+			<label id="totalBet" align="center" fontFamily="Arial" fontSize="26" fill="0Xffffff" value="RMB 10000.00" x="590" y="112"/>
+
+			<langLabel bitmap="true" x="140" y="211" value="{{paylines}}" fontFamily="lang" fontSize="23" fill="0xffffff"/>
+			<langLabel bitmap="true" x="140" y="308" value="{{linebet}}" fontFamily="lang" fontSize="23" fill="0xffffff"/>
+			<langLabel bitmap="true" x="140" y="407" value="{{soundsetting}}" fontFamily="lang" fontSize="23" fill="0xffffff"/>
+			<langLabel bitmap="true" x="228" y="111" value="{{totalbet}}" fontFamily="lang" fontSize="31" fill="0xffffff"/>
+			<langLabel bitmap="true" x="370" y="215" value="{{lines}}" fontFamily="lang" fontSize="17" fill="0xffffff"/>
+			<langLabel bitmap="true" x="330" y="206" value="{{numBetLines}}" fontFamily="lang" fontSize="32" fill="0xF3DE3F"/>
+			<!--<label x="330" y="204" fontFamily="Arial" fontSize="32" fill="0xF3DE3F" value="8"/>-->
+
+			<img res="@atlas/ui/box-total-bet.png" x="142" y="80" scale="1.8"/>
+			<trackBar id="betBar" x= "350" y="320" barLength="430" btnSize="15" onSelect="betBarSelectHandler" onChange="betBarChangeHandler" type="object">
+				<label bitmap="true" id="min" align="right" fontFamily="lang" fontSize="20" fill="0xaaaaaa" x="-31" y="-10"/>
+				<label bitmap="true" id="max" align="left" fontFamily="lang" fontSize="20" fill="0xaaaaaa" x="447" y="-10"/>
+				<label bitmap="true" id="label" align="center" fontFamily="lang" fontSize="23" fill="0xF3DE3F" value="0.01" y="-44"/>
+			</trackBar>
+			<trackBar id="soundBar" x= "350" y="418" barLength="430" btnSize="15" onSelect="soundBarSelectHandler" onChange="soundBarChangeHandler">
+				<img res="@atlas/ui/settingsoundoff.png" x="-40" y="-11" scale="0.5"/>
+				<img res="@atlas/ui/settingsoundon.png" x="456" y="-11" scale="0.5"/> 
+			</trackBar>
+		</layer>
+		<placeholder id="infoPanel">
+			<infoPanel id="infoPanel" y="30" pages="{{numInfoPages}}" indicatorOn="@atlas/ui/info-indicator-on.png" indicatorOff="@atlas/ui/info-indicator-off.png"/>-->
+		</placeholder>
+		<rectangle width="960" height="48" color="0x000000" />
+		<rectangle width="960" height="540" color="0x1E1E1E" />
+	</view>
+</scene>

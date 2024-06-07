@@ -1,0 +1,132 @@
+<promoInfo id="promoInfo" visible="false">  
+  <!-- TITLE - {{promotitle}} translation texts in game assets -->
+  <placeholder id="title">
+    <langLabel id="title" x="12" y="316" value="{{promotitle}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="18" fontWeight="bold" fill="0xEFC032" verticalAlign="middle" />
+  </placeholder>
+  <!-- NAVIGATION TABS -->
+  <placeholder id="tabs">
+    <toggleGroup id="tabs" numButtons="3" command="tabselect">
+      <for from="1" to="3" step="1">
+        <content>      
+          <layer x="{%x%}" y="364">
+            <selection id="btn{%index%}">
+              <rectangle width="{%width%}" height="45" alpha="0" pivot="50%,50%" />
+            </selection>
+            <slide id="slide{%index%}">
+              <layer>
+                <layer pivot="50%,10%">
+                  <img x="1.5" res="@atlas/ui/icon-winners-on.png" pivot="0,50%" />
+                  <langLabel x="18.5" value="{%text%}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="17" fontWeight="bold" fill="0x101216" verticalAlign="middle" />
+                  </layer>
+                <rectangle width="{%width%}" height="45" radius="2" border="2" color="0x495C76" innerShadow="0x576D94" dropShadow="0x1F2839" scale="-1,1" pivot="50%,50%" />
+              </layer>
+              <layer>
+                <layer pivot="50%,10%">
+                  <img x="1.5" res="@atlas/ui/icon-winners-off.png" pivot="0,50%" />
+                  <langLabel x="18.5" value="{%text%}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="17" fontWeight="bold" fill="0xBDC7D9" verticalAlign="middle" />
+                </layer>
+                <rectangle width="{%width%}" height="45" radius="2" border="2" color="0x172333" innerShadow="0x18202D" dropShadow="0x18202D" pivot="50%,50%" />
+              </layer>
+            </slide>
+          </layer>
+        </content>
+				<arguments>
+					<argument id="1" x="93" width="164" text="{{winners}}" />
+					<argument id="2" x="245" width="130" text="{{prizes}}" />
+					<argument id="3" x="422" width="214" text="{{tnc}}" />
+				</arguments>
+      </for>
+    </toggleGroup>
+  </placeholder>
+  <!-- NAVIGATION TAB CONTENTS -->
+  <placeholder id="contents">
+    <animatedSlide id="contents">    
+      <!-- p0 - WINNERS RANKING -->
+      <layer id="p0">        
+        <!-- PLAYER CURRENT RANK -->
+        <img x="11" y="400" res="@atlas/ui/icon-rank.png" />
+        <label id="rank" x="35" y="406" value="" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="16" fontWeight="bold" fill="0x7D8DAF" verticalAlign="middle" />
+        
+        <!-- WINNERS RANKING HEADER -->
+        <!-- HEADER LABELS -->
+        <label x="21" y="437" value="#" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="center" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+        <langLabel x="52" y="437" value="{{playername}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+        <langLabel x="316" y="437" value="{{ccy}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+        <langLabel x="400" y="437" value="{{win}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+        
+        <!-- HEADER SEPARATORS -->
+        <rectangle x="42" y="424" width="2" height="27" color="0x22324C" />
+        <rectangle x="306" y="424" width="2" height="27" color="0x22324C" />
+        <rectangle x="390" y="424" width="2" height="27" color="0x22324C" />
+
+        <!-- HEADER BACKGROUND -->
+        <rectangle y="420" width="540" height="34" color="0x151E2C" />
+
+        <!-- WINNERS RANKING LIST -->
+        <promoComboBox id="list" x="0" y="455" 
+          numItemsShown="16" scrollPadding="8"
+          barColor="0xFFFFFF" buttonColor="0x0F1725"
+          barWidth="10" buttonWidth="10"
+          barHeight="480" buttonHeight="82"
+          barRadius="5" buttonRadius="5"
+          barTransparency="0" buttonTransparency="0.5"
+        />
+        <!-- BACKGROUND -->
+        <rectangle y="454" width="540" height="480" color="0x1F2E48" />
+      </layer>
+
+      <!-- p1 - PRIZES -->
+      <layer id="p1">
+        <!-- TITLE -->
+        <langLabel x="11" y="406" value="{{prizes}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="16" fontWeight="bold" fill="0x7D8DAF" verticalAlign="middle" />
+
+        <!-- PRIZES HEADER -->
+        <!-- PRIZES LABELS -->
+        <label x="10" y="437" value="#" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+        <langLabel id="currency" x="97" y="437" value="{{prizes}} (CCY)" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+         
+        <!-- HEADER SEPARATORS -->
+        <rectangle x="85" y="424" width="2" height="27" color="0x22324C" />
+
+        <!-- HEADER BACKGROUND -->
+        <rectangle y="420" width="540" height="34" color="0x151E2C" />
+
+        <!-- PRIZES LIST -->
+        <promoComboBox id="list" x="0" y="455" 
+          numItemsShown="16" scrollPadding="8"
+          barColor="0xFFFFFF" buttonColor="0x0F1725"
+          barWidth="10" buttonWidth="10"
+          barHeight="480" buttonHeight="82"
+          barRadius="5" buttonRadius="5"
+          barTransparency="0" buttonTransparency="0.5"
+        />
+        <!-- BACKGROUND -->
+        <rectangle y="454" width="540" height="480" color="0x1F2E48" />
+      </layer>
+    
+      <!-- p2 - TERMS & CONDITIONS -->
+      <layer id="p2">
+        <langLabel x="11" y="406" value="{{rules}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="16" fontWeight="bold" fill="0x7D8DAF" verticalAlign="middle" />
+        
+        <!-- RULES LIST -->
+        <promoComboBox id="list" x="0" y="420" 
+          dropdownHeight="514" itemHeight="0" itemGap="25"
+          numItemsShown="1" scrollPadding="8"
+          barColor="0xFFFFFF" buttonColor="0x0F1725"
+          barWidth="10" buttonWidth="10"
+          barHeight="514" buttonHeight="82"
+          barRadius="5" buttonRadius="5"
+          barTransparency="0" buttonTransparency="0.5"
+        />
+        <!-- BACKGROUND -->
+        <rectangle y="420" width="540" height="514" color="0x1A263C" />
+      </layer>
+
+    </animatedSlide>
+  </placeholder>
+  <!-- PANEL BACKGROUND -->
+  <placeholder id="background">
+    <rectangle y="290" width="540" height="670" color="0x111825" />
+  </placeholder>
+  <rectangle id="shade" width="540" height="960" alpha="0" colour="0x101825" interactive="true" />
+</promoInfo>

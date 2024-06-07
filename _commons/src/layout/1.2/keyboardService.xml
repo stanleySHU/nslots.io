@@ -1,0 +1,20 @@
+<keyboardService>
+    <keyBinding key=" " command="spin" when="main"/>
+    <keyBinding key="enter" command="spin" when="main"/>
+    <keyBinding key=" " command="continue" when="intro"/>
+    <keyBinding key="enter" command="continue" when="intro"/>
+    <keyBinding key="h" command="autospin" when="main"/>
+    <keyBinding key="b" command="betsettings" when="settings"/>
+    <keyBinding key="b" command="betsettings" when="main"/>
+    <keyBinding key="p" command="paytable" when="settings"/>
+    <keyBinding key="p" command="paytable" when="main"/>
+    <keyBinding key="1" command="cheat1" when="main"/>
+    <keyBinding key="2" command="cheat2" when="main"/>
+    <keyBinding key="3" command="cheat3" when="main"/>
+    <keyBinding key="4" command="cheat4" when="main"/>
+    <keyBinding key="5" command="cheat5" when="main"/>
+    <keyBinding key="6" command="cheat6" when="main"/>
+    <keyBinding key="7" command="cheat7" when="main"/>
+    <keyBinding key="8" command="cheat8" when="main"/>
+    <placeholder id="customizedKeyBindings"/>
+</keyboardService>

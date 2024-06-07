@@ -1,0 +1,45 @@
+<promoRecords id="promoRecords" visible="false">  
+  <!-- TITLE - {{promotitle}} translation texts in game assets -->
+  <placeholder id="title">
+    <img x="11" y="302" res="@atlas/ui/icon-records.png" />
+    <langLabel id="title" x="48" y="316" value="{{recordstitle}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="18" fontWeight="bold" fill="0xEFC032" verticalAlign="middle" />
+  </placeholder>
+  <!-- PLAYER NAME -->
+  <placeholder id="playerName">
+    <label id="playerName" x="11" y="350" value="" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" fontSize="16" fontWeight="bold" fill="0xFFFFFF" verticalAlign="middle" />
+  </placeholder>
+  <!-- CONTENTS -->
+  <placeholder id="contents">
+    <!-- HEADER LABELS -->
+    <langLabel x="8" y="389" value="{{promoid}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" breakWords="true" wordWrap="true" wordWrapWidth="78" lineHeight="14" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+    <langLabel x="104" y="389" value="{{promoname}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" breakWords="true" wordWrap="true" wordWrapWidth="226" lineHeight="14" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+    <langLabel id="currency" x="350" y="389" value="{{winprizes}} (CCY)" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="left" breakWords="true" wordWrap="true" wordWrapWidth="170" lineHeight="14" fontSize="15" fontWeight="bold" fill="0x7E8CAF" verticalAlign="middle" />
+    
+    <!-- HEADER SEPARATORS -->
+    <rectangle x="94" y="374" width="2" height="31" color="0x22324C" />
+    <rectangle x="340" y="374" width="2" height="31" color="0x22324C" />
+
+    <!-- HEADER BACKGROUND -->
+    <rectangle y="368" width="540" height="42" color="0x151E2C" />
+  
+    <!-- PROMO RANKING LIST -->
+    <promoComboBox id="list" x="0" y="408" itemHeight="41" 
+      numItemsShown="12" scrollPadding="8" 
+      barColor="0xFFFFFF" buttonColor="0x0F1725"
+      barWidth="10" buttonWidth="10"
+      barHeight="492" buttonHeight="82"
+      barRadius="5" buttonRadius="5"
+      barTransparency="0" buttonTransparency="0.5"
+    />
+  
+  </placeholder>
+  <placeholder id="notes">
+    <langLabel x="270" y="924" value="{{promonotes}}" fontFamily="Arial, Helvetica, Microsoft Yahei, Malgun Gothic, sans-serif" align="center" fontSize="14" fontWeight="bold" breakWords="true" wordWrap="true" wordWrapWidth="500" fill="0x7D8DAF" verticalAlign="middle" />
+  </placeholder>
+  <!-- PANEL BACKGROUND -->
+  <placeholder id="background">
+    <rectangle y="400" width="540" height="492" color="0x1F2E48" />
+    <rectangle y="290" width="540" height="670" color="0x111825" />
+  </placeholder>
+  <rectangle id="shade" width="540" height="960" alpha="0" colour="0x101825" interactive="true" />
+</promoRecords>

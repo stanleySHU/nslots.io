@@ -1,0 +1,104 @@
+<templates>
+    <template id="scene">
+        <scene id="bonusbet">
+            <view>
+                <winningPopup id="winPanel" visible="false" sound="totalwin">
+                    <img res="@atlas/bonusbetlang/youwin.png" x="480" y="265" pivot="50%,50%"/>
+                    <animatedLabel id="animLabel" bitmap="true" fontFamily="winnumber" fontSize="45" value="0.00" align="center" x="480" y="310" duration="3000"/>
+                    <img res="@atlas/bonusbet/winpanel.png" x="480" y="240" pivot="50%,50%"/>
+                    <rectangle width="960" height="540" alpha="0.5"/>
+                </winningPopup>
+                <img id="wheelLight" res="@atlas/bonusbet/wheellight.png" scale="2" alpha="0"/>
+                <layer>
+                    <widget name="pickitem" id="pickitem0" x="140" y="184"/>
+                    <widget name="pickitem" id="pickitem1" x="426" y="380"/>
+                    <widget name="pickitem" id="pickitem2" x="226" y="356"/>
+                    <widget name="pickitem" id="pickitem3" x="36" y="324"/>
+                    <widget name="pickitem" id="pickitem4" x="300" y="120"/>
+                    <widget name="pickitem" id="pickitem5" x="317" y="265"/>
+                    <widget name="pickitem" id="pickitem6" x="480" y="116"/>
+                    <widget name="pickitem" id="pickitem7" x="564" y="310"/>
+                    <widget name="pickitem" id="pickitem8" x="460" y="240"/>
+                    <widget name="pickitem" id="pickitem9" x="632" y="196"/>
+                    <widget name="pickitem" id="pickitem10" x="744" y="316"/>
+                    <widget name="pickitem" id="pickitem11" x="646" y="406"/>
+                </layer>
+                <img res="@atlas/bonusbetlang/logo.png" x="130" y="80" pivot="50%,50%" />
+                <callout id="callout" interval="200">
+                    <img res="@atlas/bonusbetlang/desc1.png" x="835" y="93" pivot="50%,50%" />
+                    <img res="@atlas/bonusbetlang/desc2.png" x="835" y="93" pivot="50%,50%" />
+                </callout>
+                <img res="@atlas/bonusbet/board.png" x="715" y="20"/>
+                <bonusBetBar id="wheelBar" x="288" y="30">
+                    <img id="lang0" res="@atlas/bonusbetlang/1.png" x="65" y="28" pivot="50%,50%"/>
+                    <img id="lang1" res="@atlas/bonusbetlang/2.png" x="150" y="28" pivot="50%,50%"/>
+                    <img id="lang2" res="@atlas/bonusbetlang/3.png" x="235" y="28" pivot="50%,50%"/>
+                    <img id="lang3" res="@atlas/bonusbetlang/4.png" x="320" y="28" pivot="50%,50%"/>
+                    <img id="lang4" res="@atlas/bonusbetlang/5.png" x="65" y="28" pivot="50%,50%"/>
+                    <img id="lang5" res="@atlas/bonusbetlang/6.png" x="150" y="28" pivot="50%,50%"/>
+                    <img id="lang6" res="@atlas/bonusbetlang/7.png" x="235" y="28" pivot="50%,50%"/>
+                    <img id="lang7" res="@atlas/bonusbetlang/8.png" x="320" y="28" pivot="50%,50%"/>
+                    <widget id="item1" name="wheelbaritem" x="65" y="28"/>
+                    <widget id="item2" name="wheelbaritem" x="150" y="28"/>
+                    <widget id="item3" name="wheelbaritem" x="235" y="28"/>
+                    <widget id="item4" name="wheelbaritem" x="320" y="28"/>
+                    <img res="@atlas/bonusbet/barleft.png"/>
+                    <img id="bar" res="@atlas/bonusbet/bar.png" x="39" y="20"/>
+                    <img res="@atlas/bonusbet/barempty.png"/>
+                </bonusBetBar>
+                <img res="@img/bonusbetbg"/>
+            </view>
+        </scene>
+    </template>
+    <template id="resource">
+        <json id="picksound" src="../_commons/bonusbet/pick.json"/>
+        <atlas id="bonusbet" src="../_commons/bonusbet/bonuspick.json" />
+        <atlas id="bonusbetlang" src="../_commons/bonusbet/bonuspick{{HUDLANG}}.json" />
+        <img id="bonusbetbg" src="../_commons/bonusbet/bonuspickbg.jpg" />
+        <sheet id="pickdragon" src="../_commons/bonusbet/pickdragon.png" frame="20" width="5" size="153,150"/>
+        <sheet id="pickcoin" src="../_commons/bonusbet/pickcoin.png" frame="15" width="5" size="200,200"/>
+        <sheet id="pickcoinwin" src="../_commons/bonusbet/pickcoinwin.png" frame="15" width="5" size="193,191"/>
+        <text id="wheelnum" src="../_commons/bonusbet/wheelnum.xml" />
+    </template>
+    <template id="widget">
+        <layer id="wheelbaritem">
+            <img id="btm" res="@atlas/bonusbet/barpointer.png" y="45" pivot="50%,50%"/>
+            <img id="top" res="@atlas/bonusbet/barpointer.png" y="-45" scale="1,-1" pivot="50%,50%"/>
+            <movieClip id="effect" res="@sheet/pickdragon" pivot="50%,50%" y="-13" loop="-1" speed="0.2"/>
+            <slide id="icon" goto="iconidle" y="-13">
+                <img id="iconidle" res="@atlas/bonusbet/wheelicon.png" pivot="50%,50%"/>
+                <img id="icondis" res="@atlas/bonusbet/wheelicondis.png" pivot="50%,50%" />
+            </slide>
+        </layer>
+        <layer id="pickitem">
+            <selection id="btn" x="51" y="60">
+                <rectangle width="80" height="80" alpha="0"/>
+            </selection>
+            <movieClip id="itemwin" res="@sheet/pickcoinwin" speed="0.2" x="-6" y="-5" visible="false"/>
+            <movieClip id="itemfire" res="@sheet/pickcoin" speed="0.2" x="-9" y="-8" visible="false"/>
+            <!--<img id="itemfire" res="@atlas/bonusbet/itemfire.png" x="-51" y="-121" alpha="0"/>-->
+            <label bitmap="true" fontFamily="wheelnum" id="txt" fontSize="24" align="center" y="88" x="89"/>
+            <img id="txt888" res="@atlas/bonusbet/888.png" x="48" y="58" visible="false"/>
+            <img id="itemblue" res="@atlas/bonusbet/itemblue.png" x="50" y="59" visible="false"/>
+            <img id="itemcoin" res="@atlas/bonusbet/itemcoin.png"/>
+            <img id="itembg" res="@atlas/bonusbet/itembg.png"/>
+        </layer>
+        <layer id="wheelloading" fadein="500" fadeout="500">
+            <if name="lang" value="cs">
+                <img res="@atlas/bonusbetlang/logo.png" x="480" y="270" pivot="50%,50%"/>
+                <img res="@atlas/bonusbetlang/win.png" x="480" y="180" pivot="50%,50%"/>
+                <rectangle interactive="true" width="960" height="540" alpha="0.7"/>
+            </if>
+            <if name="lang" value="cs" not="true">
+                <img res="@atlas/bonusbetlang/logo.png" x="480" y="230" pivot="50%,50%"/>
+                <img res="@atlas/bonusbetlang/win.png" x="480" y="330" pivot="50%,50%"/>
+                <rectangle interactive="true" width="960" height="540" alpha="0.7"/>
+            </if>
+        </layer>
+        <layer id="bonusbetNote" fadein="500" fadeout="500">
+            <img res="@atlas/bonusbetlang/notification.png" x="480" y="270" pivot="50%,50%"/>
+            <img res="@atlas/bonusbet/board.png" x="480" y="270" pivot="50%,50%" scale="1.5"/>
+            <rectangle interactive="true" width="960" height="540" alpha="0.7"/>
+        </layer>
+    </template>
+</templates>

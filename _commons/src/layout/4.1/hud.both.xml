@@ -1,0 +1,94 @@
+<layer id="hud">
+	<placeholder id="cheatBar">
+		<cheatBar id="cheatBar" keys="1:Small Win,2:Big Win,3:Feature" l-x="0" p-x="-70" p-scale="0.69,0.8" l-scale="1"/>
+	</placeholder>
+	<placeholder id="btnBonusEffect"> 
+		<img res="@atlas/ui/btneffect2.png" id="btnBonusEffect" pivot="50%,50%" scale="1" l-x="888" l-y="269" p-x="275" p-y="838" />
+	</placeholder>
+	<placeholder id="menu"> 
+		<include ref="../../_commons/src/layout/4.1/menu.mobile.both.xml"/>
+	</placeholder>
+	<placeholder id="autoSpin"> 
+		<include ref="../../_commons/src/layout/4.1/autoSpin.both.xml" fontSize="22"/>
+	</placeholder>
+	<placeholder id="betPanel"> 
+		<include ref="../../_commons/src/layout/4.1/betPanel.mobile.both.xml"/>
+	</placeholder>
+	<placeholder id="tournament"> 
+		<tournament id="tournament" l-x="52" l-y="344" p-x="143" p-y="862" visible="false">
+			<buttonSlide id="btTournament"   command="tournament" > 
+				<movieClip id="up" res="@sheet/tournamenticon" loop="-1" speed="0.1" pivot="50%,50%" />
+				<movieClip id="over" res="@sheet/tournamenticon" loop="-1" speed="0.1" pivot="50%,50%" />
+				<movieClip id="disable" res="@sheet/tournamenticon" loop="1" play="false" speed="0.1" tint="0x888888" pivot="50%,50%" />
+			</buttonSlide>
+		</tournament>
+	</placeholder>
+	<if name="fround" value="1">
+		<placeholder id="fround">
+			<include ref="../../_commons/src/layout/4.1/froundToggle.both.xml"/>
+		</placeholder>
+	</if>
+	<placeholder id="btnMenu">
+		<button id="btnMenu" x="12" l-y="445" p-y="850"  up="@atlas/ui/menu-on.png" disabled="@atlas/ui/menu.png" onClick="clickMenuHandler" />
+	</placeholder>
+	<placeholder id="autoSpinCounterDisplay">
+		<layer id="autoSpinDisplay" l-x="889" l-y="170"  p-y="840" p-x="155"  >
+			<img id="btnEffectStopAuto"  res="@atlas/ui/stopautoeffect.png" scale="1,1" pivot="50%,50%" tint="0xf2cf75"/>
+			<label id="autoSpinCount"  align="center" fontFamily="Din, Arial" fontSize="24" fill="0x333333" pivot="0,50%" />
+			<img id="autoSpinInfinity"  visible="false" res="@atlas/ui/icon-infinity.png" scale="0.75,0.75" tint="0x333333" pivot="50%,50%" />
+			<button id="btnStopAuto"  onClick="stopAutoHandler" scale="1,1" pivot="50%,50%" tint="0xf2cf75">
+				<img id="up" res="@atlas/ui/autspincount.png" tint="0xf2cf75"  />
+			</button>		
+		</layer>	
+	</placeholder>
+	<placeholder id="btnFundReal"> 
+		<button id="realPlay" up="@atlas/ui/menu-playforreal-on.png" disabled="@atlas/ui/menu-playforreal-off.png" onClick="clickRealPlayHandler" l-x="905" p-x="485" l-y="445" p-y="850" />
+		<button id="fund" up="@atlas/ui/menu-fundtransfer-on.png" disabled="@atlas/ui/menu-fundtransfer-off.png" onClick="clickFundHandler" l-x="905" p-x="485" l-y="445" p-y="850" />	
+	</placeholder>
+	<placeholder id="betButtons">
+		<spinButton id="btnSpin" scale=".9,.9" l-x="890" l-y="285" p-x="270" p-y="840" pivot="50%,50%" spinHint="@atlas/sprites/spinhint.png" spin="@atlas/sprites/spin.png" skip="@atlas/sprites/skip.png" stop="@atlas/sprites/stop.png" bonus="@atlas/sprites/play.png" command="spin" />
+
+		<button id="btnAutoSpin" l-x="914" l-y="170" p-x="180" p-y="850" pivot="50%,50%" onClick="clickAutospin" >
+			<if name="lang" in="cs,vn,th" not="true">
+				<img id="text-l" l-visible="true" p-visible="false" res="@atlas/ui/autospintext-l.png" y="40" tint="0xf2cf75"/>
+				<img id="text-p" l-visible="false" p-visible="true" res="@atlas/ui/autospintext-p.png" x="-22" y="42" tint="0xf2cf75"/>
+				<img id="up" l-x="7" p-x="11" res="@atlas/ui/icon-autospin.png" tint="0xf2cf75" />
+			</if>
+			<if name="lang" in="cs" >
+				<img id="text-l" l-visible="true" p-visible="false" res="@atlas/ui/autospintext-l.png" x="-9" y="40" tint="0xf2cf75"/>
+				<img id="text-p" l-visible="false" p-visible="true" res="@atlas/ui/autospintext-p.png" x="-22" y="42" tint="0xf2cf75"/>
+				<img id="up" l-x="-10" p-x="-8" res="@atlas/ui/icon-autospin.png" tint="0xf2cf75"  />
+			</if>
+			<if name="lang" in="vn" >
+				<img id="text-l" l-visible="true" p-visible="false" res="@atlas/ui/autospintext-l.png" x="-9" y="40" tint="0xf2cf75"/>
+				<img id="text-p" l-visible="false" p-visible="true" res="@atlas/ui/autospintext-p.png" x="-22" y="42" tint="0xf2cf75"/>
+				<img id="up" l-x="8" p-x="12" res="@atlas/ui/icon-autospin.png" tint="0xf2cf75"  />
+			</if>
+			<if name="lang" in="th" >
+				<img id="text-l" l-visible="true" p-visible="false" res="@atlas/ui/autospintext-l.png" x="-6" y="40" tint="0xf2cf75"/>
+				<img id="text-p" l-visible="false" p-visible="true" res="@atlas/ui/autospintext-p.png" x="-19" y="42" tint="0xf2cf75"/>
+				<img id="up" l-x="-5" p-x="2" res="@atlas/ui/icon-autospin.png" tint="0xf2cf75"  />
+			</if>
+		</button>
+		<button l-x="892" l-y="390" p-x="390" p-y="835" pivot="50%,50%" id="btnBetSettings" onClick="clickSettings">
+			<if name="lang" in="cs,th,vn" not="true">
+				<img id="text" res="@atlas/ui/bettext.png" l-x="27" pivot="50%,50%" p-x="27" l-y="50" p-y="47" tint="0xf2cf75"/>
+				<img id="up" x="7" res="@atlas/ui/icon-bet.png" tint="0xf2cf75" />
+			</if>
+			<if name="lang" in="vn">
+				<img id="text" res="@atlas/ui/bettext.png" l-x="27" pivot="50%,50%" p-x="27" l-y="50" p-y="47" tint="0xf2cf75"/>
+				<img id="up" l-x="8" p-x="7" res="@atlas/ui/icon-bet.png" tint="0xf2cf75" />
+			</if>
+			<if name="lang" in="cs" >
+				<img  id="text" res="@atlas/ui/bettext.png" l-x="23" pivot="50%,50%" p-x="24" l-y="46" p-y="47" tint="0xf2cf75"/>
+				<img id="up" x="5" res="@atlas/ui/icon-bet.png" tint="0xf2cf75" />
+			</if>
+			<if name="lang" in="th" >
+				<img  id="text" res="@atlas/ui/bettext.png" l-x="29" pivot="50%,50%" p-x="31" l-y="46" p-y="47" tint="0xf2cf75"/>
+				<img id="up" l-x="10" p-x="13" res="@atlas/ui/icon-bet.png" tint="0xf2cf75" />
+			</if>
+		</button>
+		<img res="@atlas/sprites/betpanel-bg.png" l-x="811.5" l-y="89" l-rotation="0" p-rotation="90" p-x="468" p-y="763"  scale="1" />
+	</placeholder>
+	<rectangle width="960" height="540" alpha="0" />
+</layer>

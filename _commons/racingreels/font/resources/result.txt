@@ -1,0 +1,25 @@
+﻿cs.json
+$€¥0123456789,.余额赢取金总投注返回押设置游戏说明赔付线每声音自动开始请转账至池俱乐部列旋输停止无限定义如符合以下条件，果单次超过增加到特殊奖得数用户名时间主页聊天大厅表帮助记录最高确认利方式等级满
+
+en.json
+$€¥0123456789,.QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm
+
+id.json
+$€¥0123456789,.QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm
+
+jp.json
+$€¥0123456789,.残高勝ちトータルベッ戻る賭けの設定情報ペイラン音量自動スピクブバドに資金転送してください倍通り利数無制限損失リミ合計カムな停止で達成額増加ボナプユザ名時間ホチャロビテサウゲヘ履歴最大確認ィェレ
+
+kh.json
+$€¥0123456789,.សមតុល្យឈនះចំួភាខញរប់កណែទងព័៌េវិូផៅឹBravdobRAVDOោើដជអ 
+
+kr.json
+$€¥0123456789,.잔액우승토탈벳뒤로가기베팅설정보페이지라인사운드오스핀클럽브바도동을해주시랍니다방법의 당첨Ways수무제한손실총직접입력없음싱글윈초과금증너능획득작아디간홈채비테블소리게임움말록최대확레벨
+
+
+th.json
+$€¥0123456789,.QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnmงบดุลชนะยอการเิมพัต้ค่ศู์ขจสีหโณไปทวธ ำืซแ
+
+vn.json
+$€¥0123456789,.QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnmốưàảỐƯÀẢẮắỔỀỢổềợởỞđặĐẶôÔờáỜÁâÂựộỰỘòểỹếÒỂỸẾ ớạừăầỚẠỪĂẦủệỗịửỦỆỖỊỬậấẬẤ
+

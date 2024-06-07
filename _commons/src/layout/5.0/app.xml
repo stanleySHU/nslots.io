@@ -1,0 +1,1 @@
+<include ref="../../_commons/src/layout/2.0/app.xml" width="1170" height="740" minWidth="960" minHeight="540" btnSpinIconTint="0xFFFFFF" btnSpinIconDisabledTint="0x888888" strictLandscapeWeb="true" webGLOnly="true" />

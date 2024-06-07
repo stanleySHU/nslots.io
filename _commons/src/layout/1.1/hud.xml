@@ -1,0 +1,21 @@
+<layer id="hud">
+	<button id="btnFullScreen" onClick="fullScreenHandler">
+		<rectangle width="960" height="540" alpha="0.1"/>
+	</button>
+	<menu id="menu" x="10">
+		<button id="toggle" scale="0.5" pivot="0,75" y="430" up="@atlas/ui/menu.png" onClick="clickMenuHandler" />
+		<button id="home" pivot="0,50" scale="0.65" x="3" y="70" up="@atlas/ui/home.png" onClick="clickHomeHandler" />
+		<button id="lobby" pivot="0,50" scale="0.65" x="3" y="140" up="@atlas/ui/exit.png" onClick="clickExitHandler" />
+		<button id="history" pivot="0,50" scale="0.65" x="3" y="210" up="@atlas/ui/history.png" onClick="clickHistoryHandler" />
+		<button id="settings" pivot="0,50" scale="0.65" x="3" y="280" up="@atlas/ui/info.png" onClick="clickSettingsHandler" />
+		<toggleButton id="sound" x="3" y="350" scale="0.65" pivot="0,50" onClick="clickSoundHandler">
+			<img id="up" res="@atlas/ui/soundon.png"/>
+			<img id="down" res="@atlas/ui/soundoff.png"/>
+		</toggleButton>
+		<button id="realPlay" up="@atlas/ui/realplay.png" onClick="clickRealPlayHandler" x="770" y="494" />
+		<button id="fund" up="@atlas/ui/fund.png" onClick="clickFundHandler" x="770" y="494" />
+	</menu>
+	<spinButton id="btnSpin" scale="1.2,1.2" x="100%" y="50%" pivot="100%,50%" spin="@atlas/ui/spin.png" skip="@atlas/ui/skip.png"
+		hold="@atlas/ui/spin.png" stop="@atlas/ui/stop.png" bonus="@atlas/ui/play.png" onClick="clickSpinHandler" onHold="holdSpinHandler" />
+	<rectangle width="960" height="540" alpha="0" />
+</layer>

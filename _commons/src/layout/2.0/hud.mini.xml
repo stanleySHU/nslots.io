@@ -1,0 +1,82 @@
+<layer id="hud">
+	<infoPanel id="infoPanel" visible="false">
+		<slide id="pages">
+			<placeholder id="infopages"/>
+		</slide>
+		<button id="infoBack" x="10" y="200" command="infoBack">
+			<img id="up" res="@atlas/ui/close.png"/>
+			<img id="over" res="@atlas/ui/close-over.png" x="-3" y="-3"/>
+		</button>
+		<button id="infoPrev" x="100" y="200" command="infoPrev">
+			<img id="up" res="@atlas/ui/prev.png"/>
+			<img id="over" res="@atlas/ui/prev-over.png" x="-3" y="-3"/>
+		</button>
+		<button id="infoNext" x="135" y="200" command="infoNext">
+			<img id="up" res="@atlas/ui/next.png"/>
+			<img id="over" res="@atlas/ui/next-over.png" x="-3" y="-3"/>
+		</button>
+		<!--<button id="settingBack" x="220" y="201" command="settingClose"><layer id="content"><img id="up" res="@atlas/ui/close.png"/></layer></button>-->
+		<rectangle width="250" height="224" color="0x0a0a0a" interactive="true"/>
+	</infoPanel>
+	<layer id="settingsPanel" x="68" y="50" visible="false">
+		<langLabel bitmap="true" x="56" y="10" value="{{paylines}}" fontFamily="lang" align="center" fontSize="11" fill="0xaaaaaa"/>
+		<langLabel bitmap="true" x="56" y="30" value="{{numBetLines}}" fontFamily="number" align="center" fontSize="20" fill="0xffffff"/>
+		<toggleButton id="sound" x="16" y="70" command="sound" selected="true">
+			<img id="up" res="@atlas/ui/sound.png"/>
+			<img id="down" res="@atlas/ui/sound-off.png"/>
+		</toggleButton>
+		<button id="history" x="69" y="70" command="history">
+			<img id="up" res="@atlas/ui/history.png"/>
+		</button>
+		<img res="@atlas/ui/settings.png"/>
+	</layer>
+	<placeholder id="betPanel">
+		<include ref="../../_commons/src/layout/{%layoutVersion%}/betPanel.xml" />
+	</placeholder>
+	<spinButton id="btnSpin" x="92" y="162">
+		<button id="spin" command="spin">
+			<img id="up" res="@atlas/uitheme/spin.png"/>
+			<img id="over" res="@atlas/uitheme/spin-over.png"/>
+			<img id="disable" res="@atlas/ui/spin-disabled.png"/>
+		</button>
+		<button id="skip" command="spin">
+			<img id="up" res="@atlas/uitheme/skip.png"/>
+			<img id="over" res="@atlas/uitheme/skip-over.png"/>
+			<img id="disable" res="@atlas/ui/skip-disabled.png"/>
+		</button>
+		<button id="stop" command="spin">
+			<img id="up" res="@atlas/uitheme/stop.png"/>
+			<img id="over" res="@atlas/uitheme/stop-over.png"/>
+			<img id="disable" res="@atlas/ui/stop-disabled.png"/>
+		</button>
+	</spinButton>
+	<layer x="205" y="174">
+		<label id="autoIndicator" bitmap="true" x="9" y="3" value="99" fontFamily="number" align="center" fontSize="12" fill="0xffffff"/>
+		<img res="@atlas/ui/reddot.png" scale="0.7,0.58" alpha="0.8"/>
+	</layer>
+	<button id="auto" command="autospin" x="134" y="175">
+		<img id="up" res="@atlas/ui/auto.png"/>
+		<img id="over" res="@atlas/ui/auto-over.png"/>
+		<img id="disable" res="@atlas/ui/auto-disabled.png"/>
+	</button>
+	<button id="stopauto" command="stopauto" x="134" y="175" visible="false">
+		<img id="up" res="@atlas/ui/stopauto.png"/>
+		<img id="over" res="@atlas/ui/stopauto-over.png"/>
+		<img id="disable" res="@atlas/ui/stopauto-disabled.png"/>
+	</button>
+	<button id="bet" command="bet" x="29" y="175">
+		<img id="up" res="@atlas/ui/bet.png"/>
+		<img id="over" res="@atlas/ui/bet-over.png"/>
+		<img id="disable" res="@atlas/ui/bet-disabled.png"/>
+	</button>
+	<button id="settings" command="settings" x="9" y="188">
+		<img id="up" res="@atlas/ui/SETTING.png"/>
+		<img id="over" res="@atlas/ui/SETTING-over.png" x="-3" y="-3"/>
+		<img id="disable" res="@atlas/ui/SETTING-disabled.png"/>
+	</button>
+	<button id="info" command="info" x="230" y="188">
+		<img id="up" res="@atlas/ui/INFO.png"/>
+		<img id="over" res="@atlas/ui/INFO-over.png" x="-3" y="-2"/>
+		<img id="disable" res="@atlas/ui/INFO-disabled.png"/>
+	</button>
+</layer>

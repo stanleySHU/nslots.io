@@ -1,0 +1,15 @@
+<app racingReels="true" version="1" uiVersion="{%uiVersion%}" uiWebVersion="{%uiWebVersion%}" enter="preload" width="960" height="540" backgroundColor="0x0" hudLang="en,cs,jp" numBetLines="{%numBetLines%}" numInfoPages="{%numInfoPages%}" historyDomain="{%historyDomain%}" defaultLobbyUrl="{%defaultLobbyUrl%}" defaultLoginURL="{%defaultLoginURL%}" apiName="{%apiName%}" engineVersion="{%engineVersion%}" publishTime="{%publishTime%}" fround="{%fround%}" help="{%help%}" resolution="1">
+  <placeholder id="services">
+    <include ref="../../_commons/src/layout/{%layoutVersion%}/services.rr.mobile.xml">
+      <placeholder id="keyboardService">
+      </placeholder>
+    </include>
+  </placeholder>
+  <placeholder id="soundService">
+    <soundService resource="commonsounds"/>
+    <soundService resource="sounds"/>
+  </placeholder>
+  <scenes>
+    <placeholder id="scenes" />
+  </scenes>
+</app>

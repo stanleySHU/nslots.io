@@ -1,0 +1,133 @@
+<menu id="menu" l-center="585" p-center="370" l-gap="220" p-gap="120" l-row="240,98" p-row="240,98">
+    <layer id="panel">       
+        <rectangle x="0" l-y="738" p-x="-215" p-y="1168" width="1170" height="1" color="0x3F444F" />
+        <rectangle l-x="0" l-y="739" p-x="-215" p-y="1169" width="1170" height="1" color="0x68687B" />
+        <layer id="landscape" y="410" l-visible="true" p-visible="false" >  
+            <button id="close" x="1135" y="32">
+                <img id="up" res="@atlas/ui/btn-close.png" pivot="50%,50%" tint="0xDCDCDC" />
+            </button>
+            <placeholder id="logoLandscape">
+                <layer id="logo" />
+            </placeholder>           
+            <placeholder id="buttonsLandscape">
+                <button id="info" visible="false" command="infoPage" pivot="50%,50%" >
+                    <img id="up" res="@atlas/ui/btn-info.png" x="33" y="33" pivot="50%,50%" />
+                </button>            
+                <toggleButton id="sound" visible="false"  onClick="clickSoundHandler" pivot="50%,50%">
+                    <button id="up">
+                        <img res="@atlas/ui/btn-sound-on.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                    <button id="down">
+                        <img res="@atlas/ui/btn-sound-off.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                </toggleButton>
+                <button id="lobby" visible="false" command="lobby" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-back.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <!-- TODO - uncomment when new game settings scene is ready
+                <button id="settings" visible="false" command="settings" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-settings.png" x="33" y="33" pivot="50%,50%" />
+                </button>-->  
+                <button id="history" visible="false"  command="history" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-history.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <button id="home" visible="false" command="home" pivot="50%,50%"> 
+                    <img id="up" res="@atlas/ui/btn-home.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <toggleButton id="vibration" visible="false"  onClick="clickVibrationHandler" pivot="50%,50%">
+                    <button id="up">
+                        <img res="@atlas/ui/btn-vibration-off.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                    <button id="down">
+                        <img res="@atlas/ui/btn-vibration-on.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                </toggleButton>
+                <button id="livechat" visible="false"  command="livechat" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-chat.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <if name="help" value="1" >
+                    <button id="help" visible="false"  command="help" pivot="50%,50%">
+                        <img id="up" res="@atlas/ui/btn-help.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                </if>
+                <langLabel bitmap="true" visible="false" id="lblInfo" value="{{paytable}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblSound" value="{{sound}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblLobby" value="{{lobby}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblSettings" value="{{settings}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblHistory" value="{{bethistory}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblHome" value="{{home}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblVibration" value="{{vibration}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblLiveChat" value="{{chat}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblHelp" value="{{gamehelp}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+            </placeholder>
+            <placeholder id="backgroundLandscape">
+                <rectangle id="panelbgshort" visible="false" y="142" width="1172" height="188" color="0x30303C" alpha="1" interactive="true" />
+                <rectangle id="panelbglong" visible="false" width="1172" height="330" color="0x30303C" alpha="1" interactive="true" />
+            </placeholder>
+        </layer>
+        <layer id="portrait" y="840" l-visible="false" p-visible="true" >
+            <button id="close" x="710" y="32">
+                <img id="up" res="@atlas/ui/btn-close.png" pivot="50%,50%" tint="0xDCDCDC" />
+            </button>
+            <placeholder id="logoPortrait">
+                <layer id="logo" />
+            </placeholder>   
+            <placeholder id="buttonsPortrait">
+                <button id="info" visible="false" command="infoPage" pivot="50%,50%" >
+                    <img id="up" res="@atlas/ui/btn-info.png" x="33" y="33" pivot="50%,50%" />
+                </button>            
+                <toggleButton id="sound" visible="false" onClick="clickSoundHandler" pivot="50%,50%">
+                    <button id="up">
+                        <img res="@atlas/ui/btn-sound-on.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                    <button id="down">
+                        <img res="@atlas/ui/btn-sound-off.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                </toggleButton>
+                <button id="lobby" visible="false" command="lobby" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-back.png" x="33" y="33" pivot="50%,50%" />
+                </button> 
+                <!-- TODO - uncomment when new game settings scene is ready
+                <button id="settings" visible="false" command="settings" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-settings.png" x="33" y="33" pivot="50%,50%" />
+                </button>-->  
+                <button id="history" visible="false" command="history" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-history.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <button id="home" visible="false" command="home" pivot="50%,50%"> 
+                    <img id="up" res="@atlas/ui/btn-home.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <toggleButton id="vibration" visible="false"  onClick="clickVibrationHandler" pivot="50%,50%">
+                    <button id="up">
+                        <img res="@atlas/ui/btn-vibration-off.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                    <button id="down">
+                        <img res="@atlas/ui/btn-vibration-on.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                </toggleButton>
+                <button id="livechat" visible="false" command="livechat" pivot="50%,50%">
+                    <img id="up" res="@atlas/ui/btn-chat.png" x="33" y="33" pivot="50%,50%" />
+                </button>
+                <if name="help" value="1" >
+                    <button id="help" visible="false" command="help" pivot="50%,50%">
+                        <img id="up" res="@atlas/ui/btn-help.png" x="33" y="33" pivot="50%,50%" />
+                    </button>
+                </if>
+                <langLabel bitmap="true" visible="false" id="lblInfo" value="{{paytable}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblSound" value="{{sound}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblLobby" value="{{lobby}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblSettings" value="{{settings}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblHistory" value="{{bethistory}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblHome" value="{{home}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblVibration" value="{{vibration}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblLiveChat" value="{{chat}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+                <langLabel bitmap="true" visible="false" id="lblHelp" value="{{gamehelp}}" align="center" fontFamily="lang" fontSize="20" fill="0xFFFFFF"  />
+            </placeholder>
+            <placeholder id="backgroundPortrait">
+                <rectangle id="panelbgshort" visible="false" y="142" width="742" height="188" color="0x30303C" alpha="1" interactive="true" />
+                <rectangle id="panelbglong" visible="false" width="742" height="330" color="0x30303C" alpha="1" interactive="true" />
+            </placeholder>
+        </layer>        
+    </layer>
+    <rectangle id="clickable" width="1170" height="1170" alpha="0" />
+</menu>

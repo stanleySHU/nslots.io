@@ -1,0 +1,25 @@
+<footerBar id="footerBar">
+	<animatedLabel l-x="105" p-x="58" l-y="492" p-y="912" id="totalBet" value="0.00" fontFamily="Din, Arial" fontSize="22" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />
+	<animatedLabel x="353" y="492" l-visible="true" p-visible="false" id="win" align="left" value="0.00" fontFamily="Din, Arial" fontSize="22" fill="0xffffff" stroke="0x000" strokeThickness="2" />
+	<animatedLabel l-x="605" l-y="492" p-x="305" p-y="912" id="balance" value="0.00" fontFamily="Din, Arial" fontSize="22" fill="0xffffff" stroke="0x4d3b28" strokeThickness="2" />
+	<placeholder id="footerBarLabels">
+		<langLabel bitmap="true" l-x="106" p-x="59" l-y="519" p-y="939" value="{{totalbet}}" case="upper" fontFamily="lang" fontSize="18" fill="0xffffff" />
+		<langLabel bitmap="true" x="354" y="519" l-visible="true" p-visible="false" value="{{win}}" case="upper" fontFamily="lang" fontSize="18" fill="0xffffff" />
+		<langLabel bitmap="true" l-x="606" l-y="519" p-x="306" p-y="939" value="{{balance}}" case="upper" fontFamily="lang" fontSize="18" fill="0xffffff" />
+	</placeholder>
+	<label id="time" align="right" fontFamily="Din, Arial" fontSize="16" fill="0xcccccc" l-x="955" p-x="535" l-y="520" p-y="940" />
+    <placeholder id="footerBarIcons">
+		<img id="icontotalbet" res="@atlas/ui/icon-total-bet.png" l-x="59" p-x="15" l-y="498" p-y="918" />
+		<img id="iconwin" l-visible="true" p-visible="false" res="@atlas/ui/icon-win.png" x="306" l-y="500" p-y="918" />
+		<img id="iconbalance" res="@atlas/ui/icon-balance.png" l-x="558" l-y="498" p-x="263" p-y="918" />
+	</placeholder>
+	<placeholder id="winBox">
+		<layer id="winBox" l-x="187" l-y="428" visible="false" l-scale="1" p-scale="0.9" p-x="10" p-y="859">
+			<animatedLabel id="winBoxLabel" bitmap="true" duration="700" fontFamily="winnumber" fontSize="34" value="12345678.00" align="center" x="293" y="17" />
+			<img res="@atlas/sprites/win-bg.png"/>
+		</layer>
+	</placeholder>
+	<placeholder id="background">
+		<rectangle x="0" l-y="490" p-y="910" width="962" height="50" color="0x30303C" alpha="0.85" />
+	</placeholder>
+</footerBar>

@@ -1,0 +1,35 @@
+<layer id="hud">
+	<placeholder id="cheatBar">
+		<cheatBar id="cheatBar" keys="1:Small Win,2:Big Win,3:Feature" />
+	</placeholder>
+	<img res="@atlas/ui/btneffect2.png" id="btnBonusEffect" pivot="50%,50%" scale="1" x="890" y="270" />
+	<if name="bonusbet" value="1">
+		<img res="@atlas/ui/btneffect1.png" id="bonusbetEffect" pivot="50%,50%" scale="0.35" x="886" y="432" />
+	</if>
+	<menu id="menu" x="12" y="5">
+		<button id="toggle" y="390" up="@atlas/ui/menu.png" onClick="clickMenuHandler" />
+		<button id="lobby" y="50" up="@atlas/ui/exit.png" onClick="clickExitHandler" />
+		<button id="history" y="135" up="@atlas/ui/history.png" onClick="clickHistoryHandler" />
+		<button id="settings" y="220" up="@atlas/ui/setting.png" onClick="clickSettingsHandler" />
+		<toggleButton id="sound" y="305" onClick="clickSoundHandler">
+			<img id="up" res="@atlas/ui/soundon.png" />
+			<img id="down" res="@atlas/ui/soundoff.png" />
+		</toggleButton>
+		<if name="bonusbet" value="1">
+			<button id="realPlay" up="@atlas/ui/realplay2.png" onClick="clickRealPlayHandler" y="220" />
+			<button id="fund" up="@atlas/ui/fund2.png" onClick="clickFundHandler" y="220" />
+		</if>
+		<if name="bonusbet" value="1" not="true">
+			<button id="realPlay" up="@atlas/ui/realplay2.png" onClick="clickRealPlayHandler" y="390" x="837" />
+			<button id="fund" up="@atlas/ui/fund2.png" onClick="clickFundHandler" y="390" x="837" />
+		</if>
+		<if name="bonusbet" value="1">
+			<toggleButton id="bonusbet" y="390" x="837" command="bonusbet">
+				<img id="up" res="@atlas/bonusbetlang/bonusbetoff.png" />
+				<img id="down" res="@atlas/bonusbetlang/bonusbeton.png" />
+			</toggleButton>
+		</if>
+	</menu>
+	<spinButton id="btnSpin" scale="1.2,1.2" x="100%" y="50%" pivot="100%,50%" spin="@atlas/ui/spin.png" skip="@atlas/ui/skip.png" hold="@atlas/ui/spin.png" stop="@atlas/ui/stop.png" bonus="@atlas/ui/play.png" command="spin" holdcommand="autospin" />
+	<rectangle width="960" height="540" alpha="0" />
+</layer>

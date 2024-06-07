@@ -1,0 +1,30 @@
+	
+<betPanel id="betPanel" x="68" y="50" visible="false">
+	<langLabel bitmap="true" x="56" y="8" value="{{linebet}}" case="upper" align="center" fontFamily="lang" fontSize="11" fill="0xaaaaaa" />
+	<langLabel bitmap="true" x="56" y="63" value="{{autospin}}" case="upper" align="center" fontFamily="lang" fontSize="11" fill="0xaaaaaa" />
+	<label id="betValue" bitmap="true" x="56" y="24" value="0.00" fontFamily="number" align="center" fontSize="18" fill="0xffffff"/>
+	<label id="autoValue" bitmap="true" x="56" y="79" value="0.00" fontFamily="number" align="center" fontSize="18" fill="0xffffff"/>
+	<button id="betPlus" command="betPlus" holdEnabled="true" x="86" y="20">
+		<img id="up" res="@atlas/ui/plus.png"/>
+		<img id="over" res="@atlas/ui/plus-over.png"/>
+		<img id="disable" res="@atlas/ui/plus-disabled.png"/>
+	</button>
+	<button id="betMinus" command="betMinus" holdEnabled="true" x="9" y="20">
+		<img id="up" res="@atlas/ui/minus.png"/>
+		<img id="over" res="@atlas/ui/minus-over.png"/>
+		<img id="disable" res="@atlas/ui/minus-disabled.png"/>
+	</button>
+	<button id="autoPlus" command="autoPlus" holdEnabled="true" x="86" y="75">
+		<img id="up" res="@atlas/ui/plus.png"/>
+		<img id="over" res="@atlas/ui/plus-over.png"/>
+		<img id="disable" res="@atlas/ui/plus-disabled.png"/>
+	</button>
+	<button id="autoMinus" command="autoMinus" holdEnabled="true" x="9" y="75">
+		<img id="up" res="@atlas/ui/minus.png"/>
+		<img id="over" res="@atlas/ui/minus-over.png"/>
+		<img id="disable" res="@atlas/ui/minus-disabled.png"/>
+	</button>
+	<img res="@atlas/ui/settings-bar.png" x="24" y="47"/>
+	<img res="@atlas/ui/settings-bar.png" x="24" y="102"/>
+	<img res="@atlas/ui/settings.png"/>
+</betPanel>
