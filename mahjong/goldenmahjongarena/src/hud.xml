@@ -1,8 +1,0 @@
-<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/hud.portrait.xml"  scale="1.5">
-  <placeholder id="cheatBar">
-    <cheatBar id="cheatBar" keys="1:bonus,2:small,3:normal,4:medium,5:high,6:big" l-x="0" p-x="-70" l-scale="1" p-scale="0.7,0.8" />
-  </placeholder>
-  <placeholder id="fround">
-    <include l-x="920" l-y="494" l-scale="0.9" p-x="130" p-y="225" p-scale="1" ref="../../_commons/src/layout/4.0/froundToggle.both.xml"/>
-  </placeholder>
-</include>

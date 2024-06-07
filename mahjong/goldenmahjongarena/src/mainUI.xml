@@ -1,5 +1,0 @@
-<mainUI id="mainUI">
-  <layer id="container" visible="true">
-    <spineAnimation id="spine" res="@res/uiSpine" action="idleNorm" auto="false" scale="1.5"/>
-  </layer>
-</mainUI>
