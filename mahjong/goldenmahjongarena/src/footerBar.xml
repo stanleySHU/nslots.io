@@ -1,0 +1,8 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/footerBar.portrait.xml" scale="1.5">
+  <placeholder id="winBox">
+    <layer id="winBox" x="370" y="804" visible="false" pivot="50%,50%">
+      <animatedLabel id="winBoxLabel" x="227" y="36" bitmap="true" duration="700" fontFamily="winnumber" fontSize="34" value="0.00" align="center" />
+      <rectangle width="454" height="62" alpha="0" />
+    </layer>
+  </placeholder>
+</include>

@@ -1,0 +1,146 @@
+
+UI@2x.avif
+size: 1984,1974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DrumL1
+  rotate: false
+  xy: 1713, 774
+  size: 152, 405
+  orig: 152, 405
+  offset: 0, 0
+  index: -1
+DrumR1
+  rotate: true
+  xy: 865, 206
+  size: 154, 405
+  orig: 154, 405
+  offset: 0, 0
+  index: -1
+DrumR2
+  rotate: true
+  xy: 833, 51
+  size: 153, 405
+  orig: 153, 405
+  offset: 0, 0
+  index: -1
+DumL2
+  rotate: true
+  xy: 1240, 2
+  size: 152, 405
+  orig: 152, 405
+  offset: 0, 0
+  index: -1
+InfoBar
+  rotate: true
+  xy: 1948, 1488
+  size: 484, 34
+  orig: 484, 34
+  offset: 0, 0
+  index: -1
+LanterGlow
+  rotate: true
+  xy: 636, 127
+  size: 197, 195
+  orig: 197, 195
+  offset: 0, 0
+  index: -1
+Lanter_R
+  rotate: true
+  xy: 1647, 93
+  size: 61, 288
+  orig: 61, 288
+  offset: 0, 0
+  index: -1
+Lantern_L
+  rotate: true
+  xy: 1647, 31
+  size: 60, 288
+  orig: 60, 288
+  offset: 0, 0
+  index: -1
+MG
+  rotate: true
+  xy: 865, 362
+  size: 740, 413
+  orig: 740, 413
+  offset: 0, 0
+  index: -1
+MG2
+  rotate: true
+  xy: 1290, 437
+  size: 740, 421
+  orig: 740, 421
+  offset: 0, 0
+  index: -1
+Reel
+  rotate: true
+  xy: 778, 1472
+  size: 500, 583
+  orig: 500, 583
+  offset: 0, 0
+  index: -1
+Reel2
+  rotate: true
+  xy: 1363, 1472
+  size: 500, 583
+  orig: 500, 583
+  offset: 0, 0
+  index: -1
+ReelFrame
+  rotate: true
+  xy: 2, 326
+  size: 776, 861
+  orig: 776, 861
+  offset: 0, 0
+  index: -1
+ReelFrame2
+  rotate: false
+  xy: 2, 1104
+  size: 774, 868
+  orig: 774, 868
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: true
+  xy: 636, 69
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+TitleBar
+  rotate: false
+  xy: 778, 1104
+  size: 510, 73
+  orig: 510, 73
+  offset: 0, 0
+  index: -1
+TreeL1
+  rotate: true
+  xy: 778, 1179
+  size: 291, 594
+  orig: 291, 594
+  offset: 0, 0
+  index: -1
+TreeL2
+  rotate: true
+  xy: 1374, 1181
+  size: 289, 594
+  orig: 289, 594
+  offset: 0, 0
+  index: -1
+TreeR1
+  rotate: true
+  xy: 1280, 156
+  size: 279, 634
+  orig: 279, 634
+  offset: 0, 0
+  index: -1
+TreeR2
+  rotate: true
+  xy: 2, 45
+  size: 279, 632
+  orig: 279, 632
+  offset: 0, 0
+  index: -1
