@@ -1,0 +1,18 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/keyboardService.xml">
+    <placeholder id="customizedKeyBindings">
+        <keyBinding key=" " command="continueClickHandler" when="splash"/>
+        <keyBinding key="enter" command="continueClickHandler" when="splash"/>
+
+        
+        <keyBinding key="q" command="pressQ" when="main"/>
+        <keyBinding key="w" command="pressW" when="main"/>
+        <keyBinding key="e" command="pressE" when="main"/>
+        <keyBinding key="r" command="pressR" when="main"/>
+        <keyBinding key="t" command="pressT" when="main"/>
+        <keyBinding key="y" command="pressY" when="main"/>
+        <keyBinding key="u" command="pressU" when="main"/>
+
+
+        <keyBinding key="i" command="pressI" when="main"/>
+    </placeholder>
+</include>

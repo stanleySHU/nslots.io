@@ -1,0 +1,46 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/splash.portrait.xml">
+	<placeholder id="winnumber">
+		<text id="winnumber" src="assets/font/winnumber.xml" />
+		<text id="multipliernumber" src="assets/font/multiplier.xml"/>
+		<text id="youwonnumber" src="assets/font/youwon.xml"/>
+	</placeholder>
+	<placeholder id="splashres">
+
+		<atlas id="introAtlas" src="assets/uncompressed/intro/{{LANGUAGE}}.json"/>
+		<atlas id="langAtlas" src="assets/uncompressed/lang/{{LANGUAGE}}.json"/>
+		<atlas id="infoAtlas" src="assets/uncompressed/info/{{LANGUAGE}}.json"/>
+
+		<atlas id="spritesAtlas" src="assets/ui/sprites.json"/>
+
+		<atlas id="normalMultAtlas" src="assets/uncompressed/multiplier/normal.json"/>
+		<atlas id="freespinMultAtlas" src="assets/uncompressed/multiplier/freespin.json"/>
+		<atlas id="supergoldMultAtlas" src="assets/uncompressed/multiplier/super.json"/>
+
+		<atlas id="buyBonusAtlas" src="assets/uncompressed/buybonus.json"/>
+		<atlas id="menuAtlas" src="assets/uncompressed/menu.json"/>
+
+		<res id="symbolSpine" render="webgl" src="assets/uncompressed/spine/Symbols@1.5x.json" />
+		<res id="buyBonusSpine" render="webgl" src="assets/uncompressed/spine/BuyBonus.json" />
+		<res id="multiplierSpine" render="webgl" src="assets/uncompressed/spine/MultiplierBar.json" />
+		<res id="totalAmountSpine" render="webgl" src="assets/uncompressed/spine/TotalAmount.json" />
+		<res id="uiSpine" render="webgl" src="assets/uncompressed/spine/UI.json" />
+		<res id="youWonSpine" render="webgl" src="assets/uncompressed/spine/YouWonBoards.json" />
+
+
+
+	</placeholder>
+	<placeholder id="splashview">
+		<layer id="logo" x="555" y="290"/>
+		<layer id="btnnavigate" x="555" y="1000" />
+		<layer id="btncontinue" x="555" y="1500"/>
+		<layer id="content" x="562" y="700" scale="1.5">
+			<mask x="-200" y="-200" width="400" height="400"/>
+		</layer>
+		<layer id="textcontent" x="555" y="450">
+
+		</layer>
+		<layer id="reelBg" x="555" y="700" scale="1.2"/>
+		<layer id="panelbg" l-x="585" p-x="555" l-y="315" p-y="660" l-scale="1" p-scale="1"/>
+		<sound name="bgm-loading" bgm="true" auto="true" volume="1" />
+	</placeholder>
+</include>
