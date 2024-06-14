@@ -2,7 +2,7 @@
 
 "Button_selected.png":
 {
-	"frame": {"x":693,"y":1357,"w":38,"h":41},
+	"frame": {"x":693,"y":1438,"w":38,"h":41},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":41},
@@ -10,7 +10,7 @@
 },
 "Button_unselected.png":
 {
-	"frame": {"x":693,"y":1400,"w":31,"h":34},
+	"frame": {"x":693,"y":1481,"w":31,"h":34},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":34},
@@ -18,7 +18,7 @@
 },
 "continue.png":
 {
-	"frame": {"x":118,"y":1357,"w":277,"h":108},
+	"frame": {"x":118,"y":1438,"w":277,"h":108},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":108},
@@ -26,7 +26,7 @@
 },
 "continue_text.png":
 {
-	"frame": {"x":397,"y":1357,"w":294,"h":88},
+	"frame": {"x":397,"y":1438,"w":294,"h":88},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":88},
@@ -34,7 +34,7 @@
 },
 "loading-logo.png":
 {
-	"frame": {"x":118,"y":931,"w":775,"h":424},
+	"frame": {"x":118,"y":1012,"w":775,"h":424},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":775,"h":424},
@@ -50,15 +50,15 @@
 },
 "Reel.png":
 {
-	"frame": {"x":1,"y":60,"w":980,"h":869},
+	"frame": {"x":1,"y":60,"w":978,"h":950},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":980,"h":869},
-	"sourceSize": {"w":980,"h":869}
+	"spriteSourceSize": {"x":0,"y":0,"w":978,"h":950},
+	"sourceSize": {"w":978,"h":950}
 },
 "text-1.png":
 {
-	"frame": {"x":895,"y":931,"w":372,"h":90},
+	"frame": {"x":895,"y":1012,"w":372,"h":90},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":372,"h":90},
@@ -66,7 +66,7 @@
 },
 "text-2.png":
 {
-	"frame": {"x":1,"y":931,"w":548,"h":115},
+	"frame": {"x":1,"y":1012,"w":548,"h":115},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":115},
@@ -74,7 +74,7 @@
 },
 "text-3.png":
 {
-	"frame": {"x":397,"y":1447,"w":453,"h":45},
+	"frame": {"x":397,"y":1528,"w":453,"h":45},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":453,"h":45},
@@ -85,8 +85,8 @@
 	"version": "1.0",
 	"image": "th.png",
 	"format": "RGBA8888",
-	"size": {"w":986,"h":1493},
+	"size": {"w":986,"h":1574},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:924f45f4b2603ad05fa2d052d69e0714:bb581df99c02f50785de14a2c50c330c:24e9f74f97fe8de1a5da2b4e0f196b68$"
+	"smartupdate": "$TexturePacker:SmartUpdate:906c3cf539490c44604a9a76adcaad2d:3b7d927556deecb12295443b2e945fb8:24e9f74f97fe8de1a5da2b4e0f196b68$"
 }
 }
