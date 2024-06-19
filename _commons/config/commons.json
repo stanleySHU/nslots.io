@@ -2,7 +2,7 @@
     "tourexc": ["w88"],
     "activeTimeout": 60,
     "inactiveTimeout": 20,
-    "historyUrl": "http://slots.[%%DOMAINLINK%%]/bethistory/",
+    "historyUrl": "http://slots.gpistudios.com/bethistory/",
     "help": {
         "url": "http://info.[%%URLDOMAIN%%]/share/rules-slots-[%%LANG%%].shtml#[%%GAME%%]",
         "games": {
