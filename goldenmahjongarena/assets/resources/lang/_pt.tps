@@ -173,21 +173,6 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">pt/BUYBONUS.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>146,25,293,49</rect>
-                <key>scale9Paddings</key>
-                <rect>146,25,293,49</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">pt/Buy-Bonus.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -203,6 +188,81 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">pt/Callout1.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>133,19,265,39</rect>
+                <key>scale9Paddings</key>
+                <rect>133,19,265,39</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pt/Callout2.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>330,23,660,45</rect>
+                <key>scale9Paddings</key>
+                <rect>330,23,660,45</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pt/Callout3.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>332,23,664,46</rect>
+                <key>scale9Paddings</key>
+                <rect>332,23,664,46</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pt/Callout4.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>319,23,639,45</rect>
+                <key>scale9Paddings</key>
+                <rect>319,23,639,45</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pt/Callout5.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>385,23,771,45</rect>
+                <key>scale9Paddings</key>
+                <rect>385,23,771,45</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">pt/FREE-SPINS.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -215,21 +275,6 @@
                 <rect>41,22,81,43</rect>
                 <key>scale9Paddings</key>
                 <rect>41,22,81,43</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">pt/Random-10.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>59,32,118,63</rect>
-                <key>scale9Paddings</key>
-                <rect>59,32,118,63</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -280,6 +325,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">pt/buybonus.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>146,25,293,49</rect>
+                <key>scale9Paddings</key>
+                <rect>146,25,293,49</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">pt/click_to_play.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -307,6 +367,21 @@
                 <rect>23,6,47,11</rect>
                 <key>scale9Paddings</key>
                 <rect>23,6,47,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pt/random-10.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>59,32,118,63</rect>
+                <key>scale9Paddings</key>
+                <rect>59,32,118,63</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>

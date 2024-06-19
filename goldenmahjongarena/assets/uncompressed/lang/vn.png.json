@@ -2,39 +2,79 @@
 
 "Buy-Bonus.png":
 {
-	"frame": {"x":1,"y":457,"w":176,"h":102},
+	"frame": {"x":1369,"y":229,"w":176,"h":102},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":5,"y":5,"w":176,"h":102},
 	"sourceSize": {"w":186,"h":112}
 },
-"BUYBONUS.png":
+"buybonus.png":
 {
-	"frame": {"x":404,"y":81,"w":599,"h":118},
-	"rotated": false,
+	"frame": {"x":66,"y":1,"w":599,"h":118},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":599,"h":118},
 	"sourceSize": {"w":599,"h":118}
 },
 "buyBonusBtn.png":
 {
-	"frame": {"x":162,"y":81,"w":367,"h":240},
-	"rotated": true,
+	"frame": {"x":347,"y":229,"w":367,"h":240},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":240},
 	"sourceSize": {"w":367,"h":240}
 },
 "buyBonusBtnDisable.png":
 {
-	"frame": {"x":404,"y":201,"w":367,"h":240},
+	"frame": {"x":716,"y":229,"w":367,"h":240},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":240},
 	"sourceSize": {"w":367,"h":240}
 },
+"Callout1.png":
+{
+	"frame": {"x":1,"y":1,"w":609,"h":63},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":609,"h":63},
+	"sourceSize": {"w":609,"h":63}
+},
+"Callout2.png":
+{
+	"frame": {"x":186,"y":1,"w":1475,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1475,"h":74},
+	"sourceSize": {"w":1475,"h":74}
+},
+"Callout3.png":
+{
+	"frame": {"x":186,"y":529,"w":1130,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1130,"h":72},
+	"sourceSize": {"w":1130,"h":72}
+},
+"Callout4.png":
+{
+	"frame": {"x":347,"y":153,"w":1310,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1310,"h":74},
+	"sourceSize": {"w":1310,"h":74}
+},
+"Callout5.png":
+{
+	"frame": {"x":186,"y":77,"w":1454,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1454,"h":74},
+	"sourceSize": {"w":1454,"h":74}
+},
 "click_to_play.png":
 {
-	"frame": {"x":1,"y":1,"w":959,"h":78},
+	"frame": {"x":1,"y":612,"w":959,"h":78},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":959,"h":78},
@@ -42,7 +82,7 @@
 },
 "FREE-SPINS.png":
 {
-	"frame": {"x":773,"y":326,"w":233,"h":87},
+	"frame": {"x":962,"y":603,"w":233,"h":87},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":87},
@@ -50,31 +90,31 @@
 },
 "freespins.png":
 {
-	"frame": {"x":545,"y":443,"w":219,"h":166},
-	"rotated": false,
+	"frame": {"x":1318,"y":455,"w":219,"h":166},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":166},
 	"sourceSize": {"w":219,"h":166}
 },
-"Random-10.png":
+"random-10.png":
 {
-	"frame": {"x":773,"y":415,"w":224,"h":157},
-	"rotated": false,
+	"frame": {"x":1210,"y":229,"w":224,"h":157},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":157},
 	"sourceSize": {"w":224,"h":157}
 },
 "SUPER-FREE-SPINS.png":
 {
-	"frame": {"x":773,"y":201,"w":233,"h":123},
-	"rotated": false,
+	"frame": {"x":1085,"y":229,"w":233,"h":123},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":123},
 	"sourceSize": {"w":233,"h":123}
 },
 "superfreespins.png":
 {
-	"frame": {"x":1,"y":81,"w":374,"h":159},
+	"frame": {"x":186,"y":153,"w":374,"h":159},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":159},
@@ -82,16 +122,16 @@
 },
 "Up-to-x10.png":
 {
-	"frame": {"x":105,"y":457,"w":218,"h":171},
-	"rotated": false,
+	"frame": {"x":1486,"y":229,"w":218,"h":171},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":171},
 	"sourceSize": {"w":218,"h":171}
 },
 "Up-to-x50.png":
 {
-	"frame": {"x":325,"y":450,"w":218,"h":171},
-	"rotated": false,
+	"frame": {"x":1486,"y":449,"w":218,"h":171},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":171},
 	"sourceSize": {"w":218,"h":171}
@@ -101,8 +141,8 @@
 	"version": "1.0",
 	"image": "vn.png",
 	"format": "RGBA8888",
-	"size": {"w":1007,"h":634},
+	"size": {"w":1662,"h":691},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:75f28782b52a5d081509165e7acfbb32:1d10d3129a3694f34e4bd16e5305abe8:c78696b674268393e14b95531cbc0844$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2d0f824ee790da5aeed0b73ad4004854:e493af6d9e60f6887869fd36c5b56188:c78696b674268393e14b95531cbc0844$"
 }
 }
