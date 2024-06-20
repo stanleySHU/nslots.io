@@ -97,20 +97,20 @@
         .require(
           {
             key: "goldenmahjongarena-bootstrap",
-            url: "./lib/bootstrap.js?v=1718857806672",
-            unique: 1718857806672,
+            url: "./lib/bootstrap.js?v=1718863925000",
+            unique: 1718863925000,
             skipCache: true
           },
           {
             key: "goldenmahjongarena-preload",
-            url: "./lib/preload.js?v=1718857806672",
-            unique: 1718857806672,
+            url: "./lib/preload.js?v=1718863925000",
+            unique: 1718863925000,
             skipCache: true
           },
           {
             key: "goldenmahjongarena-appinsights",
-            url: "./lib/appinsights.js?v=1718857806672",
-            unique: 1718857806672,
+            url: "./lib/appinsights.js?v=1718863925000",
+            unique: 1718863925000,
             skipCache: true
           },
           {
@@ -161,26 +161,10 @@
         )
         .then(function () {
           bootstrap({
-            web: {
-              name: "mobile",
-              js: "mobile",
-              layout: "mobile"
-            },
-            mobile: {
-              name: "mobile",
-              js: "mobile",
-              layout: "mobile"
-            },
-            mini: {
-              name: "mobile",
-              js: "mobile",
-              layout: "mobile"
-            },
-            desktop: {
-              name: "mobile",
-              js: "mobile",
-              layout: "mobile"
-            }
+            web: { name: "web", js: "mobile", layout: "mobile" },
+            mobile: { name: "mobile", js: "mobile", layout: "mobile" },
+            mini: { name: "mini", js: "mobile", layout: "mobile" },
+            desktop: { name: "desktop", js: "mobile", layout: "mobile" }
           });
         });
     </script>
