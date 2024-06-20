@@ -2,7 +2,7 @@
 
 "Buy-Bonus.png":
 {
-	"frame": {"x":1437,"y":346,"w":176,"h":102},
+	"frame": {"x":695,"y":362,"w":176,"h":102},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":5,"y":5,"w":176,"h":102},
@@ -10,31 +10,15 @@
 },
 "buybonus.png":
 {
-	"frame": {"x":1,"y":345,"w":393,"h":101},
+	"frame": {"x":1075,"y":1,"w":393,"h":101},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":393,"h":101},
 	"sourceSize": {"w":393,"h":101}
 },
-"buyBonusBtn.png":
-{
-	"frame": {"x":1444,"y":104,"w":367,"h":240},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":240},
-	"sourceSize": {"w":367,"h":240}
-},
-"buyBonusBtnDisable.png":
-{
-	"frame": {"x":1068,"y":265,"w":367,"h":240},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":240},
-	"sourceSize": {"w":367,"h":240}
-},
 "Callout1.png":
 {
-	"frame": {"x":1813,"y":104,"w":209,"h":76},
+	"frame": {"x":1672,"y":104,"w":209,"h":76},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":76},
@@ -50,7 +34,7 @@
 },
 "Callout3.png":
 {
-	"frame": {"x":1,"y":259,"w":692,"h":84},
+	"frame": {"x":1,"y":362,"w":692,"h":84},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":84},
@@ -58,7 +42,7 @@
 },
 "Callout4.png":
 {
-	"frame": {"x":1,"y":171,"w":864,"h":86},
+	"frame": {"x":1,"y":274,"w":864,"h":86},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":864,"h":86},
@@ -74,7 +58,7 @@
 },
 "click_to_play.png":
 {
-	"frame": {"x":1075,"y":1,"w":890,"h":101},
+	"frame": {"x":1,"y":171,"w":890,"h":101},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":890,"h":101},
@@ -82,23 +66,23 @@
 },
 "FREE-SPINS.png":
 {
-	"frame": {"x":1008,"y":83,"w":272,"h":58},
-	"rotated": true,
+	"frame": {"x":893,"y":265,"w":272,"h":58},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":58},
 	"sourceSize": {"w":272,"h":58}
 },
 "freespins.png":
 {
-	"frame": {"x":695,"y":259,"w":219,"h":166},
-	"rotated": true,
+	"frame": {"x":1337,"y":291,"w":219,"h":166},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":166},
 	"sourceSize": {"w":219,"h":166}
 },
 "random-10.png":
 {
-	"frame": {"x":396,"y":345,"w":260,"h":150},
+	"frame": {"x":873,"y":325,"w":260,"h":150},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":150},
@@ -106,15 +90,15 @@
 },
 "SUPER-FREE-SPINS.png":
 {
-	"frame": {"x":867,"y":171,"w":273,"h":101},
-	"rotated": true,
+	"frame": {"x":1470,"y":1,"w":273,"h":101},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":101},
 	"sourceSize": {"w":273,"h":101}
 },
 "superfreespins.png":
 {
-	"frame": {"x":1068,"y":104,"w":374,"h":159},
+	"frame": {"x":1008,"y":104,"w":374,"h":159},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":159},
@@ -122,27 +106,35 @@
 },
 "Up-to-x10.png":
 {
-	"frame": {"x":1813,"y":315,"w":141,"h":168},
-	"rotated": false,
+	"frame": {"x":1167,"y":265,"w":141,"h":168},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":168},
 	"sourceSize": {"w":141,"h":168}
 },
 "Up-to-x50.png":
 {
-	"frame": {"x":1615,"y":346,"w":141,"h":168},
+	"frame": {"x":1558,"y":315,"w":141,"h":168},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":168},
 	"sourceSize": {"w":141,"h":168}
+},
+"will-be-charged.png":
+{
+	"frame": {"x":1384,"y":104,"w":286,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":185},
+	"sourceSize": {"w":286,"h":185}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "kh.png",
 	"format": "RGBA8888",
-	"size": {"w":1966,"h":506},
+	"size": {"w":1749,"h":476},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:7a858db717ea7d6cac2895448c5c9d6a:04a21dc2f011c1e6930dfdf3807b7773:e52a5c62d91ff8f99f26e7beaa3d4089$"
+	"smartupdate": "$TexturePacker:SmartUpdate:2b5fd3138ee5770b6d1aafe5cd4876a3:78fae08879edcbfe4fb489b0934b822b:e52a5c62d91ff8f99f26e7beaa3d4089$"
 }
 }

@@ -2,39 +2,23 @@
 
 "Buy-Bonus.png":
 {
-	"frame": {"x":1369,"y":229,"w":176,"h":102},
-	"rotated": true,
+	"frame": {"x":1277,"y":529,"w":176,"h":102},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":5,"y":5,"w":176,"h":102},
 	"sourceSize": {"w":186,"h":112}
 },
 "buybonus.png":
 {
-	"frame": {"x":66,"y":1,"w":599,"h":118},
+	"frame": {"x":1478,"y":1,"w":599,"h":118},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":599,"h":118},
 	"sourceSize": {"w":599,"h":118}
 },
-"buyBonusBtn.png":
-{
-	"frame": {"x":347,"y":229,"w":367,"h":240},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":240},
-	"sourceSize": {"w":367,"h":240}
-},
-"buyBonusBtnDisable.png":
-{
-	"frame": {"x":716,"y":229,"w":367,"h":240},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":240},
-	"sourceSize": {"w":367,"h":240}
-},
 "Callout1.png":
 {
-	"frame": {"x":1,"y":1,"w":609,"h":63},
+	"frame": {"x":1598,"y":1,"w":609,"h":63},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":609,"h":63},
@@ -42,7 +26,7 @@
 },
 "Callout2.png":
 {
-	"frame": {"x":186,"y":1,"w":1475,"h":74},
+	"frame": {"x":1,"y":1,"w":1475,"h":74},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1475,"h":74},
@@ -50,7 +34,7 @@
 },
 "Callout3.png":
 {
-	"frame": {"x":186,"y":529,"w":1130,"h":72},
+	"frame": {"x":1,"y":229,"w":1130,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1130,"h":72},
@@ -58,7 +42,7 @@
 },
 "Callout4.png":
 {
-	"frame": {"x":347,"y":153,"w":1310,"h":74},
+	"frame": {"x":1,"y":153,"w":1310,"h":74},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1310,"h":74},
@@ -66,7 +50,7 @@
 },
 "Callout5.png":
 {
-	"frame": {"x":186,"y":77,"w":1454,"h":74},
+	"frame": {"x":1,"y":77,"w":1454,"h":74},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1454,"h":74},
@@ -74,7 +58,7 @@
 },
 "click_to_play.png":
 {
-	"frame": {"x":1,"y":612,"w":959,"h":78},
+	"frame": {"x":1,"y":303,"w":959,"h":78},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":959,"h":78},
@@ -82,31 +66,31 @@
 },
 "FREE-SPINS.png":
 {
-	"frame": {"x":962,"y":603,"w":233,"h":87},
-	"rotated": false,
+	"frame": {"x":962,"y":303,"w":233,"h":87},
+	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":87},
 	"sourceSize": {"w":233,"h":87}
 },
 "freespins.png":
 {
-	"frame": {"x":1318,"y":455,"w":219,"h":166},
-	"rotated": true,
+	"frame": {"x":278,"y":383,"w":219,"h":166},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":166},
 	"sourceSize": {"w":219,"h":166}
 },
 "random-10.png":
 {
-	"frame": {"x":1210,"y":229,"w":224,"h":157},
-	"rotated": true,
+	"frame": {"x":1051,"y":464,"w":224,"h":157},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":224,"h":157},
 	"sourceSize": {"w":224,"h":157}
 },
 "SUPER-FREE-SPINS.png":
 {
-	"frame": {"x":1085,"y":229,"w":233,"h":123},
+	"frame": {"x":1133,"y":229,"w":233,"h":123},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":233,"h":123},
@@ -114,7 +98,7 @@
 },
 "superfreespins.png":
 {
-	"frame": {"x":186,"y":153,"w":374,"h":159},
+	"frame": {"x":1313,"y":153,"w":374,"h":159},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":374,"h":159},
@@ -122,27 +106,35 @@
 },
 "Up-to-x10.png":
 {
-	"frame": {"x":1486,"y":229,"w":218,"h":171},
-	"rotated": true,
+	"frame": {"x":499,"y":383,"w":218,"h":171},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":171},
 	"sourceSize": {"w":218,"h":171}
 },
 "Up-to-x50.png":
 {
-	"frame": {"x":1486,"y":449,"w":218,"h":171},
+	"frame": {"x":719,"y":383,"w":218,"h":171},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":171},
 	"sourceSize": {"w":218,"h":171}
+},
+"will-be-charged.png":
+{
+	"frame": {"x":1,"y":383,"w":252,"h":275},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":275},
+	"sourceSize": {"w":252,"h":275}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "vn.png",
 	"format": "RGBA8888",
-	"size": {"w":1662,"h":691},
+	"size": {"w":1662,"h":636},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2d0f824ee790da5aeed0b73ad4004854:e493af6d9e60f6887869fd36c5b56188:c78696b674268393e14b95531cbc0844$"
+	"smartupdate": "$TexturePacker:SmartUpdate:03d1732a39ea9cb488aaf81518787f6d:0857c57c65297d094271b94adef35327:c78696b674268393e14b95531cbc0844$"
 }
 }

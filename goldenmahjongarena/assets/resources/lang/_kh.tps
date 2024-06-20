@@ -309,22 +309,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">kh/buyBonusBtn.png</key>
-            <key type="filename">kh/buyBonusBtnDisable.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>75,75,150,150</rect>
-                <key>scale9Paddings</key>
-                <rect>75,75,150,150</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">kh/buybonus.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -397,6 +381,21 @@
                 <rect>38,6,77,11</rect>
                 <key>scale9Paddings</key>
                 <rect>38,6,77,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">kh/will-be-charged.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>72,46,143,93</rect>
+                <key>scale9Paddings</key>
+                <rect>72,46,143,93</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
