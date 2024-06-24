@@ -1,5 +1,0 @@
-<scene id="login">
-	<view>
-		<img res="@img/bg-loading" />
-	</view>
-</scene>

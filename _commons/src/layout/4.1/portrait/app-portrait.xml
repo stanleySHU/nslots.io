@@ -1,8 +1,0 @@
-<app version="1" uiVersion="{%uiVersion%}" enter="preload" width="540" height="960" backgroundColor="0x0" hudLang="en,cs,jp" numBetLines="{%numBetLines%}" numInfoPages="{%numInfoPages%}" historyDomain="{%historyDomain%}" defaultLobbyUrl="{%defaultLobbyUrl%}" defaultLoginURL="{%defaultLoginURL%}" apiName="{%apiName%}" engineVersion="{%engineVersion%}" publishTime="{%publishTime%}" fround="{%fround%}">
-  <placeholder id="services">
-    <include ref="../../_commons/src/layout/{%layoutVersion%}/services.xml" />
-  </placeholder>
-  <scenes>
-    <placeholder id="scenes" />
-  </scenes>
-</app>

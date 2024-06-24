@@ -1,3 +1,0 @@
-<placeholder id="infoPanel">
-    <infoPanel id="infoPanel" l-x="40" p-x="0" pages="{{numInfoPages}}" indicatorOn="@atlas/ui/info-indicator-on.png" indicatorOff="@atlas/ui/info-indicator-off.png" indicatorY="15" indicatorGap="70" />
-</placeholder>

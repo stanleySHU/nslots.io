@@ -1,9 +1,0 @@
-<scene id="login">
-  <view>
-    <img id="circle" res="@img/preloader_anim" x="370" y="1005" pivot="50%,50%" />
-    <label x="600" y="1035" id="version" fontFamily="Arial" fontSize="18" fontWeight="bold" fill="0xDDDDDD" stroke="0x404040" strokeThickness="4" letterSpacing="1" lineJoin="round" align="center" />
-    <img res="@img/bg-loading" l-visible="true" p-visible="false" />
-    <img res="@img/bg-loading-p" l-visible="false" p-visible="true" />
-    <sound name="bgm-loading" bgm="true" auto="true" volume="1" />
-  </view>
-</scene>		

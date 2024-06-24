@@ -1,6 +1,0 @@
-<scene id="preload" next="login">
-	<resources>
-		<img id="bg-loading" src="assets/bg-loading.jpg" />
-		<img id="preloader_anim" src="assets/preloader_anim.png" />
-	</resources>
-</scene>

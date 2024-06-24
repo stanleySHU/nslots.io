@@ -1,8 +1,0 @@
-<scene id="preload" next="login">
-	<resources>
-		<img id="bg-loading" src="assets/bg-loading.jpg" />
-		<img id="preloader_anim" src="assets/preloader_anim.png" />
-		<text id="message" src="../_commons/text/{{LANGUAGE}}.json" />
-		<placeholder id="preload"/>
-	</resources>
-</scene>
