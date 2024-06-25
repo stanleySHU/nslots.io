@@ -166,17 +166,17 @@
         },
         "miniprod":{
             "netServiceUrl":"//rslotservice.gp2api.com/kairos01/"
-            , "defaultLobbyUrl":"gamelobby.[%%URLDOMAIN%%]"
+            , "defaultLobbyUrl":""
             , "apiName":"api"
         },
         "miniuat":{
             "netServiceUrl":"//rslotservice.gpiuat.com/kairos/"
-            , "defaultLobbyUrl":"mgamelobby.[%%URLDOMAIN%%]"
+            , "defaultLobbyUrl":""
             , "apiName":"api"
         },
         "ministaging":{
             "netServiceUrl":"//rslotservice.gpistaging.com/kairos/"
-            , "defaultLobbyUrl":"mgamelobby.[%%URLDOMAIN%%]"
+            , "defaultLobbyUrl":""
             , "apiName":"api"
         },
         "malta":{

@@ -32,6 +32,14 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":27},
 	"sourceSize": {"w":153,"h":27}
 },
+"freerounds-hi.png":
+{
+	"frame": {"x":137,"y":28,"w":153,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":27},
+	"sourceSize": {"w":153,"h":27}
+},
 "freerounds-id.png":
 {
 	"frame": {"x":137,"y":89,"w":139,"h":27},
@@ -64,7 +72,23 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":32},
 	"sourceSize": {"w":124,"h":32}
 },
+"freerounds-pt.png":
+{
+	"frame": {"x":137,"y":28,"w":153,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":27},
+	"sourceSize": {"w":153,"h":27}
+},
 "freerounds-th.png":
+{
+	"frame": {"x":137,"y":28,"w":153,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":27},
+	"sourceSize": {"w":153,"h":27}
+},
+"freerounds-tr.png":
 {
 	"frame": {"x":137,"y":28,"w":153,"h":27},
 	"rotated": false,
@@ -95,6 +119,6 @@
 	"format": "RGBA8888",
 	"size": {"w":429,"h":161},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:db12be9cfda767a9cbda1ba0cf861552:17ee7f33685ee61f21ad67f3308432c9:68d88b3cf7eafc9b5accfffdfb2fda91$"
+	"smartupdate": "$TexturePacker:SmartUpdate:a83665b65a4ea209a83f7908809d9cfe:8a560578c897f4eec72f4d47984a8672:68d88b3cf7eafc9b5accfffdfb2fda91$"
 }
 }
