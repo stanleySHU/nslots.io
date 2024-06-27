@@ -1,5 +1,0 @@
-<totalWinPanel id="totalWinPanel">
-  <layer id="container" visible="false">
-    <spineAnimation id="spine" res="@res/totalAmountSpine" action="LineWin" auto="false" visible="false"/>
-  </layer>
-</totalWinPanel>
