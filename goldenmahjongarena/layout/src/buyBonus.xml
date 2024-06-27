@@ -1,0 +1,29 @@
+<buyBonus id="buyBonus">
+
+  <layer id="container" visible="false" x="3">
+    <button id="close" onClick="onClose">
+      <rectangle id="box" x="226" y="-329" width="80" height="80" alpha="0" pivot="50%,50%" interactive="true"/>
+    </button>
+
+
+    <button id="bannerFSClick" onClick="onSelectedFs">
+      <rectangle id="box" x="-115" y="-100" width="175" height="380" alpha="0" pivot="50%,50%" interactive="true" />
+    </button>
+    <button id="bannerSFSClick" onClick="onSelectedSFs">
+      <rectangle id="box" x="105" y="-100" width="175" height="380" alpha="0" pivot="50%,50%" interactive="true" />
+    </button>
+
+    <button id="bannerBuyInButton" onClick="onBuyInBonusConfirmed" x="0" y="170" sound="">
+      <rectangle id="box" width="170" height="70" alpha="0" pivot="50%,50%" interactive="true" />
+    </button>
+
+    <spineAnimation id="bannerFS" x="-110" skin="Freespin" res="@res/buyBonusSpine" action="Banner_Intro" auto="false"/>
+    <spineAnimation id="bannerSFS" x="110" skin="SuperFreeSpin" res="@res/buyBonusSpine" action="Banner_Intro" auto="false"/>
+    <spineAnimation id="spine" skin="default" res="@res/buyBonusSpine" action="BuyBonus_Intro" auto="false">
+      <!-- <slot name="Close" widget="buyBonusCloseBtn"/> -->
+      <!-- <slot name="Close" widget="bannerBuyInButton"/> -->
+    </spineAnimation>
+    <rectangle width="1100" height="1755" interactive="true" alpha="0.5" color="0x000000" pivot="50%, 50%"/>
+  </layer>
+
+</buyBonus>

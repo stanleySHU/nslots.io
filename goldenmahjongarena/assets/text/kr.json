@@ -1,1 +1,4 @@
-{"gametitle":"Golden Mahjong Arena","buy":"사기 ({%value%})"}
+{
+    "gametitle": "Golden Mahjong Arena",
+    "buy": "사기 ({%value%})"
+}

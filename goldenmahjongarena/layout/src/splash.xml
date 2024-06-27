@@ -1,0 +1,81 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/splash.portrait.xml">
+	<placeholder id="winnumber">
+		<text id="winnumber" src="assets/font/winnumber.xml" />
+		<text id="multipliernumber" src="assets/font/multiplier.xml"/>
+		<text id="youwonnumber" src="assets/font/youwon.xml"/>
+	</placeholder>
+	<placeholder id="splashres">
+		<atlas id="langAtlas" src="assets/uncompressed/lang/{{LANGUAGE}}.[avif,webp,png].json"/>
+		<atlas id="infoAtlas" src="assets/ui/info/{{LANGUAGE}}.[avif,webp,png].json"/>
+
+		<atlas id="spritesAtlas" src="assets/ui/sprites.[avif,webp,png].json"/>
+
+		<atlas id="menuAtlas" src="assets/uncompressed/menu.[avif,webp,png].json"/>
+		<res id="symbolSpine" render="webgl" src="assets/uncompressed/spine/Symbols@2x.[webp,avif,png].json" />
+		<res id="buyBonusSpine" render="webgl" src="assets/uncompressed/spine/BuyBonus@2x.[avif,webp,png].json" />
+		<res id="multiplierSpine" render="webgl" src="assets/uncompressed/spine/MultiplierBar@2x.[webp,avif,png].json" />
+		<res id="totalAmountSpine" render="webgl" src="assets/uncompressed/spine/LineWinAmount.[avif,webp,png].json" />
+		<res id="uiSpine" render="webgl" src="assets/uncompressed/spine/UI@1.5x.[avif,webp,png].json" />
+		<res id="youWonSpine" render="webgl" src="assets/uncompressed/spine/YouWonBoards@2x.[avif,webp,png].json" />
+		<res id="bigwinCoinsSpine" src="assets/uncompressed/spine/Coins.[avif,webp,png].json" />
+		<res id="BuyBonusBtnSpine" src="assets/uncompressed/spine/BuyBonus_2x@1.5x.[avif,webp,png].json" />
+		<res id="LogoSpine" src="assets/uncompressed/spine/LogoAnim@2x.[avif,webp,png].json" />
+
+	</placeholder>
+	<placeholder id="splashview">
+		<layer y="30">
+			<layer id="logo" x="555" y="290">
+				<img res="@atlas/introAtlas/loading-logo.png" x="-5" y="0" pivot="50%,50%" scale="0.6" />
+			</layer>
+			<layer id="btnnavigate" x="545" y="1090" />
+			<layer id="btncontinue" x="545" y="1400" scale="1.2"/>
+			<layer id="content" x="410" y="610" scale="0.7">
+				<mask x="-100" y="-180" width="600" height="700"/>
+			</layer>
+			<layer id="textcontent" x="545" y="535">
+				<layer id="introText" y="450" x="-5">
+					<layer id="page0" scale="1" visible="false">
+						<if name="lang" in="cs,en,jp,tr,kr,kh,hi">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-2.png"/>
+						</if>
+						<if name="lang" in="id,pt">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-2.png"/>
+						</if>
+						<if name="lang" in="th">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="0.9" res="@atlas/introAtlas/text-2.png"/>
+						</if>
+						<if name="lang" in="vn">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="0.75" res="@atlas/introAtlas/text-2.png"/>
+						</if>
+					</layer>
+					<layer id="page1" scale="1" visible="false">
+						<if name="lang" in="cs,en,id,jp,tr,vn,kr,kh">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-1.png"/>
+						</if>
+						<if name="lang" in="hi,th">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="0.75" res="@atlas/introAtlas/text-1.png"/>
+						</if>
+						<if name="lang" in="pt">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-1.png"/>
+						</if>
+					</layer>
+					<layer id="page2" scale="1" visible="true">
+						<if name="lang" in="cs,en,jp,kh,hi">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-3.png"/>
+						</if>
+						<if name="lang" in="id,kr,pt,tr,th,vn">
+							<img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-3.png"/>
+						</if>
+					</layer>
+				</layer>
+
+			</layer>
+			<layer id="reelBg" x="555" y="790">
+				<img id="info" x="-11" y="-93" res="@atlas/introAtlas/ReelInfo.png" scale="0.925" pivot="50%,50%"/>
+				<img res="@atlas/introAtlas/Reel.png" pivot="50%,50%"/>
+			</layer>
+			<layer id="panelbg" l-x="585" p-x="555" l-y="315" p-y="660" l-scale="1" p-scale="1"/>
+		</layer>
+		<sound name="bgm-loading" bgm="true" auto="true" volume="1" />
+	</placeholder>
+</include>

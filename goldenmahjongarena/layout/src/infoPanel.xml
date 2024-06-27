@@ -1,0 +1,15 @@
+<layer scale="1.5">
+  <infoPanel id="infoPanel" x="-350" y="255" pages="{{numInfoPages}}" indicatorBase="@atlas/ui/info-indicator-base.png" indicatorOnTint="{{colorTheme}}" indicatorOffTint="0x56566E" indicatorGap="70">
+    <for from="1" to="7" step="1">
+      <content>
+        <layer id="page{%index%}">
+          <layer x="450" y="-80">
+            <img res="@atlas/infoAtlas/info-{%index%}.png" x="270" y="-40" pivot="50%,0" scale="0.5"/>
+            <rectangle id="bg" width="1440" height="810" alpha="0" l-visible="true" p-visible="false" />
+            <rectangle id="bgp" width="810" height="1440" alpha="0" l-visible="false" p-visible="true" />
+          </layer>
+        </layer>
+      </content>
+    </for>
+  </infoPanel>
+</layer>

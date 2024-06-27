@@ -1,1 +1,4 @@
-{"gametitle":"麻将竞技场","buy":"购买 ({%value%})"}
+{
+	"gametitle": "麻将竞技场",
+	"buy": "购买 ({%value%})"
+}

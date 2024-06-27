@@ -1,0 +1,327 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/hud.portrait.xml" scale="1.5">
+  <placeholder id="cheatBar">
+    <cheatBar id="cheatBar" keys="1:bonus,2:small,3:normal,4:medium,5:high,6:big" l-x="0" p-x="-70" l-scale="1" p-scale="0.7,0.8" />
+  </placeholder>
+  <placeholder id="fround">
+    <include l-x="920" l-y="494" l-scale="0.9" p-x="130" p-y="225" p-scale="1" ref="../../_commons/src/layout/4.0/froundToggle.both.xml"/>
+  </placeholder>
+  <placeholder id="betSelection">
+    <betSelection id="betSelection" x="544.5" y="991.5" pivot="50%,100%" scale="0.9">
+      <buttonSlide id="btnClose">
+        <layer id="up">
+          <rectangle x="65" y="199" width="65" height="3" color="0xFFBC30" />
+        </layer>
+        <layer id="disable">
+          <rectangle x="65" y="199" width="65" height="3" color="0x87611B" />
+        </layer>
+      </buttonSlide>
+      <carousel id="selection" x="0" y="84" numItemsShown="5" dropdownWidth="180" itemHeight="35" selectItemOnClick="true" mouseWheelEnabled="true" mouseWheelGap="35" itemsTextColor="0xBFBFBF" highlightColor="0x3D3D4B" scaleTopBottomItems="2" scaleTopBottomValue="0.12" align="center" fontFamily="Din, Arial" fontWeight="bold" fontSize="24" selectedItemTextColor="0xFFB800" />
+      <rectangle y="85" x="2" width="181" height="30" color="0x130731" alpha="0.9" />
+      <rectangle width="185" height="200" color="0x1e0c4a" border="3" bcolor="0x888888" alpha="0.8" radius="10" interactive="true" />
+    </betSelection>
+  </placeholder>
+
+  <placeholder id="autoSpin">
+    <autoSpin id="autoSpinOptions" max="99999999" fontSize="22" textAlign="right" textIndent="10px" color="#1B1B1B" background="transparent">
+      <layer id="keyboard" visible="false">
+        <for from="0" to="10" step="1">
+          <content>
+            <buttonSlide id="{%n%}" command="onKeyboard" x="{%x%}" y="{%y%}">
+              <layer id="up">
+                <label value="{%n%}" align="center" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+                <circle radius="29" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+              </layer>
+              <layer id="down">
+                <label value="{%n%}" align="center" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+                <circle radius="29" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+              </layer>
+              <layer id="disable">
+                <label value="{%n%}" align="center" fontFamily="Din, Arial" fontSize="30" fill="0x333333" pivot="0,50%"/>
+                <circle radius="29" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+              </layer>
+            </buttonSlide>
+          </content>
+          <arguments>
+            <argument id="0" n="1" x="40" y="40"/>
+            <argument id="1" n="2" x="112" y="40"/>
+            <argument id="2" n="3" x="184" y="40"/>
+            <argument id="3" n="4" x="256" y="40"/>
+            <argument id="4" n="5" x="328" y="40"/>
+            <argument id="5" n="6" x="40" y="112"/>
+            <argument id="6" n="7" x="112" y="112"/>
+            <argument id="7" n="8" x="184" y="112"/>
+            <argument id="8" n="9" x="256" y="112"/>
+            <argument id="9" n="0" x="328" y="112"/>
+            <argument id="10" n="." x="400" y="112"/>
+          </arguments>
+        </for>
+        <buttonSlide id="X" command="onKeyboard" x="400" y="40">
+          <layer id="up">
+            <img res="@atlas/ui/cancel.png" pivot="50%,50%" />
+            <circle radius="29" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+          </layer>
+          <layer id="down">
+            <img res="@atlas/ui/cancel.png" pivot="50%,50%" />
+            <circle radius="29" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+          </layer>
+          <layer id="disable">
+            <img res="@atlas/ui/cancel.png" tint="0x333333" pivot="50%,50%" />
+            <circle radius="29" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+          </layer>
+        </buttonSlide>
+        <rectangle width="440" height="152" alpha="0.65" color="0x808080" bcolor="0x333333" border="2" radius="35" interactive="true" />
+      </layer>
+      <placeholder id="border">
+        <rectangle x="0" y="1168" width="1170" height="1" color="0x3F444F" />
+        <rectangle x="-215" y="1169" width="1170" height="1" color="0x68687B" />
+      </placeholder>
+      <layer id="basic" x="100" y="1180" pivot="0,100%">
+        <button id="expand" command="expand" x="505" y="30">
+          <img id="up" res="@atlas/ui/btn-expand.png" pivot="50%,50%" tint="0xEEEEEE" />
+          <img id="over" res="@atlas/ui/btn-expand.png" pivot="50%,50%" />
+          <img id="disable" res="@atlas/ui/btn-expand.png" pivot="50%,50%" tint="0x888888" />
+        </button>
+        <langLabel id="lblAutoSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="18" value="{{autospin}}" case="upper" fontFamily="lang" fontSize="30" />
+        <layer id="numSpins" x="14" y="88">
+          <for from="0" to="4" step="1">
+            <content>
+              <buttonSlide id="{%n%}" command="onNumSpins" x="{%px%}" y="0">
+                <layer id="up">
+                  <label x="36" y="30" value="{%n%}" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="50%,50%" />
+                  <rectangle id="bgp" visible="true" width="72" height="60" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+                </layer>
+                <layer id="disable">
+                  <label x="36" y="30" value="{%n%}" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="50%,50%" />
+                  <rectangle id="bgp" visible="true" width="72" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+                </layer>
+              </buttonSlide>
+            </content>
+            <arguments>
+              <argument id="0" n="100" lx="416" px="352" />
+              <argument id="1" n="75" lx="312" px="264" />
+              <argument id="2" n="50" lx="208" px="176" />
+              <argument id="3" n="25" lx="104" px="88" />
+              <argument id="4" n="10" lx="0" px="0" />
+            </arguments>
+          </for>
+          <buttonSlide id="-1" command="onNumSpins" x="440" y="0">
+            <layer id="up">
+              <img x="36" y="30" res="@atlas/ui/icon-infinity.png" pivot="50%,50%" />
+              <rectangle id="bgp" visible="true" width="72" height="60" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+            </layer>
+            <layer id="disable">
+              <img x="36" y="30" res="@atlas/ui/icon-infinity.png" pivot="50%,50%" />
+              <rectangle id="bgp" visible="true" width="72" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+            </layer>
+          </buttonSlide>
+        </layer>
+        <buttonSlide x="14" y="164" command="onStartAutoSpin">
+          <layer id="up">
+            <if name="lang" in="cs,jp,kr">
+              <langLabel bitmap="true" y="15" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <if name="lang" in="kh">
+              <langLabel bitmap="true" y="35" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <if name="lang" in="en,hi,id,th,vn,pt,tr">
+              <langLabel bitmap="true" y="30" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <rectangle visible="true" width="512" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+          </layer>
+        </buttonSlide>
+        <langLabel id="lblNumSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="56" value="{{numspins}}" case="upper" fontFamily="lang" fontSize="22" />
+        <rectangle visible="true" x="-100" width="742" height="235" color="0x30303C" alpha="1" interactive="true" />
+      </layer>
+      <layer id="advanced" visible="false" x="100" y="1185" pivot="0,100%">
+        <button id="collapse" command="collapse" x="505" y="30">
+          <img id="up" res="@atlas/ui/btn-collaspe.png" pivot="50%,50%" tint="0xEEEEEE" />
+          <img id="over" res="@atlas/ui/btn-collaspe.png" pivot="50%,50%" />
+          <img id="disable" res="@atlas/ui/btn-collaspe.png" pivot="50%,50%" tint="0x888888" />
+        </button>
+        <layer id="numSpins" x="14" y="88">
+          <for from="0" to="4" step="1">
+            <content>
+              <buttonSlide id="{%n%}" command="onNumSpins" x="{%px%}" y="0">
+                <layer id="up">
+                  <label x="36" y="30" value="{%n%}" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="50%,50%" />
+                  <rectangle id="bgp" visible="true" width="72" height="60" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+                </layer>
+                <layer id="disable">
+                  <label x="36" y="30" value="{%n%}" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="50%,50%" />
+                  <rectangle id="bgp" visible="true" width="72" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+                </layer>
+              </buttonSlide>
+            </content>
+            <arguments>
+              <argument id="0" n="100" lx="416" px="352" />
+              <argument id="1" n="75" lx="312" px="264" />
+              <argument id="2" n="50" lx="208" px="176" />
+              <argument id="3" n="25" lx="104" px="88" />
+              <argument id="4" n="10" lx="0" px="0" />
+            </arguments>
+          </for>
+          <buttonSlide id="-1" command="onNumSpins" x="440" y="0">
+            <layer id="up">
+              <img x="36" y="30" res="@atlas/ui/icon-infinity.png" pivot="50%,50%" />
+              <rectangle id="bgp" visible="true" width="72" height="60" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+            </layer>
+            <layer id="disable">
+              <img x="36" y="30" res="@atlas/ui/icon-infinity.png" pivot="50%,50%" />
+              <rectangle id="bgp" visible="true" width="72" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+            </layer>
+          </buttonSlide>
+        </layer>
+        <!-- line -->
+        <rectangle x="15" y="164" width="510" height="2" color="0x474747" visible="true" />
+
+        <layer id="stopLimits" x="15" y="213">
+          <for from="0" to="3" step="1">
+            <content>
+              <buttonSlide id="{%n%}" command="onStopLimit" x="{%px%}">
+                <layer id="up">
+                  <label x="36" y="30" value="{%n%}x" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="50%,50%" />
+                  <rectangle id="bgp" visible="true" width="72" height="60" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+                </layer>
+                <layer id="disable">
+                  <label x="36" y="30" value="{%n%}x" fontFamily="Din, Arial" fontSize="30" fill="0xFFFFFF" pivot="50%,50%" />
+                  <rectangle id="bgp" visible="true" width="72" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+                </layer>
+              </buttonSlide>
+            </content>
+            <arguments>
+              <argument id="0" n="50" lx="312" px="439" />
+              <argument id="1" n="20" lx="208" px="351" />
+              <argument id="2" n="10" lx="104" px="263" />
+              <argument id="3" n="5" lx="0" px="175" />
+            </arguments>
+          </for>
+          <buttonSlide id="-1" command="onStopLimit" x="0" y="152">
+            <layer id="up">
+              <if name="lang" in="cs,jp,kr">
+                <langLabel bitmap="true" x="256" y="15" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <if name="lang" in="id,vn">
+                <langLabel bitmap="true" x="255" y="30" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="25" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <if name="lang" in="kh">
+                <langLabel bitmap="true" x="256" y="35" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <if name="lang" in="en,hi,th,pt,tr">
+                <langLabel bitmap="true" x="256" y="30" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <rectangle id="bgp" visible="true" width="512" height="60" color="0x3D3D4B" border="1" innerShadow="0x5C5C72" dropShadow="0x000000" />
+            </layer>
+            <layer id="disable">
+              <if name="lang" in="cs,jp,kr">
+                <langLabel bitmap="true" x="256" y="15" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <if name="lang" in="id,vn">
+                <langLabel bitmap="true" x="255" y="30" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="25" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <if name="lang" in="kh">
+                <langLabel bitmap="true" x="256" y="35" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <if name="lang" in="en,hi,th,pt,tr">
+                <langLabel bitmap="true" x="256" y="30" value="{{nolimit}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+              </if>
+              <rectangle id="bgp" visible="true" width="512" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+            </layer>
+          </buttonSlide>
+        </layer>
+
+        <label id="customCurrency" x="205" y="319" align="left" fontFamily="Din, Arial" fontSize="24" fill="0x1B1B1B" pivot="0,50%"/>
+        <label id="customLabel" x="510" y="319" align="right" fontFamily="Din, Arial" fontSize="24" fill="0x1B1B1B" pivot="0,50%"/>
+        <rectangle visible="true" x="0" y="289" width="190" height="60" interactive="true" alpha="0" />
+        <rectangle id="customBox" x="273" y="289" width="251" height="60" color="0xFFFFFF" bcolor="0xFFFFFF" border="2" alpha="1" />
+        <rectangle visible="true" x="190" y="289" width="335" height="60" color="0xFFFFFF" bcolor="0xFFFFFF" border="2" />
+        <!--  -->
+        <!-- line -->
+        <rectangle x="15" y="441" width="510" height="2" color="0x474747" visible="true" />
+
+        <label id="winexceedsCurrency" x="293" y="520" align="left" fontFamily="Din, Arial" fontSize="24" fill="0x1B1B1B" pivot="0,50%"/>
+        <label id="winexceedsLabel" x="511" y="520" align="right" fontFamily="Din, Arial" fontSize="24" fill="0x1B1B1B" pivot="0,50%"/>
+        <rectangle id="winexceedsBox" x="334" y="490" width="192" height="60" color="0xFFFFFF" bcolor="0xFFFFFF" border="2" alpha="0"/>
+        <rectangle visible="true" x="278" y="490" width="248" height="60" color="0xFFFFFF" bcolor="0xFFFFFF" border="2" />
+
+        <label id="balanceincreassesCurrency" x="293" y="596" align="left" fontFamily="Din, Arial" fontSize="24" fill="0x1B1B1B" pivot="0,50%"/>
+        <label id="balanceincreassesLabel" x="511" y="596" align="right" fontFamily="Din, Arial" fontSize="24" fill="0x1B1B1B" pivot="0,50%"/>
+        <rectangle id="balanceincreassesBox" x="334" y="566" width="192" height="60" color="0xFFFFFF" bcolor="0xFFFFFF" border="2" alpha="0" />
+        <rectangle visible="true" x="278" y="566" width="248" height="60" color="0xFFFFFF" bcolor="0xFFFFFF" border="2" />
+
+        <toggleButton id="byFeatures" x="417" y="642" command="onFeatures">
+          <layer id="up">
+            <circle radius="26" x="30" y="30" color="{{colorTheme}}" />
+            <rectangle width="108" height="60" color="0x3D3D4B" border="1" bcolor="0x303030" radius="34" />
+          </layer>
+          <layer id="down">
+            <circle radius="26" x="78" y="30" color="0xFFFFFF" />
+            <rectangle width="108" height="60" color="{{colorTheme}}" border="1" bcolor="0x303030" radius="34" />
+          </layer>
+        </toggleButton>
+        <buttonSlide id="startautospinBtn" x="14" y="700" command="onStartAutoSpin">
+          <layer id="up">
+            <if name="lang" in="cs,jp">
+              <langLabel bitmap="true" y="15" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <if name="lang" in="kr">
+              <langLabel bitmap="true" y="15" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <if name="lang" in="kh">
+              <langLabel bitmap="true" y="35" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <if name="lang" in="en,hi,id,th,vn,pt,tr">
+              <langLabel bitmap="true" y="30" x="256" value="{{startautospin}}" case="upper" align="center" fontFamily="lang" fontSize="30" fill="0xFFFFFF" pivot="0,50%"/>
+            </if>
+            <rectangle visible="true" width="512" height="60" color="{{colorTheme}}" border="1" innerShadow="{{colorThemeHighlight}}" dropShadow="0x000000" />
+          </layer>
+        </buttonSlide>
+        <if name="lang" in="cs,jp,kr">
+          <langLabel id="lblAutoSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="18" value="{{autospin}}" case="upper" fontFamily="lang" fontSize="30" />
+          <langLabel id="lblStopLoss" fill="{{colorTheme}}" bitmap="true" x="15" y="181" value="{{stoplosslimit}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel id="lblNumSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="56" value="{{numspins}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel bitmap="true" x="15" y="243" value="{{totalbet}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel bitmap="true" x="15" y="319" value="{{custom}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel id="lblStopAutospin" fill="{{colorTheme}}" bitmap="true" x="15" y="458" value="{{stopautospin}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel bitmap="true" x="15" y="596" value="{{balanceincresses}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel id="labelFeatures" bitmap="true" x="15" y="672" value="{{featureswon}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <if name="lang" in="kh">
+          <langLabel id="lblAutoSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="18" value="{{autospin}}" case="upper" fontFamily="lang" fontSize="30" />
+          <langLabel id="lblStopLoss" fill="{{colorTheme}}" bitmap="true" x="15" y="181" value="{{stoplosslimit}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel id="lblNumSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="56" value="{{numspins}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel bitmap="true" x="15" y="243" value="{{totalbet}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel bitmap="true" x="15" y="319" value="{{custom}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel id="lblStopAutospin" fill="{{colorTheme}}" bitmap="true" x="15" y="458" value="{{stopautospin}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel bitmap="true" x="15" y="596" value="{{balanceincresses}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel id="labelFeatures" bitmap="true" x="15" y="672" value="{{featureswon}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <if name="lang" in="en,hi,id,th,vn,pt,tr">
+          <langLabel id="lblAutoSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="18" value="{{autospin}}" case="upper" fontFamily="lang" fontSize="30" />
+          <langLabel id="lblStopLoss" fill="{{colorTheme}}" bitmap="true" x="15" y="181" value="{{stoplosslimit}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel id="lblNumSpin" fill="{{colorTheme}}" bitmap="true" x="15" y="56" value="{{numspins}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel bitmap="true" x="15" y="243" value="{{totalbet}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel bitmap="true" x="15" y="319" value="{{custom}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel id="lblStopAutospin" fill="{{colorTheme}}" bitmap="true" x="15" y="458" value="{{stopautospin}}" case="upper" fontFamily="lang" fontSize="22" />
+          <langLabel bitmap="true" x="15" y="596" value="{{balanceincresses}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+          <langLabel id="labelFeatures" bitmap="true" x="15" y="672" value="{{featureswon}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <if name="lang" in="cs,jp,kr">
+          <langLabel bitmap="true" x="15" y="520" value="{{winexceeds}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <if name="lang" in="id,pt">
+          <langLabel bitmap="true" x="15" y="520" value="{{winexceeds}}" fontFamily="lang" fontSize="18" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <if name="lang" in="kh">
+          <langLabel bitmap="true" x="15" y="520" value="{{winexceeds}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <if name="lang" in="en,hi,th,vn,tr">
+          <langLabel bitmap="true" x="15" y="520" value="{{winexceeds}}" fontFamily="lang" fontSize="22" fill="0xBFBFBF" pivot="0,50%" />
+        </if>
+        <rectangle id="panelBG-p" x="-100" width="742" height="794" alpha="1" color="0x30303C" visible="true"/>
+      </layer>
+      <layer id="clickable">
+        <rectangle visible="true" width="745" height="1170" alpha=".7" />
+      </layer>
+    </autoSpin>
+  </placeholder>
+</include>

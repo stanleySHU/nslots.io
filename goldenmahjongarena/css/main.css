@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "SeymourOne";
+  src: url("../assets/font/Seymour_One.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Acme";
+  src: url("../assets/font/Acme-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}

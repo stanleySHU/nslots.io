@@ -1,0 +1,250 @@
+<widgetService>
+
+  <img id="bonusMaxUp10" pivot="50%,50%" scale="0.5" y="-125" res="@atlas/langAtlas/Up-to-x10.png"/>
+  <img id="bonusMaxUp50" pivot="50%,50%" scale="0.5" y="-125" res="@atlas/langAtlas/Up-to-x50.png"/>
+  <img id="bonusMaxRandomCount" pivot="50%,50%" scale="0.5" res="@atlas/langAtlas/random-10.png"/>
+  <!-- <img id="bonusBuyIn" pivot="50%,50%" x="7" scale="0.5, -0.5" res="@atlas/langAtlas/Buy-Bonus.png"/> -->
+  <img id="bonusBuyTitle" pivot="50%,50%" y="-10" scale="0.5, -0.5" res="@atlas/langAtlas/buybonus.png"/>
+  <img id="bonusBuyFsT" pivot="50%,50%" scale="0.5" y="-225" res="@atlas/langAtlas/FREE-SPINS.png"/>
+  <img id="bonusBuySFsT" pivot="50%,50%" scale="0.5" y="-220" res="@atlas/langAtlas/SUPER-FREE-SPINS.png"/>
+
+  <img id="mainInfobar" pivot="50%,50%" x="-4" y="-241" res="@atlas/menuAtlas/infoBar.png" scale="0.67"/>
+  <img id="youwonClickTip" res="@atlas/langAtlas/click_to_play.png" y="30" scale="1,-1" pivot="50%,50%"/>
+  <img id="buyBonusCloseBtn" y="-20" x="230" scale="1,-1" pivot="50%,50%" res="@atlas/menuAtlas/buyBonus_close.png" />
+  <button id="bannerBuyInButton" y="-527" x="7">
+    <if name="lang" in="cs,en,id,jp,th,hi">
+      <label id="currency" align="center" y="28" maxWidth="150" fontFamily="Acme, Arial, Microsoft YaHei, Helvetica, sans-serif" fontSize="20" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+      <label id="label" align="center" maxWidth="150" y="7" fontFamily="Acme, Arial, Microsoft YaHei, Helvetica, sans-serif" fontSize="24" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+    </if>
+    <if name="lang" in="kh">
+      <label id="currency" align="center" y="28" maxWidth="150" fontFamily="Acme, Arial, Helvetica, sans-serif" fontSize="20" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+      <label id="label" align="center" y="7" maxWidth="150" fontFamily="Acme, Arial, Helvetica, sans-serif" fontSize="24" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+    </if>
+    <if name="lang" in="kr">
+      <label id="currency" align="center" y="28" maxWidth="150" fontFamily="Acme, Malgun Gothic" fontSize="20" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+      <label id="label" align="center" y="7" maxWidth="150" fontFamily="Acme, Malgun Gothic" fontSize="24" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+    </if>
+    <if name="lang" in="pt,tr">
+      <label id="currency" align="center" y="28" maxWidth="150" fontFamily="Acme,Arial, Verdana, Tahoma, sans-serif" fontSize="20" fontWeight="normal" fill="0xfcf13d" scale="1,-1" />
+      <label id="label" align="center" y="7" maxWidth="150" fontFamily="Acme,Arial, Verdana, Tahoma, sans-serif" fontSize="24" fontWeight="normal" fill="0xfcf13d" scale="1,-1" />
+    </if>
+    <if name="lang" in="vn">
+      <label id="currency" align="center" y="28" maxWidth="150" fontFamily="Acme, Arial, Helvetica, sans-serif" fontSize="20" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+      <label id="label" align="center" y="7" maxWidth="150" fontFamily="Acme, Arial, Helvetica, sans-serif" fontSize="24" fontWeight="normal" fill="0xfcf13d" scale="1,-1"/>
+    </if>
+    <img id="up" scale="0.5,-0.5" pivot="50%,50%" res="@atlas/menuAtlas/BuyBonus_panel.png" />
+  </button>
+
+  <label id="winLevelLabel" x="8" bitmap="true" fontFamily="winnumber" fontSize="45" align="center" value="0.00" pivot="0,50%" />
+  <!-- BUY BONUS -->
+  <!-- <spineAnimation id="buyBonusSpine" skin="default" res="@res/buyBonusSpine" action="BuyBonus_Intro" auto="false"/>
+   -->
+
+  <!-- TOTAL WIN LABELS -->
+  <animatedLabel bitmap="true" id="totalWinLabel" fontFamily="winnumber" align="center" y="26" fontSize="90" value="0.00" duration="2000" scale="1,-1"/>
+
+  <animatedLabel bitmap="true" id="bigWinPanelLabel" fontFamily="winnumber" align="center" y="45" fontSize="75" value="0.00" duration="2000" scale="2,-2"/>
+  <animatedLabel bitmap="true" id="totalWinPanelLabel" fontFamily="youwon" align="center" y="45" fontSize="75" value="0.00" duration="2000" scale="2,-2"/>
+  <label bitmap="true" id="youWonPanelLabel" fontFamily="multiplier" align="center" x="-100" y="0" fontSize="240" value="0" scale="1, -1" rotation="90"/>
+  <!-- INTRO -->
+  <button id="btn-continue">
+    <!-- <rectangle id="clickable" width="170" height="70" radius="34" alpha="0" pivot="50%,50%"/> -->
+    <img id="img" res="@atlas/introAtlas/continue_text.png" scale="0.6" pivot="50%,50%" />
+    <img id="img" res="@atlas/introAtlas/continue.png" pivot="50%,50%" />
+  </button>
+
+  <buttonSlide id="btn-navigator" pivot="50%,50%">
+    <img id="up" res="@atlas/introAtlas/Button_unselected.png" />
+    <img id="over" res="@atlas/introAtlas/Button_unselected.png" />
+    <img id="disable" res="@atlas/introAtlas/Button_selected.png" />
+  </buttonSlide>
+  <widget id="btn-navigator-1" name="btn-navigator" x="-60" />
+  <widget id="btn-navigator-2" name="btn-navigator" x="0" />
+  <widget id="btn-navigator-3" name="btn-navigator" x="60" />
+
+
+  <!-- <layer id="intro-logo">
+    <img res="@atlas/introAtlas/loading-logo.png" x="-5" y="0" pivot="50%,50%" scale="0.6" />
+  </layer>
+  <layer id="intro-reel">
+    <img res="@atlas/introAtlas/Reel.png" pivot="50%,50%"/>
+  </layer> -->
+
+  <!-- <layer id="intro-text" y="450" x="-5">
+    <layer id="page0" scale="1" visible="false">
+      <if name="lang" in="cs,en,jp,tr,kr,kh,hi">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-2.png"/>
+      </if>
+      <if name="lang" in="id,pt">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-2.png"/>
+      </if>
+      <if name="lang" in="th">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="0.9" res="@atlas/introAtlas/text-2.png"/>
+      </if>
+      <if name="lang" in="vn">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="0.75" res="@atlas/introAtlas/text-2.png"/>
+      </if>
+    </layer>
+    <layer id="page1" scale="1" visible="false">
+      <if name="lang" in="cs,en,id,jp,tr,vn,kr,kh">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-1.png"/>
+      </if>
+      <if name="lang" in="hi,th">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="0.75" res="@atlas/introAtlas/text-1.png"/>
+      </if>
+      <if name="lang" in="pt">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-1.png"/>
+      </if>
+    </layer>
+    <layer id="page2" scale="1" visible="false">
+      <if name="lang" in="cs,en,jp,kh,hi">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-3.png"/>
+      </if>
+      <if name="lang" in="id,kr,pt,tr,th,vn">
+        <img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-3.png"/>
+      </if>
+    </layer>
+  </layer> -->
+
+
+
+  <layer id="intro-content">
+    <layer id="page2">
+      <layer id="content" y="-80">
+        <img x="190.5" y="204" res="@atlas/menuAtlas/loadingReelcorner.png" scale="0.653" pivot="50%, 50%"/>
+        <img x="190.5" y="204" res="@atlas/spritesAtlas/x50-Selected.png" pivot="50%, 50%"/>
+        <layer x="0" y="-56">
+          <spineAnimation skin="2Tong" y="565" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer x="95">
+          <spineAnimation skin="Zhong" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer x="190">
+          <spineAnimation skin="2Tiao_FS" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa_FS" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong_FS" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa_FS" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao_FS" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer x="285">
+          <spineAnimation skin="Zhong" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer x="380" y="-56">
+          <spineAnimation skin="2Tong" y="565" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Zhong" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <mask x="-50" y="-80" width="480" height="570"/>
+      </layer>
+      <rectangle id="bg" width="600" height="700" alpha="0" pivot="50%,50%"/>
+    </layer>
+    <layer id="page1">
+      <layer id="content" y="-80">
+        <img x="190.5" y="204" res="@atlas/menuAtlas/loadingReelcorner.png" scale="0.653" pivot="50%, 50%"/>
+        <layer id="column5" x="190" visible="false">
+          <spineAnimation id="wild" skin="default" y="226" res="@res/symbolSpine" auto="true" action="Wild_Idle"/>
+        </layer>
+        <layer id="column0" x="0" y="-56">
+          <spineAnimation skin="2Tong" y="565" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="339" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="226" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation skin="2Tiao" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer id="column1" x="95">
+          <spineAnimation id="Zhong" skin="Zhong" y="452" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation skin="Window" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="0" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+        </layer>
+        <layer id="column2" x="190">
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="FSZhong" skin="Zhong_FS" y="226" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation skin="Fa" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer id="column3" x="285">
+          <spineAnimation id="Zhong" skin="Zhong" y="452" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation skin="Window" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="0" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+        </layer>
+        <layer id="column4" x="380" y="-56">
+          <spineAnimation skin="2Tong" y="565" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="339" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="226" res="@res/symbolSpine" auto="false" action="Tile FlipMerged"/>
+          <spineAnimation skin="2Tiao" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <mask x="-50" y="-80" width="480" height="570"/>
+      </layer>
+      <rectangle id="bg" width="600" height="700" alpha="0" pivot="50%,50%"/>
+    </layer>
+    <layer id="page0">
+      <layer id="content" y="-80">
+        <img x="190.5" y="204" res="@atlas/menuAtlas/loadingReelcorner.png" scale="0.653" pivot="50%, 50%"/>
+        <layer id="column0" x="0" y="-56">
+          <spineAnimation skin="2Tong" y="565" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer id="column1" x="95">
+          <spineAnimation id="Zhong" skin="Zhong" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer id="column2" x="190">
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong_FS" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer id="column3" x="285">
+          <spineAnimation id="Zhong" skin="Zhong" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Fa" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="Window" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <layer id="column4" x="380" y="-56">
+          <spineAnimation skin="2Tong" y="565" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="452" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="339" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation id="Zhong" skin="Zhong" y="226" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tiao" y="113" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+          <spineAnimation skin="2Tong" y="0" res="@res/symbolSpine" auto="false" action="TileTrigger"/>
+        </layer>
+        <mask x="-50" y="-80" width="480" height="570"/>
+      </layer>
+      <rectangle id="bg" width="600" height="700" alpha="0" pivot="50%,50%" />
+    </layer>
+  </layer>
+
+</widgetService>

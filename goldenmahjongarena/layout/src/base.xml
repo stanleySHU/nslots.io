@@ -1,0 +1,67 @@
+<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/app-portrait.xml" hudLang="en,cs,jp,kr,kh,th,tr,pt,id,vn,hi" id="mahjongarena" gID="164" creditBet="true" numBetLines="20" numInfoPages="7" orientation="portrait-only" mainScene.hudPanelButton.tint="0xFFFFFF" colorTheme="0xCE4FD1" colorThemeHighlight="0xFA7FFF" btnSpinIconTint="0xE3DB00" resolution="1.5">
+	<placeholder id="scenes">
+		<include ref="../../_commons/src/layout/5.0/preload.xml">
+			<placeholder id="preload">
+				<json id="sounds" src="assets/sounds.json" />
+				<img id="bg-loading" src="assets/ui/bg/bg-loading.[avif,webp,jpg]" />
+				<img id="bg-main" src="assets/ui/bg/bg-main.[avif,webp,jpg]" />
+				<img id="bg-free" src="assets/ui/bg/bg-free.[avif,webp,jpg]" />
+				<atlas id="introAtlas" src="assets/uncompressed/intro/{{LANGUAGE}}.[avif,webp,png].json"/>
+			</placeholder>
+		</include>
+		<!-- <include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/login.portrait.xml" /> -->
+
+		<scene id="login">
+			<view>
+				<layer y="30">
+					<img res="@atlas/introAtlas/loading-logo.png" x="550" y="290" pivot="50%,50%" scale="0.6" />
+
+					<layer id="textcontent" x="545" y="535">
+						<layer y="450" x="-5">
+							<if name="lang" in="cs,en,jp,kh,hi">
+								<img id="bonusBuyFsT" pivot="50%,50%" scale="1" res="@atlas/introAtlas/text-3.png"/>
+							</if>
+							<if name="lang" in="id,kr,pt,tr,th,vn">
+								<img id="bonusBuyFsT" pivot="50%,50%" scale="0.85" res="@atlas/introAtlas/text-3.png"/>
+							</if>
+						</layer>
+					</layer>
+					<layer x="555" y="790">
+						<img id="info" x="-11" y="-93" res="@atlas/introAtlas/ReelInfo.png" scale="0.925" pivot="50%,50%"/>
+						<img res="@atlas/introAtlas/Reel.png" pivot="50%,50%" />
+					</layer>
+				</layer>
+				<img id="circle" res="@img/preloader_anim" x="555" y="1507" pivot="50%,50%" />
+				<label x="900" y="1552" id="version" scale="1.5" fontFamily="Arial" fontSize="18" fontWeight="bold" fill="0xDDDDDD" stroke="0x404040" strokeThickness="4" letterSpacing="1" lineJoin="round" align="center" />
+				<img res="@img/bg-loading" />
+				<sound name="bgm-loading" bgm="true" auto="true" volume="1" />
+			</view>
+		</scene>
+
+		<include ref="./src/splash.xml" />
+		<include ref="./src/main.xml"/>
+		<include ref="../../_commons/src/layout/{%layoutVersion%}/portrait/infoPage.portrait.xml">
+			<placeholder id="infoPanel">
+				<include ref="./src/infoPanel.xml" />
+			</placeholder>
+		</include>
+	</placeholder>
+	<placeholder id="reelAnimatorService">
+		<reelAnimatorService type="inback" startSpeed="7" acceleration="1.5" deceleration="0.2" stopacceleration="6" min="5" max="40" stopSpeed="-12" />
+	</placeholder>
+	<placeholder id="keyboardService">
+		<include ref="./src/keyboardService.xml" />
+	</placeholder>
+	<placeholder id="multiplierService">
+		<multiplierService mode="middle" />
+	</placeholder>
+	<placeholder id="winLineService">
+		<!-- <winLineService emitOnTop="true" color="0xFFF551" width="4" border="3" borderBlur="4" borderColor="0xFFA800" /> -->
+	</placeholder>
+	<placeholder id="otherServices">
+		<include ref="./src/widgetService.xml" />
+	</placeholder>
+	<placeholder id="textService">
+		<textService resource="message,gamemessage,frmessage,gametitle" />
+	</placeholder>
+</include>

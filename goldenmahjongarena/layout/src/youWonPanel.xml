@@ -1,0 +1,12 @@
+<youWonPanel id="youWonPanel">
+  <layer id="bigwin" visible="false">
+    <spineAnimation id="spine" res="@res/youWonSpine" action="BigWin_Intro" auto="false"/>
+  </layer>
+  <layer id="totalwin" visible="false" x="-8">
+    <spineAnimation id="spine" res="@res/youWonSpine" action="TotalWin_Intro" auto="false"/>
+  </layer>
+  <layer id="youwon" visible="false">
+    <spineAnimation id="spine" res="@res/youWonSpine" action="YouWon_Intro" auto="false"/>
+  </layer>
+  <spineAnimation id="bigwinIcon" visible="false" res="@res/bigwinCoinsSpine" auto="true" x="0" y="0" action="FlyOut_More"/>
+</youWonPanel>
