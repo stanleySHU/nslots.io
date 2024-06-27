@@ -1,0 +1,55 @@
+
+BuyBonus_2x@1.5x.webp
+size: 945,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BW_LightRay
+  rotate: false
+  xy: 2, 2
+  size: 750, 724
+  orig: 750, 724
+  offset: 0, 0
+  index: -1
+CoinPile_Back
+  rotate: true
+  xy: 754, 354
+  size: 372, 69
+  orig: 372, 69
+  offset: 0, 0
+  index: -1
+CoinPile_Front
+  rotate: true
+  xy: 825, 436
+  size: 290, 87
+  orig: 290, 87
+  offset: 0, 0
+  index: -1
+Pouch
+  rotate: true
+  xy: 754, 155
+  size: 197, 189
+  orig: 197, 189
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: false
+  xy: 825, 391
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+TEXT cn
+  rotate: false
+  xy: 754, 39
+  size: 122, 63
+  orig: 122, 63
+  offset: 0, 0
+  index: -1
+TEXT en
+  rotate: false
+  xy: 754, 104
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1

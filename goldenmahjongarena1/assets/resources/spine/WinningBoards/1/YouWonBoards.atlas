@@ -1,0 +1,342 @@
+
+YouWonBoards.png
+size: 2197,1557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BW_Board
+  rotate: false
+  xy: 2, 608
+  size: 1072, 386
+  orig: 1072, 386
+  offset: 0, 0
+  index: -1
+BW_Roof
+  rotate: false
+  xy: 2, 267
+  size: 1084, 339
+  orig: 1084, 339
+  offset: 0, 0
+  index: -1
+BW_TileB
+  rotate: false
+  xy: 951, 2
+  size: 108, 121
+  orig: 108, 121
+  offset: 0, 0
+  index: -1
+BW_TileFa
+  rotate: false
+  xy: 1576, 177
+  size: 156, 149
+  orig: 156, 149
+  offset: 0, 0
+  index: -1
+BW_TileZ
+  rotate: false
+  xy: 1652, 328
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+BW_Txt_Amount
+  rotate: false
+  xy: 2, 9
+  size: 784, 123
+  orig: 784, 123
+  offset: 0, 0
+  index: -1
+BW_Txt_BigWIn_CN
+  rotate: false
+  xy: 1088, 180
+  size: 486, 146
+  orig: 486, 146
+  offset: 0, 0
+  index: -1
+BW_Txt_BigWIn_EN
+  rotate: false
+  xy: 1709, 1409
+  size: 486, 146
+  orig: 486, 146
+  offset: 0, 0
+  index: -1
+BW_YuanBaoA
+  rotate: false
+  xy: 1709, 1106
+  size: 228, 139
+  orig: 228, 139
+  offset: 0, 0
+  index: -1
+BW_YuanBaoB
+  rotate: false
+  xy: 841, 125
+  size: 225, 140
+  orig: 225, 140
+  offset: 0, 0
+  index: -1
+BW_YuanBaoC
+  rotate: true
+  xy: 1724, 760
+  size: 212, 140
+  orig: 212, 140
+  offset: 0, 0
+  index: -1
+TW_BackCoin
+  rotate: false
+  xy: 1866, 771
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+TW_CoinA
+  rotate: false
+  xy: 1734, 175
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+TW_CoinB
+  rotate: true
+  xy: 1674, 515
+  size: 149, 130
+  orig: 149, 130
+  offset: 0, 0
+  index: -1
+TW_CoinC
+  rotate: false
+  xy: 1806, 532
+  size: 147, 132
+  orig: 147, 132
+  offset: 0, 0
+  index: -1
+TW_Fa
+  rotate: false
+  xy: 1542, 21
+  size: 160, 154
+  orig: 160, 154
+  offset: 0, 0
+  index: -1
+TW_Scroll
+  rotate: false
+  xy: 2, 996
+  size: 1125, 559
+  orig: 1125, 559
+  offset: 0, 0
+  index: -1
+TW_Txt_WinningAmount
+  rotate: false
+  xy: 2, 134
+  size: 837, 131
+  orig: 837, 131
+  offset: 0, 0
+  index: -1
+TW_Txt_YouWon_CN
+  rotate: false
+  xy: 1709, 1247
+  size: 472, 160
+  orig: 472, 160
+  offset: 0, 0
+  index: -1
+TW_Txt_YouWon_EN
+  rotate: false
+  xy: 1076, 662
+  size: 562, 122
+  orig: 562, 122
+  offset: 0, 0
+  index: -1
+TW_Zhong
+  rotate: false
+  xy: 1704, 22
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+YW_Banner
+  rotate: false
+  xy: 1129, 1106
+  size: 578, 449
+  orig: 578, 449
+  offset: 0, 0
+  index: -1
+YW_Number
+  rotate: false
+  xy: 1939, 1095
+  size: 239, 150
+  orig: 239, 150
+  offset: 0, 0
+  index: -1
+YW_Scroll
+  rotate: false
+  xy: 1129, 974
+  size: 700, 130
+  orig: 700, 130
+  offset: 0, 0
+  index: -1
+YW_Txt_Freespins_CN
+  rotate: false
+  xy: 1088, 452
+  size: 584, 208
+  orig: 584, 208
+  offset: 0, 0
+  index: -1
+YW_Txt_Freespins_EN
+  rotate: false
+  xy: 1076, 786
+  size: 646, 186
+  orig: 646, 186
+  offset: 0, 0
+  index: -1
+YW_Txt_YouWon_CN
+  rotate: false
+  xy: 1068, 18
+  size: 472, 160
+  orig: 472, 160
+  offset: 0, 0
+  index: -1
+YW_Txt_YouWon_EN
+  rotate: false
+  xy: 1088, 328
+  size: 562, 122
+  orig: 562, 122
+  offset: 0, 0
+  index: -1
+rays/rays_01
+  rotate: true
+  xy: 788, 31
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_20
+  rotate: true
+  xy: 788, 31
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_02
+  rotate: false
+  xy: 1836, 12
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_03
+  rotate: true
+  xy: 1640, 666
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_04
+  rotate: true
+  xy: 1803, 666
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_05
+  rotate: true
+  xy: 1806, 438
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_06
+  rotate: true
+  xy: 1769, 344
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_07
+  rotate: false
+  xy: 1885, 181
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_08
+  rotate: false
+  xy: 1930, 18
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_09
+  rotate: true
+  xy: 1932, 344
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_10
+  rotate: false
+  xy: 1979, 181
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_11
+  rotate: false
+  xy: 2024, 18
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_12
+  rotate: false
+  xy: 2073, 181
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_13
+  rotate: true
+  xy: 1966, 1001
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_14
+  rotate: true
+  xy: 1966, 907
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_15
+  rotate: false
+  xy: 2003, 744
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_16
+  rotate: false
+  xy: 2097, 744
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_17
+  rotate: true
+  xy: 1966, 650
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_18
+  rotate: true
+  xy: 1955, 556
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+rays/rays_19
+  rotate: true
+  xy: 1969, 462
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
