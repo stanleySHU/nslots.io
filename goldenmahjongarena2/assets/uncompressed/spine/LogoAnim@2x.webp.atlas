@@ -1,0 +1,27 @@
+
+LogoAnim@2x.webp
+size: 988,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MainLogo_CN
+  rotate: false
+  xy: 2, 2
+  size: 608, 86
+  orig: 608, 86
+  offset: 0, 0
+  index: -1
+MainLogo_EN
+  rotate: false
+  xy: 2, 90
+  size: 984, 57
+  orig: 984, 57
+  offset: 0, 0
+  index: -1
+Spark
+  rotate: false
+  xy: 612, 31
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
