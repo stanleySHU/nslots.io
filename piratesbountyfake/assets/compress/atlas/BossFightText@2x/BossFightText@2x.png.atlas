@@ -1,0 +1,16 @@
+BossFightText@2x.png
+size:169,627
+filter:Linear,Linear
+scale:0.5
+Text_chase
+bounds:105,9,262,58
+rotate:90
+Text_destroy
+bounds:105,273,352,62
+rotate:90
+numbers
+bounds:2,2,50,51
+rotate:90
+text_bg
+bounds:2,54,571,101
+rotate:90
