@@ -1,0 +1,16 @@
+SpinButton@1x.webp
+size:581,169
+filter:Linear,Linear
+scale:0.5
+Button
+bounds:183,2,165,166
+rotate:90
+fx2/confetti1
+bounds:351,6,161,128
+rotate:90
+fx2/confetti2
+bounds:2,12,179,155
+glow
+bounds:481,69,98,98
+proxy_counter
+bounds:480,7,85,60

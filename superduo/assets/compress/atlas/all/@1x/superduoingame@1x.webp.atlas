@@ -1,0 +1,477 @@
+superduoingame@1x.webp
+size:2156,2127
+filter:Linear,Linear
+scale:0.5
+88800
+bounds:2,2100,25,25
+xx
+bounds:2,2100,25,25
+BIG WIN
+bounds:271,1356,630,155
+HP belt
+bounds:1122,2070,117,55
+HP belt_back
+bounds:1005,2073,115,52
+HP boot_l
+bounds:922,2074,51,81
+rotate:90
+HP boot_r
+bounds:846,2080,45,74
+rotate:90
+HP cape
+bounds:646,2090,57,35
+HP cape_back
+bounds:1498,1964,129,92
+HP male body2
+bounds:1587,908,295,380
+rotate:90
+HP male cape back
+bounds:760,1034,390,259
+HP male hair
+bounds:2022,1784,113,165
+HP male left feet
+bounds:1764,1955,99,155
+rotate:90
+HP male left leg
+bounds:968,1473,154,316
+rotate:90
+HP male right feet
+bounds:1458,2058,67,126
+rotate:90
+HP male right leg
+bounds:1816,1838,111,204
+rotate:90
+LP_10
+bounds:143,2020,85,73
+LP_10_back
+bounds:310,2009,91,80
+LP_a
+bounds:230,2015,78,78
+LP_a_back
+bounds:1304,1970,90,89
+LP_j
+bounds:1374,2061,64,82
+rotate:90
+LP_j_back
+bounds:1586,2058,67,85
+rotate:90
+LP_k
+bounds:1982,2054,71,78
+rotate:90
+LP_k_back
+bounds:403,2006,83,85
+rotate:90
+LP_q
+bounds:2062,2053,72,80
+rotate:90
+LP_q_back
+bounds:490,2004,85,92
+rotate:90
+YOU WIN
+bounds:2,1537,628,133
+YOUWIN shadow
+bounds:1152,1013,433,276
+YOUWIN spark1
+bounds:1820,1438,237,169
+rotate:90
+YOUWIN spark2
+bounds:1629,1958,96,133
+rotate:90
+YOUWIN spark3
+bounds:1858,1677,159,159
+YOUWIN spark4
+bounds:2019,1593,189,135
+rotate:90
+big win chinese font
+bounds:2,1120,486,234
+big win_add2/glow_01
+bounds:2,799,700,300
+big win_add2/glow_02
+bounds:704,711,700,300
+big win_add2/glow_03
+bounds:1406,606,700,300
+big win_add2/glow_04
+bounds:2,497,700,300
+big win_add2/glow_05
+bounds:704,409,700,300
+big win_add2/glow_06
+bounds:1406,304,700,300
+big win_add2/glow_07
+bounds:2,195,700,300
+big win_add2/glow_08
+bounds:704,107,700,300
+big win_add2/glow_09
+bounds:1406,2,700,300
+female face
+bounds:2,1360,267,175
+female left feet
+bounds:1758,2056,69,127
+rotate:90
+female left hand
+bounds:1045,1629,132,330
+rotate:90
+female left leg up
+bounds:1921,1951,100,174
+rotate:90
+female right hand
+bounds:379,1776,117,292
+rotate:90
+female right leg up
+bounds:1427,1734,102,429
+rotate:90
+female skirt under
+bounds:1241,2067,131,58
+female upper body2
+bounds:1761,1205,231,375
+rotate:90
+frame
+bounds:155,1905,151,108
+free spin chinese font
+bounds:1377,1614,441,118
+free spines
+bounds:2,1672,677,102
+left hand
+bounds:1417,1291,180,342
+rotate:90
+lightning
+bounds:1396,1967,89,100
+rotate:90
+man_cape2
+bounds:490,1101,253,268
+rotate:90
+ribon
+bounds:361,2091,135,34
+right hand
+bounds:681,1654,120,362
+rotate:90
+scatter chinese font
+bounds:87,2096,59,29
+scatter english font
+bounds:228,2095,131,30
+scatter frame
+bounds:2,1915,151,103
+scatter ribon
+bounds:498,2091,146,34
+shandiankuang_add/lightning_00
+bounds:308,1895,100,375
+rotate:90
+shandiankuang_add/lightning_01
+bounds:685,1878,100,375
+rotate:90
+shandiankuang_add/lightning_02
+bounds:1062,1865,100,375
+rotate:90
+shandiankuang_add/lightning_03
+bounds:1062,1865,100,375
+rotate:90
+shandiankuang_add/lightning_04
+bounds:1439,1853,100,375
+rotate:90
+shandiankuang_add/lightning_05
+bounds:1439,1853,100,375
+rotate:90
+shandiankuang_add/lightning_06
+bounds:2,1793,100,375
+rotate:90
+shandiankuang_add/lightning_07
+bounds:2,1793,100,375
+rotate:90
+shandiankuang_add/lightning_08
+bounds:673,1776,100,375
+rotate:90
+shandiankuang_add/lightning_09
+bounds:673,1776,100,375
+rotate:90
+shandiankuang_add/lightning_10
+bounds:1050,1763,100,375
+rotate:90
+shandiankuang_add/lightning_11
+bounds:1050,1763,100,375
+rotate:90
+symbolBG/Female 1x6
+bounds:1286,1473,139,500
+rotate:90
+symbolBG/Male 1x4
+bounds:632,1513,139,334
+rotate:90
+symbolBG/frameBot
+bounds:705,2087,139,38
+symbolBG/frameMid
+bounds:2,2023,139,71
+v logo
+bounds:1887,2056,93,69
+wild chinese font
+bounds:29,2099,56,26
+wild english font
+bounds:148,2096,78,29
+wild spark
+bounds:1673,2057,83,68
+wind win_add/windwin_14
+bounds:584,2000,88,88
+wind win_add/windwin_15
+bounds:584,2000,88,88
+wind win_add/windwin_16
+bounds:674,1997,88,88
+wind win_add/windwin_17
+bounds:764,1990,88,88
+wind win_add/windwin_18
+bounds:764,1990,88,88
+wind win_add/windwin_19
+bounds:854,1984,88,88
+wind win_add/windwin_20
+bounds:944,1983,88,88
+wind win_add/windwin_21
+bounds:944,1983,88,88
+wind win_add/windwin_22
+bounds:1034,1980,88,88
+wind win_add/windwin_23
+bounds:1124,1980,88,88
+wind win_add/windwin_24
+bounds:1124,1980,88,88
+wind win_add/windwin_25
+bounds:1214,1977,88,88
+you won chinese
+bounds:903,1295,512,176
+
+superduoingame@1x_2.webp
+size:2097,1999
+filter:Linear,Linear
+scale:0.5
+BIGWIN panel
+bounds:869,1593,829,404
+HP male body
+bounds:867,908,745,361
+YOUWIN frame
+bounds:2,373,794,371
+YOUWIN lighting
+bounds:2,746,863,599
+big win_add2/glow_10
+bounds:867,606,700,300
+big win_add2/glow_11
+bounds:798,304,700,300
+big win_add2/glow_12
+bounds:769,2,700,300
+big win_add2/glow_13
+bounds:1700,1297,700,300
+rotate:90
+big win_add2/glow_14
+bounds:1614,569,700,300
+rotate:90
+big win_add2/shin2_06
+bounds:1500,56,595,511
+bigwin lighting
+bounds:2,1347,865,650
+bigwinoutline
+bounds:869,1271,756,320
+female upper body
+bounds:2,11,765,360
+
+superduoingame@1x_3.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+big win_add2/shin2_07
+bounds:2,1541,595,511
+big win_add2/shin2_08
+bounds:2,1028,595,511
+big win_add2/shin2_09
+bounds:599,1541,595,511
+big win_add2/shin2_10
+bounds:2,515,595,511
+big win_add2/shin2_11
+bounds:599,1028,595,511
+big win_add2/shin2_12
+bounds:1196,1541,595,511
+big win_add2/shin2_13
+bounds:2,2,595,511
+big win_add2/shin2_14
+bounds:599,515,595,511
+big win_add2/shin2_15
+bounds:1196,1028,595,511
+big win_add2/shin2_16
+bounds:599,2,595,511
+big win_add2/shin2_17
+bounds:1196,515,595,511
+big win_add2/shin2_18
+bounds:1196,2,595,511
+
+superduoingame@1x_4.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+big win_add2/shin2_19
+bounds:2,1541,595,511
+big win_add2/shin2_20
+bounds:2,1028,595,511
+big win_add2/shin2_21
+bounds:599,1541,595,511
+big win_add2/shin2_22
+bounds:2,515,595,511
+big win_add2/shin2_23
+bounds:599,1028,595,511
+big win_add2/shin2_24
+bounds:1196,1541,595,511
+big win_add2/shin2_25
+bounds:2,2,595,511
+big win_add2/shin2_26
+bounds:599,515,595,511
+big win_add2/shin2_27
+bounds:1196,1028,595,511
+big win_add2/shin2_28
+bounds:599,2,595,511
+big win_add2/shine_06
+bounds:1196,515,595,511
+big win_add2/shine_07
+bounds:1196,2,595,511
+
+superduoingame@1x_5.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+big win_add2/shine_08
+bounds:2,1541,595,511
+big win_add2/shine_09
+bounds:2,1028,595,511
+big win_add2/shine_10
+bounds:599,1541,595,511
+big win_add2/shine_11
+bounds:2,515,595,511
+big win_add2/shine_12
+bounds:599,1028,595,511
+big win_add2/shine_13
+bounds:1196,1541,595,511
+big win_add2/shine_14
+bounds:2,2,595,511
+big win_add2/shine_15
+bounds:599,515,595,511
+big win_add2/shine_16
+bounds:1196,1028,595,511
+big win_add2/shine_17
+bounds:599,2,595,511
+big win_add2/shine_18
+bounds:1196,515,595,511
+big win_add2/shine_19
+bounds:1196,2,595,511
+
+superduoingame@1x_6.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+big win_add2/shine_20
+bounds:2,1541,595,511
+big win_add2/shine_21
+bounds:2,1028,595,511
+big win_add2/shine_22
+bounds:599,1541,595,511
+big win_add2/shine_23
+bounds:2,515,595,511
+big win_add2/shine_24
+bounds:599,1028,595,511
+big win_add2/shine_25
+bounds:1196,1541,595,511
+big win_add2/shine_26
+bounds:2,2,595,511
+big win_add2/shine_27
+bounds:599,515,595,511
+big win_add2/shine_28
+bounds:1196,1028,595,511
+you won_add/youwon_06
+bounds:599,2,595,511
+you won_add/youwon_07
+bounds:1196,515,595,511
+you won_add/youwon_08
+bounds:1196,2,595,511
+
+superduoingame@1x_7.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+you won_add/youwon_09
+bounds:2,1541,595,511
+you won_add/youwon_10
+bounds:2,1028,595,511
+you won_add/youwon_11
+bounds:599,1541,595,511
+you won_add/youwon_12
+bounds:2,515,595,511
+you won_add/youwon_13
+bounds:599,1028,595,511
+you won_add/youwon_14
+bounds:1196,1541,595,511
+you won_add/youwon_15
+bounds:2,2,595,511
+you won_add/youwon_16
+bounds:599,515,595,511
+you won_add/youwon_17
+bounds:1196,1028,595,511
+you won_add/youwon_18
+bounds:599,2,595,511
+you won_add/youwon_19
+bounds:1196,515,595,511
+you won_add/youwon_20
+bounds:1196,2,595,511
+
+superduoingame@1x_8.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+you won_add/youwon_21
+bounds:2,1541,595,511
+you won_add/youwon_22
+bounds:2,1028,595,511
+you won_add/youwon_23
+bounds:599,1541,595,511
+you won_add/youwon_24
+bounds:2,515,595,511
+you won_add/youwon_25
+bounds:599,1028,595,511
+you won_add/youwon_c_01
+bounds:1196,1541,595,511
+you won_add/youwon_c_02
+bounds:2,2,595,511
+you won_add/youwon_c_03
+bounds:599,515,595,511
+you won_add/youwon_c_04
+bounds:1196,1028,595,511
+you won_add/youwon_c_05
+bounds:599,2,595,511
+you won_add/youwon_c_06
+bounds:1196,515,595,511
+you won_add/youwon_c_07
+bounds:1196,2,595,511
+
+superduoingame@1x_9.webp
+size:1793,2054
+filter:Linear,Linear
+scale:0.5
+you won_add/youwon_c_08
+bounds:2,1541,595,511
+you won_add/youwon_c_09
+bounds:2,1028,595,511
+you won_add/youwon_c_10
+bounds:599,1541,595,511
+you won_add/youwon_c_11
+bounds:2,515,595,511
+you won_add/youwon_c_12
+bounds:599,1028,595,511
+you won_add/youwon_c_13
+bounds:1196,1541,595,511
+you won_add/youwon_c_14
+bounds:2,2,595,511
+you won_add/youwon_c_15
+bounds:599,515,595,511
+you won_add/youwon_c_16
+bounds:1196,1028,595,511
+you won_add/youwon_c_17
+bounds:599,2,595,511
+you won_add/youwon_c_18
+bounds:1196,515,595,511
+you won_add/youwon_c_19
+bounds:1196,2,595,511
+
+superduoingame@1x_10.webp
+size:599,515
+filter:Linear,Linear
+scale:0.5
+you won_add/youwon_c_20
+bounds:2,2,595,511
