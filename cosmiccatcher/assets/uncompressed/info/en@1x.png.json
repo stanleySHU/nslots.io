@@ -1,0 +1,92 @@
+{"frames": {
+
+"info-0-l.jpg":
+{
+	"frame": {"x":1,"y":1,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"info-0-p.jpg":
+{
+	"frame": {"x":2887,"y":1,"w":540,"h":960},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+"info-1-l.jpg":
+{
+	"frame": {"x":963,"y":1,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"info-1-p.jpg":
+{
+	"frame": {"x":1925,"y":543,"w":540,"h":960},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+"info-2-l.jpg":
+{
+	"frame": {"x":1925,"y":1,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"info-2-p.jpg":
+{
+	"frame": {"x":1,"y":1085,"w":540,"h":960},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+"info-3-l.jpg":
+{
+	"frame": {"x":1,"y":543,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"info-3-p.jpg":
+{
+	"frame": {"x":963,"y":1085,"w":540,"h":960},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":960},
+	"sourceSize": {"w":540,"h":960}
+},
+"info-4-l.jpg":
+{
+	"frame": {"x":963,"y":543,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+"info-4-p.jpg":
+{
+	"frame": {"x":1925,"y":1085,"w":540,"h":960},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":960},
+	"sourceSize": {"w":540,"h":960}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "en@1x.jpg",
+	"format": "RGB888",
+	"size": {"w":3428,"h":1626},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:092bced6e7b284fe2b1b9d01d74d775c:f716e52f40e08c15b07cd4ae75ebdf5f:ff28af90ee13863a57e97a2bb8351331$"
+}
+}

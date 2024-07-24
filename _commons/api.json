@@ -1,5 +1,5 @@
 {
-    "service": "//slotservicev2.gpistudios.com/kairos/",
+    "service": "//slotservice.gpistudios.com/kairos/",
     "defaultLobbyUrl": "",
     "apiName": "api"
 }
