@@ -24,7 +24,7 @@ function bootstrap(config) {
     var u = document;
     var o = "script";
     var y = u.createElement(o);
-    y.src = "./js/app." + slotapp.config["js"] + ".js?v=1721841863590";
+    y.src = "./js/app." + slotapp.config["js"] + ".js?v=1721874820724";
     y.onreadystatechange = function () {
         if (this.readyState == 'complete' || this.readyState == 'loaded') {
             startGame();
