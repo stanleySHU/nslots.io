@@ -26,15 +26,15 @@
             </struct>
         </array>
         <key>allowRotation</key>
-        <true/>
+        <false/>
         <key>shapeDebug</key>
         <false/>
         <key>dpi</key>
         <uint>72</uint>
         <key>dataFormat</key>
-        <string>pixijs4</string>
+        <string>BMFont_custom</string>
         <key>textureFileName</key>
-        <filename>../../uncompressed/components@2x.png</filename>
+        <filename>../../font/white.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrQualityLevel</key>
@@ -44,13 +44,13 @@
         <key>basisUniversalQualityLevel</key>
         <uint>2</uint>
         <key>etc1QualityLevel</key>
-        <uint>70</uint>
+        <uint>40</uint>
         <key>etc2QualityLevel</key>
-        <uint>70</uint>
+        <uint>40</uint>
         <key>dxtCompressionMode</key>
         <enum type="SettingsBase::DxtCompressionMode">DXT_PERCEPTUAL</enum>
         <key>ditherType</key>
-        <enum type="SettingsBase::DitherType">NearestNeighbour</enum>
+        <enum type="SettingsBase::DitherType">PngQuantHigh</enum>
         <key>backgroundColor</key>
         <uint>0</uint>
         <key>libGdx</key>
@@ -80,9 +80,9 @@
         <key>maxTextureSize</key>
         <QSize>
             <key>width</key>
-            <int>2048</int>
+            <int>1024</int>
             <key>height</key>
-            <int>2048</int>
+            <int>256</int>
         </QSize>
         <key>fixedTextureSize</key>
         <QSize>
@@ -121,10 +121,10 @@
         </struct>
         <key>dataFileNames</key>
         <map type="GFileNameMap">
-            <key>data</key>
+            <key>xml</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../uncompressed/components@2x.png.json</filename>
+                <filename>../../font/white.xml</filename>
             </struct>
         </map>
         <key>multiPackMode</key>
@@ -141,7 +141,7 @@
             <string></string>
         </struct>
         <key>autoAliasEnabled</key>
-        <true/>
+        <false/>
         <key>trimSpriteNames</key>
         <false/>
         <key>prependSmartFolderName</key>
@@ -151,9 +151,9 @@
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
-            <double>1</double>
+            <double>0.5</double>
             <key>scaleMode</key>
-            <enum type="ScaleMode">Smooth</enum>
+            <enum type="ScaleMode">Fast</enum>
             <key>extrude</key>
             <uint>1</uint>
             <key>trimThreshold</key>
@@ -167,48 +167,13 @@
             <key>heuristicMask</key>
             <false/>
             <key>defaultPivotPoint</key>
-            <point_f>0,0</point_f>
+            <point_f>0.5,0.5</point_f>
             <key>writePivotPoints</key>
             <false/>
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">Big.png</key>
-            <key type="filename">Big_Disable.png</key>
-            <key type="filename">Small.png</key>
-            <key type="filename">Small_Disable.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0,0</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>62,31,125,63</rect>
-                <key>scale9Paddings</key>
-                <rect>62,31,125,63</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">Big_Selected.png</key>
-            <key type="filename">Small_Selected.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0,0</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>70,39,141,79</rect>
-                <key>scale9Paddings</key>
-                <rect>70,39,141,79</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">Blue_interBox.png</key>
-            <key type="filename">YellowBox_outerBox.png</key>
+            <key type="filename">white/+.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -217,13 +182,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>34,34,69,69</rect>
+                <rect>8,9,17,17</rect>
                 <key>scale9Paddings</key>
-                <rect>34,34,69,69</rect>
+                <rect>8,9,17,17</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">Blue_outerBox.png</key>
+            <key type="filename">white/,.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -232,44 +197,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>28,28,57,57</rect>
+                <rect>7,8,13,15</rect>
                 <key>scale9Paddings</key>
-                <rect>28,28,57,57</rect>
+                <rect>7,8,13,15</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">Buttons_BETonly.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0,0</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>21,28,42,57</rect>
-                <key>scale9Paddings</key>
-                <rect>21,28,42,57</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">Buttons_Panel.png</key>
-            <key type="filename">Buttons_amount.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0,0</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>28,38,56,75</rect>
-                <key>scale9Paddings</key>
-                <rect>28,38,56,75</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">Clear_button.png</key>
+            <key type="filename">white/-.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -278,28 +212,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>41,12,81,24</rect>
+                <rect>7,5,14,9</rect>
                 <key>scale9Paddings</key>
-                <rect>41,12,81,24</rect>
+                <rect>7,5,14,9</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">GLOWSymbol_Effect.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0,0</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>302,210,603,420</rect>
-                <key>scale9Paddings</key>
-                <rect>302,210,603,420</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">SmallBox.png</key>
+            <key type="filename">white/0.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -308,14 +227,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>5,5,10,10</rect>
+                <rect>15,16,30,31</rect>
                 <key>scale9Paddings</key>
-                <rect>5,5,10,10</rect>
+                <rect>15,16,30,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">Spin.png</key>
-            <key type="filename">Spin_pressed.png</key>
+            <key type="filename">white/1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -324,30 +242,14 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>44,25,87,49</rect>
+                <rect>11,15,22,31</rect>
                 <key>scale9Paddings</key>
-                <rect>44,25,87,49</rect>
+                <rect>11,15,22,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">WIN_BLUE.png</key>
-            <key type="filename">WIN_GREEN.png</key>
-            <key type="filename">WIN_PINK.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0,0</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>46,43,91,85</rect>
-                <key>scale9Paddings</key>
-                <rect>46,43,91,85</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">YellowBox_arrow.png</key>
+            <key type="filename">white/2.png</key>
+            <key type="filename">white/3.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -356,13 +258,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>43,34,87,67</rect>
+                <rect>12,16,25,31</rect>
                 <key>scale9Paddings</key>
-                <rect>43,34,87,67</rect>
+                <rect>12,16,25,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">YellowBox_interBox.png</key>
+            <key type="filename">white/4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -371,13 +273,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>28,29,57,57</rect>
+                <rect>15,15,29,31</rect>
                 <key>scale9Paddings</key>
-                <rect>28,29,57,57</rect>
+                <rect>15,15,29,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">infoBar.png</key>
+            <key type="filename">white/5.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -386,100 +288,85 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>122,19,243,37</rect>
+                <rect>12,16,24,31</rect>
                 <key>scale9Paddings</key>
-                <rect>122,19,243,37</rect>
+                <rect>12,16,24,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">ref_1_7.png</key>
+            <key type="filename">white/6.png</key>
+            <key type="filename">white/9.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
-                <point_f>0,0</point_f>
+                <point_f>0.5,0.5</point_f>
                 <key>spriteScale</key>
                 <double>1</double>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>24,8,49,15</rect>
+                <rect>14,16,29,31</rect>
                 <key>scale9Paddings</key>
-                <rect>24,8,49,15</rect>
+                <rect>14,16,29,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">ref_7_14.png</key>
+            <key type="filename">white/7.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
-                <point_f>0,0</point_f>
+                <point_f>0.5,0.5</point_f>
                 <key>spriteScale</key>
                 <double>1</double>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>34,8,68,15</rect>
+                <rect>13,15,25,31</rect>
                 <key>scale9Paddings</key>
-                <rect>34,8,68,15</rect>
+                <rect>13,15,25,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../sheet/sparkle/sparkle_01.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_02.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_03.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_04.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_05.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_06.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_07.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_08.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_09.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_10.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_11.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_12.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_13.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_14.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_15.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_16.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_17.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_18.png</key>
-            <key type="filename">../sheet/sparkle/sparkle_19.png</key>
+            <key type="filename">white/8.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
-                <point_f>0,0</point_f>
+                <point_f>0.5,0.5</point_f>
                 <key>spriteScale</key>
                 <double>1</double>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>17,35,34,69</rect>
+                <rect>15,16,29,31</rect>
                 <key>scale9Paddings</key>
-                <rect>17,35,34,69</rect>
+                <rect>15,16,29,31</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../sprites/coin_1.png</key>
-            <key type="filename">../sprites/coin_10.png</key>
-            <key type="filename">../sprites/coin_11.png</key>
-            <key type="filename">../sprites/coin_12.png</key>
-            <key type="filename">../sprites/coin_13.png</key>
-            <key type="filename">../sprites/coin_14.png</key>
-            <key type="filename">../sprites/coin_2.png</key>
-            <key type="filename">../sprites/coin_3.png</key>
-            <key type="filename">../sprites/coin_4.png</key>
-            <key type="filename">../sprites/coin_5.png</key>
-            <key type="filename">../sprites/coin_6.png</key>
-            <key type="filename">../sprites/coin_7.png</key>
-            <key type="filename">../sprites/coin_8.png</key>
-            <key type="filename">../sprites/coin_9.png</key>
+            <key type="filename">white/dot.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
-                <point_f>0,0</point_f>
+                <point_f>0.5,0.5</point_f>
                 <key>spriteScale</key>
                 <double>1</double>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>9,9,17,17</rect>
+                <rect>6,5,11,10</rect>
                 <key>scale9Paddings</key>
-                <rect>9,9,17,17</rect>
+                <rect>6,5,11,10</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">white/x.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>10,9,20,17</rect>
+                <key>scale9Paddings</key>
+                <rect>10,9,20,17</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -490,9 +377,7 @@
             <struct type="SpriteSheet">
                 <key>files</key>
                 <array>
-                    <filename>.</filename>
-                    <filename>../sheet/sparkle</filename>
-                    <filename>../sprites</filename>
+                    <filename>white</filename>
                 </array>
             </struct>
         </map>
