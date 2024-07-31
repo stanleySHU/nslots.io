@@ -284,6 +284,41 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">Collect_icon_l.png</key>
+            <key type="filename">Spin_icon_l.png</key>
+            <key type="filename">Spin_l.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0,0</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>59,31,118,61</rect>
+                <key>scale9Paddings</key>
+                <rect>59,31,118,61</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">Collect_icon_p.png</key>
+            <key type="filename">Spin_icon_p.png</key>
+            <key type="filename">Spin_p.png</key>
+            <key type="filename">Spin_pressed_p.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0,0</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>44,59,89,117</rect>
+                <key>scale9Paddings</key>
+                <rect>44,59,89,117</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">SmallBox.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -312,6 +347,21 @@
                 <rect>44,25,87,49</rect>
                 <key>scale9Paddings</key>
                 <rect>44,25,87,49</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">Spin_pressed_l.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0,0</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>59,31,118,62</rect>
+                <key>scale9Paddings</key>
+                <rect>59,31,118,62</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
