@@ -173,6 +173,64 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">../collect_fx_L/collect_fx_L_01.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_02.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_03.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_04.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_05.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_06.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_07.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_08.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_09.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_10.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_11.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_12.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_13.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_14.png</key>
+            <key type="filename">../collect_fx_L/collect_fx_L_15.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0,0</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>59,35,118,69</rect>
+                <key>scale9Paddings</key>
+                <rect>59,35,118,69</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../collect_fx_P/collect_fx_P_01.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_02.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_03.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_04.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_05.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_06.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_07.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_08.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_09.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_10.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_11.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_12.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_13.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_14.png</key>
+            <key type="filename">../collect_fx_P/collect_fx_P_15.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0,0</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>40,48,80,96</rect>
+                <key>scale9Paddings</key>
+                <rect>40,48,80,96</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">Big.png</key>
             <key type="filename">Big_Disable.png</key>
             <key type="filename">Small.png</key>
@@ -543,6 +601,8 @@
                     <filename>.</filename>
                     <filename>../sheet/sparkle</filename>
                     <filename>../sprites</filename>
+                    <filename>../collect_fx_L</filename>
+                    <filename>../collect_fx_P</filename>
                 </array>
             </struct>
         </map>
