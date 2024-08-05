@@ -1,0 +1,110 @@
+<scene id="splash">
+    <view>
+        <layer id="container" l-x="520" l-y="157" p-x="120" p-y="550">
+            <img res="@atlas/intro/logo.png" x="162" l-y="-15" p-y="-415"/>
+
+
+            <reel id="reel" x="17" y="-10" spinStartSpeed="0" spinEndSpeed="800" maxSpeed="2000" speedUpTime="2000" speedDownTime="2000" argument1="1" argument2="1" scale="0.5">
+                <layer id="container" x="204" y="185">
+                    <layer id="blueBox" visible="false">
+                        <for from="0" to="2" step="1">
+                            <content>
+                                <layer id="box{%index%}" alpha="{%alpha%}">
+                                    <layer id="default">
+                                        <img id="outer" res="@atlas/components/Blue_outerBox.png" pivot="50%, 50%" scale="1.2"/>
+                                        <img id="inter" res="@atlas/components/Blue_interBox.png" pivot="50%, 50%" scale="1.2"/>
+                                    </layer>
+                                    <spineAnimation id="spine" res="@res/YouWinSpine" action="normalSpin_arrow" auto="false" visible="false" scale="0.5"/>
+                                </layer>
+                            </content>
+                            <arguments>
+                                <argument id="0" alpha="1"/>
+                                <argument id="1" alpha="0.8"/>
+                                <argument id="2" alpha="0.5"/>
+                            </arguments>
+                        </for>
+                    </layer>
+                    <layer id="yellowBox" visible="false">
+                        <for from="0" to="2" step="1">
+                            <content>
+                                <layer id="box{%index%}" alpha="{%alpha%}">
+                                    <layer id="default">
+                                        <img id="outer" res="@atlas/components/YellowBox_outerBox.png" pivot="50%, 50%"/>
+                                        <img id="inter" res="@atlas/components/YellowBox_interBox.png" pivot="50%, 50%"/>
+                                    </layer>
+                                    <spineAnimation id="spine" res="@res/YouWinSpine" action="bonusSpin_arrow" auto="false" visible="false" scale="0.5"/>
+                                </layer>
+                            </content>
+                            <arguments>
+                                <argument id="0" alpha="1"/>
+                                <argument id="1" alpha="0.8"/>
+                                <argument id="2" alpha="0.5"/>
+                            </arguments>
+                        </for>
+                    </layer>
+                </layer>
+                <layer id="symbols" x="204" y="185">
+                    <widget id="s0" name="symbolWidget5" argument1="0" l-x="0" l-y="0" argument2="0" p-x="0" p-y="0" />
+                    <widget id="s1" name="symbolWidget3" argument1="0.032634" l-x="58" l-y="0" argument2="0.032634" p-x="58" p-y="0" />
+                    <widget id="s2" name="symbolWidget7" argument1="0.067768" l-x="116" l-y="0" argument2="0.067768" p-x="116" p-y="0"/>
+                    <widget id="s3" name="symbolWidget8" argument1="0.101" l-x="174" l-y="0" argument2="0.101" p-x="174" p-y="0" />
+                    <widget id="s4" name="symbolWidget8" argument1="0.134836" l-x="232" l-y="0" argument2="0.134836" p-x="232" p-y="0"/>
+                    <widget id="s5" name="symbolWidget4" argument1="0.169170" l-x="290" l-y="0" argument2="0.169170" p-x="290" p-y="0"/>
+                    <widget id="s6" name="symbolWidget2" argument1="0.202969" l-x="348" l-y="0" argument2="0.202969" p-x="348" p-y="0"/>
+
+                    <widget id="s7" name="symbolWidget6" argument1="0.236569" l-x="406" l-y="0" argument2="0.236569" p-x="406" p-y="0"/>
+                    <widget id="s8" name="symbolWidget7" argument1="0.270568" l-x="464" l-y="0" argument2="0.270568" p-x="464" p-y="0" />
+                    <widget id="s9" name="symbolWidget8" argument1="0.304368" l-x="522" l-y="0" argument2="0.304368" p-x="522" p-y="0" />
+
+                    <widget id="s10" name="symbolWidget5" argument1="0.337167" l-x="522" l-y="56" argument2="0.337167" p-x="522" p-y="56" />
+                    <widget id="s11" name="symbolWidget2" argument1="0.369467" l-x="522" l-y="112" argument2="0.369467" p-x="522" p-y="112" />
+                    <widget id="s12" name="symbolWidget0" argument1="0.402066" l-x="522" l-y="168" argument2="0.402066" p-x="522" p-y="168" />
+                    <widget id="s13" name="symbolWidget9" argument1="0.434366" l-x="522" l-y="224" argument2="0.434366" p-x="522" p-y="224" />
+                    <widget id="s14" name="symbolWidget2" argument1="0.467200" l-x="522" l-y="280" argument2="0.467200" p-x="522" p-y="280" />
+                    <widget id="s15" name="symbolWidget6" argument1="0.5" l-x="522" l-y="336" argument2="0.5" p-x="522" p-y="336" />
+                    <widget id="s16" name="symbolWidget3" argument1="0.533989" l-x="464" l-y="336" argument2="0.533989" p-x="464" p-y="336" />
+
+                    <widget id="s17" name="symbolWidget8" argument1="0.567723" l-x="406" l-y="336" argument2="0.567723" p-x="406" p-y="336" />
+                    <widget id="s18" name="symbolWidget9" argument1="0.601557" l-x="348" l-y="336" argument2="0.601557" p-x="348" p-y="336" />
+                    <widget id="s19" name="symbolWidget7" argument1="0.635391" l-x="290" l-y="336" argument2="0.635391" p-x="290" p-y="336"/>
+                    <widget id="s20" name="symbolWidget4" argument1="0.669025" l-x="232" l-y="336" argument2="0.669025" p-x="232" p-y="336" />
+                    <widget id="s21" name="symbolWidget3" argument1="0.702825" l-x="174" l-y="336" argument2="0.702825" p-x="174" p-y="336" />
+                    <widget id="s22" name="symbolWidget5" argument1="0.736624" l-x="116" l-y="336" argument2="0.736624" p-x="116" p-y="336" />
+                    <widget id="s23" name="symbolWidget8" argument1="0.770424" l-x="58" l-y="336" argument2="0.770424" p-x="58" p-y="336" />
+
+                    <widget id="s24" name="symbolWidget7" argument1="0.804223" l-x="0" l-y="336" argument2="0.804223" p-x="0" p-y="336" />
+                    <widget id="s25" name="symbolWidget6" argument1="0.837023" l-x="0" l-y="280" argument2="0.837023" p-x="0" p-y="280" />
+                    <widget id="s26" name="symbolWidget3" argument1="0.869522" l-x="0" l-y="224" argument2="0.869522" p-="0" p-y="224" />
+                    <widget id="s27" name="symbolWidget1" argument1="0.902022" l-x="0" l-y="168" argument2="0.902022" p-x="0" p-y="168" />
+                    <widget id="s28" name="symbolWidget9" argument1="0.935021" l-x="0" l-y="112" argument2="0.935021" p-x="0" p-y="112" />
+                    <widget id="s29" name="symbolWidget2" argument1="0.967221" l-x="0" l-y="56" argument2="0.967221" p-x="0" p-y="56" />
+                </layer>
+            </reel>
+            <img x="90" y="55" res="@atlas/components/ReelLine.png"/>
+
+            <img x="250" y="320" res="@atlas/lang/loading-1.png" pivot="50%, 50%"/>
+
+            <buttonSlide x="236" y="415" onClick="onContinue">
+                <layer id="up">
+                    <img res="@atlas/lang/continue.png" pivot="50%, 50%"/>
+                    <img res="@atlas/intro/continue.png" pivot="50%, 50%"/>
+                </layer>
+                <layer id="down" scale="0.9">
+                    <img res="@atlas/lang/continue.png" pivot="50%, 50%"/>
+                    <img res="@atlas/intro/continue.png" pivot="50%, 50%"/>
+                </layer>
+            </buttonSlide>
+            <!-- <button x="27" y="175" onClick="onLeft">
+                <img res="@atlas/intro/NextButton.png" />
+            </button>
+            <button x="467" y="175" onClick="onRight">
+                <img res="@atlas/intro/NextButton.png" scale="-1,1"/>
+            </button> -->
+            <img res="@atlas/intro/Loading_panel.png"/>
+        </layer>
+
+        <img res="@img/bg-loading" l-visible="true" p-visible="false" />
+        <img res="@img/bg-loading-p" l-visible="false" p-visible="true" />
+        <sound name="bgm-loading" bgm="true" auto="true" volume="1" />
+    </view>
+</scene>

@@ -1,0 +1,47 @@
+<app version="1" enter="preload" id="cosmiccatcher" gID="167" minWidth="936" minHeight="560" width="1170" height="740" backgroundColor="0x0" hudLang="en,cs,jp" numBetLines="1" numInfoPages="5" orientation="both" mainScene.hudPanelButton.tint="0xFFFFFF" colorTheme="0x7FB200" colorThemeHighlight="0x9FE900" btnSpinIconTint="0x9FE900" historyDomain="{%historyDomain%}" defaultLobbyUrl="{%defaultLobbyUrl%}" defaultLoginURL="{%defaultLoginURL%}" apiName="{%apiName%}" engineVersion="{%engineVersion%}" publishTime="{%publishTime%}" fround="{%fround%}">
+    <include ref="./src/services.xml"/>
+    <scenes>
+        <include ref="../../_commons/src/layout/{%layoutVersion%}/preload.xml">
+            <placeholder id="gamemessage">
+                <text id="gamemessage" src="assets/text/{{HUDLANG}}.json"/>
+            </placeholder>
+            <placeholder id="preload">
+                <atlas id="intro" src="assets/uncompressed/intro/{{LANGUAGE}}@2x.png.json"/>
+                <json id="sounds" src="assets/sounds.json" />
+                <img id="bg-loading" src="assets/ui/bg/loadingL@2x.jpg" />
+                <img id="bg-loading-p" src="assets/ui/bg/loadingP@2x.jpg" />
+            </placeholder>
+        </include>
+        <scene id="login">
+            <resources>
+                <atlas id="ui" src="../_commons/ui/v{%uiVersion%}/ui.json" />
+                <text id="winnumber" src="../_commons/font/winnumber.xml" />
+                <text id="font" src="../_commons/font/{{LANGUAGE}}.xml"/>
+
+                <text id="green" src="assets/font/green.xml"/>
+                <text id="blue" src="assets/font/white.xml"/>
+
+                <atlas id="components" src="assets/uncompressed/components@2x.png.json"/>
+                <atlas id="symbols" src="assets/uncompressed/symbols@2x.png.json"/>
+                <atlas id="lang" src="assets/uncompressed/lang/{{LANGUAGE}}@2x.png.json"/>
+                <atlas id="info" src="assets/uncompressed/info/{{LANGUAGE}}@1x.png.json"/>
+                <img id="bg-game" src="assets/ui/bg/mainL@2x.jpg" />
+                <img id="bg-game-p" src="assets/ui/bg/mainP@2x.jpg" />
+                <res id="BonusAll" src="assets/uncompressed/spine/bonusAll_FINAL@1.0x.json" />
+                <res id="YouWinSpine" src="assets/uncompressed/spine/youWin_Final@1x.json" />
+                <res id="UI" src="assets/uncompressed/spine/UI.json" />
+                <res id="chaseSpine" src="assets/uncompressed/spine/chase1@1x.json" />
+            </resources>
+            <view>
+                <img id="circle" res="@img/preloader_anim" l-x="585" p-x="370" l-y="580" p-y="1005" pivot="50%,50%" />
+                <label l-x="1025" p-x="600" l-y="610" p-y="1035" id="version" fontFamily="Arial" fontSize="18" fontWeight="bold" fill="0xDDDDDD" stroke="0x404040" strokeThickness="4" letterSpacing="1" lineJoin="round" align="center" />
+                <img res="@img/bg-loading" l-visible="true" p-visible="false" />
+                <img res="@img/bg-loading-p" l-visible="false" p-visible="true" />
+                <sound name="bgm-loading" bgm="true" auto="true" volume="1" />
+            </view>
+        </scene>
+        <include ref="./src/splash.xml" />
+        <include ref="./src/main.xml" />
+        <include ref="./src/infoPageScene.xml"/>
+    </scenes>
+</app>

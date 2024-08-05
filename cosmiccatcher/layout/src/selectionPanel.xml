@@ -1,0 +1,29 @@
+<layer id="selectionPanel" p-x="0" l-x="-43" y="110">
+    <betSelection id="betSelection" l-x="860" l-y="570" p-x="548" p-y="991.5" pivot="50%,100%" p-scale="0.9" l-scale="1">
+        <buttonSlide id="btnClose">
+            <layer id="up">
+                <rectangle x="60" y="199" width="65" height="3" color="0xFFBC30" />
+            </layer>
+            <layer id="disable">
+                <rectangle x="60" y="199" width="65" height="3" color="0x87611B" />
+            </layer>
+        </buttonSlide>
+        <carousel id="selection" x="0" y="84" numItemsShown="5" dropdownWidth="180" itemHeight="35" selectItemOnClick="true" mouseWheelEnabled="true" mouseWheelGap="35" itemsTextColor="0xBFBFBF" highlightColor="0x3D3D4B" scaleTopBottomItems="2" scaleTopBottomValue="0.12" align="center" fontFamily="Din, Arial" fontWeight="bold" fontSize="24" selectedItemTextColor="0xFFB800" />
+        <rectangle y="85" x="2" width="181" height="30" color="0x130731" alpha="0.9" />
+        <rectangle width="185" height="200" color="0x1e0c4a" border="3" bcolor="0x888888" alpha="0.8" radius="10" interactive="true" />
+    </betSelection>
+    <rectangle id="clickable" x="-100" y="-100" width="1270" height="1270" alpha="0" interactive="false" />
+    <layer id="iconBetExpandable" l-x="920" l-y="600" p-x="600" p-y="1021" pivot="50%,50%" interactive="false">
+        <polygon path="10,0,20,14,0,14" color="0xCCCCCC" />
+    </layer>
+    <buttonSlide id="btnBetSelection" command="betSelection" l-x="766" l-y="571" p-x="463" p-y="992" p-scale="0.9" l-scale="1">
+        <layer id="up">
+            <rectangle x="60" width="65" height="3" color="0xFFBC30" />
+            <rectangle y="2" width="185" height="60" alpha="0" radius="10" />
+        </layer>
+        <layer id="disable">
+            <rectangle x="60" width="65" height="3" color="0x87611B" />
+            <rectangle y="2" width="185" height="60" alpha="0" radius="10" />
+        </layer>
+    </buttonSlide>
+</layer>
