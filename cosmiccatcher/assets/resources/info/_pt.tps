@@ -34,7 +34,7 @@
         <key>dataFormat</key>
         <string>json</string>
         <key>textureFileName</key>
-        <filename>../../uncompressed/info/pt@1x.jpg</filename>
+        <filename>../../uncompressed/info/pt@1x.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrQualityLevel</key>
@@ -74,7 +74,7 @@
         <key>textureSubPath</key>
         <string></string>
         <key>textureFormat</key>
-        <enum type="SettingsBase::TextureFormat">jpg</enum>
+        <enum type="SettingsBase::TextureFormat">png</enum>
         <key>borderPadding</key>
         <uint>0</uint>
         <key>maxTextureSize</key>
@@ -132,7 +132,7 @@
         <key>forceIdenticalLayout</key>
         <false/>
         <key>outputFormat</key>
-        <enum type="SettingsBase::OutputFormat">RGB888</enum>
+        <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
         <key>alphaHandling</key>
         <enum type="SettingsBase::AlphaHandling">ClearTransparentPixels</enum>
         <key>contentProtection</key>
@@ -173,11 +173,12 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">cs/info-0-l.jpg</key>
-            <key type="filename">cs/info-1-l.jpg</key>
-            <key type="filename">cs/info-2-l.jpg</key>
-            <key type="filename">cs/info-3-l.jpg</key>
-            <key type="filename">cs/info-4-l.jpg</key>
+            <key type="filename">cs/info-0-l.png</key>
+            <key type="filename">cs/info-1-l.png</key>
+            <key type="filename">cs/info-2-l.png</key>
+            <key type="filename">cs/info-3-l.png</key>
+            <key type="filename">cs/info-4-l.png</key>
+            <key type="filename">cs/info-5-l.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -192,11 +193,12 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">cs/info-0-p.jpg</key>
-            <key type="filename">cs/info-1-p.jpg</key>
-            <key type="filename">cs/info-2-p.jpg</key>
-            <key type="filename">cs/info-3-p.jpg</key>
-            <key type="filename">cs/info-4-p.jpg</key>
+            <key type="filename">cs/info-0-p.png</key>
+            <key type="filename">cs/info-1-p.png</key>
+            <key type="filename">cs/info-2-p.png</key>
+            <key type="filename">cs/info-3-p.png</key>
+            <key type="filename">cs/info-4-p.png</key>
+            <key type="filename">cs/info-5-p.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
